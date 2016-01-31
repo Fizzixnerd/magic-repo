@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>test</name>
+  <key>Decks/test</key>
+  <comment></comment>
+  <type></type>
+  <properties>
+    <property name="virtual" value="false"/>
+  </properties>
+  <list>
+  </list>
+</cards>

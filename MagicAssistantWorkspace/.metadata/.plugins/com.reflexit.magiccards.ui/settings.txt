@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="com.reflexit.magiccards.ui.dialogs.LoadExtrasDialog">
+	<item value="true" key="ARTIST"/>
+	<item value="true" key="LEGALITY"/>
+	<item value="true" key="RATING"/>
+	<item value="true" key="RULINGS"/>
+	<item value="true" key="COLLNUM"/>
+	<item value="true" key="TEXT"/>
+	<item value="true" key="ID"/>
+	<item value="English" key="lang"/>
+	<item value="false" key="LANG"/>
+	<item value="true" key="ORACLE"/>
+	<item value="true" key="DBPRICE"/>
+</section>

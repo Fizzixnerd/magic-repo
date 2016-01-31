@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Duel_Decks__Zendikar_vs__Eldrazi</name>
+  <key>Duel_Decks__Zendikar_vs__Eldrazi</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>401718</id>
+      <name>Eldrazi Spawn</name>
+      <type>Token Creature-- Eldrazi Spawn</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <oracleText>Sacrifice this creature: Add {1} to your mana pool.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Aleksi Briclot</artist>
+      <num>76</num>
+      <text>Sacrifice this creature: Add {1} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>401680</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Land</rarity>
+      <artist>John Avon</artist>
+      <num>38</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>401715</id>
+      <name>Mountain</name>
+      <type>Basic Land - Mountain</type>
+      <oracleText>R</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Land</rarity>
+      <artist>James Paick</artist>
+      <num>73</num>
+      <text>R</text>
+    </mc>
+    <mc>
+      <id>401677</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Land</rarity>
+      <artist>John Avon</artist>
+      <num>35</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>401712</id>
+      <name>Swamp</name>
+      <type>Basic Land - Swamp</type>
+      <oracleText>B</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Land</rarity>
+      <artist>Véronique Meignaud</artist>
+      <num>70</num>
+      <text>B</text>
+    </mc>
+    <mc>
+      <id>401644</id>
+      <name>Affa Guard Hound</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Hound</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flash&lt;br&gt;When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>2</num>
+      <text>Flash&lt;br&gt;When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>401709</id>
+      <name>Akoum Refuge</name>
+      <type>Land</type>
+      <oracleText>Akoum Refuge enters the battlefield tapped.&lt;br&gt;When Akoum Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Fred Fields</artist>
+      <num>67</num>
+      <text>Akoum Refuge enters the battlefield tapped.&lt;br&gt;When Akoum Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>401684</id>
+      <name>Artisan of Kozilek</name>
+      <cost>{9}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>10</power>
+      <toughness>9</toughness>
+      <oracleText>When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.&lt;br&gt;Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Felix</artist>
+      <num>42</num>
+      <text>When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.&lt;br&gt;Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>401643</id>
+      <name>Avenger of Zendikar</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Aleksi Briclot</artist>
+      <num>1</num>
+      <text>When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.</text>
+    </mc>
+    <mc>
+      <id>401652</id>
+      <name>Beastbreaker of Bala Ged</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Level up {2}{G} &lt;i&gt;({2}{G}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-3&lt;br&gt;4/4&lt;br&gt;&lt;br&gt;LEVEL 4+&lt;br&gt;6/6&lt;br&gt;Trample</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>10</num>
+      <text>Level up {2}{G} &lt;i&gt;({2}{G}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-3&lt;br&gt;4/4&lt;br&gt;&lt;br&gt;LEVEL 4+&lt;br&gt;6/6&lt;br&gt;Trample</text>
+    </mc>
+    <mc>
+      <id>401687</id>
+      <name>Bloodrite Invoker</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Vampire Shaman</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>{8}: Target player loses 3 life and you gain 3 life.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>45</num>
+      <text>{8}: Target player loses 3 life and you gain 3 life.</text>
+    </mc>
+    <mc>
+      <id>401688</id>
+      <name>Bloodthrone Vampire</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Argyle</artist>
+      <num>46</num>
+      <text>Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>401689</id>
+      <name>Butcher of Malakir</name>
+      <cost>{5}{B}{B}</cost>
+      <type>Creature - Vampire Warrior</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Chan</artist>
+      <num>47</num>
+      <text>Flying&lt;br&gt;Whenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.</text>
+    </mc>
+    <mc>
+      <id>401690</id>
+      <name>Cadaver Imp</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Dave Kendall</artist>
+      <num>48</num>
+      <text>Flying&lt;br&gt;When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>401645</id>
+      <name>Caravan Escort</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Level up {2} &lt;i&gt;({2}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-4&lt;br&gt;2/2&lt;br&gt;&lt;br&gt;LEVEL 5+&lt;br&gt;5/5&lt;br&gt;First strike</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Goran Josic</artist>
+      <num>3</num>
+      <text>Level up {2} &lt;i&gt;({2}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-4&lt;br&gt;2/2&lt;br&gt;&lt;br&gt;LEVEL 5+&lt;br&gt;5/5&lt;br&gt;First strike</text>
+    </mc>
+    <mc>
+      <id>401691</id>
+      <name>Consume the Meek</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy each creature with converted mana cost 3 or less. They can't be regenerated.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <artist>Richard Wright</artist>
+      <num>49</num>
+      <text>Destroy each creature with converted mana cost 3 or less. They can't be regenerated.</text>
+    </mc>
+    <mc>
+      <id>401692</id>
+      <name>Corpsehatch</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Kekai Kotaki</artist>
+      <num>50</num>
+      <text>Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."</text>
+    </mc>
+    <mc>
+      <id>401653</id>
+      <name>Daggerback Basilisk</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Basilisk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Deathtouch</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Jesper Ejsing</artist>
+      <num>11</num>
+      <text>Deathtouch</text>
+    </mc>
+    <mc>
+      <id>401693</id>
+      <name>Dominator Drone</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Ingest &lt;i&gt;(Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)&lt;/i&gt;&lt;br&gt;When Dominator Drone enters the battlefield, if you control another colorless creature, each opponent loses 2 life.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>James Zapata</artist>
+      <num>51</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Ingest &lt;i&gt;(Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)&lt;/i&gt;&lt;br&gt;When Dominator Drone enters the battlefield, if you control another colorless creature, each opponent loses 2 life.</text>
+    </mc>
+    <mc>
+      <id>401710</id>
+      <name>Eldrazi Temple</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>James Paick</artist>
+      <num>68</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.</text>
+    </mc>
+    <mc>
+      <id>401701</id>
+      <name>Emrakul's Hatcher</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Jaime Jones</artist>
+      <num>59</num>
+      <text>When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."</text>
+    </mc>
+    <mc>
+      <id>401673</id>
+      <name>Evolving Wilds</name>
+      <type>Land</type>
+      <oracleText>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Steven Belledin</artist>
+      <num>31</num>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>401670</id>
+      <name>Explorer's Scope</name>
+      <cost>{1}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Vincent Proce</artist>
+      <num>28</num>
+      <text>Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>401706</id>
+      <name>Forerunner of Slaughter</name>
+      <cost>{B}{R}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{1}: Target colorless creature gains haste until end of turn.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>James Zapata</artist>
+      <num>64</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{1}: Target colorless creature gains haste until end of turn.</text>
+    </mc>
+    <mc>
+      <id>401702</id>
+      <name>Forked Bolt</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Tomasz Jedruszek</artist>
+      <num>60</num>
+      <text>Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.</text>
+    </mc>
+    <mc>
+      <id>401654</id>
+      <name>Frontier Guide</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>12</num>
+      <text>{3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>401655</id>
+      <name>Graypelt Hunter</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Human Warrior Ally</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Graypelt Hunter or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Graypelt Hunter.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>13</num>
+      <text>Trample&lt;br&gt;Whenever Graypelt Hunter or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Graypelt Hunter.</text>
+    </mc>
+    <mc>
+      <id>401674</id>
+      <name>Graypelt Refuge</name>
+      <type>Land</type>
+      <oracleText>Graypelt Refuge enters the battlefield tapped.&lt;br&gt;When Graypelt Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Philip Straub</artist>
+      <num>32</num>
+      <text>Graypelt Refuge enters the battlefield tapped.&lt;br&gt;When Graypelt Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>401656</id>
+      <name>Grazing Gladehart</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Antelope</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may gain 2 life.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>14</num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>401657</id>
+      <name>Groundswell</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets +2/+2 until end of turn.&lt;br&gt;Landfall- If you had a land enter the battlefield under your control this turn, that creature gets +4/+4 until end of turn instead.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rahn</artist>
+      <num>15</num>
+      <text>Target creature gets +2/+2 until end of turn.&lt;br&gt;Landfall- If you had a land enter the battlefield under your control this turn, that creature gets +4/+4 until end of turn instead.</text>
+    </mc>
+    <mc>
+      <id>401658</id>
+      <name>Harrow</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <oracleText>As an additional cost to cast Harrow, sacrifice a land.&lt;br&gt;Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Izzy</artist>
+      <num>16</num>
+      <text>As an additional cost to cast Harrow, sacrifice a land.&lt;br&gt;Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>401694</id>
+      <name>Heartstabber Mosquito</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Insect</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Kicker {2}{B} &lt;i&gt;(You may pay an additional {2}{B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Felix</artist>
+      <num>52</num>
+      <text>Kicker {2}{B} &lt;i&gt;(You may pay an additional {2}{B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.</text>
+    </mc>
+    <mc>
+      <id>401721</id>
+      <name>Hellion</name>
+      <type>Token Creature-- Hellion</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Anthony Francisco</artist>
+      <num>79</num>
+    </mc>
+    <mc>
+      <id>401703</id>
+      <name>Hellion Eruption</name>
+      <cost>{5}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <artist>Anthony Francisco</artist>
+      <num>61</num>
+      <text>Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>401695</id>
+      <name>Induce Despair</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <oracleText>As an additional cost to cast Induce Despair, reveal a creature card from your hand.&lt;br&gt;Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>53</num>
+      <text>As an additional cost to cast Induce Despair, reveal a creature card from your hand.&lt;br&gt;Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.</text>
+    </mc>
+    <mc>
+      <id>401685</id>
+      <name>It That Betrays</name>
+      <cost>{12}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>11</power>
+      <toughness>11</toughness>
+      <oracleText>Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;&lt;br&gt;Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <artist>Tomasz Jedruszek</artist>
+      <num>43</num>
+      <text>Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;&lt;br&gt;Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.</text>
+    </mc>
+    <mc>
+      <id>401659</id>
+      <name>Joraga Bard</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Rogue Ally</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <oracleText>Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Volkan Baga</artist>
+      <num>17</num>
+      <text>Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.</text>
+    </mc>
+    <mc>
+      <id>401646</id>
+      <name>Kabira Vindicator</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>Level up {2}{W} &lt;i&gt;({2}{W}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 2-4&lt;br&gt;3/6&lt;br&gt;Other creatures you control get +1/+1.&lt;br&gt;LEVEL 5+&lt;br&gt;4/8&lt;br&gt;Other creatures you control get +2/+2.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steven Belledin</artist>
+      <num>4</num>
+      <text>Level up {2}{W} &lt;i&gt;({2}{W}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 2-4&lt;br&gt;3/6&lt;br&gt;Other creatures you control get +1/+1.&lt;br&gt;LEVEL 5+&lt;br&gt;4/8&lt;br&gt;Other creatures you control get +2/+2.</text>
+    </mc>
+    <mc>
+      <id>401660</id>
+      <name>Khalni Heart Expedition</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.&lt;br&gt;Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Chan</artist>
+      <num>18</num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.&lt;br&gt;Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>401647</id>
+      <name>Knight of Cliffhaven</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kor Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Level up {3} &lt;i&gt;({3}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-3&lt;br&gt;2/3&lt;br&gt;Flying&lt;br&gt;LEVEL 4+&lt;br&gt;4/4&lt;br&gt;Flying, vigilance</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Cavotta</artist>
+      <num>5</num>
+      <text>Level up {3} &lt;i&gt;({3}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-3&lt;br&gt;2/3&lt;br&gt;Flying&lt;br&gt;LEVEL 4+&lt;br&gt;4/4&lt;br&gt;Flying, vigilance</text>
+    </mc>
+    <mc>
+      <id>401704</id>
+      <name>Magmaw</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>{1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>62</num>
+      <text>{1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>401648</id>
+      <name>Makindi Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>Flying</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Izzy</artist>
+      <num>6</num>
+      <text>Flying</text>
+    </mc>
+    <mc>
+      <id>401696</id>
+      <name>Marsh Casualties</name>
+      <cost>{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Kicker {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Scott Chou</artist>
+      <num>54</num>
+      <text>Kicker {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.</text>
+    </mc>
+    <mc>
+      <id>401707</id>
+      <name>Mind Stone</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}, Sacrifice Mind Stone: Draw a card.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Adam Rex</artist>
+      <num>65</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}, Sacrifice Mind Stone: Draw a card.</text>
+    </mc>
+    <mc>
+      <id>401683</id>
+      <name>Oblivion Sower</name>
+      <cost>{6}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>5</power>
+      <toughness>8</toughness>
+      <oracleText>When you cast Oblivion Sower, target opponent exiles the top four cards of his or her library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Aleksi Briclot</artist>
+      <num>41</num>
+      <text>When you cast Oblivion Sower, target opponent exiles the top four cards of his or her library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.</text>
+    </mc>
+    <mc>
+      <id>401661</id>
+      <name>Ondu Giant</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Giant Druid</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>19</num>
+      <text>When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>401649</id>
+      <name>Oust</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put target creature into its owner's library second from the top. Its controller gains 3 life.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mike Bierek</artist>
+      <num>7</num>
+      <text>Put target creature into its owner's library second from the top. Its controller gains 3 life.</text>
+    </mc>
+    <mc>
+      <id>401697</id>
+      <name>Pawn of Ulamog</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Vampire Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever Pawn of Ulamog or another nontoken creature you control dies, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daarken</artist>
+      <num>55</num>
+      <text>Whenever Pawn of Ulamog or another nontoken creature you control dies, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."</text>
+    </mc>
+    <mc>
+      <id>401722</id>
+      <name>Plant</name>
+      <type>Token Creature-- Plant</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Daren Bader</artist>
+      <num>80</num>
+    </mc>
+    <mc>
+      <id>401662</id>
+      <name>Primal Command</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Choose two-&lt;br&gt;• Target player gains 7 life.&lt;br&gt;• Put target noncreature permanent on top of its owner's library.&lt;br&gt;• Target player shuffles his or her graveyard into his or her library.&lt;br&gt;• Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <artist>Magali Villeneuve</artist>
+      <num>20</num>
+      <text>Choose two-&lt;br&gt;• Target player gains 7 life.&lt;br&gt;• Put target noncreature permanent on top of its owner's library.&lt;br&gt;• Target player shuffles his or her graveyard into his or her library.&lt;br&gt;• Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>401698</id>
+      <name>Read the Bones</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Scry 2, then draw two cards. You lose 2 life. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Lars Grant-West</artist>
+      <num>56</num>
+      <text>Scry 2, then draw two cards. You lose 2 life. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>401650</id>
+      <name>Repel the Darkness</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Tap up to two target creatures.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Scott Chou</artist>
+      <num>8</num>
+      <text>Tap up to two target creatures.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>401663</id>
+      <name>Retreat to Kazandu</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, choose one-&lt;br&gt;• Put a +1/+1 counter on target creature.&lt;br&gt;• You gain 2 life.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Kieran Yanner</artist>
+      <num>21</num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, choose one-&lt;br&gt;• Put a +1/+1 counter on target creature.&lt;br&gt;• You gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>401711</id>
+      <name>Rocky Tar Pit</name>
+      <type>Land</type>
+      <oracleText>Rocky Tar Pit enters the battlefield tapped.&lt;br&gt;{T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jeff Miracola</artist>
+      <num>69</num>
+      <text>Rocky Tar Pit enters the battlefield tapped.&lt;br&gt;{T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>401708</id>
+      <name>Runed Servitor</name>
+      <cost>{2}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Runed Servitor dies, each player draws a card.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mike Bierek</artist>
+      <num>66</num>
+      <text>When Runed Servitor dies, each player draws a card.</text>
+    </mc>
+    <mc>
+      <id>401664</id>
+      <name>Scute Mob</name>
+      <cost>{G}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+      <num>22</num>
+      <text>At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.</text>
+    </mc>
+    <mc>
+      <id>401671</id>
+      <name>Seer's Sundial</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <artist>Franz Vohwinkel</artist>
+      <num>29</num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card.</text>
+    </mc>
+    <mc>
+      <id>401651</id>
+      <name>Sheer Drop</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy target tapped creature.&lt;br&gt;Awaken 3—{5}{W} &lt;i&gt;(If you cast this spell for {5}{W}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Clint Cearley</artist>
+      <num>9</num>
+      <text>Destroy target tapped creature.&lt;br&gt;Awaken 3—{5}{W} &lt;i&gt;(If you cast this spell for {5}{W}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>401699</id>
+      <name>Smother</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target creature with converted mana cost 3 or less. It can't be regenerated.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>57</num>
+      <text>Destroy target creature with converted mana cost 3 or less. It can't be regenerated.</text>
+    </mc>
+    <mc>
+      <id>401675</id>
+      <name>Stirring Wildwood</name>
+      <type>Land</type>
+      <oracleText>Stirring Wildwood enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.&lt;br&gt;{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>33</num>
+      <text>Stirring Wildwood enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.&lt;br&gt;{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.</text>
+    </mc>
+    <mc>
+      <id>401672</id>
+      <name>Stonework Puma</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Cat Ally</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>30</num>
+    </mc>
+    <mc>
+      <id>401665</id>
+      <name>Tajuru Archer</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Archer Ally</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Chris Rahn</artist>
+      <num>23</num>
+      <text>Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.</text>
+    </mc>
+    <mc>
+      <id>401666</id>
+      <name>Territorial Baloth</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Jesper Ejsing</artist>
+      <num>24</num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>401705</id>
+      <name>Torch Slinger</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Kicker {1}{R} &lt;i&gt;(You may pay an additional {1}{R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage to target creature.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Andrew Robinson</artist>
+      <num>63</num>
+      <text>Kicker {1}{R} &lt;i&gt;(You may pay an additional {1}{R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage to target creature.</text>
+    </mc>
+    <mc>
+      <id>401667</id>
+      <name>Turntimber Basilisk</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Basilisk</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Goran Josic</artist>
+      <num>25</num>
+      <text>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.</text>
+    </mc>
+    <mc>
+      <id>401676</id>
+      <name>Turntimber Grove</name>
+      <type>Land</type>
+      <oracleText>Turntimber Grove enters the battlefield tapped.&lt;br&gt;When Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn.&lt;br&gt;{T}: Add {G} to your mana pool.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Rob Alexander</artist>
+      <num>34</num>
+      <text>Turntimber Grove enters the battlefield tapped.&lt;br&gt;When Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn.&lt;br&gt;{T}: Add {G} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>401686</id>
+      <name>Ulamog's Crusher</name>
+      <cost>{8}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <oracleText>Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;&lt;br&gt;Ulamog's Crusher attacks each turn if able.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Todd Lockwood</artist>
+      <num>44</num>
+      <text>Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;&lt;br&gt;Ulamog's Crusher attacks each turn if able.</text>
+    </mc>
+    <mc>
+      <id>401700</id>
+      <name>Vampire Nighthawk</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Vampire Shaman</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Chan</artist>
+      <num>58</num>
+      <text>Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>401669</id>
+      <name>Veteran Warleader</name>
+      <cost>{1}{G}{W}</cost>
+      <type>Creature - Human Soldier Ally</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <oracleText>Veteran Warleader's power and toughness are each equal to the number of creatures you control.&lt;br&gt;Tap another untapped Ally you control: Veteran Warleader gains your choice of first strike, vigilance, or trample until end of turn.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <artist>Josu Hernaiz</artist>
+      <num>27</num>
+      <text>Veteran Warleader's power and toughness are each equal to the number of creatures you control.&lt;br&gt;Tap another untapped Ally you control: Veteran Warleader gains your choice of first strike, vigilance, or trample until end of turn.</text>
+    </mc>
+    <mc>
+      <id>401668</id>
+      <name>Wildheart Invoker</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <oracleText>{8}: Target creature gets +5/+5 and gains trample until end of turn.</oracleText>
+      <edition>Duel Decks: Zendikar vs. Eldrazi</edition>
+      <rarity>Common</rarity>
+      <artist>Erica Yang</artist>
+      <num>26</num>
+      <text>{8}: Target creature gets +5/+5 and gains trample until end of turn.</text>
+    </mc>
+  </list>
+</cards>

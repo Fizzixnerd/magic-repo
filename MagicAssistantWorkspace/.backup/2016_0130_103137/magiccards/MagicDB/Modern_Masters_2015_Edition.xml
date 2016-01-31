@@ -1,0 +1,3248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Modern_Masters_2015_Edition</name>
+  <key>Modern_Masters_2015_Edition</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>397746</id>
+      <name>Æthersnipe</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>When Æthersnipe enters the battlefield, return target nonland permanent to its owner's hand.&lt;br&gt;Evoke {1}{U}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+      <num>39</num>
+      <text>When Æthersnipe enters the battlefield, return target nonland permanent to its owner's hand.&lt;br&gt;Evoke {1}{U}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397784</id>
+      <name>Agony Warp</name>
+      <cost>{U}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets -3/-0 until end of turn.&lt;br&gt;Target creature gets -0/-3 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dave Allsop</artist>
+      <num>170</num>
+      <text>Target creature gets -3/-0 until end of turn.&lt;br&gt;Target creature gets -0/-3 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397847</id>
+      <name>Air Servant</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;{2}{U}: Tap target creature with flying.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Lars Grant-West</artist>
+      <num>40</num>
+      <text>Flying&lt;br&gt;{2}{U}: Tap target creature with flying.</text>
+    </mc>
+    <mc>
+      <id>397854</id>
+      <name>Algae Gharial</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Crocodile</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;Whenever another creature dies, you may put a +1/+1 counter on Algae Gharial.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Michael Ryan</artist>
+      <num>137</num>
+      <text>Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;Whenever another creature dies, you may put a +1/+1 counter on Algae Gharial.</text>
+    </mc>
+    <mc>
+      <id>397750</id>
+      <name>All Is Dust</name>
+      <cost>{7}</cost>
+      <type>Tribal Sorcery - Eldrazi</type>
+      <oracleText>Each player sacrifices all colored permanents he or she controls.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Felix</artist>
+      <num>1</num>
+      <text>Each player sacrifices all colored permanents he or she controls.</text>
+    </mc>
+    <mc>
+      <id>397741</id>
+      <name>All Suns' Dawn</name>
+      <cost>{4}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>For each color, return up to one target card of that color from your graveyard to your hand. Exile All Suns' Dawn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Glen Angus</artist>
+      <num>138</num>
+      <text>For each color, return up to one target card of that color from your graveyard to your hand. Exile All Suns' Dawn.</text>
+    </mc>
+    <mc>
+      <id>397796</id>
+      <name>Alloy Myr</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Myr</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{T}: Add one mana of any color to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Cavotta</artist>
+      <num>201</num>
+      <text>{T}: Add one mana of any color to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397821</id>
+      <name>Ant Queen</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>{1}{G}: Put a 1/1 green Insect creature token onto the battlefield.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Trevor Claxton</artist>
+      <num>139</num>
+      <text>{1}{G}: Put a 1/1 green Insect creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397885</id>
+      <name>Apocalypse Hydra</name>
+      <cost>{X}{R}{G}</cost>
+      <type>Creature - Hydra</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Apocalypse Hydra enters the battlefield with X +1/+1 counters on it. If X is 5 or more, it enters the battlefield with an additional X +1/+1 counters on it.&lt;br&gt;{1}{R}, Remove a +1/+1 counter from Apocalypse Hydra: Apocalypse Hydra deals 1 damage to target creature or player.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Chan</artist>
+      <num>171</num>
+      <text>Apocalypse Hydra enters the battlefield with X +1/+1 counters on it. If X is 5 or more, it enters the battlefield with an additional X +1/+1 counters on it.&lt;br&gt;{1}{R}, Remove a +1/+1 counter from Apocalypse Hydra: Apocalypse Hydra deals 1 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397768</id>
+      <name>Apostle's Blessing</name>
+      <cost>{1}{WP}</cost>
+      <type>Instant</type>
+      <oracleText>&lt;i&gt;({WP} can be paid with either {W} or 2 life.)&lt;/i&gt;&lt;br&gt;Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Brad Rigney</artist>
+      <num>8</num>
+      <text>&lt;i&gt;({WP} can be paid with either {W} or 2 life.)&lt;/i&gt;&lt;br&gt;Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397697</id>
+      <name>Aquastrand Spider</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Spider Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Graft 2 &lt;i&gt;(This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;{G}: Target creature with a +1/+1 counter on it gains reach until end of turn. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Dany Orizio</artist>
+      <num>140</num>
+      <text>Graft 2 &lt;i&gt;(This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;{G}: Target creature with a +1/+1 counter on it gains reach until end of turn. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397887</id>
+      <name>Argent Sphinx</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Sphinx</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;Metalcraft- {U}: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate this ability only if you control three or more artifacts.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Chris Rahn</artist>
+      <num>41</num>
+      <text>Flying&lt;br&gt;Metalcraft- {U}: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate this ability only if you control three or more artifacts.</text>
+    </mc>
+    <mc>
+      <id>397723</id>
+      <name>Arrest</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block, and its activated abilities can't be activated.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Daarken</artist>
+      <num>9</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block, and its activated abilities can't be activated.</text>
+    </mc>
+    <mc>
+      <id>397777</id>
+      <name>Artisan of Kozilek</name>
+      <cost>{9}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>10</power>
+      <toughness>9</toughness>
+      <oracleText>When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.&lt;br&gt;Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Felix</artist>
+      <num>2</num>
+      <text>When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.&lt;br&gt;Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397691</id>
+      <name>Ashenmoor Gouger</name>
+      <cost>{B/R}{B/R}{B/R}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Ashenmoor Gouger can't block.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Matt Cavotta</artist>
+      <num>190</num>
+      <text>Ashenmoor Gouger can't block.</text>
+    </mc>
+    <mc>
+      <id>397866</id>
+      <name>Azorius Chancery</name>
+      <type>Land</type>
+      <oracleText>Azorius Chancery enters the battlefield tapped.&lt;br&gt;When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {W}{U} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>235</num>
+      <text>Azorius Chancery enters the battlefield tapped.&lt;br&gt;When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {W}{U} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397676</id>
+      <name>Banefire</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Banefire deals X damage to target creature or player.&lt;br&gt;If X is 5 or more, Banefire can't be countered by spells or abilities and the damage can't be prevented.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>104</num>
+      <text>Banefire deals X damage to target creature or player.&lt;br&gt;If X is 5 or more, Banefire can't be countered by spells or abilities and the damage can't be prevented.</text>
+    </mc>
+    <mc>
+      <id>397766</id>
+      <name>Battlegrace Angel</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control attacks alone, it gains lifelink until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Matt Stewart</artist>
+      <num>10</num>
+      <text>Flying&lt;br&gt;Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control attacks alone, it gains lifelink until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397840</id>
+      <name>Bestial Menace</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put a 1/1 green Snake creature token, a 2/2 green Wolf creature token, and a 3/3 green Elephant creature token onto the battlefield.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Andrew Robinson</artist>
+      <num>141</num>
+      <text>Put a 1/1 green Snake creature token, a 2/2 green Wolf creature token, and a 3/3 green Elephant creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397701</id>
+      <name>Bitterblossom</name>
+      <cost>{1}{B}</cost>
+      <type>Tribal Enchantment - Faerie</type>
+      <oracleText>At the beginning of your upkeep, you lose 1 life and put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Rebecca Guay</artist>
+      <num>71</num>
+      <text>At the beginning of your upkeep, you lose 1 life and put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397754</id>
+      <name>Blades of Velis Vel</name>
+      <cost>{1}{R}</cost>
+      <type>Tribal Instant - Shapeshifter</type>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Up to two target creatures each get +2/+0 and gain all creature types until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Ron Spencer</artist>
+      <num>105</num>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Up to two target creatures each get +2/+0 and gain all creature types until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397810</id>
+      <name>Blinding Souleater</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Cleric</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>{WP}, {T}: Tap target creature. &lt;i&gt;({WP} can be paid with either {W} or 2 life.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>202</num>
+      <text>{WP}, {T}: Tap target creature. &lt;i&gt;({WP} can be paid with either {W} or 2 life.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397660</id>
+      <name>Blinkmoth Nexus</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.&lt;br&gt;{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Sam Burley</artist>
+      <num>236</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.&lt;br&gt;{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397759</id>
+      <name>Blood Ogre</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>106</num>
+      <text>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397671</id>
+      <name>Bloodshot Trainee</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>{T}: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Matt Stewart</artist>
+      <num>107</num>
+      <text>{T}: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>397715</id>
+      <name>Bloodthrone Vampire</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Argyle</artist>
+      <num>72</num>
+      <text>Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397770</id>
+      <name>Bone Splinters</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>As an additional cost to cast Bone Splinters, sacrifice a creature.&lt;br&gt;Destroy target creature.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Cole Eastburn</artist>
+      <num>73</num>
+      <text>As an additional cost to cast Bone Splinters, sacrifice a creature.&lt;br&gt;Destroy target creature.</text>
+    </mc>
+    <mc>
+      <id>397817</id>
+      <name>Boros Garrison</name>
+      <type>Land</type>
+      <oracleText>Boros Garrison enters the battlefield tapped.&lt;br&gt;When Boros Garrison enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {R}{W} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>237</num>
+      <text>Boros Garrison enters the battlefield tapped.&lt;br&gt;When Boros Garrison enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {R}{W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397870</id>
+      <name>Boros Swiftblade</name>
+      <cost>{R}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Double strike</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Doug Chaffee</artist>
+      <num>172</num>
+      <text>Double strike</text>
+    </mc>
+    <mc>
+      <id>397729</id>
+      <name>Brute Force</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets +3/+3 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>108</num>
+      <text>Target creature gets +3/+3 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397662</id>
+      <name>Burst Lightning</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <oracleText>Kicker {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Burst Lightning deals 2 damage to target creature or player. If Burst Lightning was kicked, it deals 4 damage to that creature or player instead.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Vance Kovacs</artist>
+      <num>109</num>
+      <text>Kicker {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Burst Lightning deals 2 damage to target creature or player. If Burst Lightning was kicked, it deals 4 damage to that creature or player instead.</text>
+    </mc>
+    <mc>
+      <id>397827</id>
+      <name>Cathodion</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>When Cathodion dies, add {3} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Izzy</artist>
+      <num>203</num>
+      <text>When Cathodion dies, add {3} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397699</id>
+      <name>Celestial Purge</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Exile target black or red permanent.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Palumbo</artist>
+      <num>11</num>
+      <text>Exile target black or red permanent.</text>
+    </mc>
+    <mc>
+      <id>397782</id>
+      <name>Chimeric Mass</name>
+      <cost>{X}</cost>
+      <type>Artifact</type>
+      <oracleText>Chimeric Mass enters the battlefield with X charge counters on it.&lt;br&gt;{1}: Until end of turn, Chimeric Mass becomes a Construct artifact creature with "This creature's power and toughness are each equal to the number of charge counters on it."</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>David Palumbo</artist>
+      <num>204</num>
+      <text>Chimeric Mass enters the battlefield with X charge counters on it.&lt;br&gt;{1}: Until end of turn, Chimeric Mass becomes a Construct artifact creature with "This creature's power and toughness are each equal to the number of charge counters on it."</text>
+    </mc>
+    <mc>
+      <id>397744</id>
+      <name>Cloud Elemental</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;Cloud Elemental can block only creatures with flying.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Michael Sutfin</artist>
+      <num>42</num>
+      <text>Flying&lt;br&gt;Cloud Elemental can block only creatures with flying.</text>
+    </mc>
+    <mc>
+      <id>397783</id>
+      <name>Combust</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Combust can't be countered by spells or abilities.&lt;br&gt;Combust deals 5 damage to target white or blue creature. The damage can't be prevented.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jaime Jones</artist>
+      <num>110</num>
+      <text>Combust can't be countered by spells or abilities.&lt;br&gt;Combust deals 5 damage to target white or blue creature. The damage can't be prevented.</text>
+    </mc>
+    <mc>
+      <id>397758</id>
+      <name>Comet Storm</name>
+      <cost>{X}{R}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Multikicker {1} &lt;i&gt;(You may pay an additional {1} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Choose target creature or player, then choose another target creature or player for each time Comet Storm was kicked. Comet Storm deals X damage to each of them.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jung Park</artist>
+      <num>111</num>
+      <text>Multikicker {1} &lt;i&gt;(You may pay an additional {1} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Choose target creature or player, then choose another target creature or player for each time Comet Storm was kicked. Comet Storm deals X damage to each of them.</text>
+    </mc>
+    <mc>
+      <id>397767</id>
+      <name>Commune with Nature</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Lars Grant-West</artist>
+      <num>142</num>
+      <text>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+    </mc>
+    <mc>
+      <id>397812</id>
+      <name>Conclave Phalanx</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;When Conclave Phalanx enters the battlefield, you gain 1 life for each creature you control.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>12</num>
+      <text>Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;When Conclave Phalanx enters the battlefield, you gain 1 life for each creature you control.</text>
+    </mc>
+    <mc>
+      <id>397849</id>
+      <name>Copper Carapace</name>
+      <cost>{1}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +2/+2 and can't block.&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Franz Vohwinkel</artist>
+      <num>205</num>
+      <text>Equipped creature gets +2/+2 and can't block.&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397776</id>
+      <name>Court Homunculus</name>
+      <cost>{W}</cost>
+      <type>Artifact Creature - Homunculus</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Court Homunculus gets +1/+1 as long as you control another artifact.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Cavotta</artist>
+      <num>13</num>
+      <text>Court Homunculus gets +1/+1 as long as you control another artifact.</text>
+    </mc>
+    <mc>
+      <id>397869</id>
+      <name>Cranial Plating</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +1/+0 for each artifact you control.&lt;br&gt;{B}{B}: Attach Cranial Plating to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Adam Rex</artist>
+      <num>206</num>
+      <text>Equipped creature gets +1/+0 for each artifact you control.&lt;br&gt;{B}{B}: Attach Cranial Plating to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397875</id>
+      <name>Creakwood Liege</name>
+      <cost>{1}{B/G}{B/G}{B/G}</cost>
+      <type>Creature - Horror</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Other black creatures you control get +1/+1.&lt;br&gt;Other green creatures you control get +1/+1.&lt;br&gt;At the beginning of your upkeep, you may put a 1/1 black and green Worm creature token onto the battlefield.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Cole Eastburn</artist>
+      <num>191</num>
+      <text>Other black creatures you control get +1/+1.&lt;br&gt;Other green creatures you control get +1/+1.&lt;br&gt;At the beginning of your upkeep, you may put a 1/1 black and green Worm creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397793</id>
+      <name>Cryptic Command</name>
+      <cost>{1}{U}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Choose two-&lt;br&gt;• Counter target spell.&lt;br&gt;• Return target permanent to its owner's hand.&lt;br&gt;• Tap all creatures your opponents control.&lt;br&gt;• Draw a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Wayne England</artist>
+      <num>43</num>
+      <text>Choose two-&lt;br&gt;• Counter target spell.&lt;br&gt;• Return target permanent to its owner's hand.&lt;br&gt;• Tap all creatures your opponents control.&lt;br&gt;• Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397780</id>
+      <name>Culling Dais</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <oracleText>{T}, Sacrifice a creature: Put a charge counter on Culling Dais.&lt;br&gt;{1}, Sacrifice Culling Dais: Draw a card for each charge counter on Culling Dais.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Anthony Palumbo</artist>
+      <num>207</num>
+      <text>{T}, Sacrifice a creature: Put a charge counter on Culling Dais.&lt;br&gt;{1}, Sacrifice Culling Dais: Draw a card for each charge counter on Culling Dais.</text>
+    </mc>
+    <mc>
+      <id>397684</id>
+      <name>Cytoplast Root-Kin</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elemental Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Graft 4 &lt;i&gt;(This creature enters the battlefield with four +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;When Cytoplast Root-Kin enters the battlefield, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.&lt;br&gt;{2}: Move a +1/+1 counter from target creature you control onto Cytoplast Root-Kin.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Thomas M. Baxa</artist>
+      <num>143</num>
+      <text>Graft 4 &lt;i&gt;(This creature enters the battlefield with four +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;When Cytoplast Root-Kin enters the battlefield, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.&lt;br&gt;{2}: Move a +1/+1 counter from target creature you control onto Cytoplast Root-Kin.</text>
+    </mc>
+    <mc>
+      <id>397813</id>
+      <name>Daggerclaw Imp</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;Daggerclaw Imp can't block.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Pete Venters</artist>
+      <num>74</num>
+      <text>Flying&lt;br&gt;Daggerclaw Imp can't block.</text>
+    </mc>
+    <mc>
+      <id>397731</id>
+      <name>Dark Confidant</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Scott M. Fischer</artist>
+      <num>75</num>
+      <text>At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.</text>
+    </mc>
+    <mc>
+      <id>397685</id>
+      <name>Darksteel Axe</name>
+      <cost>{1}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Indestructible &lt;i&gt;(Effects that say "destroy" don't destroy this artifact.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +2/+0.&lt;br&gt;Equip {2}</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>208</num>
+      <text>Indestructible &lt;i&gt;(Effects that say "destroy" don't destroy this artifact.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +2/+0.&lt;br&gt;Equip {2}</text>
+    </mc>
+    <mc>
+      <id>397853</id>
+      <name>Darksteel Citadel</name>
+      <type>Artifact Land</type>
+      <oracleText>Indestructible &lt;i&gt;(Effects that say "destroy" don't destroy this land.)&lt;/i&gt;&lt;br&gt;{T}: Add {1} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>John Avon</artist>
+      <num>238</num>
+      <text>Indestructible &lt;i&gt;(Effects that say "destroy" don't destroy this land.)&lt;/i&gt;&lt;br&gt;{T}: Add {1} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397798</id>
+      <name>Daybreak Coronet</name>
+      <cost>{W}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature with another Aura attached to it&lt;br&gt;Enchanted creature gets +3/+3 and has first strike, vigilance, and lifelink. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Johannes Voss</artist>
+      <num>14</num>
+      <text>Enchant creature with another Aura attached to it&lt;br&gt;Enchanted creature gets +3/+3 and has first strike, vigilance, and lifelink. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397718</id>
+      <name>Death Denied</name>
+      <cost>{X}{B}{B}</cost>
+      <type>Instant - Arcane</type>
+      <oracleText>Return X target creature cards from your graveyard to your hand.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>James Paick</artist>
+      <num>76</num>
+      <text>Return X target creature cards from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>397787</id>
+      <name>Deathmark</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy target green or white creature.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steven Belledin</artist>
+      <num>77</num>
+      <text>Destroy target green or white creature.</text>
+    </mc>
+    <mc>
+      <id>397661</id>
+      <name>Devouring Greed</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery - Arcane</type>
+      <oracleText>As an additional cost to cast Devouring Greed, you may sacrifice any number of Spirits.&lt;br&gt;Target player loses 2 life plus 2 life for each Spirit sacrificed this way. You gain that much life.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Vance Kovacs</artist>
+      <num>78</num>
+      <text>As an additional cost to cast Devouring Greed, you may sacrifice any number of Spirits.&lt;br&gt;Target player loses 2 life plus 2 life for each Spirit sacrificed this way. You gain that much life.</text>
+    </mc>
+    <mc>
+      <id>397672</id>
+      <name>Dimir Aqueduct</name>
+      <type>Land</type>
+      <oracleText>Dimir Aqueduct enters the battlefield tapped.&lt;br&gt;When Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {U}{B} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>239</num>
+      <text>Dimir Aqueduct enters the battlefield tapped.&lt;br&gt;When Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {U}{B} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397704</id>
+      <name>Dimir Guildmage</name>
+      <cost>{U/B}{U/B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>&lt;i&gt;({U/B} can be paid with either {U} or {B}.)&lt;/i&gt;&lt;br&gt;{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.&lt;br&gt;{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Adam Rex</artist>
+      <num>192</num>
+      <text>&lt;i&gt;({U/B} can be paid with either {U} or {B}.)&lt;/i&gt;&lt;br&gt;{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.&lt;br&gt;{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.</text>
+    </mc>
+    <mc>
+      <id>397830</id>
+      <name>Dismember</name>
+      <cost>{1}{BP}{BP}</cost>
+      <type>Instant</type>
+      <oracleText>&lt;i&gt;({BP} can be paid with either {B} or 2 life.)&lt;/i&gt;&lt;br&gt;Target creature gets -5/-5 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>79</num>
+      <text>&lt;i&gt;({BP} can be paid with either {B} or 2 life.)&lt;/i&gt;&lt;br&gt;Target creature gets -5/-5 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397781</id>
+      <name>Dispatch</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <oracleText>Tap target creature.&lt;br&gt;Metalcraft- If you control three or more artifacts, exile that creature.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Erica Yang</artist>
+      <num>15</num>
+      <text>Tap target creature.&lt;br&gt;Metalcraft- If you control three or more artifacts, exile that creature.</text>
+    </mc>
+    <mc>
+      <id>397859</id>
+      <name>Dragonsoul Knight</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>First strike&lt;br&gt;{W}{U}{B}{R}{G}: Until end of turn, Dragonsoul Knight becomes a Dragon, gets +5/+3, and gains flying and trample.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Justin Sweet</artist>
+      <num>112</num>
+      <text>First strike&lt;br&gt;{W}{U}{B}{R}{G}: Until end of turn, Dragonsoul Knight becomes a Dragon, gets +5/+3, and gains flying and trample.</text>
+    </mc>
+    <mc>
+      <id>397833</id>
+      <name>Dread Drone</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <oracleText>When Dread Drone enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>80</num>
+      <text>When Dread Drone enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."</text>
+    </mc>
+    <mc>
+      <id>397818</id>
+      <name>Drooling Groodion</name>
+      <cost>{3}{B}{B}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <oracleText>{2}{B}{G}, Sacrifice a creature: Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Kev Walker</artist>
+      <num>173</num>
+      <text>{2}{B}{G}, Sacrifice a creature: Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397791</id>
+      <name>Duskhunter Bat</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Bat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Flying</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Jesper Ejsing</artist>
+      <num>81</num>
+      <text>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Flying</text>
+    </mc>
+    <mc>
+      <id>397690</id>
+      <name>Eldrazi Temple</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>James Paick</artist>
+      <num>240</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.</text>
+    </mc>
+    <mc>
+      <id>397832</id>
+      <name>Electrolyze</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+      <num>174</num>
+      <text>Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397880</id>
+      <name>Elesh Norn, Grand Cenobite</name>
+      <cost>{5}{W}{W}</cost>
+      <type>Legendary Creature - Praetor</type>
+      <power>4</power>
+      <toughness>7</toughness>
+      <oracleText>Vigilance&lt;br&gt;Other creatures you control get +2/+2.&lt;br&gt;Creatures your opponents control get -2/-2.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>16</num>
+      <text>Vigilance&lt;br&gt;Other creatures you control get +2/+2.&lt;br&gt;Creatures your opponents control get -2/-2.</text>
+    </mc>
+    <mc>
+      <id>397905</id>
+      <name>Emrakul, the Aeons Torn</name>
+      <cost>{15}</cost>
+      <type>Legendary Creature - Eldrazi</type>
+      <power>15</power>
+      <toughness>15</toughness>
+      <oracleText>Emrakul, the Aeons Torn can't be countered.&lt;br&gt;When you cast Emrakul, take an extra turn after this one.&lt;br&gt;Flying, protection from colored spells, annihilator 6&lt;br&gt;When Emrakul is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Mark Tedin</artist>
+      <num>3</num>
+      <text>Emrakul, the Aeons Torn can't be countered.&lt;br&gt;When you cast Emrakul, take an extra turn after this one.&lt;br&gt;Flying, protection from colored spells, annihilator 6&lt;br&gt;When Emrakul is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.</text>
+    </mc>
+    <mc>
+      <id>397748</id>
+      <name>Endrek Sahr, Master Breeder</name>
+      <cost>{4}{B}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever you cast a creature spell, put X 1/1 black Thrull creature tokens onto the battlefield, where X is that spell's converted mana cost.&lt;br&gt;When you control seven or more Thrulls, sacrifice Endrek Sahr, Master Breeder.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Mark Tedin</artist>
+      <num>82</num>
+      <text>Whenever you cast a creature spell, put X 1/1 black Thrull creature tokens onto the battlefield, where X is that spell's converted mana cost.&lt;br&gt;When you control seven or more Thrulls, sacrifice Endrek Sahr, Master Breeder.</text>
+    </mc>
+    <mc>
+      <id>397710</id>
+      <name>Etched Champion</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Metalcraft- Etched Champion has protection from all colors as long as you control three or more artifacts.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>209</num>
+      <text>Metalcraft- Etched Champion has protection from all colors as long as you control three or more artifacts.</text>
+    </mc>
+    <mc>
+      <id>397872</id>
+      <name>Etched Monstrosity</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>10</power>
+      <toughness>10</toughness>
+      <oracleText>Etched Monstrosity enters the battlefield with five -1/-1 counters on it.&lt;br&gt;{W}{U}{B}{R}{G}, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Steven Belledin</artist>
+      <num>210</num>
+      <text>Etched Monstrosity enters the battlefield with five -1/-1 counters on it.&lt;br&gt;{W}{U}{B}{R}{G}, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.</text>
+    </mc>
+    <mc>
+      <id>397838</id>
+      <name>Etched Oracle</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Wizard</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Matt Cavotta</artist>
+      <num>211</num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.</text>
+    </mc>
+    <mc>
+      <id>397889</id>
+      <name>Ethercaste Knight</name>
+      <cost>{W}{U}</cost>
+      <type>Artifact Creature - Human Knight</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steven Belledin</artist>
+      <num>175</num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397679</id>
+      <name>Everflowing Chalice</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <oracleText>Multikicker {2} &lt;i&gt;(You may pay an additional {2} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.&lt;br&gt;{T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steve Argyle</artist>
+      <num>212</num>
+      <text>Multikicker {2} &lt;i&gt;(You may pay an additional {2} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.&lt;br&gt;{T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.</text>
+    </mc>
+    <mc>
+      <id>397871</id>
+      <name>Evolving Wilds</name>
+      <type>Land</type>
+      <oracleText>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Steven Belledin</artist>
+      <num>241</num>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>397742</id>
+      <name>Expedition Map</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <oracleText>{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Franz Vohwinkel</artist>
+      <num>213</num>
+      <text>{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>397726</id>
+      <name>Eye of Ugin</name>
+      <type>Legendary Land</type>
+      <oracleText>Colorless Eldrazi spells you cast cost {2} less to cast.&lt;br&gt;{7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>James Paick</artist>
+      <num>242</num>
+      <text>Colorless Eldrazi spells you cast cost {2} less to cast.&lt;br&gt;{7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>397888</id>
+      <name>Faerie Mechanist</name>
+      <cost>{3}{U}</cost>
+      <type>Artifact Creature - Faerie Artificer</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Cavotta</artist>
+      <num>44</num>
+      <text>Flying&lt;br&gt;When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+    </mc>
+    <mc>
+      <id>397692</id>
+      <name>Fiery Fall</name>
+      <cost>{5}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Daarken</artist>
+      <num>113</num>
+      <text>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397775</id>
+      <name>Flashfreeze</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target red or green spell.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Brian Despain</artist>
+      <num>45</num>
+      <text>Counter target red or green spell.</text>
+    </mc>
+    <mc>
+      <id>397826</id>
+      <name>Flayer Husk</name>
+      <cost>{1}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +1/+1.&lt;br&gt;Equip {2}</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>214</num>
+      <text>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +1/+1.&lt;br&gt;Equip {2}</text>
+    </mc>
+    <mc>
+      <id>397874</id>
+      <name>Fortify</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Choose one-&lt;br&gt;• Creatures you control get +2/+0 until end of turn.&lt;br&gt;• Creatures you control get +0/+2 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>17</num>
+      <text>Choose one-&lt;br&gt;• Creatures you control get +2/+0 until end of turn.&lt;br&gt;• Creatures you control get +0/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397893</id>
+      <name>Frogmite</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Frog</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>215</num>
+      <text>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397686</id>
+      <name>Fulminator Mage</name>
+      <cost>{1}{B/R}{B/R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Sacrifice Fulminator Mage: Destroy target nonbasic land.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>rk post</artist>
+      <num>193</num>
+      <text>Sacrifice Fulminator Mage: Destroy target nonbasic land.</text>
+    </mc>
+    <mc>
+      <id>397844</id>
+      <name>Ghost Council of Orzhova</name>
+      <cost>{W}{W}{B}{B}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>When Ghost Council of Orzhova enters the battlefield, target opponent loses 1 life and you gain 1 life.&lt;br&gt;{1}, Sacrifice a creature: Exile Ghost Council of Orzhova. Return it to the battlefield under its owner's control at the beginning of the next end step.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Greg Staples</artist>
+      <num>176</num>
+      <text>When Ghost Council of Orzhova enters the battlefield, target opponent loses 1 life and you gain 1 life.&lt;br&gt;{1}, Sacrifice a creature: Exile Ghost Council of Orzhova. Return it to the battlefield under its owner's control at the beginning of the next end step.</text>
+    </mc>
+    <mc>
+      <id>397705</id>
+      <name>Ghostly Changeling</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;{1}{B}: Ghostly Changeling gets +1/+1 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Chuck Lukacs</artist>
+      <num>83</num>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;{1}{B}: Ghostly Changeling gets +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397807</id>
+      <name>Glassdust Hulk</name>
+      <cost>{3}{W}{U}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Whenever another artifact enters the battlefield under your control, Glassdust Hulk gets +1/+1 until end of turn and can't be blocked this turn.&lt;br&gt;Cycling {W/U} &lt;i&gt;({W/U}, Discard this card: Draw a card.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Franz Vohwinkel</artist>
+      <num>177</num>
+      <text>Whenever another artifact enters the battlefield under your control, Glassdust Hulk gets +1/+1 until end of turn and can't be blocked this turn.&lt;br&gt;Cycling {W/U} &lt;i&gt;({W/U}, Discard this card: Draw a card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397876</id>
+      <name>Glint Hawk Idol</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <oracleText>Whenever another artifact enters the battlefield under your control, you may have Glint Hawk Idol become a 2/2 Bird artifact creature with flying until end of turn.&lt;br&gt;{W}: Glint Hawk Idol becomes a 2/2 Bird artifact creature with flying until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Dave Allsop</artist>
+      <num>216</num>
+      <text>Whenever another artifact enters the battlefield under your control, you may have Glint Hawk Idol become a 2/2 Bird artifact creature with flying until end of turn.&lt;br&gt;{W}: Glint Hawk Idol becomes a 2/2 Bird artifact creature with flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397863</id>
+      <name>Gnarlid Pack</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Multikicker {1}{G} &lt;i&gt;(You may pay an additional {1}{G} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Johann Bodin</artist>
+      <num>144</num>
+      <text>Multikicker {1}{G} &lt;i&gt;(You may pay an additional {1}{G} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.</text>
+    </mc>
+    <mc>
+      <id>397850</id>
+      <name>Goblin Fireslinger</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Goblin Fireslinger deals 1 damage to target player.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Pete Venters</artist>
+      <num>114</num>
+      <text>{T}: Goblin Fireslinger deals 1 damage to target player.</text>
+    </mc>
+    <mc>
+      <id>397864</id>
+      <name>Goblin War Paint</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has haste. &lt;i&gt;(It can attack and {T} no matter when it came under its controller's control.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Austin Hsu</artist>
+      <num>115</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has haste. &lt;i&gt;(It can attack and {T} no matter when it came under its controller's control.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397879</id>
+      <name>Golgari Rot Farm</name>
+      <type>Land</type>
+      <oracleText>Golgari Rot Farm enters the battlefield tapped.&lt;br&gt;When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {B}{G} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>243</num>
+      <text>Golgari Rot Farm enters the battlefield tapped.&lt;br&gt;When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {B}{G} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397809</id>
+      <name>Gorehorn Minotaurs</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Minotaur Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Bloodthirst 2 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>116</num>
+      <text>Bloodthirst 2 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397899</id>
+      <name>Grim Affliction</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Put a -1/-1 counter on target creature, then proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Erica Yang</artist>
+      <num>84</num>
+      <text>Put a -1/-1 counter on target creature, then proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397689</id>
+      <name>Gruul Turf</name>
+      <type>Land</type>
+      <oracleText>Gruul Turf enters the battlefield tapped.&lt;br&gt;When Gruul Turf enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {R}{G} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>244</num>
+      <text>Gruul Turf enters the battlefield tapped.&lt;br&gt;When Gruul Turf enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {R}{G} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397696</id>
+      <name>Guile</name>
+      <cost>{3}{U}{U}{U}</cost>
+      <type>Creature - Elemental Incarnation</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Guile can't be blocked except by three or more creatures.&lt;br&gt;If a spell or ability you control would counter a spell, instead exile that spell and you may play that card without paying its mana cost.&lt;br&gt;When Guile is put into a graveyard from anywhere, shuffle it into its owner's library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+      <num>46</num>
+      <text>Guile can't be blocked except by three or more creatures.&lt;br&gt;If a spell or ability you control would counter a spell, instead exile that spell and you may play that card without paying its mana cost.&lt;br&gt;When Guile is put into a graveyard from anywhere, shuffle it into its owner's library.</text>
+    </mc>
+    <mc>
+      <id>397669</id>
+      <name>Gust-Skimmer</name>
+      <cost>{2}</cost>
+      <type>Artifact Creature - Insect</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>{U}: Gust-Skimmer gains flying until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Dan Scott</artist>
+      <num>217</num>
+      <text>{U}: Gust-Skimmer gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397673</id>
+      <name>Gut Shot</name>
+      <cost>{RP}</cost>
+      <type>Instant</type>
+      <oracleText>&lt;i&gt;({RP} can be paid with either {R} or 2 life.)&lt;/i&gt;&lt;br&gt;Gut Shot deals 1 damage to target creature or player.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Greg Staples</artist>
+      <num>117</num>
+      <text>&lt;i&gt;({RP} can be paid with either {R} or 2 life.)&lt;/i&gt;&lt;br&gt;Gut Shot deals 1 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397856</id>
+      <name>Hearthfire Hobgoblin</name>
+      <cost>{R/W}{R/W}{R/W}</cost>
+      <type>Creature - Goblin Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Double strike</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steven Belledin</artist>
+      <num>194</num>
+      <text>Double strike</text>
+    </mc>
+    <mc>
+      <id>397903</id>
+      <name>Helium Squirter</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Beast Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Graft 3 &lt;i&gt;(This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;{1}: Target creature with a +1/+1 counter on it gains flying until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Hideaki Takamura</artist>
+      <num>47</num>
+      <text>Graft 3 &lt;i&gt;(This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;{1}: Target creature with a +1/+1 counter on it gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397761</id>
+      <name>Hellkite Charger</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Flying, haste&lt;br&gt;Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Jaime Jones</artist>
+      <num>118</num>
+      <text>Flying, haste&lt;br&gt;Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.</text>
+    </mc>
+    <mc>
+      <id>397790</id>
+      <name>Hikari, Twilight Guardian</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever you cast a Spirit or Arcane spell, you may exile Hikari, Twilight Guardian. If you do, return it to the battlefield under its owner's control at the beginning of the next end step.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Glen Angus</artist>
+      <num>18</num>
+      <text>Flying&lt;br&gt;Whenever you cast a Spirit or Arcane spell, you may exile Hikari, Twilight Guardian. If you do, return it to the battlefield under its owner's control at the beginning of the next end step.</text>
+    </mc>
+    <mc>
+      <id>397680</id>
+      <name>Horde of Notions</name>
+      <cost>{W}{U}{B}{R}{G}</cost>
+      <type>Legendary Creature - Elemental</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Vigilance, trample, haste&lt;br&gt;{W}{U}{B}{R}{G}: You may play target Elemental card from your graveyard without paying its mana cost.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Adam Rex</artist>
+      <num>178</num>
+      <text>Vigilance, trample, haste&lt;br&gt;{W}{U}{B}{R}{G}: You may play target Elemental card from your graveyard without paying its mana cost.</text>
+    </mc>
+    <mc>
+      <id>397868</id>
+      <name>Hurkyl's Recall</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Return all artifacts target player owns to his or her hand.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Ralph Horsley</artist>
+      <num>48</num>
+      <text>Return all artifacts target player owns to his or her hand.</text>
+    </mc>
+    <mc>
+      <id>397752</id>
+      <name>Incandescent Soulstoke</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Other Elemental creatures you control get +1/+1.&lt;br&gt;{1}{R}, {T}: You may put an Elemental creature card from your hand onto the battlefield. That creature gains haste until end of turn. Sacrifice it at the beginning of the next end step.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Todd Lockwood</artist>
+      <num>119</num>
+      <text>Other Elemental creatures you control get +1/+1.&lt;br&gt;{1}{R}, {T}: You may put an Elemental creature card from your hand onto the battlefield. That creature gains haste until end of turn. Sacrifice it at the beginning of the next end step.</text>
+    </mc>
+    <mc>
+      <id>397727</id>
+      <name>Indomitable Archangel</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Metalcraft- Artifacts you control have shroud as long as you control three or more artifacts. &lt;i&gt;(An artifact with shroud can't be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Allen Williams</artist>
+      <num>19</num>
+      <text>Flying&lt;br&gt;Metalcraft- Artifacts you control have shroud as long as you control three or more artifacts. &lt;i&gt;(An artifact with shroud can't be the target of spells or abilities.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397762</id>
+      <name>Inexorable Tide</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever you cast a spell, proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Dave Kendall</artist>
+      <num>49</num>
+      <text>Whenever you cast a spell, proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397884</id>
+      <name>Inner-Flame Igniter</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{2}{R}: Creatures you control get +1/+0 until end of turn. If this is the third time this ability has resolved this turn, creatures you control gain first strike until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Scott Hampton</artist>
+      <num>120</num>
+      <text>{2}{R}: Creatures you control get +1/+0 until end of turn. If this is the third time this ability has resolved this turn, creatures you control gain first strike until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397820</id>
+      <name>Instill Infection</name>
+      <cost>{3}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Put a -1/-1 counter on target creature.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rahn</artist>
+      <num>85</num>
+      <text>Put a -1/-1 counter on target creature.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397800</id>
+      <name>Iona, Shield of Emeria</name>
+      <cost>{6}{W}{W}{W}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <oracleText>Flying&lt;br&gt;As Iona, Shield of Emeria enters the battlefield, choose a color.&lt;br&gt;Your opponents can't cast spells of the chosen color.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jason Chan</artist>
+      <num>20</num>
+      <text>Flying&lt;br&gt;As Iona, Shield of Emeria enters the battlefield, choose a color.&lt;br&gt;Your opponents can't cast spells of the chosen color.</text>
+    </mc>
+    <mc>
+      <id>397707</id>
+      <name>Izzet Boilerworks</name>
+      <type>Land</type>
+      <oracleText>Izzet Boilerworks enters the battlefield tapped.&lt;br&gt;When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {U}{R} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>245</num>
+      <text>Izzet Boilerworks enters the battlefield tapped.&lt;br&gt;When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {U}{R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397892</id>
+      <name>Kami of Ancient Law</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Sacrifice Kami of Ancient Law: Destroy target enchantment.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Mark Tedin</artist>
+      <num>21</num>
+      <text>Sacrifice Kami of Ancient Law: Destroy target enchantment.</text>
+    </mc>
+    <mc>
+      <id>397828</id>
+      <name>Karn Liberated</name>
+      <cost>{7}</cost>
+      <type>Planeswalker - Karn</type>
+      <toughness>6</toughness>
+      <oracleText>+4: Target player exiles a card from his or her hand.&lt;br&gt;−3: Exile target permanent.&lt;br&gt;−14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jason Chan</artist>
+      <num>4</num>
+      <text>+4: Target player exiles a card from his or her hand.&lt;br&gt;−3: Exile target permanent.&lt;br&gt;−14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.</text>
+    </mc>
+    <mc>
+      <id>397846</id>
+      <name>Karplusan Strider</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Yeti</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Karplusan Strider can't be the target of blue or black spells.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dan Scott</artist>
+      <num>145</num>
+      <text>Karplusan Strider can't be the target of blue or black spells.</text>
+    </mc>
+    <mc>
+      <id>397843</id>
+      <name>Kavu Primarch</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Kicker {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;If Kavu Primarch was kicked, it enters the battlefield with four +1/+1 counters on it.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>146</num>
+      <text>Kicker {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;If Kavu Primarch was kicked, it enters the battlefield with four +1/+1 counters on it.</text>
+    </mc>
+    <mc>
+      <id>397698</id>
+      <name>Kiki-Jiki, Mirror Breaker</name>
+      <cost>{2}{R}{R}{R}</cost>
+      <type>Legendary Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Haste&lt;br&gt;{T}: Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Steven Belledin</artist>
+      <num>121</num>
+      <text>Haste&lt;br&gt;{T}: Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step.</text>
+    </mc>
+    <mc>
+      <id>397896</id>
+      <name>Kitesail</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +1/+0 and has flying.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Cyril Van Der Haegen</artist>
+      <num>218</num>
+      <text>Equipped creature gets +1/+0 and has flying.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397675</id>
+      <name>Kor Duelist</name>
+      <cost>{W}</cost>
+      <type>Creature - Kor Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>As long as Kor Duelist is equipped, it has double strike. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Izzy</artist>
+      <num>22</num>
+      <text>As long as Kor Duelist is equipped, it has double strike. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397668</id>
+      <name>Kozilek, Butcher of Truth</name>
+      <cost>{10}</cost>
+      <type>Legendary Creature - Eldrazi</type>
+      <power>12</power>
+      <toughness>12</toughness>
+      <oracleText>When you cast Kozilek, Butcher of Truth, draw four cards.&lt;br&gt;Annihilator 4 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices four permanents.)&lt;/i&gt;&lt;br&gt;When Kozilek is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Michael Komarck</artist>
+      <num>5</num>
+      <text>When you cast Kozilek, Butcher of Truth, draw four cards.&lt;br&gt;Annihilator 4 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices four permanents.)&lt;/i&gt;&lt;br&gt;When Kozilek is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.</text>
+    </mc>
+    <mc>
+      <id>397716</id>
+      <name>Kozilek's Predator</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>When Kozilek's Predator enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Argyle</artist>
+      <num>147</num>
+      <text>When Kozilek's Predator enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."</text>
+    </mc>
+    <mc>
+      <id>397677</id>
+      <name>Leyline of Sanctity</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>If Leyline of Sanctity is in your opening hand, you may begin the game with it on the battlefield.&lt;br&gt;You have hexproof. &lt;i&gt;(You can't be the target of spells or abilities your opponents control.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>23</num>
+      <text>If Leyline of Sanctity is in your opening hand, you may begin the game with it on the battlefield.&lt;br&gt;You have hexproof. &lt;i&gt;(You can't be the target of spells or abilities your opponents control.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397722</id>
+      <name>Lightning Bolt</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <oracleText>Lightning Bolt deals 3 damage to target creature or player.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>122</num>
+      <text>Lightning Bolt deals 3 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397736</id>
+      <name>Lodestone Golem</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <oracleText>Nonartifact spells cost {1} more to cast.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Chris Rahn</artist>
+      <num>219</num>
+      <text>Nonartifact spells cost {1} more to cast.</text>
+    </mc>
+    <mc>
+      <id>397769</id>
+      <name>Lodestone Myr</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Myr</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Trample&lt;br&gt;Tap an untapped artifact you control: Lodestone Myr gets +1/+1 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Greg Staples</artist>
+      <num>220</num>
+      <text>Trample&lt;br&gt;Tap an untapped artifact you control: Lodestone Myr gets +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397711</id>
+      <name>Long-Forgotten Gohei</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <oracleText>Arcane spells you cast cost {1} less to cast.&lt;br&gt;Spirit creatures you control get +1/+1.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Alan Pollack</artist>
+      <num>221</num>
+      <text>Arcane spells you cast cost {1} less to cast.&lt;br&gt;Spirit creatures you control get +1/+1.</text>
+    </mc>
+    <mc>
+      <id>397836</id>
+      <name>Lorescale Coatl</name>
+      <cost>{1}{G}{U}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Greg Staples</artist>
+      <num>179</num>
+      <text>Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.</text>
+    </mc>
+    <mc>
+      <id>397773</id>
+      <name>Mana Leak</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell unless its controller pays {3}.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Howard Lyon</artist>
+      <num>50</num>
+      <text>Counter target spell unless its controller pays {3}.</text>
+    </mc>
+    <mc>
+      <id>397886</id>
+      <name>Matca Rioters</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <oracleText>Domain- Matca Rioters's power and toughness are each equal to the number of basic land types among lands you control.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Argyle</artist>
+      <num>148</num>
+      <text>Domain- Matca Rioters's power and toughness are each equal to the number of basic land types among lands you control.</text>
+    </mc>
+    <mc>
+      <id>397799</id>
+      <name>Midnight Banshee</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, put a -1/-1 counter on each nonblack creature.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Daarken</artist>
+      <num>86</num>
+      <text>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, put a -1/-1 counter on each nonblack creature.</text>
+    </mc>
+    <mc>
+      <id>397681</id>
+      <name>Mighty Leap</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets +2/+2 and gains flying until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>rk post</artist>
+      <num>24</num>
+      <text>Target creature gets +2/+2 and gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397737</id>
+      <name>Mirran Crusader</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Double strike, protection from black and from green</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>25</num>
+      <text>Double strike, protection from black and from green</text>
+    </mc>
+    <mc>
+      <id>397806</id>
+      <name>Mirror Entity</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;{X}: Until end of turn, creatures you control have base power and toughness X/X and gain all creature types.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+      <num>26</num>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;{X}: Until end of turn, creatures you control have base power and toughness X/X and gain all creature types.</text>
+    </mc>
+    <mc>
+      <id>397803</id>
+      <name>Moonlit Strider</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <oracleText>Sacrifice Moonlit Strider: Target creature you control gains protection from the color of your choice until end of turn.&lt;br&gt;Soulshift 3 &lt;i&gt;(When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>John Avon</artist>
+      <num>27</num>
+      <text>Sacrifice Moonlit Strider: Target creature you control gains protection from the color of your choice until end of turn.&lt;br&gt;Soulshift 3 &lt;i&gt;(When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397797</id>
+      <name>Mortarpod</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +0/+1 and has "Sacrifice this creature: This creature deals 1 damage to target creature or player."&lt;br&gt;Equip {2}</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>222</num>
+      <text>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +0/+1 and has "Sacrifice this creature: This creature deals 1 damage to target creature or player."&lt;br&gt;Equip {2}</text>
+    </mc>
+    <mc>
+      <id>397719</id>
+      <name>Mox Opal</name>
+      <cost>{0}</cost>
+      <type>Legendary Artifact</type>
+      <oracleText>Metalcraft- {T}: Add one mana of any color to your mana pool. Activate this ability only if you control three or more artifacts.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Volkan Baga</artist>
+      <num>223</num>
+      <text>Metalcraft- {T}: Add one mana of any color to your mana pool. Activate this ability only if you control three or more artifacts.</text>
+    </mc>
+    <mc>
+      <id>397764</id>
+      <name>Mulldrifter</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;When Mulldrifter enters the battlefield, draw two cards.&lt;br&gt;Evoke {2}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Eric Fortune</artist>
+      <num>51</num>
+      <text>Flying&lt;br&gt;When Mulldrifter enters the battlefield, draw two cards.&lt;br&gt;Evoke {2}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397717</id>
+      <name>Mutagenic Growth</name>
+      <cost>{GP}</cost>
+      <type>Instant</type>
+      <oracleText>&lt;i&gt;({GP} can be paid with either {G} or 2 life.)&lt;/i&gt;&lt;br&gt;Target creature gets +2/+2 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dave Kendall</artist>
+      <num>149</num>
+      <text>&lt;i&gt;({GP} can be paid with either {G} or 2 life.)&lt;/i&gt;&lt;br&gt;Target creature gets +2/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397865</id>
+      <name>Myr Enforcer</name>
+      <cost>{7}</cost>
+      <type>Artifact Creature - Myr</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Jim Murray</artist>
+      <num>224</num>
+      <text>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397779</id>
+      <name>Myrsmith</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Artificer</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Whenever you cast an artifact spell, you may pay {1}. If you do, put a 1/1 colorless Myr artifact creature token onto the battlefield.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>28</num>
+      <text>Whenever you cast an artifact spell, you may pay {1}. If you do, put a 1/1 colorless Myr artifact creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397714</id>
+      <name>Mystic Snake</name>
+      <cost>{1}{G}{U}{U}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Mystic Snake enters the battlefield, counter target spell.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Daren Bader</artist>
+      <num>180</num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Mystic Snake enters the battlefield, counter target spell.</text>
+    </mc>
+    <mc>
+      <id>397861</id>
+      <name>Nameless Inversion</name>
+      <cost>{1}{B}</cost>
+      <type>Tribal Instant - Shapeshifter</type>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Target creature gets +3/-3 and loses all creature types until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Jeff Miracola</artist>
+      <num>87</num>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Target creature gets +3/-3 and loses all creature types until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397802</id>
+      <name>Narcolepsy</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;At the beginning of each upkeep, if enchanted creature is untapped, tap it.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Johann Bodin</artist>
+      <num>52</num>
+      <text>Enchant creature&lt;br&gt;At the beginning of each upkeep, if enchanted creature is untapped, tap it.</text>
+    </mc>
+    <mc>
+      <id>397745</id>
+      <name>Necrogenesis</name>
+      <cost>{B}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>{2}: Exile target creature card from a graveyard. Put a 1/1 green Saproling creature token onto the battlefield.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Trevor Claxton</artist>
+      <num>181</num>
+      <text>{2}: Exile target creature card from a graveyard. Put a 1/1 green Saproling creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397683</id>
+      <name>Necroskitter</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Elemental</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt;&lt;br&gt;Whenever a creature an opponent controls with a -1/-1 counter on it dies, you may return that card to the battlefield under your control.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Jaime Jones</artist>
+      <num>88</num>
+      <text>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt;&lt;br&gt;Whenever a creature an opponent controls with a -1/-1 counter on it dies, you may return that card to the battlefield under your control.</text>
+    </mc>
+    <mc>
+      <id>397901</id>
+      <name>Nest Invader</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Trevor Claxton</artist>
+      <num>150</num>
+      <text>When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."</text>
+    </mc>
+    <mc>
+      <id>397851</id>
+      <name>Niv-Mizzet, the Firemind</name>
+      <cost>{2}{U}{U}{R}{R}</cost>
+      <type>Legendary Creature - Dragon Wizard</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.&lt;br&gt;{T}: Draw a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Todd Lockwood</artist>
+      <num>182</num>
+      <text>Flying&lt;br&gt;Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.&lt;br&gt;{T}: Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397733</id>
+      <name>Nobilis of War</name>
+      <cost>{R/W}{R/W}{R/W}{R/W}{R/W}</cost>
+      <type>Creature - Spirit Avatar</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Attacking creatures you control get +2/+0.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>195</num>
+      <text>Flying&lt;br&gt;Attacking creatures you control get +2/+0.</text>
+    </mc>
+    <mc>
+      <id>397709</id>
+      <name>Noble Hierarch</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{T}: Add {G}, {W}, or {U} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Mark Zug</artist>
+      <num>151</num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{T}: Add {G}, {W}, or {U} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397663</id>
+      <name>Novijen Sages</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Human Advisor Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Graft 4 &lt;i&gt;(This creature enters the battlefield with four +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;{1}, Remove two +1/+1 counters from among creatures you control: Draw a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Luca Zontini</artist>
+      <num>53</num>
+      <text>Graft 4 &lt;i&gt;(This creature enters the battlefield with four +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;{1}, Remove two +1/+1 counters from among creatures you control: Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397760</id>
+      <name>Oblivion Ring</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>When Oblivion Ring enters the battlefield, exile another target nonland permanent.&lt;br&gt;When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Franz Vohwinkel</artist>
+      <num>29</num>
+      <text>When Oblivion Ring enters the battlefield, exile another target nonland permanent.&lt;br&gt;When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.</text>
+    </mc>
+    <mc>
+      <id>397902</id>
+      <name>Orzhov Basilica</name>
+      <type>Land</type>
+      <oracleText>Orzhov Basilica enters the battlefield tapped.&lt;br&gt;When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {W}{B} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>246</num>
+      <text>Orzhov Basilica enters the battlefield tapped.&lt;br&gt;When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {W}{B} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397855</id>
+      <name>Otherworldly Journey</name>
+      <cost>{1}{W}</cost>
+      <type>Instant - Arcane</type>
+      <oracleText>Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Vance Kovacs</artist>
+      <num>30</num>
+      <text>Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.</text>
+    </mc>
+    <mc>
+      <id>397693</id>
+      <name>Overwhelm</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;Creatures you control get +3/+3 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>152</num>
+      <text>Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;Creatures you control get +3/+3 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397788</id>
+      <name>Overwhelming Stampede</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Until end of turn, creatures you control gain trample and get +X/+X, where X is the greatest power among creatures you control.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Steven Belledin</artist>
+      <num>153</num>
+      <text>Until end of turn, creatures you control gain trample and get +X/+X, where X is the greatest power among creatures you control.</text>
+    </mc>
+    <mc>
+      <id>397763</id>
+      <name>Pelakka Wurm</name>
+      <cost>{4}{G}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <oracleText>Trample&lt;br&gt;When Pelakka Wurm enters the battlefield, you gain 7 life.&lt;br&gt;When Pelakka Wurm dies, draw a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>154</num>
+      <text>Trample&lt;br&gt;When Pelakka Wurm enters the battlefield, you gain 7 life.&lt;br&gt;When Pelakka Wurm dies, draw a card.</text>
+    </mc>
+    <mc>
+      <id>397890</id>
+      <name>Pillory of the Sleepless</name>
+      <cost>{1}{W}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.&lt;br&gt;Enchanted creature has "At the beginning of your upkeep, you lose 1 life."</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Marc Simonetti</artist>
+      <num>183</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.&lt;br&gt;Enchanted creature has "At the beginning of your upkeep, you lose 1 life."</text>
+    </mc>
+    <mc>
+      <id>397906</id>
+      <name>Plagued Rusalka</name>
+      <cost>{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Alex Horley-Orlandelli</artist>
+      <num>89</num>
+      <text>{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397822</id>
+      <name>Plaxcaster Frogling</name>
+      <cost>{1}{G}{U}</cost>
+      <type>Creature - Frog Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Graft 3 &lt;i&gt;(This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;{2}: Target creature with a +1/+1 counter on it gains shroud until end of turn. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Greg Staples</artist>
+      <num>184</num>
+      <text>Graft 3 &lt;i&gt;(This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;{2}: Target creature with a +1/+1 counter on it gains shroud until end of turn. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397786</id>
+      <name>Plummet</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target creature with flying.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Pete Venters</artist>
+      <num>155</num>
+      <text>Destroy target creature with flying.</text>
+    </mc>
+    <mc>
+      <id>397708</id>
+      <name>Precursor Golem</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>When Precursor Golem enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield.&lt;br&gt;Whenever a player casts an instant or sorcery spell that targets only a single Golem, that player copies that spell for each other Golem that spell could target. Each copy targets a different one of those Golems.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Chippy</artist>
+      <num>225</num>
+      <text>When Precursor Golem enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield.&lt;br&gt;Whenever a player casts an instant or sorcery spell that targets only a single Golem, that player copies that spell for each other Golem that spell could target. Each copy targets a different one of those Golems.</text>
+    </mc>
+    <mc>
+      <id>397688</id>
+      <name>Primeval Titan</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Giant</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Aleksi Briclot</artist>
+      <num>156</num>
+      <text>Trample&lt;br&gt;Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>397713</id>
+      <name>Profane Command</name>
+      <cost>{X}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Choose two- &lt;br&gt;• Target player loses X life. &lt;br&gt;• Return target creature card with converted mana cost X or less from your graveyard to the battlefield.&lt;br&gt;• Target creature gets -X/-X until end of turn.&lt;br&gt;• Up to X target creatures gain fear until end of turn. &lt;i&gt;(They can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Wayne England</artist>
+      <num>90</num>
+      <text>Choose two- &lt;br&gt;• Target player loses X life. &lt;br&gt;• Return target creature card with converted mana cost X or less from your graveyard to the battlefield.&lt;br&gt;• Target creature gets -X/-X until end of turn.&lt;br&gt;• Up to X target creatures gain fear until end of turn. &lt;i&gt;(They can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397839</id>
+      <name>Puppeteer Clique</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;When Puppeteer Clique enters the battlefield, put target creature card from an opponent's graveyard onto the battlefield under your control. It gains haste. At the beginning of your next end step, exile it.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Daren Bader</artist>
+      <num>91</num>
+      <text>Flying&lt;br&gt;When Puppeteer Clique enters the battlefield, put target creature card from an opponent's graveyard onto the battlefield under your control. It gains haste. At the beginning of your next end step, exile it.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397877</id>
+      <name>Qumulox</name>
+      <cost>{6}{U}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Flying</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Carl Critchlow</artist>
+      <num>54</num>
+      <text>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Flying</text>
+    </mc>
+    <mc>
+      <id>397666</id>
+      <name>Raise the Alarm</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Put two 1/1 white Soldier creature tokens onto the battlefield.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Zoltan Boros</artist>
+      <num>31</num>
+      <text>Put two 1/1 white Soldier creature tokens onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397753</id>
+      <name>Rakdos Carnarium</name>
+      <type>Land</type>
+      <oracleText>Rakdos Carnarium enters the battlefield tapped.&lt;br&gt;When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {B}{R} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>247</num>
+      <text>Rakdos Carnarium enters the battlefield tapped.&lt;br&gt;When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {B}{R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397794</id>
+      <name>Rampant Growth</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Steven Belledin</artist>
+      <num>157</num>
+      <text>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>397819</id>
+      <name>Reassembling Skeleton</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Skeleton Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Austin Hsu</artist>
+      <num>92</num>
+      <text>{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>397881</id>
+      <name>Remand</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Zoltan Boros</artist>
+      <num>55</num>
+      <text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397667</id>
+      <name>Repeal</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Return target nonland permanent with converted mana cost X to its owner's hand.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Anthony Palumbo</artist>
+      <num>56</num>
+      <text>Return target nonland permanent with converted mana cost X to its owner's hand.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397774</id>
+      <name>Restless Apparition</name>
+      <cost>{W/B}{W/B}{W/B}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{W/B}{W/B}{W/B}: Restless Apparition gets +3/+3 until end of turn.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jeff Easley</artist>
+      <num>196</num>
+      <text>{W/B}{W/B}{W/B}: Restless Apparition gets +3/+3 until end of turn.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397659</id>
+      <name>Root-Kin Ally</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;Tap two untapped creatures you control: Root-Kin Ally gets +2/+2 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Arnie Swekel</artist>
+      <num>158</num>
+      <text>Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;Tap two untapped creatures you control: Root-Kin Ally gets +2/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397772</id>
+      <name>Runed Servitor</name>
+      <cost>{2}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Runed Servitor dies, each player draws a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Mike Bierek</artist>
+      <num>226</num>
+      <text>When Runed Servitor dies, each player draws a card.</text>
+    </mc>
+    <mc>
+      <id>397837</id>
+      <name>Rusted Relic</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <oracleText>Metalcraft- Rusted Relic is a 5/5 Golem artifact creature as long as you control three or more artifacts.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>227</num>
+      <text>Metalcraft- Rusted Relic is a 5/5 Golem artifact creature as long as you control three or more artifacts.</text>
+    </mc>
+    <mc>
+      <id>397814</id>
+      <name>Savage Twister</name>
+      <cost>{X}{R}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Savage Twister deals X damage to each creature.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>185</num>
+      <text>Savage Twister deals X damage to each creature.</text>
+    </mc>
+    <mc>
+      <id>397665</id>
+      <name>Scatter the Seeds</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;Put three 1/1 green Saproling creature tokens onto the battlefield.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Rob Alexander</artist>
+      <num>159</num>
+      <text>Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;Put three 1/1 green Saproling creature tokens onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397811</id>
+      <name>Scavenger Drake</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Drake</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever another creature dies, you may put a +1/+1 counter on Scavenger Drake.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Trevor Claxton</artist>
+      <num>93</num>
+      <text>Flying&lt;br&gt;Whenever another creature dies, you may put a +1/+1 counter on Scavenger Drake.</text>
+    </mc>
+    <mc>
+      <id>397894</id>
+      <name>Scion of the Wild</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Avatar</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <oracleText>Scion of the Wild's power and toughness are each equal to the number of creatures you control.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>160</num>
+      <text>Scion of the Wild's power and toughness are each equal to the number of creatures you control.</text>
+    </mc>
+    <mc>
+      <id>397751</id>
+      <name>Scute Mob</name>
+      <cost>{G}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+      <num>161</num>
+      <text>At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.</text>
+    </mc>
+    <mc>
+      <id>397740</id>
+      <name>Scuttling Death</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <oracleText>Sacrifice Scuttling Death: Target creature gets -1/-1 until end of turn.&lt;br&gt;Soulshift 4 &lt;i&gt;(When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Thomas M. Baxa</artist>
+      <num>94</num>
+      <text>Sacrifice Scuttling Death: Target creature gets -1/-1 until end of turn.&lt;br&gt;Soulshift 4 &lt;i&gt;(When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397808</id>
+      <name>Selesnya Guildmage</name>
+      <cost>{G/W}{G/W}</cost>
+      <type>Creature - Elf Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{3}{G}: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;{3}{W}: Creatures you control get +1/+1 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mark Zug</artist>
+      <num>197</num>
+      <text>{3}{G}: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;{3}{W}: Creatures you control get +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397734</id>
+      <name>Selesnya Sanctuary</name>
+      <type>Land</type>
+      <oracleText>Selesnya Sanctuary enters the battlefield tapped.&lt;br&gt;When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {G}{W} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>248</num>
+      <text>Selesnya Sanctuary enters the battlefield tapped.&lt;br&gt;When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {G}{W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397858</id>
+      <name>Shadowmage Infiltrator</name>
+      <cost>{1}{U}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Whenever Shadowmage Infiltrator deals combat damage to a player, you may draw a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Tomasz Jedruszek</artist>
+      <num>186</num>
+      <text>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Whenever Shadowmage Infiltrator deals combat damage to a player, you may draw a card.</text>
+    </mc>
+    <mc>
+      <id>397898</id>
+      <name>Shrewd Hatchling</name>
+      <cost>{3}{U/R}</cost>
+      <type>Creature - Elemental</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Shrewd Hatchling enters the battlefield with four -1/-1 counters on it.&lt;br&gt;{U/R}: Target creature can't block Shrewd Hatchling this turn.&lt;br&gt;Whenever you cast a blue spell, remove a -1/-1 counter from Shrewd Hatchling.&lt;br&gt;Whenever you cast a red spell, remove a -1/-1 counter from Shrewd Hatchling.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Carl Frank</artist>
+      <num>198</num>
+      <text>Shrewd Hatchling enters the battlefield with four -1/-1 counters on it.&lt;br&gt;{U/R}: Target creature can't block Shrewd Hatchling this turn.&lt;br&gt;Whenever you cast a blue spell, remove a -1/-1 counter from Shrewd Hatchling.&lt;br&gt;Whenever you cast a red spell, remove a -1/-1 counter from Shrewd Hatchling.</text>
+    </mc>
+    <mc>
+      <id>397857</id>
+      <name>Shrivel</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>All creatures get -1/-1 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Jung Park</artist>
+      <num>95</num>
+      <text>All creatures get -1/-1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397834</id>
+      <name>Sickle Ripper</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Dan Scott</artist>
+      <num>96</num>
+      <text>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397771</id>
+      <name>Sickleslicer</name>
+      <cost>{3}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +2/+2.&lt;br&gt;Equip {4}</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Felix</artist>
+      <num>228</num>
+      <text>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +2/+2.&lt;br&gt;Equip {4}</text>
+    </mc>
+    <mc>
+      <id>397756</id>
+      <name>Sigil Blessing</name>
+      <cost>{G}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Until end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Matt Stewart</artist>
+      <num>187</num>
+      <text>Until end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.</text>
+    </mc>
+    <mc>
+      <id>397739</id>
+      <name>Sign in Blood</name>
+      <cost>{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target player draws two cards and loses 2 life.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Howard Lyon</artist>
+      <num>97</num>
+      <text>Target player draws two cards and loses 2 life.</text>
+    </mc>
+    <mc>
+      <id>397757</id>
+      <name>Simic Growth Chamber</name>
+      <type>Land</type>
+      <oracleText>Simic Growth Chamber enters the battlefield tapped.&lt;br&gt;When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {G}{U} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>249</num>
+      <text>Simic Growth Chamber enters the battlefield tapped.&lt;br&gt;When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {G}{U} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397895</id>
+      <name>Simic Initiate</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Graft 1 &lt;i&gt;(This creature enters the battlefield with a +1/+1 counter on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Dany Orizio</artist>
+      <num>162</num>
+      <text>Graft 1 &lt;i&gt;(This creature enters the battlefield with a +1/+1 counter on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397867</id>
+      <name>Skarrgan Firebird</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Phoenix</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Bloodthirst 3 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Kev Walker</artist>
+      <num>123</num>
+      <text>Bloodthirst 3 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.</text>
+    </mc>
+    <mc>
+      <id>397835</id>
+      <name>Skyhunter Skirmisher</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Cat Knight</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Flying, double strike</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Greg Staples</artist>
+      <num>32</num>
+      <text>Flying, double strike</text>
+    </mc>
+    <mc>
+      <id>397702</id>
+      <name>Skyreach Manta</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Fish</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Flying</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>229</num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Flying</text>
+    </mc>
+    <mc>
+      <id>397795</id>
+      <name>Smash to Smithereens</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Pete Venters</artist>
+      <num>124</num>
+      <text>Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller.</text>
+    </mc>
+    <mc>
+      <id>397725</id>
+      <name>Smokebraider</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast Elemental spells or activate abilities of Elementals.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Anthony S. Waters</artist>
+      <num>125</num>
+      <text>{T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast Elemental spells or activate abilities of Elementals.</text>
+    </mc>
+    <mc>
+      <id>397831</id>
+      <name>Somber Hoverguard</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Drone</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Flying</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Adam Rex</artist>
+      <num>57</num>
+      <text>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Flying</text>
+    </mc>
+    <mc>
+      <id>397730</id>
+      <name>Soulbright Flamekin</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R} to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>126</num>
+      <text>{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397841</id>
+      <name>Spectral Procession</name>
+      <cost>{2/W}{2/W}{2/W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put three 1/1 white Spirit creature tokens with flying onto the battlefield.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Tomasz Jedruszek</artist>
+      <num>33</num>
+      <text>Put three 1/1 white Spirit creature tokens with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397743</id>
+      <name>Spellskite</name>
+      <cost>{2}</cost>
+      <type>Artifact Creature - Horror</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <oracleText>{UP}: Change a target of target spell or ability to Spellskite. &lt;i&gt;({UP} can be paid with either {U} or 2 life.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Chippy</artist>
+      <num>230</num>
+      <text>{UP}: Change a target of target spell or ability to Spellskite. &lt;i&gt;({UP} can be paid with either {U} or 2 life.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397904</id>
+      <name>Sphere of the Suns</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <oracleText>Sphere of the Suns enters the battlefield tapped and with three charge counters on it.&lt;br&gt;{T}, Remove a charge counter from Sphere of the Suns: Add one mana of any color to your mana pool.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Jana Schirmer &amp; Johannes Voss</artist>
+      <num>231</num>
+      <text>Sphere of the Suns enters the battlefield tapped and with three charge counters on it.&lt;br&gt;{T}, Remove a charge counter from Sphere of the Suns: Add one mana of any color to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397883</id>
+      <name>Spikeshot Elder</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{1}{R}{R}: Spikeshot Elder deals damage equal to its power to target creature or player.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Izzy</artist>
+      <num>127</num>
+      <text>{1}{R}{R}: Spikeshot Elder deals damage equal to its power to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397664</id>
+      <name>Spitebellows</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>6</power>
+      <toughness>1</toughness>
+      <oracleText>When Spitebellows leaves the battlefield, it deals 6 damage to target creature.&lt;br&gt;Evoke {1}{R}{R} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Larry MacDougall</artist>
+      <num>128</num>
+      <text>When Spitebellows leaves the battlefield, it deals 6 damage to target creature.&lt;br&gt;Evoke {1}{R}{R} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397816</id>
+      <name>Splinter Twin</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has "{T}: Put a token that's a copy of this creature onto the battlefield. That token has haste. Exile it at the beginning of the next end step."</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Goran Josic</artist>
+      <num>129</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has "{T}: Put a token that's a copy of this creature onto the battlefield. That token has haste. Exile it at the beginning of the next end step."</text>
+    </mc>
+    <mc>
+      <id>397823</id>
+      <name>Spread the Sickness</name>
+      <cost>{4}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy target creature, then proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jaime Jones</artist>
+      <num>98</num>
+      <text>Destroy target creature, then proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397805</id>
+      <name>Steady Progress</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;&lt;br&gt;Draw a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Efrem Palacios</artist>
+      <num>58</num>
+      <text>Proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397765</id>
+      <name>Stoic Rebuttal</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Metalcraft- Stoic Rebuttal costs {1} less to cast if you control three or more artifacts.&lt;br&gt;Counter target spell.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rahn</artist>
+      <num>59</num>
+      <text>Metalcraft- Stoic Rebuttal costs {1} less to cast if you control three or more artifacts.&lt;br&gt;Counter target spell.</text>
+    </mc>
+    <mc>
+      <id>397712</id>
+      <name>Stormblood Berserker</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Berserker</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Bloodthirst 2 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Stormblood Berserker can't be blocked except by two or more creatures.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Min Yum</artist>
+      <num>130</num>
+      <text>Bloodthirst 2 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Stormblood Berserker can't be blocked except by two or more creatures.</text>
+    </mc>
+    <mc>
+      <id>397792</id>
+      <name>Sundering Vitae</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;Destroy target artifact or enchantment.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Shishizaru</artist>
+      <num>163</num>
+      <text>Convoke &lt;i&gt;(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)&lt;/i&gt;&lt;br&gt;Destroy target artifact or enchantment.</text>
+    </mc>
+    <mc>
+      <id>397900</id>
+      <name>Sunforger</name>
+      <cost>{3}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +4/+0.&lt;br&gt;{R}{W}, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library.&lt;br&gt;Equip {3}</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Darrell Riche</artist>
+      <num>232</num>
+      <text>Equipped creature gets +4/+0.&lt;br&gt;{R}{W}, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library.&lt;br&gt;Equip {3}</text>
+    </mc>
+    <mc>
+      <id>397862</id>
+      <name>Sunlance</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Sunlance deals 3 damage to target nonwhite creature.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Volkan Baga</artist>
+      <num>34</num>
+      <text>Sunlance deals 3 damage to target nonwhite creature.</text>
+    </mc>
+    <mc>
+      <id>397801</id>
+      <name>Sunspear Shikari</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Cat Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>As long as Sunspear Shikari is equipped, it has first strike and lifelink.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Allen Williams</artist>
+      <num>35</num>
+      <text>As long as Sunspear Shikari is equipped, it has first strike and lifelink.</text>
+    </mc>
+    <mc>
+      <id>397706</id>
+      <name>Surgical Extraction</name>
+      <cost>{BP}</cost>
+      <type>Instant</type>
+      <oracleText>&lt;i&gt;({BP} can be paid with either {B} or 2 life.)&lt;/i&gt;&lt;br&gt;Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Steven Belledin</artist>
+      <num>99</num>
+      <text>&lt;i&gt;({BP} can be paid with either {B} or 2 life.)&lt;/i&gt;&lt;br&gt;Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.</text>
+    </mc>
+    <mc>
+      <id>397735</id>
+      <name>Surrakar Spellblade</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Surrakar</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Whenever you cast an instant or sorcery spell, you may put a charge counter on Surrakar Spellblade.&lt;br&gt;Whenever Surrakar Spellblade deals combat damage to a player, you may draw X cards, where X is the number of charge counters on it.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Dave Kendall</artist>
+      <num>60</num>
+      <text>Whenever you cast an instant or sorcery spell, you may put a charge counter on Surrakar Spellblade.&lt;br&gt;Whenever Surrakar Spellblade deals combat damage to a player, you may draw X cards, where X is the number of charge counters on it.</text>
+    </mc>
+    <mc>
+      <id>397778</id>
+      <name>Swans of Bryn Argoll</name>
+      <cost>{2}{W/U}{W/U}</cost>
+      <type>Creature - Bird Spirit</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;If a source would deal damage to Swans of Bryn Argoll, prevent that damage. The source's controller draws cards equal to the damage prevented this way.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Eric Fortune</artist>
+      <num>199</num>
+      <text>Flying&lt;br&gt;If a source would deal damage to Swans of Bryn Argoll, prevent that damage. The source's controller draws cards equal to the damage prevented this way.</text>
+    </mc>
+    <mc>
+      <id>397658</id>
+      <name>Sylvan Bounty</name>
+      <cost>{5}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Target player gains 8 life.&lt;br&gt;Basic landcycling {1}{G} &lt;i&gt;({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rahn</artist>
+      <num>164</num>
+      <text>Target player gains 8 life.&lt;br&gt;Basic landcycling {1}{G} &lt;i&gt;({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397873</id>
+      <name>Taj-Nar Swordsmith</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Cat Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>When Taj-Nar Swordsmith enters the battlefield, you may pay {X}. If you do, search your library for an Equipment card with converted mana cost X or less and put that card onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Todd Lockwood</artist>
+      <num>36</num>
+      <text>When Taj-Nar Swordsmith enters the battlefield, you may pay {X}. If you do, search your library for an Equipment card with converted mana cost X or less and put that card onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>397682</id>
+      <name>Tarmogoyf</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Lhurgoyf</type>
+      <power>*</power>
+      <toughness>1+*</toughness>
+      <oracleText>Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Barger</artist>
+      <num>165</num>
+      <text>Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.</text>
+    </mc>
+    <mc>
+      <id>397728</id>
+      <name>Telling Time</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Scott M. Fischer</artist>
+      <num>61</num>
+      <text>Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.</text>
+    </mc>
+    <mc>
+      <id>397891</id>
+      <name>Terashi's Grasp</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery - Arcane</type>
+      <oracleText>Destroy target artifact or enchantment. You gain life equal to its converted mana cost.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Mark Tedin</artist>
+      <num>37</num>
+      <text>Destroy target artifact or enchantment. You gain life equal to its converted mana cost.</text>
+    </mc>
+    <mc>
+      <id>397700</id>
+      <name>Tezzeret the Seeker</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Planeswalker - Tezzeret</type>
+      <toughness>4</toughness>
+      <oracleText>+1: Untap up to two target artifacts.&lt;br&gt;−X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.&lt;br&gt;−5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Anthony Francisco</artist>
+      <num>62</num>
+      <text>+1: Untap up to two target artifacts.&lt;br&gt;−X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.&lt;br&gt;−5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397670</id>
+      <name>Tezzeret's Gambit</name>
+      <cost>{3}{UP}</cost>
+      <type>Sorcery</type>
+      <oracleText>&lt;i&gt;({UP} can be paid with either {U} or 2 life.)&lt;/i&gt;&lt;br&gt;Draw two cards, then proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>63</num>
+      <text>&lt;i&gt;({UP} can be paid with either {U} or 2 life.)&lt;/i&gt;&lt;br&gt;Draw two cards, then proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397785</id>
+      <name>Thief of Hope</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever you cast a Spirit or Arcane spell, target opponent loses 1 life and you gain 1 life.&lt;br&gt;Soulshift 2 &lt;i&gt;(When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Greg Hildebrandt</artist>
+      <num>100</num>
+      <text>Whenever you cast a Spirit or Arcane spell, target opponent loses 1 life and you gain 1 life.&lt;br&gt;Soulshift 2 &lt;i&gt;(When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397804</id>
+      <name>Thoughtcast</name>
+      <cost>{4}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Draw two cards.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Greg Hildebrandt</artist>
+      <num>64</num>
+      <text>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Draw two cards.</text>
+    </mc>
+    <mc>
+      <id>397695</id>
+      <name>Thrive</name>
+      <cost>{X}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put a +1/+1 counter on each of X target creatures.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Daren Bader</artist>
+      <num>166</num>
+      <text>Put a +1/+1 counter on each of X target creatures.</text>
+    </mc>
+    <mc>
+      <id>397860</id>
+      <name>Thrummingbird</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Bird Horror</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Thrummingbird deals combat damage to a player, proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Efrem Palacios</artist>
+      <num>65</num>
+      <text>Flying&lt;br&gt;Whenever Thrummingbird deals combat damage to a player, proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397848</id>
+      <name>Thunderblust</name>
+      <cost>{2}{R}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>7</power>
+      <toughness>2</toughness>
+      <oracleText>Haste&lt;br&gt;Thunderblust has trample as long as it has a -1/-1 counter on it.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Dan Scott</artist>
+      <num>131</num>
+      <text>Haste&lt;br&gt;Thunderblust has trample as long as it has a -1/-1 counter on it.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397842</id>
+      <name>Tribal Flames</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Domain- Tribal Flames deals X damage to target creature or player, where X is the number of basic land types among lands you control.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Zack Stella</artist>
+      <num>132</num>
+      <text>Domain- Tribal Flames deals X damage to target creature or player, where X is the number of basic land types among lands you control.</text>
+    </mc>
+    <mc>
+      <id>397749</id>
+      <name>Tukatongue Thallid</name>
+      <cost>{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>When Tukatongue Thallid dies, put a 1/1 green Saproling creature token onto the battlefield.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Vance Kovacs</artist>
+      <num>167</num>
+      <text>When Tukatongue Thallid dies, put a 1/1 green Saproling creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397755</id>
+      <name>Tumble Magnet</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <oracleText>Tumble Magnet enters the battlefield with three charge counters on it.&lt;br&gt;{T}, Remove a charge counter from Tumble Magnet: Tap target artifact or creature.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Drew Baker</artist>
+      <num>233</num>
+      <text>Tumble Magnet enters the battlefield with three charge counters on it.&lt;br&gt;{T}, Remove a charge counter from Tumble Magnet: Tap target artifact or creature.</text>
+    </mc>
+    <mc>
+      <id>397815</id>
+      <name>Ulamog, the Infinite Gyre</name>
+      <cost>{11}</cost>
+      <type>Legendary Creature - Eldrazi</type>
+      <power>10</power>
+      <toughness>10</toughness>
+      <oracleText>When you cast Ulamog, the Infinite Gyre, destroy target permanent.&lt;br&gt;Indestructible&lt;br&gt;Annihilator 4 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices four permanents.)&lt;/i&gt;&lt;br&gt;When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Aleksi Briclot</artist>
+      <num>6</num>
+      <text>When you cast Ulamog, the Infinite Gyre, destroy target permanent.&lt;br&gt;Indestructible&lt;br&gt;Annihilator 4 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices four permanents.)&lt;/i&gt;&lt;br&gt;When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.</text>
+    </mc>
+    <mc>
+      <id>397678</id>
+      <name>Ulamog's Crusher</name>
+      <cost>{8}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <oracleText>Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;&lt;br&gt;Ulamog's Crusher attacks each turn if able.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Todd Lockwood</artist>
+      <num>7</num>
+      <text>Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;&lt;br&gt;Ulamog's Crusher attacks each turn if able.</text>
+    </mc>
+    <mc>
+      <id>397845</id>
+      <name>Vampire Lacerator</name>
+      <cost>{B}</cost>
+      <type>Creature - Vampire Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Argyle</artist>
+      <num>101</num>
+      <text>At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.</text>
+    </mc>
+    <mc>
+      <id>397674</id>
+      <name>Vampire Outcasts</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Bloodthirst 2 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Clint Cearley</artist>
+      <num>102</num>
+      <text>Bloodthirst 2 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397738</id>
+      <name>Vapor Snag</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <oracleText>Return target creature to its owner's hand. Its controller loses 1 life.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>66</num>
+      <text>Return target creature to its owner's hand. Its controller loses 1 life.</text>
+    </mc>
+    <mc>
+      <id>397824</id>
+      <name>Vendilion Clique</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Legendary Creature - Faerie Wizard</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Flash&lt;br&gt;Flying&lt;br&gt;When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Willian Murai</artist>
+      <num>67</num>
+      <text>Flash&lt;br&gt;Flying&lt;br&gt;When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.</text>
+    </mc>
+    <mc>
+      <id>397721</id>
+      <name>Vengeful Rebirth</name>
+      <cost>{4}{R}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to target creature or player.&lt;br&gt;Exile Vengeful Rebirth.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Vance Kovacs</artist>
+      <num>188</num>
+      <text>Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to target creature or player.&lt;br&gt;Exile Vengeful Rebirth.</text>
+    </mc>
+    <mc>
+      <id>397882</id>
+      <name>Viashino Slaughtermaster</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Viashino Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Double strike&lt;br&gt;{B}{G}: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>133</num>
+      <text>Double strike&lt;br&gt;{B}{G}: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn.</text>
+    </mc>
+    <mc>
+      <id>397829</id>
+      <name>Vigean Graftmage</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Vedalken Wizard Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Graft 2 &lt;i&gt;(This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;{1}{U}: Untap target creature with a +1/+1 counter on it.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Alan Pollack</artist>
+      <num>68</num>
+      <text>Graft 2 &lt;i&gt;(This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;&lt;br&gt;{1}{U}: Untap target creature with a +1/+1 counter on it.</text>
+    </mc>
+    <mc>
+      <id>397747</id>
+      <name>Vines of Vastwood</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <oracleText>Kicker {G} &lt;i&gt;(You may pay an additional {G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>168</num>
+      <text>Kicker {G} &lt;i&gt;(You may pay an additional {G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397687</id>
+      <name>Waking Nightmare</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery - Arcane</type>
+      <oracleText>Target player discards two cards.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Mitch Cotie</artist>
+      <num>103</num>
+      <text>Target player discards two cards.</text>
+    </mc>
+    <mc>
+      <id>397694</id>
+      <name>Water Servant</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>{U}: Water Servant gets +1/-1 until end of turn.&lt;br&gt;{U}: Water Servant gets -1/+1 until end of turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>69</num>
+      <text>{U}: Water Servant gets +1/-1 until end of turn.&lt;br&gt;{U}: Water Servant gets -1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397732</id>
+      <name>Waxmane Baku</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Waxmane Baku.&lt;br&gt;{1}, Remove X ki counters from Waxmane Baku: Tap X target creatures.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Greg Hildebrandt</artist>
+      <num>38</num>
+      <text>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Waxmane Baku.&lt;br&gt;{1}, Remove X ki counters from Waxmane Baku: Tap X target creatures.</text>
+    </mc>
+    <mc>
+      <id>397703</id>
+      <name>Wayfarer's Bauble</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <oracleText>{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Darrell Riche</artist>
+      <num>234</num>
+      <text>{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>397825</id>
+      <name>Wildfire</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Each player sacrifices four lands. Wildfire deals 4 damage to each creature.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Rob Alexander</artist>
+      <num>134</num>
+      <text>Each player sacrifices four lands. Wildfire deals 4 damage to each creature.</text>
+    </mc>
+    <mc>
+      <id>397852</id>
+      <name>Wilt-Leaf Liege</name>
+      <cost>{1}{G/W}{G/W}{G/W}</cost>
+      <type>Creature - Elf Knight</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Other green creatures you control get +1/+1.&lt;br&gt;Other white creatures you control get +1/+1.&lt;br&gt;If a spell or ability an opponent controls causes you to discard Wilt-Leaf Liege, put it onto the battlefield instead of putting it into your graveyard.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Chan</artist>
+      <num>200</num>
+      <text>Other green creatures you control get +1/+1.&lt;br&gt;Other white creatures you control get +1/+1.&lt;br&gt;If a spell or ability an opponent controls causes you to discard Wilt-Leaf Liege, put it onto the battlefield instead of putting it into your graveyard.</text>
+    </mc>
+    <mc>
+      <id>397897</id>
+      <name>Wings of Velis Vel</name>
+      <cost>{1}{U}</cost>
+      <type>Tribal Instant - Shapeshifter</type>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Until end of turn, target creature has base power and toughness 4/4, gains all creature types, and gains flying.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Jim Pavelec</artist>
+      <num>70</num>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Until end of turn, target creature has base power and toughness 4/4, gains all creature types, and gains flying.</text>
+    </mc>
+    <mc>
+      <id>397878</id>
+      <name>Wolfbriar Elemental</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Multikicker {G} &lt;i&gt;(You may pay an additional {G} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Wolfbriar Elemental enters the battlefield, put a 2/2 green Wolf creature token onto the battlefield for each time it was kicked.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Rare</rarity>
+      <artist>Chippy</artist>
+      <num>169</num>
+      <text>Multikicker {G} &lt;i&gt;(You may pay an additional {G} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Wolfbriar Elemental enters the battlefield, put a 2/2 green Wolf creature token onto the battlefield for each time it was kicked.</text>
+    </mc>
+    <mc>
+      <id>397724</id>
+      <name>Worldheart Phoenix</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Phoenix</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;You may cast Worldheart Phoenix from your graveyard by paying {W}{U}{B}{R}{G} rather than paying its mana cost. If you do, it enters the battlefield with two +1/+1 counters on it.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Aleksi Briclot</artist>
+      <num>135</num>
+      <text>Flying&lt;br&gt;You may cast Worldheart Phoenix from your graveyard by paying {W}{U}{B}{R}{G} rather than paying its mana cost. If you do, it enters the battlefield with two +1/+1 counters on it.</text>
+    </mc>
+    <mc>
+      <id>397720</id>
+      <name>Wrap in Flames</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Common</rarity>
+      <artist>Véronique Meignaud</artist>
+      <num>136</num>
+      <text>Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.</text>
+    </mc>
+    <mc>
+      <id>397789</id>
+      <name>Wrecking Ball</name>
+      <cost>{2}{B}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target creature or land.</oracleText>
+      <edition>Modern Masters 2015 Edition</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Ron Spears</artist>
+      <num>189</num>
+      <text>Destroy target creature or land.</text>
+    </mc>
+  </list>
+</cards>

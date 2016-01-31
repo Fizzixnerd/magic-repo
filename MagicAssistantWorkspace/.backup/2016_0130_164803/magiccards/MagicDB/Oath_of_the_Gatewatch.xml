@@ -1,0 +1,2384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Oath_of_the_Gatewatch</name>
+  <key>Oath_of_the_Gatewatch</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>407693</id>
+      <name>Wastes</name>
+      <type>Basic Land</type>
+      <oracleText>{T}: Add {C} to your mana pool.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <rating>5.0</rating>
+      <artist>Jason Felix</artist>
+      <num>183</num>
+      <text>{T}: Add {C} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>407550</id>
+      <name>Abstruse Interference</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Counter target spell unless its controller pays {1}. You put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool." &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>40</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Counter target spell unless its controller pays {1}. You put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool." &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407524</id>
+      <name>Affa Protector</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier Ally</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <oracleText>Vigilance</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Izzy</artist>
+      <num>14</num>
+      <text>Vigilance</text>
+    </mc>
+    <mc>
+      <id>407611</id>
+      <name>Akoum Flameseeker</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Shaman Ally</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Cohort- {T}, Tap an untapped Ally you control: Discard a card. If you do, draw a card.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Willian Murai</artist>
+      <num>101</num>
+      <text>Cohort- {T}, Tap an untapped Ally you control: Discard a card. If you do, draw a card.</text>
+    </mc>
+    <mc>
+      <id>407525</id>
+      <name>Allied Reinforcements</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put two 2/2 white Knight Ally creature tokens onto the battlefield.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Matt Stewart</artist>
+      <num>15</num>
+      <text>Put two 2/2 white Knight Ally creature tokens onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>407560</id>
+      <name>Ancient Crab</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Crab</type>
+      <power>1</power>
+      <toughness>5</toughness>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Prescott</artist>
+      <num>50</num>
+    </mc>
+    <mc>
+      <id>407661</id>
+      <name>Ayli, Eternal Pilgrim</name>
+      <cost>{W}{B}</cost>
+      <type>Legendary Creature - Kor Cleric</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Deathtouch&lt;br&gt;{1}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.&lt;br&gt;{1}{W}{B}, Sacrifice another creature: Exile target nonland permanent. Activate this ability only if you have at least 10 life more than your starting life total.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Cynthia Sheppard</artist>
+      <num>151</num>
+      <text>Deathtouch&lt;br&gt;{1}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.&lt;br&gt;{1}{W}{B}, Sacrifice another creature: Exile target nonland permanent. Activate this ability only if you have at least 10 life more than your starting life total.</text>
+    </mc>
+    <mc>
+      <id>407662</id>
+      <name>Baloth Null</name>
+      <cost>{4}{B}{G}</cost>
+      <type>Creature - Zombie Beast</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>When Baloth Null enters the battlefield, return up to two target creature cards from your graveyard to your hand.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jakub Kasper</artist>
+      <num>152</num>
+      <text>When Baloth Null enters the battlefield, return up to two target creature cards from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>407637</id>
+      <name>Baloth Pup</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Baloth Pup has trample as long as it has a +1/+1 counter on it.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steve Prescott</artist>
+      <num>127</num>
+      <text>Baloth Pup has trample as long as it has a +1/+1 counter on it.</text>
+    </mc>
+    <mc>
+      <id>407577</id>
+      <name>Bearer of Silence</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;When you cast Bearer of Silence, you may pay {1}{C}. If you do, target opponent sacrifices a creature. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Bearer of Silence can't block.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>67</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;When you cast Bearer of Silence, you may pay {1}{C}. If you do, target opponent sacrifices a creature. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Bearer of Silence can't block.</text>
+    </mc>
+    <mc>
+      <id>407631</id>
+      <name>Birthing Hulk</name>
+      <cost>{6}{G}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;When Birthing Hulk enters the battlefield, put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have "Sacrifice this creature: Add {C} to your mana pool." &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{1}{C}: Regenerate Birthing Hulk.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jack Wang</artist>
+      <num>121</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;When Birthing Hulk enters the battlefield, put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have "Sacrifice this creature: Add {C} to your mana pool." &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{1}{C}: Regenerate Birthing Hulk.</text>
+    </mc>
+    <mc>
+      <id>407551</id>
+      <name>Blinding Drone</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{C}, {T}: Tap target creature. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Lake Hurwitz</artist>
+      <num>41</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{C}, {T}: Tap target creature. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407638</id>
+      <name>Bonds of Mortality</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>When Bonds of Mortality enters the battlefield, draw a card.&lt;br&gt;{G}: Creatures your opponents control lose hexproof and indestructible until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Chris Rallis</artist>
+      <num>128</num>
+      <text>When Bonds of Mortality enters the battlefield, draw a card.&lt;br&gt;{G}: Creatures your opponents control lose hexproof and indestructible until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407671</id>
+      <name>Bone Saw</name>
+      <cost>{0}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +1/+0.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>161</num>
+      <text>Equipped creature gets +1/+0.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407612</id>
+      <name>Boulder Salvo</name>
+      <cost>{4}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Surge {1}{R} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Boulder Salvo deals 4 damage to target creature.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Vincent Proce</artist>
+      <num>102</num>
+      <text>Surge {1}{R} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Boulder Salvo deals 4 damage to target creature.</text>
+    </mc>
+    <mc>
+      <id>407613</id>
+      <name>Brute Strength</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets +3/+1 and gains trample until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>103</num>
+      <text>Target creature gets +3/+1 and gains trample until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407526</id>
+      <name>Call the Gatewatch</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Search your library for a planeswalker card, reveal it, and put it into your hand. Then shuffle your library.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Yefim Kligerman</artist>
+      <num>16</num>
+      <text>Search your library for a planeswalker card, reveal it, and put it into your hand. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>407639</id>
+      <name>Canopy Gorger</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Lake Hurwitz</artist>
+      <num>129</num>
+    </mc>
+    <mc>
+      <id>407672</id>
+      <name>Captain's Claws</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +1/+0.&lt;br&gt;Whenever equipped creature attacks, put a 1/1 white Kor Ally creature token onto the battlefield tapped and attacking.&lt;br&gt;Equip {1}</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Anthony Palumbo</artist>
+      <num>162</num>
+      <text>Equipped creature gets +1/+0.&lt;br&gt;Whenever equipped creature attacks, put a 1/1 white Kor Ally creature token onto the battlefield tapped and attacking.&lt;br&gt;Equip {1}</text>
+    </mc>
+    <mc>
+      <id>407614</id>
+      <name>Chandra, Flamecaller</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Planeswalker - Chandra</type>
+      <toughness>4</toughness>
+      <oracleText>+1: Put two 3/1 red Elemental creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.&lt;br&gt;0: Discard all the cards in your hand, then draw that many cards plus one.&lt;br&gt;−X: Chandra, Flamecaller deals X damage to each creature.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jason Rainville</artist>
+      <num>104</num>
+      <text>+1: Put two 3/1 red Elemental creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.&lt;br&gt;0: Discard all the cards in your hand, then draw that many cards plus one.&lt;br&gt;−X: Chandra, Flamecaller deals X damage to each creature.</text>
+    </mc>
+    <mc>
+      <id>407673</id>
+      <name>Chitinous Cloak</name>
+      <cost>{3}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +2/+2 and has menace. &lt;i&gt;(It can't be blocked except by two or more creatures.)&lt;/i&gt;&lt;br&gt;Equip {3}</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Chris Rahn</artist>
+      <num>163</num>
+      <text>Equipped creature gets +2/+2 and has menace. &lt;i&gt;(It can't be blocked except by two or more creatures.)&lt;/i&gt;&lt;br&gt;Equip {3}</text>
+    </mc>
+    <mc>
+      <id>407678</id>
+      <name>Cinder Barrens</name>
+      <type>Land</type>
+      <oracleText>Cinder Barrens enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Cliff Childs</artist>
+      <num>168</num>
+      <text>Cinder Barrens enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>407615</id>
+      <name>Cinder Hellion</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Hellion</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Trample&lt;br&gt;When Cinder Hellion enters the battlefield, it deals 2 damage to target opponent.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Kang</artist>
+      <num>105</num>
+      <text>Trample&lt;br&gt;When Cinder Hellion enters the battlefield, it deals 2 damage to target opponent.</text>
+    </mc>
+    <mc>
+      <id>407663</id>
+      <name>Cliffhaven Vampire</name>
+      <cost>{2}{W}{B}</cost>
+      <type>Creature - Vampire Warrior Ally</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever you gain life, each opponent loses 1 life.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Gaillet</artist>
+      <num>153</num>
+      <text>Flying&lt;br&gt;Whenever you gain life, each opponent loses 1 life.</text>
+    </mc>
+    <mc>
+      <id>407561</id>
+      <name>Comparative Analysis</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Surge {2}{U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Target player draws two cards.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Willian Murai</artist>
+      <num>51</num>
+      <text>Surge {2}{U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Target player draws two cards.</text>
+    </mc>
+    <mc>
+      <id>407604</id>
+      <name>Consuming Sinkhole</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Choose one-&lt;br&gt;• Exile target land creature.&lt;br&gt;• Consuming Sinkhole deals 4 damage to target player.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>94</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Choose one-&lt;br&gt;• Exile target land creature.&lt;br&gt;• Consuming Sinkhole deals 4 damage to target player.</text>
+    </mc>
+    <mc>
+      <id>407562</id>
+      <name>Containment Membrane</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Surge {U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Daarken</artist>
+      <num>52</num>
+      <text>Surge {U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.</text>
+    </mc>
+    <mc>
+      <id>407593</id>
+      <name>Corpse Churn</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Put the top three cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Magali Villeneuve</artist>
+      <num>83</num>
+      <text>Put the top three cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>407679</id>
+      <name>Corrupted Crossroads</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{T}, Pay 1 life: Add one mana of any color to your mana pool. Spend this mana only to cast a spell with devoid.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>169</num>
+      <text>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{T}, Pay 1 life: Add one mana of any color to your mana pool. Spend this mana only to cast a spell with devoid.</text>
+    </mc>
+    <mc>
+      <id>407680</id>
+      <name>Crumbling Vestige</name>
+      <type>Land</type>
+      <oracleText>Crumbling Vestige enters the battlefield tapped.&lt;br&gt;When Crumbling Vestige enters the battlefield, add one mana of any color to your mana pool.&lt;br&gt;{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Zack Stella</artist>
+      <num>170</num>
+      <text>Crumbling Vestige enters the battlefield tapped.&lt;br&gt;When Crumbling Vestige enters the battlefield, add one mana of any color to your mana pool.&lt;br&gt;{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407563</id>
+      <name>Crush of Tentacles</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Surge {3}{U}{U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Return all nonland permanents to their owners' hands. If Crush of Tentacles's surge cost was paid, put an 8/8 blue Octopus creature token onto the battlefield.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jama Jurabaev</artist>
+      <num>53</num>
+      <text>Surge {3}{U}{U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Return all nonland permanents to their owners' hands. If Crush of Tentacles's surge cost was paid, put an 8/8 blue Octopus creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>407552</id>
+      <name>Cultivator Drone</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{T}: Add {C} to your mana pool. Spend this mana only to cast a colorless spell, activate an ability of a colorless permanent, or pay a cost that contains {C}. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>42</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{T}: Add {C} to your mana pool. Spend this mana only to cast a colorless spell, activate an ability of a colorless permanent, or pay a cost that contains {C}. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407564</id>
+      <name>Cyclone Sire</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;When Cyclone Sire dies, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>54</num>
+      <text>Flying&lt;br&gt;When Cyclone Sire dies, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.</text>
+    </mc>
+    <mc>
+      <id>407527</id>
+      <name>Dazzling Reflection</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>You gain life equal to target creature's power. The next time that creature would deal damage this turn, prevent that damage.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>David Palumbo</artist>
+      <num>17</num>
+      <text>You gain life equal to target creature's power. The next time that creature would deal damage this turn, prevent that damage.</text>
+    </mc>
+    <mc>
+      <id>407511</id>
+      <name>Deceiver of Form</name>
+      <cost>{6}{C}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <oracleText>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;At the beginning of combat on your turn, reveal the top card of your library. If a creature card is revealed this way, you may have creatures you control other than Deceiver of Form become copies of that card until end of turn. You may put that card on the bottom of your library.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Viktor Titov</artist>
+      <num>1</num>
+      <text>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;At the beginning of combat on your turn, reveal the top card of your library. If a creature card is revealed this way, you may have creatures you control other than Deceiver of Form become copies of that card until end of turn. You may put that card on the bottom of your library.</text>
+    </mc>
+    <mc>
+      <id>407553</id>
+      <name>Deepfathom Skulker</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control deals combat damage to a player, you may draw a card.&lt;br&gt;{3}{C}: Target creature can't be blocked this turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Joseph Meehan</artist>
+      <num>43</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control deals combat damage to a player, you may draw a card.&lt;br&gt;{3}{C}: Target creature can't be blocked this turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407616</id>
+      <name>Devour in Flames</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>As an additional cost to cast Devour in Flames, return a land you control to its owner's hand.&lt;br&gt;Devour in Flames deals 5 damage to target creature or planeswalker.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>106</num>
+      <text>As an additional cost to cast Devour in Flames, return a land you control to its owner's hand.&lt;br&gt;Devour in Flames deals 5 damage to target creature or planeswalker.</text>
+    </mc>
+    <mc>
+      <id>407554</id>
+      <name>Dimensional Infiltrator</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flash&lt;br&gt;Flying&lt;br&gt;{1}{C}: Target opponent exiles the top card of his or her library. If it's a land card, you may return Dimensional Infiltrator to its owner's hand. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Chase Stone</artist>
+      <num>44</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flash&lt;br&gt;Flying&lt;br&gt;{1}{C}: Target opponent exiles the top card of his or her library. If it's a land card, you may return Dimensional Infiltrator to its owner's hand. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407594</id>
+      <name>Drana's Chosen</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Vampire Shaman Ally</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Cohort- {T}, Tap an untapped Ally you control: Put a 2/2 black Zombie creature token onto the battlefield tapped.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Deruchenko Alexander</artist>
+      <num>84</num>
+      <text>Cohort- {T}, Tap an untapped Ally you control: Put a 2/2 black Zombie creature token onto the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>407578</id>
+      <name>Dread Defiler</name>
+      <cost>{6}{B}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>6</power>
+      <toughness>8</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{3}{C}, Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>68</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{3}{C}, Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407605</id>
+      <name>Eldrazi Aggressor</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Eldrazi Aggressor has haste as long as you control another colorless creature.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Mathias Kollros</artist>
+      <num>95</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Eldrazi Aggressor has haste as long as you control another colorless creature.</text>
+    </mc>
+    <mc>
+      <id>407523</id>
+      <name>Eldrazi Displacer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{2}{C}: Exile another target creature, then return it to the battlefield tapped under its owner's control. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Daarken</artist>
+      <num>13</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{2}{C}: Exile another target creature, then return it to the battlefield tapped under its owner's control. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407512</id>
+      <name>Eldrazi Mimic</name>
+      <cost>{2}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Whenever another colorless creature enters the battlefield under your control, you may change Eldrazi Mimic's base power and toughness to that creature's power and toughness until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Craig J Spearing</artist>
+      <num>2</num>
+      <text>Whenever another colorless creature enters the battlefield under your control, you may change Eldrazi Mimic's base power and toughness to that creature's power and toughness until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407606</id>
+      <name>Eldrazi Obligator</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;When you cast Eldrazi Obligator, you may pay {1}{C}. If you do, gain control of target creature until end of turn, untap that creature, and it gains haste until end of turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Haste</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Felix</artist>
+      <num>96</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;When you cast Eldrazi Obligator, you may pay {1}{C}. If you do, gain control of target creature until end of turn, untap that creature, and it gains haste until end of turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Haste</text>
+    </mc>
+    <mc>
+      <id>407640</id>
+      <name>Elemental Uprising</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land. It must be blocked this turn if able.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>130</num>
+      <text>Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land. It must be blocked this turn if able.</text>
+    </mc>
+    <mc>
+      <id>407617</id>
+      <name>Embodiment of Fury</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <oracleText>Trample&lt;br&gt;Land creatures you control have trample.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Palumbo</artist>
+      <num>107</num>
+      <text>Trample&lt;br&gt;Land creatures you control have trample.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.</text>
+    </mc>
+    <mc>
+      <id>407641</id>
+      <name>Embodiment of Insight</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Vigilance&lt;br&gt;Land creatures you control have vigilance.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Marco Nelor</artist>
+      <num>131</num>
+      <text>Vigilance&lt;br&gt;Land creatures you control have vigilance.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.</text>
+    </mc>
+    <mc>
+      <id>407513</id>
+      <name>Endbringer</name>
+      <cost>{5}{C}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Untap Endbringer during each other player's untap step.&lt;br&gt;{T}: Endbringer deals 1 damage to target creature or player.&lt;br&gt;{C}, {T}: Target creature can't attack or block this turn.&lt;br&gt;{C}{C}, {T}: Draw a card.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Vincent Proce</artist>
+      <num>3</num>
+      <text>Untap Endbringer during each other player's untap step.&lt;br&gt;{T}: Endbringer deals 1 damage to target creature or player.&lt;br&gt;{C}, {T}: Target creature can't attack or block this turn.&lt;br&gt;{C}{C}, {T}: Draw a card.</text>
+    </mc>
+    <mc>
+      <id>407579</id>
+      <name>Essence Depleter</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{1}{C}: Target opponent loses 1 life and you gain 1 life. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Chase Stone</artist>
+      <num>69</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{1}{C}: Target opponent loses 1 life and you gain 1 life. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407618</id>
+      <name>Expedite</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gains haste until end of turn.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Kieran Yanner</artist>
+      <num>108</num>
+      <text>Target creature gains haste until end of turn.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>407528</id>
+      <name>Expedition Raptor</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;When Expedition Raptor enters the battlefield, support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two other target creatures.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Johann Bodin</artist>
+      <num>18</num>
+      <text>Flying&lt;br&gt;When Expedition Raptor enters the battlefield, support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two other target creatures.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407619</id>
+      <name>Fall of the Titans</name>
+      <cost>{X}{X}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Surge {X}{R} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Fall of the Titans deals X damage to each of up to two target creatures and/or players.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Chris Rallis</artist>
+      <num>109</num>
+      <text>Surge {X}{R} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Fall of the Titans deals X damage to each of up to two target creatures and/or players.</text>
+    </mc>
+    <mc>
+      <id>407658</id>
+      <name>Flayer Drone</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;First strike&lt;br&gt;Whenever another colorless creature enters the battlefield under your control, target opponent loses 1 life.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Lius Lasahido</artist>
+      <num>148</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;First strike&lt;br&gt;Whenever another colorless creature enters the battlefield under your control, target opponent loses 1 life.</text>
+    </mc>
+    <mc>
+      <id>407580</id>
+      <name>Flaying Tendrils</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;All creatures get -2/-2 until end of turn. If a creature would die this turn, exile it instead.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>70</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;All creatures get -2/-2 until end of turn. If a creature would die this turn, exile it instead.</text>
+    </mc>
+    <mc>
+      <id>407529</id>
+      <name>General Tazri</name>
+      <cost>{4}{W}</cost>
+      <type>Legendary Creature - Human Ally</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>When General Tazri enters the battlefield, you may search your library for an Ally creature card, reveal it, put it into your hand, then shuffle your library.&lt;br&gt;{W}{U}{B}{R}{G}: Ally creatures you control get +X/+X until end of turn, where X is the number of colors among those creatures.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Chris Rahn</artist>
+      <num>19</num>
+      <text>When General Tazri enters the battlefield, you may search your library for an Ally creature card, reveal it, put it into your hand, then shuffle your library.&lt;br&gt;{W}{U}{B}{R}{G}: Ally creatures you control get +X/+X until end of turn, where X is the number of colors among those creatures.</text>
+    </mc>
+    <mc>
+      <id>407565</id>
+      <name>Gift of Tusks</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <oracleText>Until end of turn, target creature loses all abilities and becomes a green Elephant with base power and toughness 3/3.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Kev Walker</artist>
+      <num>55</num>
+      <text>Until end of turn, target creature loses all abilities and becomes a green Elephant with base power and toughness 3/3.</text>
+    </mc>
+    <mc>
+      <id>407642</id>
+      <name>Gladehart Cavalry</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Elf Knight</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>When Gladehart Cavalry enters the battlefield, support 6. &lt;i&gt;(Put a +1/+1 counter on each of up to six other target creatures.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Steven Belledin</artist>
+      <num>132</num>
+      <text>When Gladehart Cavalry enters the battlefield, support 6. &lt;i&gt;(Put a +1/+1 counter on each of up to six other target creatures.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>407620</id>
+      <name>Goblin Dark-Dwellers</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Menace&lt;br&gt;When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Steven Belledin</artist>
+      <num>110</num>
+      <text>Menace&lt;br&gt;When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.</text>
+    </mc>
+    <mc>
+      <id>407621</id>
+      <name>Goblin Freerunner</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Warrior Ally</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Surge {1}{R} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Menace &lt;i&gt;(This creature can't be blocked except by two or more creatures.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>111</num>
+      <text>Surge {1}{R} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Menace &lt;i&gt;(This creature can't be blocked except by two or more creatures.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407595</id>
+      <name>Grasp of Darkness</name>
+      <cost>{B}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets -4/-4 until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daarken</artist>
+      <num>85</num>
+      <text>Target creature gets -4/-4 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407555</id>
+      <name>Gravity Negator</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Whenever Gravity Negator attacks, you may pay {C}. If you do, another target creature gains flying until end of turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Chase Stone</artist>
+      <num>45</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Whenever Gravity Negator attacks, you may pay {C}. If you do, another target creature gains flying until end of turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407566</id>
+      <name>Grip of the Roil</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Surge {1}{U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Tap target creature. It doesn't untap during its controller's next untap step.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Volkan Baga</artist>
+      <num>56</num>
+      <text>Surge {1}{U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Tap target creature. It doesn't untap during its controller's next untap step.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>407643</id>
+      <name>Harvester Troll</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Troll</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>When Harvester Troll enters the battlefield, you may sacrifice a creature or land. If you do, put two +1/+1 counters on Harvester Troll.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Greg Staples</artist>
+      <num>133</num>
+      <text>When Harvester Troll enters the battlefield, you may sacrifice a creature or land. If you do, put two +1/+1 counters on Harvester Troll.</text>
+    </mc>
+    <mc>
+      <id>407581</id>
+      <name>Havoc Sower</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{1}{C}: Havoc Sower gets +2/+1 until end of turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>71</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{1}{C}: Havoc Sower gets +2/+1 until end of turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407567</id>
+      <name>Hedron Alignment</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <oracleText>Hexproof&lt;br&gt;At the beginning of your upkeep, you may reveal your hand. If you do, you win the game if you own a card named Hedron Alignment in exile, in your hand, in your graveyard, and on the battlefield.&lt;br&gt;{1}{U}: Scry 1.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Craig J Spearing</artist>
+      <num>57</num>
+      <text>Hexproof&lt;br&gt;At the beginning of your upkeep, you may reveal your hand. If you do, you win the game if you own a card named Hedron Alignment in exile, in your hand, in your graveyard, and on the battlefield.&lt;br&gt;{1}{U}: Scry 1.</text>
+    </mc>
+    <mc>
+      <id>407674</id>
+      <name>Hedron Crawler</name>
+      <cost>{2}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>164</num>
+      <text>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407681</id>
+      <name>Hissing Quagmire</name>
+      <type>Land</type>
+      <oracleText>Hissing Quagmire enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.&lt;br&gt;{1}{B}{G}: Hissing Quagmire becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Cliff Childs</artist>
+      <num>171</num>
+      <text>Hissing Quagmire enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.&lt;br&gt;{1}{B}{G}: Hissing Quagmire becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land.</text>
+    </mc>
+    <mc>
+      <id>407682</id>
+      <name>Holdout Settlement</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{T}, Tap an untapped creature you control: Add one mana of any color to your mana pool.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Kieran Yanner</artist>
+      <num>172</num>
+      <text>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{T}, Tap an untapped creature you control: Add one mana of any color to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>407607</id>
+      <name>Immobilizer Eldrazi</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{2}{C}: Each creature with toughness greater than its power can't block this turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>97</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{2}{C}: Each creature with toughness greater than its power can't block this turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407530</id>
+      <name>Immolating Glare</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target attacking creature.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daarken</artist>
+      <num>20</num>
+      <text>Destroy target attacking creature.</text>
+    </mc>
+    <mc>
+      <id>407582</id>
+      <name>Inverter of Truth</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Inverter of Truth enters the battlefield, exile all cards from your library face down, then shuffle all cards from your graveyard into your library.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Chase Stone</artist>
+      <num>72</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Inverter of Truth enters the battlefield, exile all cards from your library face down, then shuffle all cards from your graveyard into your library.</text>
+    </mc>
+    <mc>
+      <id>407531</id>
+      <name>Iona's Blessing</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2, has vigilance, and can block an additional creature.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Gaillet</artist>
+      <num>21</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2, has vigilance, and can block an additional creature.</text>
+    </mc>
+    <mc>
+      <id>407532</id>
+      <name>Isolation Zone</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>When Isolation Zone enters the battlefield, exile target creature or enchantment an opponent controls until Isolation Zone leaves the battlefield. &lt;i&gt;(That permanent returns under its owner's control.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rallis</artist>
+      <num>22</num>
+      <text>When Isolation Zone enters the battlefield, exile target creature or enchantment an opponent controls until Isolation Zone leaves the battlefield. &lt;i&gt;(That permanent returns under its owner's control.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407664</id>
+      <name>Joraga Auxiliary</name>
+      <cost>{1}{G}{W}</cost>
+      <type>Creature - Elf Soldier Ally</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>{4}{G}{W}: Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two other target creatures.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Gaillet</artist>
+      <num>154</num>
+      <text>{4}{G}{W}: Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two other target creatures.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407665</id>
+      <name>Jori En, Ruin Diver</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Legendary Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Whenever you cast your second spell each turn, draw a card.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>155</num>
+      <text>Whenever you cast your second spell each turn, draw a card.</text>
+    </mc>
+    <mc>
+      <id>407568</id>
+      <name>Jwar Isle Avenger</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Sphinx</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Surge {2}{U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Flying</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>58</num>
+      <text>Surge {2}{U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Flying</text>
+    </mc>
+    <mc>
+      <id>407596</id>
+      <name>Kalitas, Traitor of Ghet</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Legendary Creature - Vampire Warrior</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Lifelink&lt;br&gt;If a nontoken creature an opponent controls would die, instead exile that card and put a 2/2 black Zombie creature token onto the battlefield.&lt;br&gt;{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas, Traitor of Ghet.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Todd Lockwood</artist>
+      <num>86</num>
+      <text>Lifelink&lt;br&gt;If a nontoken creature an opponent controls would die, instead exile that card and put a 2/2 black Zombie creature token onto the battlefield.&lt;br&gt;{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas, Traitor of Ghet.</text>
+    </mc>
+    <mc>
+      <id>407622</id>
+      <name>Kazuul's Toll Collector</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>{0}: Attach target Equipment you control to Kazuul's Toll Collector. Activate this ability only any time you could cast a sorcery.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Greg Staples</artist>
+      <num>112</num>
+      <text>{0}: Attach target Equipment you control to Kazuul's Toll Collector. Activate this ability only any time you could cast a sorcery.</text>
+    </mc>
+    <mc>
+      <id>407533</id>
+      <name>Kor Scythemaster</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Kor Soldier Ally</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Kor Scythemaster has first strike as long as it's attacking.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>23</num>
+      <text>Kor Scythemaster has first strike as long as it's attacking.</text>
+    </mc>
+    <mc>
+      <id>407534</id>
+      <name>Kor Sky Climber</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Kor Soldier Ally</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>{1}{W}: Kor Sky Climber gains flying until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Victor Adame Minguez</artist>
+      <num>24</num>
+      <text>{1}{W}: Kor Sky Climber gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407514</id>
+      <name>Kozilek, the Great Distortion</name>
+      <cost>{8}{C}{C}</cost>
+      <type>Legendary Creature - Eldrazi</type>
+      <power>12</power>
+      <toughness>12</toughness>
+      <oracleText>When you cast Kozilek, the Great Distortion, if you have fewer than seven cards in hand, draw cards equal to the difference.&lt;br&gt;Menace&lt;br&gt;Discard a card with converted mana cost X: Counter target spell with converted mana cost X.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Aleksi Briclot</artist>
+      <num>4</num>
+      <text>When you cast Kozilek, the Great Distortion, if you have fewer than seven cards in hand, draw cards equal to the difference.&lt;br&gt;Menace&lt;br&gt;Discard a card with converted mana cost X: Counter target spell with converted mana cost X.</text>
+    </mc>
+    <mc>
+      <id>407515</id>
+      <name>Kozilek's Pathfinder</name>
+      <cost>{6}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>{C}: Target creature can't block Kozilek's Pathfinder this turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>James Zapata</artist>
+      <num>5</num>
+      <text>{C}: Target creature can't block Kozilek's Pathfinder this turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407608</id>
+      <name>Kozilek's Return</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Kozilek's Return deals 2 damage to each creature.&lt;br&gt;Whenever you cast an Eldrazi creature spell with converted mana cost 7 or greater, you may exile Kozilek's Return from your graveyard. If you do, Kozilek's Return deals 5 damage to each creature.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Lius Lasahido</artist>
+      <num>98</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Kozilek's Return deals 2 damage to each creature.&lt;br&gt;Whenever you cast an Eldrazi creature spell with converted mana cost 7 or greater, you may exile Kozilek's Return from your graveyard. If you do, Kozilek's Return deals 5 damage to each creature.</text>
+    </mc>
+    <mc>
+      <id>407583</id>
+      <name>Kozilek's Shrieker</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{C}: Kozilek's Shrieker gets +1/+0 and gains menace until end of turn. &lt;i&gt;(It can't be blocked except by two or more creatures. {C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Felix</artist>
+      <num>73</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{C}: Kozilek's Shrieker gets +1/+0 and gains menace until end of turn. &lt;i&gt;(It can't be blocked except by two or more creatures. {C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407584</id>
+      <name>Kozilek's Translator</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Pay 1 life: Add {C} to your mana pool. Activate this ability only once each turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Izzy</artist>
+      <num>74</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Pay 1 life: Add {C} to your mana pool. Activate this ability only once each turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407644</id>
+      <name>Lead by Example</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two target creatures.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Johannes Voss</artist>
+      <num>134</num>
+      <text>Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two target creatures.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407535</id>
+      <name>Linvala, the Preserver</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Flying&lt;br&gt;When Linvala, the Preserver enters the battlefield, if an opponent has more life than you, you gain 5 life.&lt;br&gt;When Linvala enters the battlefield, if an opponent controls more creatures than you, put a 3/3 white Angel creature token with flying onto the battlefield.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Magali Villeneuve</artist>
+      <num>25</num>
+      <text>Flying&lt;br&gt;When Linvala, the Preserver enters the battlefield, if an opponent has more life than you, you gain 5 life.&lt;br&gt;When Linvala enters the battlefield, if an opponent controls more creatures than you, put a 3/3 white Angel creature token with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>407645</id>
+      <name>Loam Larva</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>When Loam Larva enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Kang</artist>
+      <num>135</num>
+      <text>When Loam Larva enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.</text>
+    </mc>
+    <mc>
+      <id>407536</id>
+      <name>Make a Stand</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Creatures you control get +1/+0 and gain indestructible until end of turn. &lt;i&gt;(Damage and effects that say "destroy" don't destroy them.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Magali Villeneuve</artist>
+      <num>26</num>
+      <text>Creatures you control get +1/+0 and gain indestructible until end of turn. &lt;i&gt;(Damage and effects that say "destroy" don't destroy them.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407537</id>
+      <name>Makindi Aeronaut</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kor Scout Ally</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>Flying</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Stewart</artist>
+      <num>27</num>
+      <text>Flying</text>
+    </mc>
+    <mc>
+      <id>407597</id>
+      <name>Malakir Soothsayer</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Vampire Shaman Ally</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Cohort- {T}, Tap an untapped Ally you control: You draw a card and you lose 1 life.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Greg Opalinski</artist>
+      <num>87</num>
+      <text>Cohort- {T}, Tap an untapped Ally you control: You draw a card and you lose 1 life.</text>
+    </mc>
+    <mc>
+      <id>407516</id>
+      <name>Matter Reshaper</name>
+      <cost>{2}{C}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;When Matter Reshaper dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with converted mana cost 3 or less. Otherwise, put that card into your hand.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Chris Rahn</artist>
+      <num>6</num>
+      <text>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;When Matter Reshaper dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with converted mana cost 3 or less. Otherwise, put that card into your hand.</text>
+    </mc>
+    <mc>
+      <id>407609</id>
+      <name>Maw of Kozilek</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{C}: Maw of Kozilek gets +2/-2 until end of turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Daarken</artist>
+      <num>99</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{C}: Maw of Kozilek gets +2/-2 until end of turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407683</id>
+      <name>Meandering River</name>
+      <type>Land</type>
+      <oracleText>Meandering River enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Cliff Childs</artist>
+      <num>173</num>
+      <text>Meandering River enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>407538</id>
+      <name>Mighty Leap</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets +2/+2 and gains flying until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Winona Nelson</artist>
+      <num>28</num>
+      <text>Target creature gets +2/+2 and gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407666</id>
+      <name>Mina and Denn, Wildborn</name>
+      <cost>{2}{R}{G}</cost>
+      <type>Legendary Creature - Elf Ally</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>You may play an additional land on each of your turns.&lt;br&gt;{R}{G}, Return a land you control to its owner's hand: Target creature gains trample until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Izzy</artist>
+      <num>156</num>
+      <text>You may play an additional land on each of your turns.&lt;br&gt;{R}{G}, Return a land you control to its owner's hand: Target creature gains trample until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407659</id>
+      <name>Mindmelter</name>
+      <cost>{1}{U}{B}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Mindmelter can't be blocked.&lt;br&gt;{3}{C}: Target opponent exiles a card from his or her hand. Activate this ability only any time you could cast a sorcery. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Felix</artist>
+      <num>149</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Mindmelter can't be blocked.&lt;br&gt;{3}{C}: Target opponent exiles a card from his or her hand. Activate this ability only any time you could cast a sorcery. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407684</id>
+      <name>Mirrorpool</name>
+      <type>Land</type>
+      <oracleText>Mirrorpool enters the battlefield tapped.&lt;br&gt;{T}: Add {C} to your mana pool.&lt;br&gt;{2}{C}, {T}, Sacrifice Mirrorpool: Copy target instant or sorcery spell you control. You may choose new targets for the copy.&lt;br&gt;{4}{C}, {T}, Sacrifice Mirrorpool: Put a token onto the battlefield that's a copy of target creature you control.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Cliff Childs</artist>
+      <num>174</num>
+      <text>Mirrorpool enters the battlefield tapped.&lt;br&gt;{T}: Add {C} to your mana pool.&lt;br&gt;{2}{C}, {T}, Sacrifice Mirrorpool: Copy target instant or sorcery spell you control. You may choose new targets for the copy.&lt;br&gt;{4}{C}, {T}, Sacrifice Mirrorpool: Put a token onto the battlefield that's a copy of target creature you control.</text>
+    </mc>
+    <mc>
+      <id>407539</id>
+      <name>Munda's Vanguard</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Kor Knight Ally</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Cohort- {T}, Tap an untapped Ally you control: Put a +1/+1 counter on each creature you control.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Steve Prescott</artist>
+      <num>29</num>
+      <text>Cohort- {T}, Tap an untapped Ally you control: Put a +1/+1 counter on each creature you control.</text>
+    </mc>
+    <mc>
+      <id>407646</id>
+      <name>Natural State</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target artifact or enchantment with converted mana cost 3 or less.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Volkan Baga</artist>
+      <num>136</num>
+      <text>Destroy target artifact or enchantment with converted mana cost 3 or less.</text>
+    </mc>
+    <mc>
+      <id>407685</id>
+      <name>Needle Spires</name>
+      <type>Land</type>
+      <oracleText>Needle Spires enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.&lt;br&gt;{2}{R}{W}: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Jonas De Ro</artist>
+      <num>175</num>
+      <text>Needle Spires enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.&lt;br&gt;{2}{R}{W}: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.</text>
+    </mc>
+    <mc>
+      <id>407569</id>
+      <name>Negate</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target noncreature spell.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>59</num>
+      <text>Counter target noncreature spell.</text>
+    </mc>
+    <mc>
+      <id>407647</id>
+      <name>Netcaster Spider</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Zoltan Boros</artist>
+      <num>137</num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407648</id>
+      <name>Nissa, Voice of Zendikar</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Planeswalker - Nissa</type>
+      <toughness>3</toughness>
+      <oracleText>+1: Put a 0/1 green Plant creature token onto the battlefield.&lt;br&gt;−2: Put a +1/+1 counter on each creature you control.&lt;br&gt;−7: You gain X life and draw X cards, where X is the number of lands you control.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>138</num>
+      <text>+1: Put a 0/1 green Plant creature token onto the battlefield.&lt;br&gt;−2: Put a +1/+1 counter on each creature you control.&lt;br&gt;−7: You gain X life and draw X cards, where X is the number of lands you control.</text>
+    </mc>
+    <mc>
+      <id>407649</id>
+      <name>Nissa's Judgment</name>
+      <cost>{4}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two target creatures.)&lt;/i&gt;&lt;br&gt;Choose up to one target creature an opponent controls. Each creature you control with a +1/+1 counter on it deals damage equal to its power to that creature.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>139</num>
+      <text>Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two target creatures.)&lt;/i&gt;&lt;br&gt;Choose up to one target creature an opponent controls. Each creature you control with a +1/+1 counter on it deals damage equal to its power to that creature.</text>
+    </mc>
+    <mc>
+      <id>407598</id>
+      <name>Null Caller</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Vampire Shaman</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>{3}{B}, Exile a creature card from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield tapped.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Darek Zabrocki</artist>
+      <num>88</num>
+      <text>{3}{B}, Exile a creature card from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>407623</id>
+      <name>Oath of Chandra</name>
+      <cost>{1}{R}</cost>
+      <type>Legendary Enchantment</type>
+      <oracleText>When Oath of Chandra enters the battlefield, it deals 3 damage to target creature an opponent controls.&lt;br&gt;At the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, Oath of Chandra deals 2 damage to each opponent.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Wesley Burt</artist>
+      <num>113</num>
+      <text>When Oath of Chandra enters the battlefield, it deals 3 damage to target creature an opponent controls.&lt;br&gt;At the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, Oath of Chandra deals 2 damage to each opponent.</text>
+    </mc>
+    <mc>
+      <id>407540</id>
+      <name>Oath of Gideon</name>
+      <cost>{2}{W}</cost>
+      <type>Legendary Enchantment</type>
+      <oracleText>When Oath of Gideon enters the battlefield, put two 1/1 white Kor Ally creature tokens onto the battlefield.&lt;br&gt;Each planeswalker you control enters the battlefield with an additional loyalty counter on it.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Wesley Burt</artist>
+      <num>30</num>
+      <text>When Oath of Gideon enters the battlefield, put two 1/1 white Kor Ally creature tokens onto the battlefield.&lt;br&gt;Each planeswalker you control enters the battlefield with an additional loyalty counter on it.</text>
+    </mc>
+    <mc>
+      <id>407570</id>
+      <name>Oath of Jace</name>
+      <cost>{2}{U}</cost>
+      <type>Legendary Enchantment</type>
+      <oracleText>When Oath of Jace enters the battlefield, draw three cards, then discard two cards.&lt;br&gt;At the beginning of your upkeep, scry X, where X is the number of planeswalkers you control.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Wesley Burt</artist>
+      <num>60</num>
+      <text>When Oath of Jace enters the battlefield, draw three cards, then discard two cards.&lt;br&gt;At the beginning of your upkeep, scry X, where X is the number of planeswalkers you control.</text>
+    </mc>
+    <mc>
+      <id>407650</id>
+      <name>Oath of Nissa</name>
+      <cost>{G}</cost>
+      <type>Legendary Enchantment</type>
+      <oracleText>When Oath of Nissa enters the battlefield, look at the top three cards of your library. You may reveal a creature, land, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.&lt;br&gt;You may spend mana as though it were mana of any color to cast planeswalker spells.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Wesley Burt</artist>
+      <num>140</num>
+      <text>When Oath of Nissa enters the battlefield, look at the top three cards of your library. You may reveal a creature, land, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.&lt;br&gt;You may spend mana as though it were mana of any color to cast planeswalker spells.</text>
+    </mc>
+    <mc>
+      <id>407585</id>
+      <name>Oblivion Strike</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Exile target creature.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>75</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Exile target creature.</text>
+    </mc>
+    <mc>
+      <id>407541</id>
+      <name>Ondu War Cleric</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric Ally</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Cohort- {T}, Tap an untapped Ally you control: You gain 2 life.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Ben Maier</artist>
+      <num>31</num>
+      <text>Cohort- {T}, Tap an untapped Ally you control: You gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>407571</id>
+      <name>Overwhelming Denial</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Surge {U}{U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Overwhelming Denial can't be countered by spells or abilities.&lt;br&gt;Counter target spell.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Jama Jurabaev</artist>
+      <num>61</num>
+      <text>Surge {U}{U} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Overwhelming Denial can't be countered by spells or abilities.&lt;br&gt;Counter target spell.</text>
+    </mc>
+    <mc>
+      <id>407624</id>
+      <name>Press into Service</name>
+      <cost>{4}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two target creatures.)&lt;/i&gt;&lt;br&gt;Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steve Prescott</artist>
+      <num>114</num>
+      <text>Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two target creatures.)&lt;/i&gt;&lt;br&gt;Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407556</id>
+      <name>Prophet of Distortion</name>
+      <cost>{U}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{3}{C}: Draw a card. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Lius Lasahido</artist>
+      <num>46</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{3}{C}: Draw a card. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407651</id>
+      <name>Pulse of Murasa</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Return target creature or land card from a graveyard to its owner's hand. You gain 6 life.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Stewart</artist>
+      <num>141</num>
+      <text>Return target creature or land card from a graveyard to its owner's hand. You gain 6 life.</text>
+    </mc>
+    <mc>
+      <id>407625</id>
+      <name>Pyromancer's Assault</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever you cast your second spell each turn, Pyromancer's Assault deals 2 damage to target creature or player.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Todd Lockwood</artist>
+      <num>115</num>
+      <text>Whenever you cast your second spell each turn, Pyromancer's Assault deals 2 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>407610</id>
+      <name>Reality Hemorrhage</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Reality Hemorrhage deals 2 damage to target creature or player.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rallis</artist>
+      <num>100</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Reality Hemorrhage deals 2 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>407517</id>
+      <name>Reality Smasher</name>
+      <cost>{4}{C}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Trample, haste&lt;br&gt;Whenever Reality Smasher becomes the target of a spell an opponent controls, counter that spell unless its controller discards a card.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Rainville</artist>
+      <num>7</num>
+      <text>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Trample, haste&lt;br&gt;Whenever Reality Smasher becomes the target of a spell an opponent controls, counter that spell unless its controller discards a card.</text>
+    </mc>
+    <mc>
+      <id>407586</id>
+      <name>Reaver Drone</name>
+      <cost>{B}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, you lose 1 life unless you control another colorless creature.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Chris Rallis</artist>
+      <num>76</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, you lose 1 life unless you control another colorless creature.</text>
+    </mc>
+    <mc>
+      <id>407626</id>
+      <name>Reckless Bushwhacker</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin Warrior Ally</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Surge {1}{R} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Haste&lt;br&gt;When Reckless Bushwhacker enters the battlefield, if its surge cost was paid, other creatures you control get +1/+0 and gain haste until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Kieran Yanner</artist>
+      <num>116</num>
+      <text>Surge {1}{R} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Haste&lt;br&gt;When Reckless Bushwhacker enters the battlefield, if its surge cost was paid, other creatures you control get +1/+0 and gain haste until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407667</id>
+      <name>Reflector Mage</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>When Reflector Mage enters the battlefield, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature until your next turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Willian Murai</artist>
+      <num>157</num>
+      <text>When Reflector Mage enters the battlefield, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature until your next turn.</text>
+    </mc>
+    <mc>
+      <id>407668</id>
+      <name>Relentless Hunter</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>{1}{R}{G}: Relentless Hunter gets +1/+1 and gains trample until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Matt Stewart</artist>
+      <num>158</num>
+      <text>{1}{R}{G}: Relentless Hunter gets +1/+1 and gains trample until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407542</id>
+      <name>Relief Captain</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Kor Knight Ally</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>When Relief Captain enters the battlefield, support 3. &lt;i&gt;(Put a +1/+1 counter on each of up to three other target creatures.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Anastasia Ovchinnikova</artist>
+      <num>32</num>
+      <text>When Relief Captain enters the battlefield, support 3. &lt;i&gt;(Put a +1/+1 counter on each of up to three other target creatures.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407599</id>
+      <name>Remorseless Punishment</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target opponent loses 5 life unless that player discards two cards or sacrifices a creature or planeswalker. Repeat this process once.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Ryan Barger</artist>
+      <num>89</num>
+      <text>Target opponent loses 5 life unless that player discards two cards or sacrifices a creature or planeswalker. Repeat this process once.</text>
+    </mc>
+    <mc>
+      <id>407572</id>
+      <name>Roiling Waters</name>
+      <cost>{5}{U}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Return up to two target creatures your opponents control to their owners' hands. Target player draws two cards.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Gaillet</artist>
+      <num>62</num>
+      <text>Return up to two target creatures your opponents control to their owners' hands. Target player draws two cards.</text>
+    </mc>
+    <mc>
+      <id>407632</id>
+      <name>Ruin in Their Wake</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Search your library for a basic land card and reveal it. You may put that card onto the battlefield tapped if you control a land named Wastes. Otherwise, put that card into your hand. Then shuffle your library.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Felix</artist>
+      <num>122</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Search your library for a basic land card and reveal it. You may put that card onto the battlefield tapped if you control a land named Wastes. Otherwise, put that card into your hand. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>407686</id>
+      <name>Ruins of Oran-Rief</name>
+      <type>Land</type>
+      <oracleText>Ruins of Oran-Rief enters the battlefield tapped.&lt;br&gt;{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{T}: Put a +1/+1 counter on target colorless creature that entered the battlefield this turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Felix</artist>
+      <num>176</num>
+      <text>Ruins of Oran-Rief enters the battlefield tapped.&lt;br&gt;{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{T}: Put a +1/+1 counter on target colorless creature that entered the battlefield this turn.</text>
+    </mc>
+    <mc>
+      <id>407652</id>
+      <name>Saddleback Lagac</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Lizard</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>When Saddleback Lagac enters the battlefield, support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two other target creatures.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Kang</artist>
+      <num>142</num>
+      <text>When Saddleback Lagac enters the battlefield, support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two other target creatures.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407633</id>
+      <name>Scion Summoner</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;When Scion Summoner enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool." &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Johann Bodin</artist>
+      <num>123</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;When Scion Summoner enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool." &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407687</id>
+      <name>Sea Gate Wreckage</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{2}{C}, {T}: Draw a card. Activate this ability only if you have no cards in hand.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Zack Stella</artist>
+      <num>177</num>
+      <text>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{2}{C}, {T}: Draw a card. Activate this ability only if you have no cards in hand.</text>
+    </mc>
+    <mc>
+      <id>407543</id>
+      <name>Searing Light</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target attacking or blocking creature with power 2 or less.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Marco Nelor</artist>
+      <num>33</num>
+      <text>Destroy target attacking or blocking creature with power 2 or less.</text>
+    </mc>
+    <mc>
+      <id>407653</id>
+      <name>Seed Guardian</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Reach&lt;br&gt;When Seed Guardian dies, put an X/X green Elemental creature token onto the battlefield, where X is the number of creature cards in your graveyard.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Vincent Proce</artist>
+      <num>143</num>
+      <text>Reach&lt;br&gt;When Seed Guardian dies, put an X/X green Elemental creature token onto the battlefield, where X is the number of creature cards in your graveyard.</text>
+    </mc>
+    <mc>
+      <id>407675</id>
+      <name>Seer's Lantern</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <oracleText>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{2}, {T}: Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Jung Park</artist>
+      <num>165</num>
+      <text>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{2}, {T}: Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407544</id>
+      <name>Shoulder to Shoulder</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two target creatures.)&lt;/i&gt;&lt;br&gt;Draw a card.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rallis</artist>
+      <num>34</num>
+      <text>Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two target creatures.)&lt;/i&gt;&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>407587</id>
+      <name>Sifter of Skulls</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Whenever another nontoken creature you control dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool." &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>77</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Whenever another nontoken creature you control dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool." &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407588</id>
+      <name>Sky Scourer</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Whenever you cast a colorless spell, Sky Scourer gets +1/+0 until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Winona Nelson</artist>
+      <num>78</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Whenever you cast a colorless spell, Sky Scourer gets +1/+0 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407589</id>
+      <name>Slaughter Drone</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{C}: Slaughter Drone gains deathtouch until end of turn. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it. {C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Dan Scott</artist>
+      <num>79</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{C}: Slaughter Drone gains deathtouch until end of turn. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it. {C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407557</id>
+      <name>Slip Through Space</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Target creature can't be blocked this turn.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>47</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Target creature can't be blocked this turn.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>407627</id>
+      <name>Sparkmage's Gambit</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Sparkmage's Gambit deals 1 damage to each of up to two target creatures. Those creatures can't block this turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Mathias Kollros</artist>
+      <num>117</num>
+      <text>Sparkmage's Gambit deals 1 damage to each of up to two target creatures. Those creatures can't block this turn.</text>
+    </mc>
+    <mc>
+      <id>407518</id>
+      <name>Spatial Contortion</name>
+      <cost>{1}{C}</cost>
+      <type>Instant</type>
+      <oracleText>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Target creature gets +3/-3 until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daarken</artist>
+      <num>8</num>
+      <text>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Target creature gets +3/-3 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407545</id>
+      <name>Spawnbinder Mage</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Wizard Ally</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>Cohort- {T}, Tap an untapped Ally you control: Tap target creature.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Dan Scott</artist>
+      <num>35</num>
+      <text>Cohort- {T}, Tap an untapped Ally you control: Tap target creature.</text>
+    </mc>
+    <mc>
+      <id>407573</id>
+      <name>Sphinx of the Final Word</name>
+      <cost>{5}{U}{U}</cost>
+      <type>Creature - Sphinx</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Sphinx of the Final Word can't be countered.&lt;br&gt;Flying, hexproof&lt;br&gt;Instant and sorcery spells you control can't be countered by spells or abilities.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Lius Lasahido</artist>
+      <num>63</num>
+      <text>Sphinx of the Final Word can't be countered.&lt;br&gt;Flying, hexproof&lt;br&gt;Instant and sorcery spells you control can't be countered by spells or abilities.</text>
+    </mc>
+    <mc>
+      <id>407634</id>
+      <name>Stalking Drone</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{C}: Stalking Drone gets +1/+2 until end of turn. Activate this ability only once each turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>124</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;{C}: Stalking Drone gets +1/+2 until end of turn. Activate this ability only once each turn. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407546</id>
+      <name>Steppe Glider</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Elemental</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>Flying, vigilance&lt;br&gt;{1}{W}: Target creature with a +1/+1 counter on it gains flying and vigilance until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Severin Brassell</artist>
+      <num>36</num>
+      <text>Flying, vigilance&lt;br&gt;{1}{W}: Target creature with a +1/+1 counter on it gains flying and vigilance until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407547</id>
+      <name>Stone Haven Outfitter</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kor Artificer Ally</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Equipped creatures you control get +1/+1.&lt;br&gt;Whenever an equipped creature you control dies, draw a card.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Rainville</artist>
+      <num>37</num>
+      <text>Equipped creatures you control get +1/+1.&lt;br&gt;Whenever an equipped creature you control dies, draw a card.</text>
+    </mc>
+    <mc>
+      <id>407548</id>
+      <name>Stoneforge Acolyte</name>
+      <cost>{W}</cost>
+      <type>Creature - Kor Artificer Ally</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Cohort- {T}, Tap an untapped Ally you control: Look at the top four cards of your library. You may reveal an Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Chris Rallis</artist>
+      <num>38</num>
+      <text>Cohort- {T}, Tap an untapped Ally you control: Look at the top four cards of your library. You may reveal an Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+    </mc>
+    <mc>
+      <id>407676</id>
+      <name>Stoneforge Masterwork</name>
+      <cost>{1}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +1/+1 for each other creature you control that shares a creature type with it.&lt;br&gt;Equip {2}</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Ben Maier</artist>
+      <num>166</num>
+      <text>Equipped creature gets +1/+1 for each other creature you control that shares a creature type with it.&lt;br&gt;Equip {2}</text>
+    </mc>
+    <mc>
+      <id>407669</id>
+      <name>Stormchaser Mage</name>
+      <cost>{U}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>Flying, haste&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Clint Cearley</artist>
+      <num>159</num>
+      <text>Flying, haste&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407677</id>
+      <name>Strider Harness</name>
+      <cost>{3}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +1/+1 and has haste.&lt;br&gt;Equip {1}</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Kev Walker</artist>
+      <num>167</num>
+      <text>Equipped creature gets +1/+1 and has haste.&lt;br&gt;Equip {1}</text>
+    </mc>
+    <mc>
+      <id>407688</id>
+      <name>Submerged Boneyard</name>
+      <type>Land</type>
+      <oracleText>Submerged Boneyard enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Cliff Childs</artist>
+      <num>178</num>
+      <text>Submerged Boneyard enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>407574</id>
+      <name>Sweep Away</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Return target creature to its owner's hand. If that creature is attacking, you may put it on top of its owner's library instead.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Winona Nelson</artist>
+      <num>64</num>
+      <text>Return target creature to its owner's hand. If that creature is attacking, you may put it on top of its owner's library instead.</text>
+    </mc>
+    <mc>
+      <id>407654</id>
+      <name>Sylvan Advocate</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid Ally</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Vigilance&lt;br&gt;As long as you control six or more lands, Sylvan Advocate and land creatures you control get +2/+2.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Volkan Baga</artist>
+      <num>144</num>
+      <text>Vigilance&lt;br&gt;As long as you control six or more lands, Sylvan Advocate and land creatures you control get +2/+2.</text>
+    </mc>
+    <mc>
+      <id>407655</id>
+      <name>Tajuru Pathwarden</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Elf Warrior Ally</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Vigilance, trample</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Victor Adame Minguez</artist>
+      <num>145</num>
+      <text>Vigilance, trample</text>
+    </mc>
+    <mc>
+      <id>407600</id>
+      <name>Tar Snare</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets -3/-2 until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>90</num>
+      <text>Target creature gets -3/-2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407628</id>
+      <name>Tears of Valakut</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Tears of Valakut can't be countered by spells or abilities.&lt;br&gt;Tears of Valakut deals 5 damage to target creature with flying.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Noah Bradley</artist>
+      <num>118</num>
+      <text>Tears of Valakut can't be countered by spells or abilities.&lt;br&gt;Tears of Valakut deals 5 damage to target creature with flying.</text>
+    </mc>
+    <mc>
+      <id>407558</id>
+      <name>Thought Harvester</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Whenever you cast a colorless spell, target opponent exiles the top card of his or her library.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Winona Nelson</artist>
+      <num>48</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Whenever you cast a colorless spell, target opponent exiles the top card of his or her library.</text>
+    </mc>
+    <mc>
+      <id>407519</id>
+      <name>Thought-Knot Seer</name>
+      <cost>{3}{C}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;When Thought-Knot Seer enters the battlefield, target opponent reveals his or her hand. You choose a nonland card from it and exile that card.&lt;br&gt;When Thought-Knot Seer leaves the battlefield, target opponent draws a card.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>9</num>
+      <text>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;When Thought-Knot Seer enters the battlefield, target opponent reveals his or her hand. You choose a nonland card from it and exile that card.&lt;br&gt;When Thought-Knot Seer leaves the battlefield, target opponent draws a card.</text>
+    </mc>
+    <mc>
+      <id>407689</id>
+      <name>Timber Gorge</name>
+      <type>Land</type>
+      <oracleText>Timber Gorge enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Cliff Childs</artist>
+      <num>179</num>
+      <text>Timber Gorge enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>407690</id>
+      <name>Tranquil Expanse</name>
+      <type>Land</type>
+      <oracleText>Tranquil Expanse enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Cliff Childs</artist>
+      <num>180</num>
+      <text>Tranquil Expanse enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>407629</id>
+      <name>Tyrant of Valakut</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Surge {3}{R}{R} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Tyrant of Valakut enters the battlefield, if its surge cost was paid, it deals 3 damage to target creature or player.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>119</num>
+      <text>Surge {3}{R}{R} &lt;i&gt;(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Tyrant of Valakut enters the battlefield, if its surge cost was paid, it deals 3 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>407575</id>
+      <name>Umara Entangler</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Rogue Ally</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>James Ryman</artist>
+      <num>65</num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407576</id>
+      <name>Unity of Purpose</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two target creatures.)&lt;/i&gt;&lt;br&gt;Untap each creature you control with a +1/+1 counter on it.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Felix</artist>
+      <num>66</num>
+      <text>Support 2. &lt;i&gt;(Put a +1/+1 counter on each of up to two target creatures.)&lt;/i&gt;&lt;br&gt;Untap each creature you control with a +1/+1 counter on it.</text>
+    </mc>
+    <mc>
+      <id>407691</id>
+      <name>Unknown Shores</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Jung Park</artist>
+      <num>181</num>
+      <text>{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>407590</id>
+      <name>Unnatural Endurance</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Target creature gets +2/+0 until end of turn. Regenerate it.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Mathias Kollros</artist>
+      <num>80</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Target creature gets +2/+0 until end of turn. Regenerate it.</text>
+    </mc>
+    <mc>
+      <id>407601</id>
+      <name>Untamed Hunger</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+1 and has menace. &lt;i&gt;(It can't be blocked except by two or more creatures.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Willian Murai</artist>
+      <num>91</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+1 and has menace. &lt;i&gt;(It can't be blocked except by two or more creatures.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407602</id>
+      <name>Vampire Envoy</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Vampire Cleric Ally</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Vampire Envoy becomes tapped, you gain 1 life.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Johannes Voss</artist>
+      <num>92</num>
+      <text>Flying&lt;br&gt;Whenever Vampire Envoy becomes tapped, you gain 1 life.</text>
+    </mc>
+    <mc>
+      <id>407635</id>
+      <name>Vile Redeemer</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flash&lt;br&gt;When you cast Vile Redeemer, you may pay {C}. If you do, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield for each nontoken creature that died under your control this turn. Those tokens have "Sacrifice this creature: Add {C} to your mana pool."</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Rainville</artist>
+      <num>125</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flash&lt;br&gt;When you cast Vile Redeemer, you may pay {C}. If you do, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield for each nontoken creature that died under your control this turn. Those tokens have "Sacrifice this creature: Add {C} to your mana pool."</text>
+    </mc>
+    <mc>
+      <id>407656</id>
+      <name>Vines of the Recluse</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets +1/+2 and gains reach until end of turn. Untap it. &lt;i&gt;(A creature with reach can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Dan Scott</artist>
+      <num>146</num>
+      <text>Target creature gets +1/+2 and gains reach until end of turn. Untap it. &lt;i&gt;(A creature with reach can block creatures with flying.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407591</id>
+      <name>Visions of Brutality</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature can't block.&lt;br&gt;Whenever enchanted creature deals damage, its controller loses that much life.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jama Jurabaev</artist>
+      <num>81</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature can't block.&lt;br&gt;Whenever enchanted creature deals damage, its controller loses that much life.</text>
+    </mc>
+    <mc>
+      <id>407660</id>
+      <name>Void Grafter</name>
+      <cost>{1}{G}{U}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Void Grafter enters the battlefield, another target creature you control gains hexproof until end of turn.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Alejandro Mirabal</artist>
+      <num>150</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Void Grafter enters the battlefield, another target creature you control gains hexproof until end of turn.</text>
+    </mc>
+    <mc>
+      <id>407559</id>
+      <name>Void Shatter</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Felix</artist>
+      <num>49</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.</text>
+    </mc>
+    <mc>
+      <id>407520</id>
+      <name>Walker of the Wastes</name>
+      <cost>{4}{C}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Trample&lt;br&gt;Walker of the Wastes gets +1/+1 for each land you control named Wastes.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Joseph Meehan</artist>
+      <num>10</num>
+      <text>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Trample&lt;br&gt;Walker of the Wastes gets +1/+1 for each land you control named Wastes.</text>
+    </mc>
+    <mc>
+      <id>407549</id>
+      <name>Wall of Resurgence</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>6</toughness>
+      <oracleText>Defender&lt;br&gt;When Wall of Resurgence enters the battlefield, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>39</num>
+      <text>Defender&lt;br&gt;When Wall of Resurgence enters the battlefield, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.</text>
+    </mc>
+    <mc>
+      <id>407692</id>
+      <name>Wandering Fumarole</name>
+      <type>Land</type>
+      <oracleText>Wandering Fumarole enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {R} to your mana pool.&lt;br&gt;{2}{U}{R}: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with "{0}: Switch this creature's power and toughness until end of turn." It's still a land.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Florian de Gesincourt</artist>
+      <num>182</num>
+      <text>Wandering Fumarole enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {R} to your mana pool.&lt;br&gt;{2}{U}{R}: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with "{0}: Switch this creature's power and toughness until end of turn." It's still a land.</text>
+    </mc>
+    <mc>
+      <id>407521</id>
+      <name>Warden of Geometries</name>
+      <cost>{4}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Vigilance&lt;br&gt;{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Felix</artist>
+      <num>11</num>
+      <text>Vigilance&lt;br&gt;{T}: Add {C} to your mana pool. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407522</id>
+      <name>Warping Wail</name>
+      <cost>{1}{C}</cost>
+      <type>Instant</type>
+      <oracleText>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Choose one-&lt;br&gt;• Exile target creature with power or toughness 1 or less.&lt;br&gt;• Counter target sorcery spell.&lt;br&gt;• Put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Felix</artist>
+      <num>12</num>
+      <text>&lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;&lt;br&gt;Choose one-&lt;br&gt;• Exile target creature with power or toughness 1 or less.&lt;br&gt;• Counter target sorcery spell.&lt;br&gt;• Put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has "Sacrifice this creature: Add {C} to your mana pool."</text>
+    </mc>
+    <mc>
+      <id>407670</id>
+      <name>Weapons Trainer</name>
+      <cost>{R}{W}</cost>
+      <type>Creature - Human Soldier Ally</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Other creatures you control get +1/+0 as long as you control an Equipment.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Greg Opalinski</artist>
+      <num>160</num>
+      <text>Other creatures you control get +1/+0 as long as you control an Equipment.</text>
+    </mc>
+    <mc>
+      <id>407592</id>
+      <name>Witness the End</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Target opponent exiles two cards from his or her hand and loses 2 life.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>82</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;Target opponent exiles two cards from his or her hand and loses 2 life.</text>
+    </mc>
+    <mc>
+      <id>407636</id>
+      <name>World Breaker</name>
+      <cost>{6}{G}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>5</power>
+      <toughness>7</toughness>
+      <oracleText>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;When you cast World Breaker, exile target artifact, enchantment, or land.&lt;br&gt;Reach&lt;br&gt;{2}{C}, Sacrifice a land: Return World Breaker from your graveyard to your hand. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jaime Jones</artist>
+      <num>126</num>
+      <text>Devoid &lt;i&gt;(This card has no color.)&lt;/i&gt;&lt;br&gt;When you cast World Breaker, exile target artifact, enchantment, or land.&lt;br&gt;Reach&lt;br&gt;{2}{C}, Sacrifice a land: Return World Breaker from your graveyard to your hand. &lt;i&gt;({C} represents colorless mana.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>407630</id>
+      <name>Zada's Commando</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Archer Ally</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>First strike&lt;br&gt;Cohort- {T}, Tap an untapped Ally you control: Zada's Commando deals 1 damage to target opponent.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Zack Stella</artist>
+      <num>120</num>
+      <text>First strike&lt;br&gt;Cohort- {T}, Tap an untapped Ally you control: Zada's Commando deals 1 damage to target opponent.</text>
+    </mc>
+    <mc>
+      <id>407657</id>
+      <name>Zendikar Resurgent</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced. &lt;i&gt;(The types of mana are white, blue, black, red, green, and colorless.)&lt;/i&gt;&lt;br&gt;Whenever you cast a creature spell, draw a card.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Rare</rarity>
+      <artist>Chris Rallis</artist>
+      <num>147</num>
+      <text>Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced. &lt;i&gt;(The types of mana are white, blue, black, red, green, and colorless.)&lt;/i&gt;&lt;br&gt;Whenever you cast a creature spell, draw a card.</text>
+    </mc>
+    <mc>
+      <id>407603</id>
+      <name>Zulaport Chainmage</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Human Shaman Ally</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <oracleText>Cohort- {T}, Tap an untapped Ally you control: Target opponent loses 2 life.</oracleText>
+      <edition>Oath of the Gatewatch</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rallis</artist>
+      <num>93</num>
+      <text>Cohort- {T}, Tap an untapped Ally you control: Target opponent loses 2 life.</text>
+    </mc>
+  </list>
+</cards>

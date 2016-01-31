@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Duel_Decks__Elspeth_vs__Kiora</name>
+  <key>Duel_Decks__Elspeth_vs__Kiora</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>394366</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Land</rarity>
+      <artist>Steven Belledin</artist>
+      <num>63</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>394377</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Land</rarity>
+      <artist>Steven Belledin</artist>
+      <num>60</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>394398</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Land</rarity>
+      <artist>Steven Belledin</artist>
+      <num>31</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>394351</id>
+      <name>Accumulated Knowledge</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>David Palumbo</artist>
+      <num>35</num>
+      <text>Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.</text>
+    </mc>
+    <mc>
+      <id>394352</id>
+      <name>Ætherize</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Return all attacking creatures to their owner's hand.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Ryan Barger</artist>
+      <num>36</num>
+      <text>Return all attacking creatures to their owner's hand.</text>
+    </mc>
+    <mc>
+      <id>394353</id>
+      <name>Banisher Priest</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. &lt;i&gt;(That creature returns under its owner's control.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Willian Murai</artist>
+      <num>2</num>
+      <text>When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. &lt;i&gt;(That creature returns under its owner's control.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394354</id>
+      <name>Captain of the Watch</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;&lt;br&gt;Other Soldier creatures you control get +1/+1 and have vigilance.&lt;br&gt;When Captain of the Watch enters the battlefield, put three 1/1 white Soldier creature tokens onto the battlefield.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Rare</rarity>
+      <artist>Greg Staples</artist>
+      <num>3</num>
+      <text>Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;&lt;br&gt;Other Soldier creatures you control get +1/+1 and have vigilance.&lt;br&gt;When Captain of the Watch enters the battlefield, put three 1/1 white Soldier creature tokens onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>394355</id>
+      <name>Celestial Flare</name>
+      <cost>{W}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Target player sacrifices an attacking or blocking creature.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Clint Cearley</artist>
+      <num>4</num>
+      <text>Target player sacrifices an attacking or blocking creature.</text>
+    </mc>
+    <mc>
+      <id>394356</id>
+      <name>Coiling Oracle</name>
+      <cost>{G}{U}</cost>
+      <type>Creature - Snake Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Mark Zug</artist>
+      <num>51</num>
+      <text>When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.</text>
+    </mc>
+    <mc>
+      <id>394357</id>
+      <name>Court Street Denizen</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever another white creature enters the battlefield under your control, tap target creature an opponent controls.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Volkan Baga</artist>
+      <num>5</num>
+      <text>Whenever another white creature enters the battlefield under your control, tap target creature an opponent controls.</text>
+    </mc>
+    <mc>
+      <id>394358</id>
+      <name>Dauntless Onslaught</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Up to two target creatures each get +2/+2 until end of turn.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Peter Mohrbacher</artist>
+      <num>6</num>
+      <text>Up to two target creatures each get +2/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>394359</id>
+      <name>Decree of Justice</name>
+      <cost>{X}{X}{2}{W}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put X 4/4 white Angel creature tokens with flying onto the battlefield.&lt;br&gt;Cycling {2}{W} &lt;i&gt;({2}{W}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Decree of Justice, you may pay {X}. If you do, put X 1/1 white Soldier creature tokens onto the battlefield.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Rare</rarity>
+      <artist>Lius Lasahido</artist>
+      <num>7</num>
+      <text>Put X 4/4 white Angel creature tokens with flying onto the battlefield.&lt;br&gt;Cycling {2}{W} &lt;i&gt;({2}{W}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Decree of Justice, you may pay {X}. If you do, put X 1/1 white Soldier creature tokens onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>394360</id>
+      <name>Dictate of Heliod</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>Flash&lt;br&gt;Creatures you control get +2/+2.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Rare</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>8</num>
+      <text>Flash&lt;br&gt;Creatures you control get +2/+2.</text>
+    </mc>
+    <mc>
+      <id>394361</id>
+      <name>Elspeth, Sun's Champion</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Planeswalker - Elspeth</type>
+      <toughness>4</toughness>
+      <oracleText>+1: Put three 1/1 white Soldier creature tokens onto the battlefield.&lt;br&gt;−3: Destroy all creatures with power 4 or greater.&lt;br&gt;−7: You get an emblem with "Creatures you control get +2/+2 and have flying."</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>1</num>
+      <text>+1: Put three 1/1 white Soldier creature tokens onto the battlefield.&lt;br&gt;−3: Destroy all creatures with power 4 or greater.&lt;br&gt;−7: You get an emblem with "Creatures you control get +2/+2 and have flying."</text>
+    </mc>
+    <mc>
+      <id>394362</id>
+      <name>Evolving Wilds</name>
+      <type>Land</type>
+      <oracleText>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Steven Belledin</artist>
+      <num>58</num>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>394363</id>
+      <name>Explore</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>You may play an additional land this turn.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Johann Bodin</artist>
+      <num>45</num>
+      <text>You may play an additional land this turn.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>394364</id>
+      <name>Explosive Vegetation</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Avon</artist>
+      <num>46</num>
+      <text>Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>394368</id>
+      <name>Gempalm Avenger</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <oracleText>Cycling {2}{W} &lt;i&gt;({2}{W}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Tim Hildebrandt</artist>
+      <num>9</num>
+      <text>Cycling {2}{W} &lt;i&gt;({2}{W}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.</text>
+    </mc>
+    <mc>
+      <id>394369</id>
+      <name>Grazing Gladehart</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Antelope</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may gain 2 life.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>47</num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>394370</id>
+      <name>Gustcloak Harrier</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Dan Frazier</artist>
+      <num>10</num>
+      <text>Flying&lt;br&gt;Whenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat.</text>
+    </mc>
+    <mc>
+      <id>394371</id>
+      <name>Gustcloak Savior</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a creature you control becomes blocked, you may untap that creature and remove it from combat.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Rare</rarity>
+      <artist>Jim Nelson</artist>
+      <num>11</num>
+      <text>Flying&lt;br&gt;Whenever a creature you control becomes blocked, you may untap that creature and remove it from combat.</text>
+    </mc>
+    <mc>
+      <id>394372</id>
+      <name>Gustcloak Sentinel</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mark Zug</artist>
+      <num>12</num>
+      <text>Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.</text>
+    </mc>
+    <mc>
+      <id>394373</id>
+      <name>Gustcloak Skirmisher</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dan Frazier</artist>
+      <num>13</num>
+      <text>Flying&lt;br&gt;Whenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat.</text>
+    </mc>
+    <mc>
+      <id>394374</id>
+      <name>Icatian Javelineers</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Michael Phillippi</artist>
+      <num>14</num>
+      <text>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>394375</id>
+      <name>Inkwell Leviathan</name>
+      <cost>{7}{U}{U}</cost>
+      <type>Artifact Creature - Leviathan</type>
+      <power>7</power>
+      <toughness>11</toughness>
+      <oracleText>Islandwalk, trample&lt;br&gt;Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Rare</rarity>
+      <artist>Anthony Francisco</artist>
+      <num>37</num>
+      <text>Islandwalk, trample&lt;br&gt;Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394379</id>
+      <name>Kinsbaile Skirmisher</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kithkin Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 until end of turn.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Thomas Denmark</artist>
+      <num>15</num>
+      <text>When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>394380</id>
+      <name>Kiora, the Crashing Wave</name>
+      <cost>{2}{G}{U}</cost>
+      <type>Planeswalker - Kiora</type>
+      <toughness>2</toughness>
+      <oracleText>+1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.&lt;br&gt;−1: Draw a card. You may play an additional land this turn.&lt;br&gt;−5: You get an emblem with "At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield."</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>34</num>
+      <text>+1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.&lt;br&gt;−1: Draw a card. You may play an additional land this turn.&lt;br&gt;−5: You get an emblem with "At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield."</text>
+    </mc>
+    <mc>
+      <id>394381</id>
+      <name>Kiora's Follower</name>
+      <cost>{G}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{T}: Untap another target permanent.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>52</num>
+      <text>{T}: Untap another target permanent.</text>
+    </mc>
+    <mc>
+      <id>394382</id>
+      <name>Kor Skyfisher</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kor Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Dan Scott</artist>
+      <num>16</num>
+      <text>Flying&lt;br&gt;When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>394383</id>
+      <name>Kraken</name>
+      <type>Token Creature-- Kraken</type>
+      <power>9</power>
+      <toughness>9</toughness>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Dan Scott</artist>
+      <num>67</num>
+    </mc>
+    <mc>
+      <id>394384</id>
+      <name>Lorescale Coatl</name>
+      <cost>{1}{G}{U}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Greg Staples</artist>
+      <num>53</num>
+      <text>Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.</text>
+    </mc>
+    <mc>
+      <id>394385</id>
+      <name>Loxodon Partisan</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Elephant Soldier</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Stewart</artist>
+      <num>17</num>
+      <text>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394386</id>
+      <name>Man-o'-War</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Jellyfish</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Man-o'-War enters the battlefield, return target creature to its owner's hand.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Jon J Muth</artist>
+      <num>38</num>
+      <text>When Man-o'-War enters the battlefield, return target creature to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>394387</id>
+      <name>Mighty Leap</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets +2/+2 and gains flying until end of turn.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>rk post</artist>
+      <num>18</num>
+      <text>Target creature gets +2/+2 and gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>394388</id>
+      <name>Mortal's Ardor</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets +1/+1 and gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>19</num>
+      <text>Target creature gets +1/+1 and gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394389</id>
+      <name>Mother of Runes</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Target creature you control gains protection from the color of your choice until end of turn.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>20</num>
+      <text>{T}: Target creature you control gains protection from the color of your choice until end of turn.</text>
+    </mc>
+    <mc>
+      <id>394390</id>
+      <name>Nessian Asp</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Snake</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Reach&lt;br&gt;{6}{G}: Monstrosity 4. &lt;i&gt;(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Alex Horley-Orlandelli</artist>
+      <num>48</num>
+      <text>Reach&lt;br&gt;{6}{G}: Monstrosity 4. &lt;i&gt;(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394391</id>
+      <name>Netcaster Spider</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Yohann Schepacz</artist>
+      <num>49</num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>394392</id>
+      <name>Nimbus Swimmer</name>
+      <cost>{X}{G}{U}</cost>
+      <type>Creature - Leviathan</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Flying&lt;br&gt;Nimbus Swimmer enters the battlefield with X +1/+1 counters on it.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Howard Lyon</artist>
+      <num>54</num>
+      <text>Flying&lt;br&gt;Nimbus Swimmer enters the battlefield with X +1/+1 counters on it.</text>
+    </mc>
+    <mc>
+      <id>394393</id>
+      <name>Noble Templar</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Human Cleric Soldier</type>
+      <power>3</power>
+      <toughness>6</toughness>
+      <oracleText>Vigilance&lt;br&gt;Plainscycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Alex Horley-Orlandelli</artist>
+      <num>21</num>
+      <text>Vigilance&lt;br&gt;Plainscycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394394</id>
+      <name>Omenspeaker</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>When Omenspeaker enters the battlefield, scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Dallas Williams</artist>
+      <num>39</num>
+      <text>When Omenspeaker enters the battlefield, scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394395</id>
+      <name>Peel from Reality</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Return target creature you control and target creature you don't control to their owners' hands.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Felix</artist>
+      <num>40</num>
+      <text>Return target creature you control and target creature you don't control to their owners' hands.</text>
+    </mc>
+    <mc>
+      <id>394400</id>
+      <name>Plasm Capture</name>
+      <cost>{G}{G}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spell's converted mana cost.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Rare</rarity>
+      <artist>Chase Stone</artist>
+      <num>55</num>
+      <text>Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spell's converted mana cost.</text>
+    </mc>
+    <mc>
+      <id>394401</id>
+      <name>Precinct Captain</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>First strike&lt;br&gt;Whenever Precinct Captain deals combat damage to a player, put a 1/1 white Soldier creature token onto the battlefield.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Rare</rarity>
+      <artist>Steve Prescott</artist>
+      <num>22</num>
+      <text>First strike&lt;br&gt;Whenever Precinct Captain deals combat damage to a player, put a 1/1 white Soldier creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>394402</id>
+      <name>Raise the Alarm</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Put two 1/1 white Soldier creature tokens onto the battlefield.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Zoltan Boros</artist>
+      <num>23</num>
+      <text>Put two 1/1 white Soldier creature tokens onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>394403</id>
+      <name>Scourge of Fleets</name>
+      <cost>{5}{U}{U}</cost>
+      <type>Creature - Kraken</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Rare</rarity>
+      <artist>Steven Belledin</artist>
+      <num>41</num>
+      <text>When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control.</text>
+    </mc>
+    <mc>
+      <id>394404</id>
+      <name>Sealock Monster</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Octopus</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Sealock Monster can't attack unless defending player controls an Island.&lt;br&gt;{5}{U}{U}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Adam Paquette</artist>
+      <num>42</num>
+      <text>Sealock Monster can't attack unless defending player controls an Island.&lt;br&gt;{5}{U}{U}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.</text>
+    </mc>
+    <mc>
+      <id>394405</id>
+      <name>Secluded Steppe</name>
+      <type>Land</type>
+      <oracleText>Secluded Steppe enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;Cycling {W} &lt;i&gt;({W}, Discard this card: Draw a card.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Heather Hudson</artist>
+      <num>29</num>
+      <text>Secluded Steppe enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;Cycling {W} &lt;i&gt;({W}, Discard this card: Draw a card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394406</id>
+      <name>Simic Sky Swallower</name>
+      <cost>{5}{G}{U}</cost>
+      <type>Creature - Leviathan</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Flying, trample&lt;br&gt;Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Rare</rarity>
+      <artist>rk post</artist>
+      <num>56</num>
+      <text>Flying, trample&lt;br&gt;Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394407</id>
+      <name>Soldier</name>
+      <type>Token Creature-- Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>66</num>
+    </mc>
+    <mc>
+      <id>394408</id>
+      <name>Soul Parry</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Prevent all damage one or two target creatures would deal this turn.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>24</num>
+      <text>Prevent all damage one or two target creatures would deal this turn.</text>
+    </mc>
+    <mc>
+      <id>394409</id>
+      <name>Standing Troops</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <oracleText>Vigilance</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Zoltan Boros</artist>
+      <num>25</num>
+      <text>Vigilance</text>
+    </mc>
+    <mc>
+      <id>394410</id>
+      <name>Sunlance</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Sunlance deals 3 damage to target nonwhite creature.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Volkan Baga</artist>
+      <num>26</num>
+      <text>Sunlance deals 3 damage to target nonwhite creature.</text>
+    </mc>
+    <mc>
+      <id>394411</id>
+      <name>Surrakar Banisher</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Surrakar</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>When Surrakar Banisher enters the battlefield, you may return target tapped creature to its owner's hand.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Cavotta</artist>
+      <num>43</num>
+      <text>When Surrakar Banisher enters the battlefield, you may return target tapped creature to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>394412</id>
+      <name>Temple of the False God</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {2} to your mana pool. Activate this ability only if you control five or more lands.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>James Zapata</artist>
+      <num>59</num>
+      <text>{T}: Add {2} to your mana pool. Activate this ability only if you control five or more lands.</text>
+    </mc>
+    <mc>
+      <id>394413</id>
+      <name>Time to Feed</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that creature. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>50</num>
+      <text>Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that creature. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394414</id>
+      <name>Urban Evolution</name>
+      <cost>{3}{G}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Draw three cards. You may play an additional land this turn.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Eytan Zana</artist>
+      <num>57</num>
+      <text>Draw three cards. You may play an additional land this turn.</text>
+    </mc>
+    <mc>
+      <id>394415</id>
+      <name>Veteran Armorsmith</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Other Soldier creatures you control get +0/+1.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Michael Komarck</artist>
+      <num>27</num>
+      <text>Other Soldier creatures you control get +0/+1.</text>
+    </mc>
+    <mc>
+      <id>394416</id>
+      <name>Veteran Swordsmith</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Other Soldier creatures you control get +1/+0.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Common</rarity>
+      <artist>Michael Komarck</artist>
+      <num>28</num>
+      <text>Other Soldier creatures you control get +1/+0.</text>
+    </mc>
+    <mc>
+      <id>394417</id>
+      <name>Whelming Wave</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents.</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Rare</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>44</num>
+      <text>Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents.</text>
+    </mc>
+    <mc>
+      <id>394365</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Land</rarity>
+      <artist>Vance Kovacs</artist>
+      <num>64</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>394367</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Land</rarity>
+      <artist>Vance Kovacs</artist>
+      <num>65</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>394376</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Land</rarity>
+      <artist>Jeremy Jarvis</artist>
+      <num>62</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>394378</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Land</rarity>
+      <artist>Jeremy Jarvis</artist>
+      <num>61</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>394396</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Land</rarity>
+      <artist>Véronique Meignaud</artist>
+      <num>33</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>394397</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Land</rarity>
+      <artist>Véronique Meignaud</artist>
+      <num>30</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>394399</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Duel Decks: Elspeth vs. Kiora</edition>
+      <rarity>Land</rarity>
+      <artist>Véronique Meignaud</artist>
+      <num>32</num>
+      <text>W</text>
+    </mc>
+  </list>
+</cards>

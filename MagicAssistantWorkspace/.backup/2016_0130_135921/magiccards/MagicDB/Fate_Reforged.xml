@@ -1,0 +1,2377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Fate_Reforged</name>
+  <key>Fate_Reforged</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>391836</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Land</rarity>
+      <artist>Titus Lunter</artist>
+      <num>184</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>391859</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Land</rarity>
+      <artist>Florian de Gesincourt</artist>
+      <num>178</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>391885</id>
+      <name>Mountain</name>
+      <type>Basic Land - Mountain</type>
+      <oracleText>R</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Land</rarity>
+      <artist>Noah Bradley</artist>
+      <num>182</num>
+      <text>R</text>
+    </mc>
+    <mc>
+      <id>391895</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Land</rarity>
+      <artist>Noah Bradley</artist>
+      <num>176</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>391934</id>
+      <name>Swamp</name>
+      <type>Basic Land - Swamp</type>
+      <oracleText>B</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Land</rarity>
+      <artist>Sam Burley</artist>
+      <num>180</num>
+      <text>B</text>
+    </mc>
+    <mc>
+      <id>391781</id>
+      <name>Abzan Advantage</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Target player sacrifices an enchantment. Bolster 1. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Winona Nelson</artist>
+      <num>2</num>
+      <text>Target player sacrifices an enchantment. Bolster 1. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391782</id>
+      <name>Abzan Beastmaster</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Hound Shaman</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Winona Nelson</artist>
+      <num>119</num>
+      <text>At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.</text>
+    </mc>
+    <mc>
+      <id>391783</id>
+      <name>Abzan Kin-Guard</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Abzan Kin-Guard has lifelink as long as you control a white or black permanent.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Craig J Spearing</artist>
+      <num>120</num>
+      <text>Abzan Kin-Guard has lifelink as long as you control a white or black permanent.</text>
+    </mc>
+    <mc>
+      <id>391784</id>
+      <name>Abzan Runemark</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature has vigilance as long as you control a black or green permanent.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>James Ryman</artist>
+      <num>3</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature has vigilance as long as you control a black or green permanent.</text>
+    </mc>
+    <mc>
+      <id>391785</id>
+      <name>Abzan Skycaptain</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;When Abzan Skycaptain dies, bolster 2. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Stewart</artist>
+      <num>4</num>
+      <text>Flying&lt;br&gt;When Abzan Skycaptain dies, bolster 2. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391786</id>
+      <name>Ainok Guide</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Hound Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>When Ainok Guide enters the battlefield, choose one-&lt;br&gt;• Put a +1/+1 counter on Ainok Guide.&lt;br&gt;• Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Lucas Graciano</artist>
+      <num>121</num>
+      <text>When Ainok Guide enters the battlefield, choose one-&lt;br&gt;• Put a +1/+1 counter on Ainok Guide.&lt;br&gt;• Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.</text>
+    </mc>
+    <mc>
+      <id>391787</id>
+      <name>Alesha, Who Smiles at Death</name>
+      <cost>{2}{R}</cost>
+      <type>Legendary Creature - Human Warrior</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>First strike&lt;br&gt;Whenever Alesha, Who Smiles at Death attacks, you may pay {W/B}{W/B}. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Anastasia Ovchinnikova</artist>
+      <num>90</num>
+      <text>First strike&lt;br&gt;Whenever Alesha, Who Smiles at Death attacks, you may pay {W/B}{W/B}. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.</text>
+    </mc>
+    <mc>
+      <id>391788</id>
+      <name>Alesha's Vanguard</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Dash {2}{B} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Torstein Nordstrand</artist>
+      <num>60</num>
+      <text>Dash {2}{B} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391789</id>
+      <name>Ambush Krotiq</name>
+      <cost>{5}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Trample&lt;br&gt;When Ambush Krotiq enters the battlefield, return another creature you control to its owner's hand.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Filip Burburan</artist>
+      <num>122</num>
+      <text>Trample&lt;br&gt;When Ambush Krotiq enters the battlefield, return another creature you control to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>391790</id>
+      <name>Ancestral Vengeance</name>
+      <cost>{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;When Ancestral Vengeance enters the battlefield, put a +1/+1 counter on target creature you control.&lt;br&gt;Enchanted creature gets -1/-1.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Yohann Schepacz</artist>
+      <num>61</num>
+      <text>Enchant creature&lt;br&gt;When Ancestral Vengeance enters the battlefield, put a +1/+1 counter on target creature you control.&lt;br&gt;Enchanted creature gets -1/-1.</text>
+    </mc>
+    <mc>
+      <id>391791</id>
+      <name>Arashin Cleric</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>When Arashin Cleric enters the battlefield, you gain 3 life.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rahn</artist>
+      <num>5</num>
+      <text>When Arashin Cleric enters the battlefield, you gain 3 life.</text>
+    </mc>
+    <mc>
+      <id>391792</id>
+      <name>Arashin War Beast</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>123</num>
+      <text>Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391793</id>
+      <name>Arcbond</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Choose target creature. Whenever that creature is dealt damage this turn, it deals that much damage to each other creature and each player.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>91</num>
+      <text>Choose target creature. Whenever that creature is dealt damage this turn, it deals that much damage to each other creature and each player.</text>
+    </mc>
+    <mc>
+      <id>391794</id>
+      <name>Archers of Qarsi</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Naga Archer</type>
+      <power>5</power>
+      <toughness>2</toughness>
+      <oracleText>Defender&lt;br&gt;Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Alejandro Mirabal</artist>
+      <num>124</num>
+      <text>Defender&lt;br&gt;Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391795</id>
+      <name>Archfiend of Depravity</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Daarken</artist>
+      <num>62</num>
+      <text>Flying&lt;br&gt;At the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest.</text>
+    </mc>
+    <mc>
+      <id>391796</id>
+      <name>Atarka, World Render</name>
+      <cost>{5}{R}{G}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <oracleText>Flying, trample&lt;br&gt;Whenever a Dragon you control attacks, it gains double strike until end of turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>149</num>
+      <text>Flying, trample&lt;br&gt;Whenever a Dragon you control attacks, it gains double strike until end of turn.</text>
+    </mc>
+    <mc>
+      <id>391797</id>
+      <name>Aven Skirmisher</name>
+      <cost>{W}</cost>
+      <type>Creature - Bird Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Flying</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Rainville</artist>
+      <num>6</num>
+      <text>Flying</text>
+    </mc>
+    <mc>
+      <id>391798</id>
+      <name>Aven Surveyor</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Bird Scout</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;When Aven Surveyor enters the battlefield, choose one-&lt;br&gt;• Put a +1/+1 counter on Aven Surveyor.&lt;br&gt;• Return target creature to its owner's hand.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>David Gaillet</artist>
+      <num>31</num>
+      <text>Flying&lt;br&gt;When Aven Surveyor enters the battlefield, choose one-&lt;br&gt;• Put a +1/+1 counter on Aven Surveyor.&lt;br&gt;• Return target creature to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>391799</id>
+      <name>Bathe in Dragonfire</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Bathe in Dragonfire deals 4 damage to target creature.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rallis</artist>
+      <num>92</num>
+      <text>Bathe in Dragonfire deals 4 damage to target creature.</text>
+    </mc>
+    <mc>
+      <id>391800</id>
+      <name>Battle Brawler</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>As long as you control a red or white permanent, Battle Brawler gets +1/+0 and has first strike.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>63</num>
+      <text>As long as you control a red or white permanent, Battle Brawler gets +1/+0 and has first strike.</text>
+    </mc>
+    <mc>
+      <id>391801</id>
+      <name>Battlefront Krushok</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Battlefront Krushok can't be blocked by more than one creature.&lt;br&gt;Each creature you control with a +1/+1 counter on it can't be blocked by more than one creature.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steve Prescott</artist>
+      <num>125</num>
+      <text>Battlefront Krushok can't be blocked by more than one creature.&lt;br&gt;Each creature you control with a +1/+1 counter on it can't be blocked by more than one creature.</text>
+    </mc>
+    <mc>
+      <id>391802</id>
+      <name>Bloodfell Caves</name>
+      <type>Land</type>
+      <oracleText>Bloodfell Caves enters the battlefield tapped.&lt;br&gt;When Bloodfell Caves enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Adam Paquette</artist>
+      <num>165</num>
+      <text>Bloodfell Caves enters the battlefield tapped.&lt;br&gt;When Bloodfell Caves enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>391803</id>
+      <name>Bloodfire Enforcers</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Monk</type>
+      <power>5</power>
+      <toughness>2</toughness>
+      <oracleText>Bloodfire Enforcers has first strike and trample as long as an instant card and a sorcery card are in your graveyard.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Yefim Kligerman</artist>
+      <num>93</num>
+      <text>Bloodfire Enforcers has first strike and trample as long as an instant card and a sorcery card are in your graveyard.</text>
+    </mc>
+    <mc>
+      <id>391804</id>
+      <name>Blossoming Sands</name>
+      <type>Land</type>
+      <oracleText>Blossoming Sands enters the battlefield tapped.&lt;br&gt;When Blossoming Sands enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Sam Burley</artist>
+      <num>166</num>
+      <text>Blossoming Sands enters the battlefield tapped.&lt;br&gt;When Blossoming Sands enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>391805</id>
+      <name>Break Through the Line</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <oracleText>{R}: Target creature with power 2 or less gains haste until end of turn and can't be blocked this turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Clint Cearley</artist>
+      <num>94</num>
+      <text>{R}: Target creature with power 2 or less gains haste until end of turn and can't be blocked this turn.</text>
+    </mc>
+    <mc>
+      <id>391806</id>
+      <name>Brutal Hordechief</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life.&lt;br&gt;{3}{R/W}{R/W}: Creatures your opponents control block this turn if able, and you choose how those creatures block.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>64</num>
+      <text>Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life.&lt;br&gt;{3}{R/W}{R/W}: Creatures your opponents control block this turn if able, and you choose how those creatures block.</text>
+    </mc>
+    <mc>
+      <id>391807</id>
+      <name>Cached Defenses</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Bolster 3. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put three +1/+1 counters on it.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Zack Stella</artist>
+      <num>126</num>
+      <text>Bolster 3. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put three +1/+1 counters on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391808</id>
+      <name>Channel Harm</name>
+      <cost>{5}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control. If damage is prevented this way, you may have Channel Harm deal that much damage to target creature.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Gaillet</artist>
+      <num>7</num>
+      <text>Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control. If damage is prevented this way, you may have Channel Harm deal that much damage to target creature.</text>
+    </mc>
+    <mc>
+      <id>391809</id>
+      <name>Citadel Siege</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>As Citadel Siege enters the battlefield, choose Khans or Dragons.&lt;br&gt;• Khans- At the beginning of combat on your turn, put two +1/+1 counters on target creature you control.&lt;br&gt;• Dragons- At the beginning of combat on each opponent's turn, tap target creature that player controls.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Steven Belledin</artist>
+      <num>8</num>
+      <text>As Citadel Siege enters the battlefield, choose Khans or Dragons.&lt;br&gt;• Khans- At the beginning of combat on your turn, put two +1/+1 counters on target creature you control.&lt;br&gt;• Dragons- At the beginning of combat on each opponent's turn, tap target creature that player controls.</text>
+    </mc>
+    <mc>
+      <id>391810</id>
+      <name>Cloudform</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Enchantment</type>
+      <oracleText>When Cloudform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Cloudform to it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;&lt;br&gt;Enchanted creature has flying and hexproof.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Noah Bradley</artist>
+      <num>32</num>
+      <text>When Cloudform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Cloudform to it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;&lt;br&gt;Enchanted creature has flying and hexproof.</text>
+    </mc>
+    <mc>
+      <id>391811</id>
+      <name>Collateral Damage</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <oracleText>As an additional cost to cast Collateral Damage, sacrifice a creature.&lt;br&gt;Collateral Damage deals 3 damage to target creature or player.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Barger</artist>
+      <num>95</num>
+      <text>As an additional cost to cast Collateral Damage, sacrifice a creature.&lt;br&gt;Collateral Damage deals 3 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>391812</id>
+      <name>Crucible of the Spirit Dragon</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Put a storage counter on Crucible of the Spirit Dragon.&lt;br&gt;{T}, Remove X storage counters from Crucible of the Spirit Dragon: Add X mana in any combination of colors to your mana pool. Spend this mana only to cast Dragon spells or activate abilities of Dragons.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Jung Park</artist>
+      <num>167</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Put a storage counter on Crucible of the Spirit Dragon.&lt;br&gt;{T}, Remove X storage counters from Crucible of the Spirit Dragon: Add X mana in any combination of colors to your mana pool. Spend this mana only to cast Dragon spells or activate abilities of Dragons.</text>
+    </mc>
+    <mc>
+      <id>391813</id>
+      <name>Crux of Fate</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Choose one-&lt;br&gt;• Destroy all Dragon creatures.&lt;br&gt;• Destroy all non-Dragon creatures.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Michael Komarck</artist>
+      <num>65</num>
+      <text>Choose one-&lt;br&gt;• Destroy all Dragon creatures.&lt;br&gt;• Destroy all non-Dragon creatures.</text>
+    </mc>
+    <mc>
+      <id>391814</id>
+      <name>Cunning Strike</name>
+      <cost>{3}{U}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Cunning Strike deals 2 damage to target creature and 2 damage to target player.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Clint Cearley</artist>
+      <num>150</num>
+      <text>Cunning Strike deals 2 damage to target creature and 2 damage to target player.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>391815</id>
+      <name>Daghatar the Adamant</name>
+      <cost>{3}{W}</cost>
+      <type>Legendary Creature - Human Warrior</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Vigilance&lt;br&gt;Daghatar the Adamant enters the battlefield with four +1/+1 counters on it.&lt;br&gt;{1}{B/G}{B/G}: Move a +1/+1 counter from target creature onto a second target creature.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Zack Stella</artist>
+      <num>9</num>
+      <text>Vigilance&lt;br&gt;Daghatar the Adamant enters the battlefield with four +1/+1 counters on it.&lt;br&gt;{1}{B/G}{B/G}: Move a +1/+1 counter from target creature onto a second target creature.</text>
+    </mc>
+    <mc>
+      <id>391816</id>
+      <name>Dark Deal</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Each player discards all the cards in his or her hand, then draws that many cards minus one.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Scott Murphy</artist>
+      <num>66</num>
+      <text>Each player discards all the cards in his or her hand, then draws that many cards minus one.</text>
+    </mc>
+    <mc>
+      <id>391817</id>
+      <name>Defiant Ogre</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <oracleText>When Defiant Ogre enters the battlefield, choose one-&lt;br&gt;• Put a +1/+1 counter on Defiant Ogre.&lt;br&gt;• Destroy target artifact.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Craig J Spearing</artist>
+      <num>96</num>
+      <text>When Defiant Ogre enters the battlefield, choose one-&lt;br&gt;• Put a +1/+1 counter on Defiant Ogre.&lt;br&gt;• Destroy target artifact.</text>
+    </mc>
+    <mc>
+      <id>391818</id>
+      <name>Destructor Dragon</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;When Destructor Dragon dies, destroy target noncreature permanent.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Peter Mohrbacher</artist>
+      <num>127</num>
+      <text>Flying&lt;br&gt;When Destructor Dragon dies, destroy target noncreature permanent.</text>
+    </mc>
+    <mc>
+      <id>391819</id>
+      <name>Diplomacy of the Wastes</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target opponent reveals his or her hand. You choose a nonland card from it. That player discards that card. If you control a Warrior, that player loses 2 life.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jack Wang</artist>
+      <num>67</num>
+      <text>Target opponent reveals his or her hand. You choose a nonland card from it. That player discards that card. If you control a Warrior, that player loses 2 life.</text>
+    </mc>
+    <mc>
+      <id>391820</id>
+      <name>Dismal Backwater</name>
+      <type>Land</type>
+      <oracleText>Dismal Backwater enters the battlefield tapped.&lt;br&gt;When Dismal Backwater enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Sam Burley</artist>
+      <num>168</num>
+      <text>Dismal Backwater enters the battlefield tapped.&lt;br&gt;When Dismal Backwater enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>391821</id>
+      <name>Douse in Gloom</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Douse in Gloom deals 2 damage to target creature and you gain 2 life.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Yee</artist>
+      <num>68</num>
+      <text>Douse in Gloom deals 2 damage to target creature and you gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>391822</id>
+      <name>Dragon Bell Monk</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Monk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Vigilance&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Lius Lasahido</artist>
+      <num>10</num>
+      <text>Vigilance&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391823</id>
+      <name>Dragonrage</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Add {R} to your mana pool for each attacking creature you control. Until end of turn, attacking creatures you control gain "{R}: This creature gets +1/+0 until end of turn."</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Tomasz Jedruszek</artist>
+      <num>97</num>
+      <text>Add {R} to your mana pool for each attacking creature you control. Until end of turn, attacking creatures you control gain "{R}: This creature gets +1/+0 until end of turn."</text>
+    </mc>
+    <mc>
+      <id>391824</id>
+      <name>Dragonscale General</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>At the beginning of your end step, bolster X, where X is the number of tapped creatures you control. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Volkan Baga</artist>
+      <num>11</num>
+      <text>At the beginning of your end step, bolster X, where X is the number of tapped creatures you control. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391825</id>
+      <name>Dromoka, the Eternal</name>
+      <cost>{3}{G}{W}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a Dragon you control attacks, bolster 2. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>151</num>
+      <text>Flying&lt;br&gt;Whenever a Dragon you control attacks, bolster 2. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391826</id>
+      <name>Elite Scaleguard</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>When Elite Scaleguard enters the battlefield, bolster 2. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control with a +1/+1 counter on it attacks, tap target creature defending player controls.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steve Prescott</artist>
+      <num>12</num>
+      <text>When Elite Scaleguard enters the battlefield, bolster 2. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control with a +1/+1 counter on it attacks, tap target creature defending player controls.</text>
+    </mc>
+    <mc>
+      <id>391827</id>
+      <name>Enhanced Awareness</name>
+      <cost>{4}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Draw three cards, then discard a card.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>33</num>
+      <text>Draw three cards, then discard a card.</text>
+    </mc>
+    <mc>
+      <id>391828</id>
+      <name>Ethereal Ambush</name>
+      <cost>{3}{G}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Manifest the top two cards of your library. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Lius Lasahido</artist>
+      <num>152</num>
+      <text>Manifest the top two cards of your library. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391829</id>
+      <name>Fascination</name>
+      <cost>{X}{U}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Choose one-&lt;br&gt;• Each player draws X cards.&lt;br&gt;• Each player puts the top X cards of his or her library into his or her graveyard.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>34</num>
+      <text>Choose one-&lt;br&gt;• Each player draws X cards.&lt;br&gt;• Each player puts the top X cards of his or her library into his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>391830</id>
+      <name>Fearsome Awakening</name>
+      <cost>{4}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Return target creature card from your graveyard to the battlefield. If it's a Dragon, put two +1/+1 counters on it.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Véronique Meignaud</artist>
+      <num>69</num>
+      <text>Return target creature card from your graveyard to the battlefield. If it's a Dragon, put two +1/+1 counters on it.</text>
+    </mc>
+    <mc>
+      <id>391831</id>
+      <name>Feral Krushok</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>128</num>
+    </mc>
+    <mc>
+      <id>391832</id>
+      <name>Fierce Invocation</name>
+      <cost>{4}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Manifest the top card of your library, then put two +1/+1 counters on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>98</num>
+      <text>Manifest the top card of your library, then put two +1/+1 counters on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391833</id>
+      <name>Flamerush Rider</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Whenever Flamerush Rider attacks, put a token onto the battlefield tapped and attacking that's a copy of another target attacking creature. Exile the token at end of combat.&lt;br&gt;Dash {2}{R}{R} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Min Yum</artist>
+      <num>99</num>
+      <text>Whenever Flamerush Rider attacks, put a token onto the battlefield tapped and attacking that's a copy of another target attacking creature. Exile the token at end of combat.&lt;br&gt;Dash {2}{R}{R} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391834</id>
+      <name>Flamewake Phoenix</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Phoenix</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying, haste&lt;br&gt;Flamewake Phoenix attacks each turn if able.&lt;br&gt;Ferocious- At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return Flamewake Phoenix from your graveyard to the battlefield.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Min Yum</artist>
+      <num>100</num>
+      <text>Flying, haste&lt;br&gt;Flamewake Phoenix attacks each turn if able.&lt;br&gt;Ferocious- At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return Flamewake Phoenix from your graveyard to the battlefield.</text>
+    </mc>
+    <mc>
+      <id>391837</id>
+      <name>Formless Nurturing</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Manifest the top card of your library, then put a +1/+1 counter on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Cliff Childs</artist>
+      <num>129</num>
+      <text>Manifest the top card of your library, then put a +1/+1 counter on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391838</id>
+      <name>Friendly Fire</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature's controller reveals a card at random from his or her hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's converted mana cost.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Anthony Palumbo</artist>
+      <num>101</num>
+      <text>Target creature's controller reveals a card at random from his or her hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's converted mana cost.</text>
+    </mc>
+    <mc>
+      <id>391839</id>
+      <name>Frontier Mastodon</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Ferocious- Frontier Mastodon enters the battlefield with a +1/+1 counter on it if you control a creature with power 4 or greater.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Nils Hamm</artist>
+      <num>130</num>
+      <text>Ferocious- Frontier Mastodon enters the battlefield with a +1/+1 counter on it if you control a creature with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>391840</id>
+      <name>Frontier Siege</name>
+      <cost>{3}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>As Frontier Siege enters the battlefield, choose Khans or Dragons.&lt;br&gt;• Khans- At the beginning of each of your main phases, add {G}{G} to your mana pool.&lt;br&gt;• Dragons- Whenever a creature with flying enters the battlefield under your control, you may have it fight target creature you don't control.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>James Ryman</artist>
+      <num>131</num>
+      <text>As Frontier Siege enters the battlefield, choose Khans or Dragons.&lt;br&gt;• Khans- At the beginning of each of your main phases, add {G}{G} to your mana pool.&lt;br&gt;• Dragons- Whenever a creature with flying enters the battlefield under your control, you may have it fight target creature you don't control.</text>
+    </mc>
+    <mc>
+      <id>391841</id>
+      <name>Frost Walker</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <oracleText>When Frost Walker becomes the target of a spell or ability, sacrifice it.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mike Bierek</artist>
+      <num>35</num>
+      <text>When Frost Walker becomes the target of a spell or ability, sacrifice it.</text>
+    </mc>
+    <mc>
+      <id>391842</id>
+      <name>Fruit of the First Tree</name>
+      <cost>{3}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;When enchanted creature dies, you gain X life and draw X cards, where X is its toughness.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Ryan Yee</artist>
+      <num>132</num>
+      <text>Enchant creature&lt;br&gt;When enchanted creature dies, you gain X life and draw X cards, where X is its toughness.</text>
+    </mc>
+    <mc>
+      <id>391843</id>
+      <name>Ghastly Conscription</name>
+      <cost>{5}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Exile all creature cards from target player's graveyard in a face-down pile, shuffle that pile, then manifest those cards. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>YW Tang</artist>
+      <num>70</num>
+      <text>Exile all creature cards from target player's graveyard in a face-down pile, shuffle that pile, then manifest those cards. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391844</id>
+      <name>Goblin Boom Keg</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <oracleText>At the beginning of your upkeep, sacrifice Goblin Boom Keg.&lt;br&gt;When Goblin Boom Keg is put into a graveyard from the battlefield, it deals 3 damage to target creature or player.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Viktor Titov</artist>
+      <num>159</num>
+      <text>At the beginning of your upkeep, sacrifice Goblin Boom Keg.&lt;br&gt;When Goblin Boom Keg is put into a graveyard from the battlefield, it deals 3 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>391845</id>
+      <name>Goblin Heelcutter</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Berserker</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever Goblin Heelcutter attacks, target creature can't block this turn.&lt;br&gt;Dash {2}{R} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Jesper Ejsing</artist>
+      <num>102</num>
+      <text>Whenever Goblin Heelcutter attacks, target creature can't block this turn.&lt;br&gt;Dash {2}{R} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391846</id>
+      <name>Gore Swine</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Boar</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Jack Wang</artist>
+      <num>103</num>
+    </mc>
+    <mc>
+      <id>391847</id>
+      <name>Grave Strength</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Choose target creature. Put the top three cards of your library into your graveyard, then put a +1/+1 counter on that creature for each creature card in your graveyard.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jeff Simpson</artist>
+      <num>71</num>
+      <text>Choose target creature. Put the top three cards of your library into your graveyard, then put a +1/+1 counter on that creature for each creature card in your graveyard.</text>
+    </mc>
+    <mc>
+      <id>391848</id>
+      <name>Great-Horn Krushok</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>YW Tang</artist>
+      <num>13</num>
+    </mc>
+    <mc>
+      <id>391849</id>
+      <name>Grim Contest</name>
+      <cost>{1}{B}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Phill Simmer</artist>
+      <num>153</num>
+      <text>Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other.</text>
+    </mc>
+    <mc>
+      <id>391850</id>
+      <name>Gurmag Angler</name>
+      <cost>{6}{B}</cost>
+      <type>Creature - Zombie Fish</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>YW Tang</artist>
+      <num>72</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391851</id>
+      <name>Harsh Sustenance</name>
+      <cost>{1}{W}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Harsh Sustenance deals X damage to target creature or player and you gain X life, where X is the number of creatures you control.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Cynthia Sheppard</artist>
+      <num>154</num>
+      <text>Harsh Sustenance deals X damage to target creature or player and you gain X life, where X is the number of creatures you control.</text>
+    </mc>
+    <mc>
+      <id>391852</id>
+      <name>Hero's Blade</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +3/+2.&lt;br&gt;Whenever a legendary creature enters the battlefield under your control, you may attach Hero's Blade to it.&lt;br&gt;Equip {4}</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Aaron Miller</artist>
+      <num>160</num>
+      <text>Equipped creature gets +3/+2.&lt;br&gt;Whenever a legendary creature enters the battlefield under your control, you may attach Hero's Blade to it.&lt;br&gt;Equip {4}</text>
+    </mc>
+    <mc>
+      <id>391853</id>
+      <name>Hewed Stone Retainers</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Cast Hewed Stone Retainers only if you've cast another spell this turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Seguin</artist>
+      <num>161</num>
+      <text>Cast Hewed Stone Retainers only if you've cast another spell this turn.</text>
+    </mc>
+    <mc>
+      <id>391854</id>
+      <name>Honor's Reward</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <oracleText>You gain 4 life. Bolster 2. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Izzy</artist>
+      <num>14</num>
+      <text>You gain 4 life. Bolster 2. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391855</id>
+      <name>Hooded Assassin</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Assassin</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>When Hooded Assassin enters the battlefield, choose one-&lt;br&gt;• Put a +1/+1 counter on Hooded Assassin.&lt;br&gt;• Destroy target creature that was dealt damage this turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Stewart</artist>
+      <num>73</num>
+      <text>When Hooded Assassin enters the battlefield, choose one-&lt;br&gt;• Put a +1/+1 counter on Hooded Assassin.&lt;br&gt;• Destroy target creature that was dealt damage this turn.</text>
+    </mc>
+    <mc>
+      <id>391856</id>
+      <name>Humble Defector</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>104</num>
+      <text>{T}: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn.</text>
+    </mc>
+    <mc>
+      <id>391857</id>
+      <name>Hungering Yeti</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Yeti</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>As long as you control a green or blue permanent, you may cast Hungering Yeti as though it had flash. &lt;i&gt;(You may cast it any time you could cast an instant.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>105</num>
+      <text>As long as you control a green or blue permanent, you may cast Hungering Yeti as though it had flash. &lt;i&gt;(You may cast it any time you could cast an instant.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391858</id>
+      <name>Hunt the Weak</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Lars Grant-West</artist>
+      <num>133</num>
+      <text>Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391861</id>
+      <name>Jeskai Barricade</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Defender&lt;br&gt;When Jeskai Barricade enters the battlefield, you may return another target creature you control to its owner's hand.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Noah Bradley</artist>
+      <num>15</num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Defender&lt;br&gt;When Jeskai Barricade enters the battlefield, you may return another target creature you control to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>391862</id>
+      <name>Jeskai Infiltrator</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Monk</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Jeskai Infiltrator can't be blocked as long as you control no other creatures.&lt;br&gt;When Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Cynthia Sheppard</artist>
+      <num>36</num>
+      <text>Jeskai Infiltrator can't be blocked as long as you control no other creatures.&lt;br&gt;When Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391863</id>
+      <name>Jeskai Runemark</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature has flying as long as you control a red or white permanent.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Jaime Jones</artist>
+      <num>37</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature has flying as long as you control a red or white permanent.</text>
+    </mc>
+    <mc>
+      <id>391864</id>
+      <name>Jeskai Sage</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Monk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;When Jeskai Sage dies, draw a card.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Craig J Spearing</artist>
+      <num>38</num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;When Jeskai Sage dies, draw a card.</text>
+    </mc>
+    <mc>
+      <id>391865</id>
+      <name>Jungle Hollow</name>
+      <type>Land</type>
+      <oracleText>Jungle Hollow enters the battlefield tapped.&lt;br&gt;When Jungle Hollow enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>169</num>
+      <text>Jungle Hollow enters the battlefield tapped.&lt;br&gt;When Jungle Hollow enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>391866</id>
+      <name>Kolaghan, the Storm's Fury</name>
+      <cost>{3}{B}{R}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a Dragon you control attacks, creatures you control get +1/+0 until end of turn.&lt;br&gt;Dash {3}{B}{R} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Jaime Jones</artist>
+      <num>155</num>
+      <text>Flying&lt;br&gt;Whenever a Dragon you control attacks, creatures you control get +1/+0 until end of turn.&lt;br&gt;Dash {3}{B}{R} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391867</id>
+      <name>Lightform</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>When Lightform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Lightform to it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;&lt;br&gt;Enchanted creature has flying and lifelink.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steve Prescott</artist>
+      <num>16</num>
+      <text>When Lightform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Lightform to it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;&lt;br&gt;Enchanted creature has flying and lifelink.</text>
+    </mc>
+    <mc>
+      <id>391868</id>
+      <name>Lightning Shrieker</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Flying, trample, haste&lt;br&gt;At the beginning of the end step, Lightning Shrieker's owner shuffles it into his or her library.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>106</num>
+      <text>Flying, trample, haste&lt;br&gt;At the beginning of the end step, Lightning Shrieker's owner shuffles it into his or her library.</text>
+    </mc>
+    <mc>
+      <id>391869</id>
+      <name>Lotus Path Djinn</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Djinn Monk</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Argyle</artist>
+      <num>39</num>
+      <text>Flying&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391870</id>
+      <name>Lotus-Eye Mystics</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Monk</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;When Lotus-Eye Mystics enters the battlefield, return target enchantment card from your graveyard to your hand.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dan Scott</artist>
+      <num>17</num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;When Lotus-Eye Mystics enters the battlefield, return target enchantment card from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>391871</id>
+      <name>Map the Wastes</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Bolster 1. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Volkan Baga</artist>
+      <num>134</num>
+      <text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Bolster 1. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391872</id>
+      <name>Marang River Prowler</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Marang River Prowler can't block and can't be blocked.&lt;br&gt;You may cast Marang River Prowler from your graveyard as long as you control a black or green permanent.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Yefim Kligerman</artist>
+      <num>40</num>
+      <text>Marang River Prowler can't block and can't be blocked.&lt;br&gt;You may cast Marang River Prowler from your graveyard as long as you control a black or green permanent.</text>
+    </mc>
+    <mc>
+      <id>391873</id>
+      <name>Mardu Runemark</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature has first strike as long as you control a white or black permanent.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Viktor Titov</artist>
+      <num>107</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature has first strike as long as you control a white or black permanent.</text>
+    </mc>
+    <mc>
+      <id>391874</id>
+      <name>Mardu Scout</name>
+      <cost>{R}{R}</cost>
+      <type>Creature - Goblin Scout</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Dash {1}{R} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Zoltan Boros</artist>
+      <num>108</num>
+      <text>Dash {1}{R} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391875</id>
+      <name>Mardu Shadowspear</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Whenever Mardu Shadowspear attacks, each opponent loses 1 life.&lt;br&gt;Dash {1}{B} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mark Poole</artist>
+      <num>74</num>
+      <text>Whenever Mardu Shadowspear attacks, each opponent loses 1 life.&lt;br&gt;Dash {1}{B} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391876</id>
+      <name>Mardu Strike Leader</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever Mardu Strike Leader attacks, put a 2/1 black Warrior creature token onto the battlefield.&lt;br&gt;Dash {3}{B} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Rainville</artist>
+      <num>75</num>
+      <text>Whenever Mardu Strike Leader attacks, put a 2/1 black Warrior creature token onto the battlefield.&lt;br&gt;Dash {3}{B} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391877</id>
+      <name>Mardu Woe-Reaper</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Whenever Mardu Woe-Reaper or another Warrior enters the battlefield under your control, you may exile target creature card from a graveyard. If you do, you gain 1 life.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Willian Murai</artist>
+      <num>18</num>
+      <text>Whenever Mardu Woe-Reaper or another Warrior enters the battlefield under your control, you may exile target creature card from a graveyard. If you do, you gain 1 life.</text>
+    </mc>
+    <mc>
+      <id>391878</id>
+      <name>Mastery of the Unseen</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.&lt;br&gt;{3}{W}: Manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>19</num>
+      <text>Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.&lt;br&gt;{3}{W}: Manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391879</id>
+      <name>Merciless Executioner</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>When Merciless Executioner enters the battlefield, each player sacrifices a creature.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Palumbo</artist>
+      <num>76</num>
+      <text>When Merciless Executioner enters the battlefield, each player sacrifices a creature.</text>
+    </mc>
+    <mc>
+      <id>391880</id>
+      <name>Mindscour Dragon</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Mindscour Dragon deals combat damage to an opponent, target player puts the top four cards of his or her library into his or her graveyard.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Wesley Burt</artist>
+      <num>41</num>
+      <text>Flying&lt;br&gt;Whenever Mindscour Dragon deals combat damage to an opponent, target player puts the top four cards of his or her library into his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>391881</id>
+      <name>Mistfire Adept</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Human Monk</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever you cast a noncreature spell, target creature gains flying until end of turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Clint Cearley</artist>
+      <num>42</num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever you cast a noncreature spell, target creature gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>391882</id>
+      <name>Mob Rule</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Choose one-&lt;br&gt;• Gain control of all creatures with power 4 or greater until end of turn. Untap those creatures. They gain haste until end of turn.&lt;br&gt;• Gain control of all creatures with power 3 or less until end of turn. Untap those creatures. They gain haste until end of turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Jakub Kasper</artist>
+      <num>109</num>
+      <text>Choose one-&lt;br&gt;• Gain control of all creatures with power 4 or greater until end of turn. Untap those creatures. They gain haste until end of turn.&lt;br&gt;• Gain control of all creatures with power 3 or less until end of turn. Untap those creatures. They gain haste until end of turn.</text>
+    </mc>
+    <mc>
+      <id>391883</id>
+      <name>Monastery Mentor</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Monk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever you cast a noncreature spell, put a 1/1 white Monk creature token with prowess onto the battlefield.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Magali Villeneuve</artist>
+      <num>20</num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever you cast a noncreature spell, put a 1/1 white Monk creature token with prowess onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>391884</id>
+      <name>Monastery Siege</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <oracleText>As Monastery Siege enters the battlefield, choose Khans or Dragons.&lt;br&gt;• Khans- At the beginning of your draw step, draw an additional card, then discard a card.&lt;br&gt;• Dragons- Spells your opponents cast that target you or a permanent you control cost {2} more to cast.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Mark Winters</artist>
+      <num>43</num>
+      <text>As Monastery Siege enters the battlefield, choose Khans or Dragons.&lt;br&gt;• Khans- At the beginning of your draw step, draw an additional card, then discard a card.&lt;br&gt;• Dragons- Spells your opponents cast that target you or a permanent you control cost {2} more to cast.</text>
+    </mc>
+    <mc>
+      <id>391887</id>
+      <name>Neutralizing Blast</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target multicolored spell.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dan Scott</artist>
+      <num>44</num>
+      <text>Counter target multicolored spell.</text>
+    </mc>
+    <mc>
+      <id>391888</id>
+      <name>Noxious Dragon</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>77</num>
+      <text>Flying&lt;br&gt;When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less.</text>
+    </mc>
+    <mc>
+      <id>391889</id>
+      <name>Ojutai, Soul of Winter</name>
+      <cost>{5}{W}{U}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <oracleText>Flying, vigilance&lt;br&gt;Whenever a Dragon you control attacks, tap target nonland permanent an opponent controls. That permanent doesn't untap during its controller's next untap step.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Chase Stone</artist>
+      <num>156</num>
+      <text>Flying, vigilance&lt;br&gt;Whenever a Dragon you control attacks, tap target nonland permanent an opponent controls. That permanent doesn't untap during its controller's next untap step.</text>
+    </mc>
+    <mc>
+      <id>391890</id>
+      <name>Orc Sureshot</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Orc Archer</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever another creature enters the battlefield under your control, target creature an opponent controls gets -1/-1 until end of turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Kev Walker</artist>
+      <num>78</num>
+      <text>Whenever another creature enters the battlefield under your control, target creature an opponent controls gets -1/-1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>391891</id>
+      <name>Outpost Siege</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <oracleText>As Outpost Siege enters the battlefield, choose Khans or Dragons.&lt;br&gt;• Khans- At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.&lt;br&gt;• Dragons- Whenever a creature you control leaves the battlefield, Outpost Siege deals 1 damage to target creature or player.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Daarken</artist>
+      <num>110</num>
+      <text>As Outpost Siege enters the battlefield, choose Khans or Dragons.&lt;br&gt;• Khans- At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.&lt;br&gt;• Dragons- Whenever a creature you control leaves the battlefield, Outpost Siege deals 1 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>391892</id>
+      <name>Palace Siege</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Enchantment</type>
+      <oracleText>As Palace Siege enters the battlefield, choose Khans or Dragons.&lt;br&gt;• Khans- At the beginning of your upkeep, return target creature card from your graveyard to your hand.&lt;br&gt;• Dragons- At the beginning of your upkeep, each opponent loses 2 life and you gain 2 life.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>79</num>
+      <text>As Palace Siege enters the battlefield, choose Khans or Dragons.&lt;br&gt;• Khans- At the beginning of your upkeep, return target creature card from your graveyard to your hand.&lt;br&gt;• Dragons- At the beginning of your upkeep, each opponent loses 2 life and you gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>391893</id>
+      <name>Pilgrim of the Fires</name>
+      <cost>{7}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <oracleText>First strike, trample</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Izzy</artist>
+      <num>162</num>
+      <text>First strike, trample</text>
+    </mc>
+    <mc>
+      <id>391896</id>
+      <name>Pressure Point</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Tap target creature.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Chase Stone</artist>
+      <num>21</num>
+      <text>Tap target creature.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>391897</id>
+      <name>Pyrotechnics</name>
+      <cost>{4}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Matt Stewart</artist>
+      <num>111</num>
+      <text>Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.</text>
+    </mc>
+    <mc>
+      <id>391898</id>
+      <name>Qarsi High Priest</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <oracleText>{1}{B}, {T}, Sacrifice another creature: Manifest the top card of your library. &lt;i&gt;(Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Viktor Titov</artist>
+      <num>80</num>
+      <text>{1}{B}, {T}, Sacrifice another creature: Manifest the top card of your library. &lt;i&gt;(Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391899</id>
+      <name>Rageform</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Enchantment</type>
+      <oracleText>When Rageform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Rageform to it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;&lt;br&gt;Enchanted creature has double strike. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Richard Wright</artist>
+      <num>112</num>
+      <text>When Rageform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Rageform to it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;&lt;br&gt;Enchanted creature has double strike. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391900</id>
+      <name>Rakshasa's Disdain</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell unless its controller pays {1} for each card in your graveyard.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Seb McKinnon</artist>
+      <num>45</num>
+      <text>Counter target spell unless its controller pays {1} for each card in your graveyard.</text>
+    </mc>
+    <mc>
+      <id>391901</id>
+      <name>Rally the Ancestors</name>
+      <cost>{X}{W}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Return each creature card with converted mana cost X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Nils Hamm</artist>
+      <num>22</num>
+      <text>Return each creature card with converted mana cost X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors.</text>
+    </mc>
+    <mc>
+      <id>391902</id>
+      <name>Reach of Shadows</name>
+      <cost>{4}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target creature that's one or more colors.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Daarken</artist>
+      <num>81</num>
+      <text>Destroy target creature that's one or more colors.</text>
+    </mc>
+    <mc>
+      <id>391903</id>
+      <name>Reality Shift</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Exile target creature. Its controller manifests the top card of his or her library. &lt;i&gt;(That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Howard Lyon</artist>
+      <num>46</num>
+      <text>Exile target creature. Its controller manifests the top card of his or her library. &lt;i&gt;(That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391904</id>
+      <name>Refocus</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Untap target creature.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>47</num>
+      <text>Untap target creature.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>391905</id>
+      <name>Renowned Weaponsmith</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Artificer</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>{T}: Add {2} to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.&lt;br&gt;{U}, {T}: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>48</num>
+      <text>{T}: Add {2} to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.&lt;br&gt;{U}, {T}: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>391906</id>
+      <name>Return to the Earth</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target artifact, enchantment, or creature with flying.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Mark Winters</artist>
+      <num>135</num>
+      <text>Destroy target artifact, enchantment, or creature with flying.</text>
+    </mc>
+    <mc>
+      <id>391907</id>
+      <name>Rite of Undoing</name>
+      <cost>{4}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Return target nonland permanent you control and target nonland permanent you don't control to their owners' hands.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Anastasia Ovchinnikova</artist>
+      <num>49</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Return target nonland permanent you control and target nonland permanent you don't control to their owners' hands.</text>
+    </mc>
+    <mc>
+      <id>391908</id>
+      <name>Rugged Highlands</name>
+      <type>Land</type>
+      <oracleText>Rugged Highlands enters the battlefield tapped.&lt;br&gt;When Rugged Highlands enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>170</num>
+      <text>Rugged Highlands enters the battlefield tapped.&lt;br&gt;When Rugged Highlands enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>391909</id>
+      <name>Ruthless Instincts</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Choose one-&lt;br&gt;• Target nonattacking creature gains reach and deathtouch until end of turn. Untap it.&lt;br&gt;• Target attacking creature gets +2/+2 and gains trample until end of turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Lius Lasahido</artist>
+      <num>136</num>
+      <text>Choose one-&lt;br&gt;• Target nonattacking creature gains reach and deathtouch until end of turn. Untap it.&lt;br&gt;• Target attacking creature gets +2/+2 and gains trample until end of turn.</text>
+    </mc>
+    <mc>
+      <id>391911</id>
+      <name>Sage-Eye Avengers</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Djinn Monk</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever Sage-Eye Avengers attacks, you may return target creature to its owner's hand if its power is less than Sage-Eye Avengers's power.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Dan Scott</artist>
+      <num>50</num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever Sage-Eye Avengers attacks, you may return target creature to its owner's hand if its power is less than Sage-Eye Avengers's power.</text>
+    </mc>
+    <mc>
+      <id>391910</id>
+      <name>Sage's Reverie</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;When Sage's Reverie enters the battlefield, draw a card for each Aura you control that's attached to a creature.&lt;br&gt;Enchanted creature gets +1/+1 for each Aura you control that's attached to a creature.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Rainville</artist>
+      <num>23</num>
+      <text>Enchant creature&lt;br&gt;When Sage's Reverie enters the battlefield, draw a card for each Aura you control that's attached to a creature.&lt;br&gt;Enchanted creature gets +1/+1 for each Aura you control that's attached to a creature.</text>
+    </mc>
+    <mc>
+      <id>391912</id>
+      <name>Sandblast</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Sandblast deals 5 damage to target attacking or blocking creature.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Min Yum</artist>
+      <num>24</num>
+      <text>Sandblast deals 5 damage to target attacking or blocking creature.</text>
+    </mc>
+    <mc>
+      <id>391913</id>
+      <name>Sandsteppe Mastodon</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Reach&lt;br&gt;When Sandsteppe Mastodon enters the battlefield, bolster 5. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put five +1/+1 counters on it.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>James Zapata</artist>
+      <num>137</num>
+      <text>Reach&lt;br&gt;When Sandsteppe Mastodon enters the battlefield, bolster 5. &lt;i&gt;(Choose a creature with the least toughness among creatures you control and put five +1/+1 counters on it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391914</id>
+      <name>Sandsteppe Outcast</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>When Sandsteppe Outcast enters the battlefield, choose one-&lt;br&gt;• Put a +1/+1 counter on Sandsteppe Outcast.&lt;br&gt;• Put a 1/1 white Spirit creature token with flying onto the battlefield.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Wesley Burt</artist>
+      <num>25</num>
+      <text>When Sandsteppe Outcast enters the battlefield, choose one-&lt;br&gt;• Put a +1/+1 counter on Sandsteppe Outcast.&lt;br&gt;• Put a 1/1 white Spirit creature token with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>391915</id>
+      <name>Scoured Barrens</name>
+      <type>Land</type>
+      <oracleText>Scoured Barrens enters the battlefield tapped.&lt;br&gt;When Scoured Barrens enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>171</num>
+      <text>Scoured Barrens enters the battlefield tapped.&lt;br&gt;When Scoured Barrens enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>391916</id>
+      <name>Scroll of the Masters</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <oracleText>Whenever you cast a noncreature spell, put a lore counter on Scroll of the Masters.&lt;br&gt;{3}, {T}: Target creature you control gets +1/+1 until end of turn for each lore counter on Scroll of the Masters.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Lake Hurwitz</artist>
+      <num>163</num>
+      <text>Whenever you cast a noncreature spell, put a lore counter on Scroll of the Masters.&lt;br&gt;{3}, {T}: Target creature you control gets +1/+1 until end of turn for each lore counter on Scroll of the Masters.</text>
+    </mc>
+    <mc>
+      <id>391917</id>
+      <name>Shaman of the Great Hunt</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Orc Shaman</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <oracleText>Haste&lt;br&gt;Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.&lt;br&gt;Ferocious- {2}{G/U}{G/U}: Draw a card for each creature you control with power 4 or greater.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>113</num>
+      <text>Haste&lt;br&gt;Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.&lt;br&gt;Ferocious- {2}{G/U}{G/U}: Draw a card for each creature you control with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>391918</id>
+      <name>Shamanic Revelation</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Draw a card for each creature you control.&lt;br&gt;Ferocious- You gain 4 life for each creature you control with power 4 or greater.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Cynthia Sheppard</artist>
+      <num>138</num>
+      <text>Draw a card for each creature you control.&lt;br&gt;Ferocious- You gain 4 life for each creature you control with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>391919</id>
+      <name>Shifting Loyalties</name>
+      <cost>{5}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Exchange control of two target permanents that share a card type. &lt;i&gt;(Artifact, creature, enchantment, land, and planeswalker are card types.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>James Ryman</artist>
+      <num>51</num>
+      <text>Exchange control of two target permanents that share a card type. &lt;i&gt;(Artifact, creature, enchantment, land, and planeswalker are card types.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391920</id>
+      <name>Shockmaw Dragon</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage to each creature that player controls.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Alejandro Mirabal</artist>
+      <num>114</num>
+      <text>Flying&lt;br&gt;Whenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage to each creature that player controls.</text>
+    </mc>
+    <mc>
+      <id>391921</id>
+      <name>Shu Yun, the Silent Tempest</name>
+      <cost>{2}{U}</cost>
+      <type>Legendary Creature - Human Monk</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever you cast a noncreature spell, you may pay {R/W}{R/W}. If you do, target creature gains double strike until end of turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>David Gaillet</artist>
+      <num>52</num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever you cast a noncreature spell, you may pay {R/W}{R/W}. If you do, target creature gains double strike until end of turn.</text>
+    </mc>
+    <mc>
+      <id>391922</id>
+      <name>Sibsig Host</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>6</toughness>
+      <oracleText>When Sibsig Host enters the battlefield, each player puts the top three cards of his or her library into his or her graveyard.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Prescott</artist>
+      <num>82</num>
+      <text>When Sibsig Host enters the battlefield, each player puts the top three cards of his or her library into his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>391923</id>
+      <name>Sibsig Muckdraggers</name>
+      <cost>{8}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>6</toughness>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;When Sibsig Muckdraggers enters the battlefield, return target creature card from your graveyard to your hand.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Zack Stella</artist>
+      <num>83</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;When Sibsig Muckdraggers enters the battlefield, return target creature card from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>391924</id>
+      <name>Silumgar, the Drifting Death</name>
+      <cost>{4}{U}{B}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>3</power>
+      <toughness>7</toughness>
+      <oracleText>Flying, hexproof&lt;br&gt;Whenever a Dragon you control attacks, creatures defending player controls get -1/-1 until end of turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Steven Belledin</artist>
+      <num>157</num>
+      <text>Flying, hexproof&lt;br&gt;Whenever a Dragon you control attacks, creatures defending player controls get -1/-1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>391925</id>
+      <name>Smoldering Efreet</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Efreet Monk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Smoldering Efreet dies, it deals 2 damage to you.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Chase Stone</artist>
+      <num>115</num>
+      <text>When Smoldering Efreet dies, it deals 2 damage to you.</text>
+    </mc>
+    <mc>
+      <id>391926</id>
+      <name>Soul Summons</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Johann Bodin</artist>
+      <num>26</num>
+      <text>Manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391927</id>
+      <name>Soulfire Grand Master</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Monk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Lifelink&lt;br&gt;Instant and sorcery spells you control have lifelink.&lt;br&gt;{2}{U/R}{U/R}: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Johannes Voss</artist>
+      <num>27</num>
+      <text>Lifelink&lt;br&gt;Instant and sorcery spells you control have lifelink.&lt;br&gt;{2}{U/R}{U/R}: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves.</text>
+    </mc>
+    <mc>
+      <id>391928</id>
+      <name>Soulflayer</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;If a creature card with flying was exiled with Soulflayer's delve ability, Soulflayer has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Seb McKinnon</artist>
+      <num>84</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;If a creature card with flying was exiled with Soulflayer's delve ability, Soulflayer has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance.</text>
+    </mc>
+    <mc>
+      <id>391929</id>
+      <name>Sudden Reclamation</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Put the top four cards of your library into your graveyard, then return a creature card and a land card from your graveyard to your hand.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jack Wang</artist>
+      <num>139</num>
+      <text>Put the top four cards of your library into your graveyard, then return a creature card and a land card from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>391930</id>
+      <name>Sultai Emissary</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>When Sultai Emissary dies, manifest the top card of your library. &lt;i&gt;(Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Mathias Kollros</artist>
+      <num>85</num>
+      <text>When Sultai Emissary dies, manifest the top card of your library. &lt;i&gt;(Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391931</id>
+      <name>Sultai Runemark</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature has deathtouch as long as you control a green or blue permanent. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Volkan Baga</artist>
+      <num>86</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature has deathtouch as long as you control a green or blue permanent. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391932</id>
+      <name>Sultai Skullkeeper</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Naga Shaman</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>When Sultai Skullkeeper enters the battlefield, put the top two cards of your library into your graveyard.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Barger</artist>
+      <num>53</num>
+      <text>When Sultai Skullkeeper enters the battlefield, put the top two cards of your library into your graveyard.</text>
+    </mc>
+    <mc>
+      <id>391933</id>
+      <name>Supplant Form</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Return target creature to its owner's hand. You put a token onto the battlefield that's a copy of that creature.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Adam Paquette</artist>
+      <num>54</num>
+      <text>Return target creature to its owner's hand. You put a token onto the battlefield that's a copy of that creature.</text>
+    </mc>
+    <mc>
+      <id>391936</id>
+      <name>Swiftwater Cliffs</name>
+      <type>Land</type>
+      <oracleText>Swiftwater Cliffs enters the battlefield tapped.&lt;br&gt;When Swiftwater Cliffs enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {R} to your mana pool.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>172</num>
+      <text>Swiftwater Cliffs enters the battlefield tapped.&lt;br&gt;When Swiftwater Cliffs enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>391937</id>
+      <name>Tasigur, the Golden Fang</name>
+      <cost>{5}{B}</cost>
+      <type>Legendary Creature - Human Shaman</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;{2}{G/U}{G/U}: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Chris Rahn</artist>
+      <num>87</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;{2}{G/U}{G/U}: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>391938</id>
+      <name>Tasigur's Cruelty</name>
+      <cost>{5}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Each opponent discards two cards.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rahn</artist>
+      <num>88</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Each opponent discards two cards.</text>
+    </mc>
+    <mc>
+      <id>391939</id>
+      <name>Temporal Trespass</name>
+      <cost>{8}{U}{U}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Take an extra turn after this one. Exile Temporal Trespass.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Clint Cearley</artist>
+      <num>55</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Take an extra turn after this one. Exile Temporal Trespass.</text>
+    </mc>
+    <mc>
+      <id>391940</id>
+      <name>Temur Battle Rage</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gains double strike until end of turn. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;&lt;br&gt;Ferocious- That creature also gains trample until end of turn if you control a creature with power 4 or greater.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Jaime Jones</artist>
+      <num>116</num>
+      <text>Target creature gains double strike until end of turn. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;&lt;br&gt;Ferocious- That creature also gains trample until end of turn if you control a creature with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>391941</id>
+      <name>Temur Runemark</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature has trample as long as you control a blue or red permanent.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>140</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature has trample as long as you control a blue or red permanent.</text>
+    </mc>
+    <mc>
+      <id>391942</id>
+      <name>Temur Sabertooth</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Cat</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <oracleText>{1}{G}: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mike Sass</artist>
+      <num>141</num>
+      <text>{1}{G}: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn.</text>
+    </mc>
+    <mc>
+      <id>391943</id>
+      <name>Temur War Shaman</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>When Temur War Shaman enters the battlefield, manifest the top card of your library. &lt;i&gt;(Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;&lt;br&gt;Whenever a permanent you control is turned face up, if it's a creature, you may have it fight target creature you don't control.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Nils Hamm</artist>
+      <num>142</num>
+      <text>When Temur War Shaman enters the battlefield, manifest the top card of your library. &lt;i&gt;(Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;&lt;br&gt;Whenever a permanent you control is turned face up, if it's a creature, you may have it fight target creature you don't control.</text>
+    </mc>
+    <mc>
+      <id>391944</id>
+      <name>Thornwood Falls</name>
+      <type>Land</type>
+      <oracleText>Thornwood Falls enters the battlefield tapped.&lt;br&gt;When Thornwood Falls enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {U} to your mana pool.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>173</num>
+      <text>Thornwood Falls enters the battlefield tapped.&lt;br&gt;When Thornwood Falls enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {U} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>391945</id>
+      <name>Torrent Elemental</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Torrent Elemental attacks, tap all creatures defending player controls.&lt;br&gt;{3}{B/G}{B/G}: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>James Paick</artist>
+      <num>56</num>
+      <text>Flying&lt;br&gt;Whenever Torrent Elemental attacks, tap all creatures defending player controls.&lt;br&gt;{3}{B/G}{B/G}: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery.</text>
+    </mc>
+    <mc>
+      <id>391946</id>
+      <name>Tranquil Cove</name>
+      <type>Land</type>
+      <oracleText>Tranquil Cove enters the battlefield tapped.&lt;br&gt;When Tranquil Cove enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>John Avon</artist>
+      <num>174</num>
+      <text>Tranquil Cove enters the battlefield tapped.&lt;br&gt;When Tranquil Cove enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>391947</id>
+      <name>Typhoid Rats</name>
+      <cost>{B}</cost>
+      <type>Creature - Rat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Dave Kendall</artist>
+      <num>89</num>
+      <text>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391948</id>
+      <name>Ugin, the Spirit Dragon</name>
+      <cost>{8}</cost>
+      <type>Planeswalker - Ugin</type>
+      <toughness>7</toughness>
+      <oracleText>+2: Ugin, the Spirit Dragon deals 3 damage to target creature or player.&lt;br&gt;−X: Exile each permanent with converted mana cost X or less that's one or more colors.&lt;br&gt;−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>1</num>
+      <text>+2: Ugin, the Spirit Dragon deals 3 damage to target creature or player.&lt;br&gt;−X: Exile each permanent with converted mana cost X or less that's one or more colors.&lt;br&gt;−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>391949</id>
+      <name>Ugin's Construct</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Peter Mohrbacher</artist>
+      <num>164</num>
+      <text>When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors.</text>
+    </mc>
+    <mc>
+      <id>391950</id>
+      <name>Valorous Stance</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Choose one-&lt;br&gt;• Target creature gains indestructible until end of turn.&lt;br&gt;• Destroy target creature with toughness 4 or greater.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Willian Murai</artist>
+      <num>28</num>
+      <text>Choose one-&lt;br&gt;• Target creature gains indestructible until end of turn.&lt;br&gt;• Destroy target creature with toughness 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>391951</id>
+      <name>Vaultbreaker</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Orc Rogue</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a card.&lt;br&gt;Dash {2}{R} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>117</num>
+      <text>Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a card.&lt;br&gt;Dash {2}{R} &lt;i&gt;(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391952</id>
+      <name>Wandering Champion</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Monk</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Whenever Wandering Champion deals combat damage to a player, if you control a blue or red permanent, you may discard a card. If you do, draw a card.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Willian Murai</artist>
+      <num>29</num>
+      <text>Whenever Wandering Champion deals combat damage to a player, if you control a blue or red permanent, you may discard a card. If you do, draw a card.</text>
+    </mc>
+    <mc>
+      <id>391953</id>
+      <name>War Flare</name>
+      <cost>{2}{R}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Creatures you control get +2/+1 until end of turn. Untap those creatures.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>158</num>
+      <text>Creatures you control get +2/+1 until end of turn. Untap those creatures.</text>
+    </mc>
+    <mc>
+      <id>391954</id>
+      <name>Warden of the First Tree</name>
+      <cost>{G}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{1}{W/B}: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3.&lt;br&gt;{2}{W/B}{W/B}: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink.&lt;br&gt;{3}{W/B}{W/B}{W/B}: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>143</num>
+      <text>{1}{W/B}: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3.&lt;br&gt;{2}{W/B}{W/B}: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink.&lt;br&gt;{3}{W/B}{W/B}{W/B}: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it.</text>
+    </mc>
+    <mc>
+      <id>391955</id>
+      <name>Wardscale Dragon</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;As long as Wardscale Dragon is attacking, defending player can't cast spells.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Rainville</artist>
+      <num>30</num>
+      <text>Flying&lt;br&gt;As long as Wardscale Dragon is attacking, defending player can't cast spells.</text>
+    </mc>
+    <mc>
+      <id>391956</id>
+      <name>Whisk Away</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Put target attacking or blocking creature on top of its owner's library.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Zack Stella</artist>
+      <num>57</num>
+      <text>Put target attacking or blocking creature on top of its owner's library.</text>
+    </mc>
+    <mc>
+      <id>391957</id>
+      <name>Whisperer of the Wilds</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <oracleText>{T}: Add {G} to your mana pool.&lt;br&gt;Ferocious- {T}: Add {G}{G} to your mana pool. Activate this ability only if you control a creature with power 4 or greater.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>David Gaillet</artist>
+      <num>144</num>
+      <text>{T}: Add {G} to your mana pool.&lt;br&gt;Ferocious- {T}: Add {G}{G} to your mana pool. Activate this ability only if you control a creature with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>391958</id>
+      <name>Whisperwood Elemental</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>At the beginning of your end step, manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;&lt;br&gt;Sacrifice Whisperwood Elemental: Until end of turn, face-up nontoken creatures you control gain "When this creature dies, manifest the top card of your library."</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>145</num>
+      <text>At the beginning of your end step, manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;&lt;br&gt;Sacrifice Whisperwood Elemental: Until end of turn, face-up nontoken creatures you control gain "When this creature dies, manifest the top card of your library."</text>
+    </mc>
+    <mc>
+      <id>391959</id>
+      <name>Wild Slash</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <oracleText>Ferocious- If you control a creature with power 4 or greater, damage can't be prevented this turn.&lt;br&gt;Wild Slash deals 2 damage to target creature or player.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>118</num>
+      <text>Ferocious- If you control a creature with power 4 or greater, damage can't be prevented this turn.&lt;br&gt;Wild Slash deals 2 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>391960</id>
+      <name>Wildcall</name>
+      <cost>{X}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Manifest the top card of your library, then put X +1/+1 counters on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Adam Paquette</artist>
+      <num>146</num>
+      <text>Manifest the top card of your library, then put X +1/+1 counters on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391961</id>
+      <name>Will of the Naga</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>58</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.</text>
+    </mc>
+    <mc>
+      <id>391962</id>
+      <name>Winds of Qal Sisma</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Prevent all combat damage that would be dealt this turn.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, instead prevent all combat damage that would be dealt this turn by creatures your opponents control.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Howard Lyon</artist>
+      <num>147</num>
+      <text>Prevent all combat damage that would be dealt this turn.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, instead prevent all combat damage that would be dealt this turn by creatures your opponents control.</text>
+    </mc>
+    <mc>
+      <id>391963</id>
+      <name>Wind-Scarred Crag</name>
+      <type>Land</type>
+      <oracleText>Wind-Scarred Crag enters the battlefield tapped.&lt;br&gt;When Wind-Scarred Crag enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>175</num>
+      <text>Wind-Scarred Crag enters the battlefield tapped.&lt;br&gt;When Wind-Scarred Crag enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>391964</id>
+      <name>Write into Being</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Common</rarity>
+      <artist>Yeong-Hao Han</artist>
+      <num>59</num>
+      <text>Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>391965</id>
+      <name>Yasova Dragonclaw</name>
+      <cost>{2}{G}</cost>
+      <type>Legendary Creature - Human Warrior</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <oracleText>Trample&lt;br&gt;At the beginning of combat on your turn, you may pay {1}{U/R}{U/R}. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn.</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Rare</rarity>
+      <artist>Winona Nelson</artist>
+      <num>148</num>
+      <text>Trample&lt;br&gt;At the beginning of combat on your turn, you may pay {1}{U/R}{U/R}. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn.</text>
+    </mc>
+    <mc>
+      <id>391835</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Land</rarity>
+      <artist>Adam Paquette</artist>
+      <num>185</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>391860</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Land</rarity>
+      <artist>Titus Lunter</artist>
+      <num>179</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>391886</id>
+      <name>Mountain</name>
+      <type>Basic Land - Mountain</type>
+      <oracleText>R</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Land</rarity>
+      <artist>Florian de Gesincourt</artist>
+      <num>183</num>
+      <text>R</text>
+    </mc>
+    <mc>
+      <id>391894</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Land</rarity>
+      <artist>Sam Burley</artist>
+      <num>177</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>391935</id>
+      <name>Swamp</name>
+      <type>Basic Land - Swamp</type>
+      <oracleText>B</oracleText>
+      <edition>Fate Reforged</edition>
+      <rarity>Land</rarity>
+      <artist>Adam Paquette</artist>
+      <num>181</num>
+      <text>B</text>
+    </mc>
+  </list>
+</cards>

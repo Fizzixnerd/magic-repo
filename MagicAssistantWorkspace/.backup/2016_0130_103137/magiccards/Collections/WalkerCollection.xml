@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>WalkerCollection</name>
+  <key>Collections/WalkerCollection</key>
+  <comment></comment>
+  <type></type>
+  <properties>
+    <property name="virtual" value="false"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>230071</id>
+        <name>Forest</name>
+        <edition>New Phyrexia</edition>
+      </card>
+      <count>21</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:14:23 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>227505</id>
+        <name>Island</name>
+        <edition>New Phyrexia</edition>
+      </card>
+      <count>12</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:18:35 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>230064</id>
+        <name>Mountain</name>
+        <edition>New Phyrexia</edition>
+      </card>
+      <count>30</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:18:36 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>227518</id>
+        <name>Plains</name>
+        <edition>New Phyrexia</edition>
+      </card>
+      <count>13</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:18:38 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>227521</id>
+        <name>Swamp</name>
+        <edition>New Phyrexia</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:18:39 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>407514</id>
+        <name>Kozilek, the Great Distortion</name>
+        <edition>Oath of the Gatewatch</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:21:47 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368548</id>
+        <name>Vithian Stinger</name>
+        <edition>Duel Decks: Sorin vs. Tibalt</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:28:18 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368526</id>
+        <name>Lavaborn Muse</name>
+        <edition>Duel Decks: Sorin vs. Tibalt</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:28:41 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368545</id>
+        <name>Pyroclasm</name>
+        <edition>Duel Decks: Sorin vs. Tibalt</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:29:03 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368477</id>
+        <name>Hellspark Elemental</name>
+        <edition>Duel Decks: Sorin vs. Tibalt</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:29:28 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368536</id>
+        <name>Flame Slash</name>
+        <edition>Duel Decks: Sorin vs. Tibalt</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:29:58 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368489</id>
+        <name>Shambling Remains</name>
+        <edition>Duel Decks: Sorin vs. Tibalt</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:30:13 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368530</id>
+        <name>Hellrider</name>
+        <edition>Duel Decks: Sorin vs. Tibalt</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:30:55 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368528</id>
+        <name>Browbeat</name>
+        <edition>Duel Decks: Sorin vs. Tibalt</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:31:10 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368486</id>
+        <name>Breaking Point</name>
+        <edition>Duel Decks: Sorin vs. Tibalt</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/WalkerCollection</location>
+      <ownership>true</ownership>
+      <date>Sat Jan 30 10:31:28 EST 2016</date>
+    </mcp>
+  </list>
+</cards>

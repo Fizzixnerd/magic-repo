@@ -1,0 +1,3430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Khans_of_Tarkir</name>
+  <key>Khans_of_Tarkir</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>386540</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Titus Lunter</artist>
+      <num>267</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>386566</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Florian de Gesincourt</artist>
+      <num>255</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>386611</id>
+      <name>Mountain</name>
+      <type>Basic Land - Mountain</type>
+      <oracleText>R</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Noah Bradley</artist>
+      <num>263</num>
+      <text>R</text>
+    </mc>
+    <mc>
+      <id>386625</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Sam Burley</artist>
+      <num>251</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>386686</id>
+      <name>Swamp</name>
+      <type>Basic Land - Swamp</type>
+      <oracleText>B</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Sam Burley</artist>
+      <num>259</num>
+      <text>B</text>
+    </mc>
+    <mc>
+      <id>386463</id>
+      <name>Abomination of Gudul</name>
+      <cost>{3}{B}{G}{U}</cost>
+      <type>Creature - Horror</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Abomination of Gudul deals combat damage to a player, you may draw a card. If you do, discard a card.&lt;br&gt;Morph {2}{B}{G}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Erica Yang</artist>
+      <num>159</num>
+      <text>Flying&lt;br&gt;Whenever Abomination of Gudul deals combat damage to a player, you may draw a card. If you do, discard a card.&lt;br&gt;Morph {2}{B}{G}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386464</id>
+      <name>Abzan Ascendancy</name>
+      <cost>{W}{B}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>When Abzan Ascendancy enters the battlefield, put a +1/+1 counter on each creature you control.&lt;br&gt;Whenever a nontoken creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Mark Winters</artist>
+      <num>160</num>
+      <text>When Abzan Ascendancy enters the battlefield, put a +1/+1 counter on each creature you control.&lt;br&gt;Whenever a nontoken creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>386465</id>
+      <name>Abzan Banner</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <oracleText>{T}: Add {W}, {B}, or {G} to your mana pool.&lt;br&gt;{W}{B}{G}, {T}, Sacrifice Abzan Banner: Draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>215</num>
+      <text>{T}: Add {W}, {B}, or {G} to your mana pool.&lt;br&gt;{W}{B}{G}, {T}, Sacrifice Abzan Banner: Draw a card.</text>
+    </mc>
+    <mc>
+      <id>386466</id>
+      <name>Abzan Battle Priest</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Outlast {W} &lt;i&gt;({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has lifelink.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Chris Rahn</artist>
+      <num>1</num>
+      <text>Outlast {W} &lt;i&gt;({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has lifelink.</text>
+    </mc>
+    <mc>
+      <id>386467</id>
+      <name>Abzan Charm</name>
+      <cost>{W}{B}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Choose one-&lt;br&gt;• Exile target creature with power 3 or greater.&lt;br&gt;• You draw two cards and you lose 2 life.&lt;br&gt;• Distribute two +1/+1 counters among one or two target creatures.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mathias Kollros</artist>
+      <num>161</num>
+      <text>Choose one-&lt;br&gt;• Exile target creature with power 3 or greater.&lt;br&gt;• You draw two cards and you lose 2 life.&lt;br&gt;• Distribute two +1/+1 counters among one or two target creatures.</text>
+    </mc>
+    <mc>
+      <id>386468</id>
+      <name>Abzan Falconer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Outlast {W} &lt;i&gt;({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has flying.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steven Belledin</artist>
+      <num>2</num>
+      <text>Outlast {W} &lt;i&gt;({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has flying.</text>
+    </mc>
+    <mc>
+      <id>386469</id>
+      <name>Abzan Guide</name>
+      <cost>{3}{W}{B}{G}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Morph {2}{W}{B}{G} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Prescott</artist>
+      <num>162</num>
+      <text>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Morph {2}{W}{B}{G} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386470</id>
+      <name>Act of Treason</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Min Yum</artist>
+      <num>95</num>
+      <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386471</id>
+      <name>Ainok Bond-Kin</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Hound Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Outlast {1}{W} &lt;i&gt;({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has first strike.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rahn</artist>
+      <num>3</num>
+      <text>Outlast {1}{W} &lt;i&gt;({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has first strike.</text>
+    </mc>
+    <mc>
+      <id>386472</id>
+      <name>Ainok Tracker</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Hound Scout</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>First strike&lt;br&gt;Morph {4}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Evan Shipard</artist>
+      <num>96</num>
+      <text>First strike&lt;br&gt;Morph {4}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386473</id>
+      <name>Alabaster Kirin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Kirin</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Flying, vigilance</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>4</num>
+      <text>Flying, vigilance</text>
+    </mc>
+    <mc>
+      <id>386474</id>
+      <name>Alpine Grizzly</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Bear</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>John Severin Brassell</artist>
+      <num>127</num>
+    </mc>
+    <mc>
+      <id>386475</id>
+      <name>Altar of the Brood</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <oracleText>Whenever another permanent enters the battlefield under your control, each opponent puts the top card of his or her library into his or her graveyard.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Erica Yang</artist>
+      <num>216</num>
+      <text>Whenever another permanent enters the battlefield under your control, each opponent puts the top card of his or her library into his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>386476</id>
+      <name>Anafenza, the Foremost</name>
+      <cost>{W}{B}{G}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Whenever Anafenza, the Foremost attacks, put a +1/+1 counter on another target tapped creature you control.&lt;br&gt;If a creature card would be put into an opponent's graveyard from anywhere, exile it instead.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>James Ryman</artist>
+      <num>163</num>
+      <text>Whenever Anafenza, the Foremost attacks, put a +1/+1 counter on another target tapped creature you control.&lt;br&gt;If a creature card would be put into an opponent's graveyard from anywhere, exile it instead.</text>
+    </mc>
+    <mc>
+      <id>386477</id>
+      <name>Ankle Shanker</name>
+      <cost>{2}{R}{W}{B}</cost>
+      <type>Creature - Goblin Berserker</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Haste&lt;br&gt;Whenever Ankle Shanker attacks, creatures you control gain first strike and deathtouch until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Zoltan Boros</artist>
+      <num>164</num>
+      <text>Haste&lt;br&gt;Whenever Ankle Shanker attacks, creatures you control gain first strike and deathtouch until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386478</id>
+      <name>Arc Lightning</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Seb McKinnon</artist>
+      <num>97</num>
+      <text>Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</text>
+    </mc>
+    <mc>
+      <id>386479</id>
+      <name>Archers' Parapet</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <oracleText>Defender&lt;br&gt;{1}{B}, {T}: Each opponent loses 1 life.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>128</num>
+      <text>Defender&lt;br&gt;{1}{B}, {T}: Each opponent loses 1 life.</text>
+    </mc>
+    <mc>
+      <id>386480</id>
+      <name>Armament Corps</name>
+      <cost>{2}{W}{B}{G}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>When Armament Corps enters the battlefield, distribute two +1/+1 counters among one or two target creatures you control.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steven Belledin</artist>
+      <num>165</num>
+      <text>When Armament Corps enters the battlefield, distribute two +1/+1 counters among one or two target creatures you control.</text>
+    </mc>
+    <mc>
+      <id>386481</id>
+      <name>Arrow Storm</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Arrow Storm deals 4 damage to target creature or player.&lt;br&gt;Raid- If you attacked with a creature this turn, instead Arrow Storm deals 5 damage to that creature or player and the damage can't be prevented.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Prescott</artist>
+      <num>98</num>
+      <text>Arrow Storm deals 4 damage to target creature or player.&lt;br&gt;Raid- If you attacked with a creature this turn, instead Arrow Storm deals 5 damage to that creature or player and the damage can't be prevented.</text>
+    </mc>
+    <mc>
+      <id>386482</id>
+      <name>Ashcloud Phoenix</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Phoenix</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;When Ashcloud Phoenix dies, return it to the battlefield face down under your control.&lt;br&gt;Morph {4}{R}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Ashcloud Phoenix is turned face up, it deals 2 damage to each player.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Howard Lyon</artist>
+      <num>99</num>
+      <text>Flying&lt;br&gt;When Ashcloud Phoenix dies, return it to the battlefield face down under your control.&lt;br&gt;Morph {4}{R}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Ashcloud Phoenix is turned face up, it deals 2 damage to each player.</text>
+    </mc>
+    <mc>
+      <id>386483</id>
+      <name>Avalanche Tusker</name>
+      <cost>{2}{G}{U}{R}</cost>
+      <type>Creature - Elephant Warrior</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <oracleText>Whenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Matt Stewart</artist>
+      <num>166</num>
+      <text>Whenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able.</text>
+    </mc>
+    <mc>
+      <id>386484</id>
+      <name>Awaken the Bear</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets +3/+3 and gains trample until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>129</num>
+      <text>Target creature gets +3/+3 and gains trample until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386485</id>
+      <name>Barrage of Boulders</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Barrage of Boulders deals 1 damage to each creature you don't control.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, creatures can't block this turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Zoltan Boros</artist>
+      <num>100</num>
+      <text>Barrage of Boulders deals 1 damage to each creature you don't control.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, creatures can't block this turn.</text>
+    </mc>
+    <mc>
+      <id>386486</id>
+      <name>Bear's Companion</name>
+      <cost>{2}{G}{U}{R}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Bear's Companion enters the battlefield, put a 4/4 green Bear creature token onto the battlefield.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Winona Nelson</artist>
+      <num>167</num>
+      <text>When Bear's Companion enters the battlefield, put a 4/4 green Bear creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>386487</id>
+      <name>Become Immense</name>
+      <cost>{5}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Target creature gets +6/+6 until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jaime Jones</artist>
+      <num>130</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Target creature gets +6/+6 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386488</id>
+      <name>Bellowing Saddlebrute</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Raid- When Bellowing Saddlebrute enters the battlefield, you lose 4 life unless you attacked with a creature this turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Torstein Nordstrand</artist>
+      <num>64</num>
+      <text>Raid- When Bellowing Saddlebrute enters the battlefield, you lose 4 life unless you attacked with a creature this turn.</text>
+    </mc>
+    <mc>
+      <id>386489</id>
+      <name>Bitter Revelation</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Viktor Titov</artist>
+      <num>65</num>
+      <text>Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.</text>
+    </mc>
+    <mc>
+      <id>386490</id>
+      <name>Blinding Spray</name>
+      <cost>{4}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Creatures your opponents control get -4/-0 until end of turn.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>32</num>
+      <text>Creatures your opponents control get -4/-0 until end of turn.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>386491</id>
+      <name>Bloodfell Caves</name>
+      <type>Land</type>
+      <oracleText>Bloodfell Caves enters the battlefield tapped.&lt;br&gt;When Bloodfell Caves enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Adam Paquette</artist>
+      <num>229</num>
+      <text>Bloodfell Caves enters the battlefield tapped.&lt;br&gt;When Bloodfell Caves enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386492</id>
+      <name>Bloodfire Expert</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Efreet Monk</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>101</num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386493</id>
+      <name>Bloodfire Mentor</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Efreet Shaman</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <oracleText>{2}{U}, {T}: Draw a card, then discard a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Chase Stone</artist>
+      <num>102</num>
+      <text>{2}{U}, {T}: Draw a card, then discard a card.</text>
+    </mc>
+    <mc>
+      <id>386494</id>
+      <name>Bloodsoaked Champion</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Bloodsoaked Champion can't block.&lt;br&gt;Raid- {1}{B}: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked with a creature this turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Aaron Miller</artist>
+      <num>66</num>
+      <text>Bloodsoaked Champion can't block.&lt;br&gt;Raid- {1}{B}: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked with a creature this turn.</text>
+    </mc>
+    <mc>
+      <id>386495</id>
+      <name>Bloodstained Mire</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Daarken</artist>
+      <num>230</num>
+      <text>{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>386496</id>
+      <name>Blossoming Sands</name>
+      <type>Land</type>
+      <oracleText>Blossoming Sands enters the battlefield tapped.&lt;br&gt;When Blossoming Sands enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Sam Burley</artist>
+      <num>231</num>
+      <text>Blossoming Sands enters the battlefield tapped.&lt;br&gt;When Blossoming Sands enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386497</id>
+      <name>Brave the Sands</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>Creatures you control have vigilance.&lt;br&gt;Each creature you control can block an additional creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dave Kendall</artist>
+      <num>5</num>
+      <text>Creatures you control have vigilance.&lt;br&gt;Each creature you control can block an additional creature.</text>
+    </mc>
+    <mc>
+      <id>386498</id>
+      <name>Briber's Purse</name>
+      <cost>{X}</cost>
+      <type>Artifact</type>
+      <oracleText>Briber's Purse enters the battlefield with X gem counters on it.&lt;br&gt;{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steve Argyle</artist>
+      <num>217</num>
+      <text>Briber's Purse enters the battlefield with X gem counters on it.&lt;br&gt;{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn.</text>
+    </mc>
+    <mc>
+      <id>386499</id>
+      <name>Bring Low</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Bring Low deals 3 damage to target creature. If that creature has a +1/+1 counter on it, Bring Low deals 5 damage to it instead.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>103</num>
+      <text>Bring Low deals 3 damage to target creature. If that creature has a +1/+1 counter on it, Bring Low deals 5 damage to it instead.</text>
+    </mc>
+    <mc>
+      <id>386500</id>
+      <name>Burn Away</name>
+      <cost>{4}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Burn Away deals 6 damage to target creature. When that creature dies this turn, exile all cards from its controller's graveyard.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Vincent Proce</artist>
+      <num>104</num>
+      <text>Burn Away deals 6 damage to target creature. When that creature dies this turn, exile all cards from its controller's graveyard.</text>
+    </mc>
+    <mc>
+      <id>386501</id>
+      <name>Butcher of the Horde</name>
+      <cost>{1}{R}{W}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Sacrifice another creature: Butcher of the Horde gains your choice of vigilance, lifelink, or haste until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>168</num>
+      <text>Flying&lt;br&gt;Sacrifice another creature: Butcher of the Horde gains your choice of vigilance, lifelink, or haste until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386502</id>
+      <name>Cancel</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>33</num>
+      <text>Counter target spell.</text>
+    </mc>
+    <mc>
+      <id>386503</id>
+      <name>Canyon Lurkers</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>5</power>
+      <toughness>2</toughness>
+      <oracleText>Morph {3}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Cynthia Sheppard</artist>
+      <num>105</num>
+      <text>Morph {3}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386504</id>
+      <name>Chief of the Edge</name>
+      <cost>{W}{B}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Other Warrior creatures you control get +1/+0.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Palumbo</artist>
+      <num>169</num>
+      <text>Other Warrior creatures you control get +1/+0.</text>
+    </mc>
+    <mc>
+      <id>386505</id>
+      <name>Chief of the Scale</name>
+      <cost>{W}{B}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Other Warrior creatures you control get +0/+1.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Palumbo</artist>
+      <num>170</num>
+      <text>Other Warrior creatures you control get +0/+1.</text>
+    </mc>
+    <mc>
+      <id>386506</id>
+      <name>Clever Impersonator</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>You may have Clever Impersonator enter the battlefield as a copy of any nonland permanent on the battlefield.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>34</num>
+      <text>You may have Clever Impersonator enter the battlefield as a copy of any nonland permanent on the battlefield.</text>
+    </mc>
+    <mc>
+      <id>386507</id>
+      <name>Crackling Doom</name>
+      <cost>{R}{W}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a creature with the greatest power among creatures he or she controls.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Yohann Schepacz</artist>
+      <num>171</num>
+      <text>Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a creature with the greatest power among creatures he or she controls.</text>
+    </mc>
+    <mc>
+      <id>386508</id>
+      <name>Cranial Archive</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <oracleText>{2}, Exile Cranial Archive: Target player shuffles his or her graveyard into his or her library. Draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Volkan Baga</artist>
+      <num>218</num>
+      <text>{2}, Exile Cranial Archive: Target player shuffles his or her graveyard into his or her library. Draw a card.</text>
+    </mc>
+    <mc>
+      <id>386509</id>
+      <name>Crater's Claws</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Crater's Claws deals X damage to target creature or player.&lt;br&gt;Ferocious- Crater's Claws deals X plus 2 damage to that creature or player instead if you control a creature with power 4 or greater.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Noah Bradley</artist>
+      <num>106</num>
+      <text>Crater's Claws deals X damage to target creature or player.&lt;br&gt;Ferocious- Crater's Claws deals X plus 2 damage to that creature or player instead if you control a creature with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>386510</id>
+      <name>Crippling Chill</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Tap target creature. It doesn't untap during its controller's next untap step.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Torstein Nordstrand</artist>
+      <num>35</num>
+      <text>Tap target creature. It doesn't untap during its controller's next untap step.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>386511</id>
+      <name>Dazzling Ramparts</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>7</toughness>
+      <oracleText>Defender&lt;br&gt;{1}{W}, {T}: Tap target creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jung Park</artist>
+      <num>6</num>
+      <text>Defender&lt;br&gt;{1}{W}, {T}: Tap target creature.</text>
+    </mc>
+    <mc>
+      <id>386512</id>
+      <name>Dead Drop</name>
+      <cost>{9}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Target player sacrifices two creatures.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Greg Staples</artist>
+      <num>67</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Target player sacrifices two creatures.</text>
+    </mc>
+    <mc>
+      <id>386513</id>
+      <name>Death Frenzy</name>
+      <cost>{3}{B}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>All creatures get -2/-2 until end of turn. Whenever a creature dies this turn, you gain 1 life.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steve Prescott</artist>
+      <num>172</num>
+      <text>All creatures get -2/-2 until end of turn. Whenever a creature dies this turn, you gain 1 life.</text>
+    </mc>
+    <mc>
+      <id>386514</id>
+      <name>Debilitating Injury</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -2/-2.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>68</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -2/-2.</text>
+    </mc>
+    <mc>
+      <id>386515</id>
+      <name>Defiant Strike</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets +1/+0 until end of turn.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Anastasia Ovchinnikova</artist>
+      <num>7</num>
+      <text>Target creature gets +1/+0 until end of turn.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>386516</id>
+      <name>Deflecting Palm</name>
+      <cost>{R}{W}</cost>
+      <type>Instant</type>
+      <oracleText>The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source's controller.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>173</num>
+      <text>The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source's controller.</text>
+    </mc>
+    <mc>
+      <id>386517</id>
+      <name>Despise</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target opponent reveals his or her hand. You choose a creature or planeswalker card from it. That player discards that card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Todd Lockwood</artist>
+      <num>69</num>
+      <text>Target opponent reveals his or her hand. You choose a creature or planeswalker card from it. That player discards that card.</text>
+    </mc>
+    <mc>
+      <id>386518</id>
+      <name>Dig Through Time</name>
+      <cost>{6}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Ryan Yee</artist>
+      <num>36</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.</text>
+    </mc>
+    <mc>
+      <id>386519</id>
+      <name>Disdainful Stroke</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell with converted mana cost 4 or greater.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>37</num>
+      <text>Counter target spell with converted mana cost 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>386520</id>
+      <name>Dismal Backwater</name>
+      <type>Land</type>
+      <oracleText>Dismal Backwater enters the battlefield tapped.&lt;br&gt;When Dismal Backwater enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Sam Burley</artist>
+      <num>232</num>
+      <text>Dismal Backwater enters the battlefield tapped.&lt;br&gt;When Dismal Backwater enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386521</id>
+      <name>Disowned Ancestor</name>
+      <cost>{B}</cost>
+      <type>Creature - Spirit Warrior</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <oracleText>Outlast {1}{B} &lt;i&gt;({1}{B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Zack Stella</artist>
+      <num>70</num>
+      <text>Outlast {1}{B} &lt;i&gt;({1}{B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386522</id>
+      <name>Dragon Grip</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Ferocious- If you control a creature with power 4 or greater, you may cast Dragon Grip as though it had flash. &lt;i&gt;(You may cast it any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has first strike.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Rainville</artist>
+      <num>107</num>
+      <text>Ferocious- If you control a creature with power 4 or greater, you may cast Dragon Grip as though it had flash. &lt;i&gt;(You may cast it any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has first strike.</text>
+    </mc>
+    <mc>
+      <id>386523</id>
+      <name>Dragon Throne of Tarkir</name>
+      <cost>{4}</cost>
+      <type>Legendary Artifact - Equipment</type>
+      <oracleText>Equipped creature has defender and "{2}, {T}: Other creatures you control gain trample and get +X/+X until end of turn, where X is this creature's power."&lt;br&gt;Equip {3}</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Daarken</artist>
+      <num>219</num>
+      <text>Equipped creature has defender and "{2}, {T}: Other creatures you control gain trample and get +X/+X until end of turn, where X is this creature's power."&lt;br&gt;Equip {3}</text>
+    </mc>
+    <mc>
+      <id>386524</id>
+      <name>Dragon's Eye Savants</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>0</power>
+      <toughness>6</toughness>
+      <oracleText>Morph—Reveal a blue card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Dragon's Eye Savants is turned face up, look at target opponent's hand.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Rainville</artist>
+      <num>38</num>
+      <text>Morph—Reveal a blue card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Dragon's Eye Savants is turned face up, look at target opponent's hand.</text>
+    </mc>
+    <mc>
+      <id>386525</id>
+      <name>Dragonscale Boon</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Put two +1/+1 counters on target creature and untap it.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Mark Winters</artist>
+      <num>131</num>
+      <text>Put two +1/+1 counters on target creature and untap it.</text>
+    </mc>
+    <mc>
+      <id>386526</id>
+      <name>Dragon-Style Twins</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Human Monk</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Double strike&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Wesley Burt</artist>
+      <num>108</num>
+      <text>Double strike&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386527</id>
+      <name>Duneblast</name>
+      <cost>{4}{W}{B}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Choose up to one creature. Destroy the rest.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>174</num>
+      <text>Choose up to one creature. Destroy the rest.</text>
+    </mc>
+    <mc>
+      <id>386528</id>
+      <name>Dutiful Return</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Return up to two target creature cards from your graveyard to your hand.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Seb McKinnon</artist>
+      <num>71</num>
+      <text>Return up to two target creature cards from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>386529</id>
+      <name>Efreet Weaponmaster</name>
+      <cost>{3}{U}{R}{W}</cost>
+      <type>Creature - Efreet Monk</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <oracleText>First strike&lt;br&gt;When Efreet Weaponmaster enters the battlefield or is turned face up, another target creature you control gets +3/+0 until end of turn.&lt;br&gt;Morph {2}{U}{R}{W} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>175</num>
+      <text>First strike&lt;br&gt;When Efreet Weaponmaster enters the battlefield or is turned face up, another target creature you control gets +3/+0 until end of turn.&lt;br&gt;Morph {2}{U}{R}{W} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386530</id>
+      <name>Embodiment of Spring</name>
+      <cost>{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <oracleText>{1}{G}, {T}, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>39</num>
+      <text>{1}{G}, {T}, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>386531</id>
+      <name>Empty the Pits</name>
+      <cost>{X}{X}{B}{B}{B}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Put X 2/2 black Zombie creature tokens onto the battlefield tapped.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>72</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Put X 2/2 black Zombie creature tokens onto the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>386532</id>
+      <name>End Hostilities</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy all creatures and all permanents attached to creatures.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Rainville</artist>
+      <num>8</num>
+      <text>Destroy all creatures and all permanents attached to creatures.</text>
+    </mc>
+    <mc>
+      <id>386533</id>
+      <name>Erase</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <oracleText>Exile target enchantment.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Zack Stella</artist>
+      <num>9</num>
+      <text>Exile target enchantment.</text>
+    </mc>
+    <mc>
+      <id>386534</id>
+      <name>Feat of Resistance</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>David Gaillet</artist>
+      <num>10</num>
+      <text>Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386535</id>
+      <name>Feed the Clan</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <oracleText>You gain 5 life.&lt;br&gt;Ferocious- You gain 10 life instead if you control a creature with power 4 or greater.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Winona Nelson</artist>
+      <num>132</num>
+      <text>You gain 5 life.&lt;br&gt;Ferocious- You gain 10 life instead if you control a creature with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>386536</id>
+      <name>Firehoof Cavalry</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Berserker</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{3}{R}: Firehoof Cavalry gets +2/+0 and gains trample until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>YW Tang</artist>
+      <num>11</num>
+      <text>{3}{R}: Firehoof Cavalry gets +2/+0 and gains trample until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386537</id>
+      <name>Flooded Strand</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Andreas Rocha</artist>
+      <num>233</num>
+      <text>{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>386538</id>
+      <name>Flying Crane Technique</name>
+      <cost>{3}{U}{R}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Untap all creatures you control. They gain flying and double strike until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Jack Wang</artist>
+      <num>176</num>
+      <text>Untap all creatures you control. They gain flying and double strike until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386539</id>
+      <name>Force Away</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Return target creature to its owner's hand.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, you may draw a card. If you do, discard a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Mark Winters</artist>
+      <num>40</num>
+      <text>Return target creature to its owner's hand.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, you may draw a card. If you do, discard a card.</text>
+    </mc>
+    <mc>
+      <id>386544</id>
+      <name>Frontier Bivouac</name>
+      <type>Land</type>
+      <oracleText>Frontier Bivouac enters the battlefield tapped.&lt;br&gt;{T}: Add {G}, {U}, or {R} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Titus Lunter</artist>
+      <num>234</num>
+      <text>Frontier Bivouac enters the battlefield tapped.&lt;br&gt;{T}: Add {G}, {U}, or {R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386545</id>
+      <name>Ghostfire Blade</name>
+      <cost>{1}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +2/+2.&lt;br&gt;Equip {3}&lt;br&gt;Ghostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Cyril Van Der Haegen</artist>
+      <num>220</num>
+      <text>Equipped creature gets +2/+2.&lt;br&gt;Equip {3}&lt;br&gt;Ghostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.</text>
+    </mc>
+    <mc>
+      <id>386546</id>
+      <name>Glacial Stalker</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Morph {4}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Daarken</artist>
+      <num>41</num>
+      <text>Morph {4}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386547</id>
+      <name>Goblinslide</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever you cast a noncreature spell, you may pay {1}. If you do, put a 1/1 red Goblin creature token with haste onto the battlefield.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Kev Walker</artist>
+      <num>109</num>
+      <text>Whenever you cast a noncreature spell, you may pay {1}. If you do, put a 1/1 red Goblin creature token with haste onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>386548</id>
+      <name>Grim Haruspex</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Morph {B} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;Whenever another nontoken creature you control dies, draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Seb McKinnon</artist>
+      <num>73</num>
+      <text>Morph {B} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;Whenever another nontoken creature you control dies, draw a card.</text>
+    </mc>
+    <mc>
+      <id>386549</id>
+      <name>Gurmag Swiftwing</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Bat</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Flying, first strike, haste</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jeff Simpson</artist>
+      <num>74</num>
+      <text>Flying, first strike, haste</text>
+    </mc>
+    <mc>
+      <id>386550</id>
+      <name>Hardened Scales</name>
+      <cost>{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>If one or more +1/+1 counters would be placed on a creature you control, that many plus one +1/+1 counters are placed on it instead.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Mark Winters</artist>
+      <num>133</num>
+      <text>If one or more +1/+1 counters would be placed on a creature you control, that many plus one +1/+1 counters are placed on it instead.</text>
+    </mc>
+    <mc>
+      <id>386551</id>
+      <name>Heart-Piercer Bow</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.&lt;br&gt;Equip {1}</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Franz Vohwinkel</artist>
+      <num>221</num>
+      <text>Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.&lt;br&gt;Equip {1}</text>
+    </mc>
+    <mc>
+      <id>386552</id>
+      <name>Heir of the Wilds</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Deathtouch&lt;br&gt;Ferocious- Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Winona Nelson</artist>
+      <num>134</num>
+      <text>Deathtouch&lt;br&gt;Ferocious- Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386553</id>
+      <name>Herald of Anafenza</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Outlast {2}{W} &lt;i&gt;({2}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Whenever you activate Herald of Anafenza's outlast ability, put a 1/1 white Warrior creature token onto the battlefield.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Aaron Miller</artist>
+      <num>12</num>
+      <text>Outlast {2}{W} &lt;i&gt;({2}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Whenever you activate Herald of Anafenza's outlast ability, put a 1/1 white Warrior creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>386554</id>
+      <name>High Sentinels of Arashin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;High Sentinels of Arashin gets +1/+1 for each other creature you control with a +1/+1 counter on it.&lt;br&gt;{3}{W}: Put a +1/+1 counter on target creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>James Ryman</artist>
+      <num>13</num>
+      <text>Flying&lt;br&gt;High Sentinels of Arashin gets +1/+1 for each other creature you control with a +1/+1 counter on it.&lt;br&gt;{3}{W}: Put a +1/+1 counter on target creature.</text>
+    </mc>
+    <mc>
+      <id>386555</id>
+      <name>Highland Game</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elk</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>When Highland Game dies, you gain 2 life.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>John Severin Brassell</artist>
+      <num>135</num>
+      <text>When Highland Game dies, you gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>386556</id>
+      <name>Highspire Mantis</name>
+      <cost>{2}{R}{W}</cost>
+      <type>Creature - Insect</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying, trample</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>177</num>
+      <text>Flying, trample</text>
+    </mc>
+    <mc>
+      <id>386557</id>
+      <name>Hooded Hydra</name>
+      <cost>{X}{G}{G}</cost>
+      <type>Creature - Snake Hydra</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Hooded Hydra enters the battlefield with X +1/+1 counters on it.&lt;br&gt;When Hooded Hydra dies, put a 1/1 green Snake creature token onto the battlefield for each +1/+1 counter on it.&lt;br&gt;Morph {3}{G}{G}&lt;br&gt;As Hooded Hydra is turned face up, put five +1/+1 counters on it.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Chase Stone</artist>
+      <num>136</num>
+      <text>Hooded Hydra enters the battlefield with X +1/+1 counters on it.&lt;br&gt;When Hooded Hydra dies, put a 1/1 green Snake creature token onto the battlefield for each +1/+1 counter on it.&lt;br&gt;Morph {3}{G}{G}&lt;br&gt;As Hooded Hydra is turned face up, put five +1/+1 counters on it.</text>
+    </mc>
+    <mc>
+      <id>386558</id>
+      <name>Hooting Mandrills</name>
+      <cost>{5}{G}</cost>
+      <type>Creature - Ape</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Trample</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Mike Bierek</artist>
+      <num>137</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Trample</text>
+    </mc>
+    <mc>
+      <id>386559</id>
+      <name>Horde Ambusher</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Berserker</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever Horde Ambusher blocks, it deals 1 damage to you.&lt;br&gt;Morph—Reveal a red card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Horde Ambusher is turned face up, target creature can't block this turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>110</num>
+      <text>Whenever Horde Ambusher blocks, it deals 1 damage to you.&lt;br&gt;Morph—Reveal a red card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Horde Ambusher is turned face up, target creature can't block this turn.</text>
+    </mc>
+    <mc>
+      <id>386560</id>
+      <name>Hordeling Outburst</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put three 1/1 red Goblin creature tokens onto the battlefield.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Zoltan Boros</artist>
+      <num>111</num>
+      <text>Put three 1/1 red Goblin creature tokens onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>386561</id>
+      <name>Howl of the Horde</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.&lt;br&gt;Raid- If you attacked with a creature this turn, when you cast your next instant or sorcery spell this turn, copy that spell an additional time. You may choose new targets for the copy.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>112</num>
+      <text>When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.&lt;br&gt;Raid- If you attacked with a creature this turn, when you cast your next instant or sorcery spell this turn, copy that spell an additional time. You may choose new targets for the copy.</text>
+    </mc>
+    <mc>
+      <id>386562</id>
+      <name>Icefeather Aven</name>
+      <cost>{G}{U}</cost>
+      <type>Creature - Bird Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;Morph {1}{G}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Icefeather Aven is turned face up, you may return another target creature to its owner's hand.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>178</num>
+      <text>Flying&lt;br&gt;Morph {1}{G}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Icefeather Aven is turned face up, you may return another target creature to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>386563</id>
+      <name>Icy Blast</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Tap X target creatures.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, those creatures don't untap during their controllers' next untap steps.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>42</num>
+      <text>Tap X target creatures.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, those creatures don't untap during their controllers' next untap steps.</text>
+    </mc>
+    <mc>
+      <id>386564</id>
+      <name>Incremental Growth</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Clint Cearley</artist>
+      <num>138</num>
+      <text>Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.</text>
+    </mc>
+    <mc>
+      <id>386569</id>
+      <name>Ivorytusk Fortress</name>
+      <cost>{2}{W}{B}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>5</power>
+      <toughness>7</toughness>
+      <oracleText>Untap each creature you control with a +1/+1 counter on it during each other player's untap step.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Jasper Sandner</artist>
+      <num>179</num>
+      <text>Untap each creature you control with a +1/+1 counter on it during each other player's untap step.</text>
+    </mc>
+    <mc>
+      <id>386570</id>
+      <name>Jeering Instigator</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Morph {2}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Willian Murai</artist>
+      <num>113</num>
+      <text>Morph {2}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386571</id>
+      <name>Jeskai Ascendancy</name>
+      <cost>{U}{R}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn. Untap those creatures.&lt;br&gt;Whenever you cast a noncreature spell, you may draw a card. If you do, discard a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Dan Scott</artist>
+      <num>180</num>
+      <text>Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn. Untap those creatures.&lt;br&gt;Whenever you cast a noncreature spell, you may draw a card. If you do, discard a card.</text>
+    </mc>
+    <mc>
+      <id>386572</id>
+      <name>Jeskai Banner</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <oracleText>{T}: Add {U}, {R}, or {W} to your mana pool.&lt;br&gt;{U}{R}{W}, {T}, Sacrifice Jeskai Banner: Draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>222</num>
+      <text>{T}: Add {U}, {R}, or {W} to your mana pool.&lt;br&gt;{U}{R}{W}, {T}, Sacrifice Jeskai Banner: Draw a card.</text>
+    </mc>
+    <mc>
+      <id>386573</id>
+      <name>Jeskai Charm</name>
+      <cost>{U}{R}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Choose one-&lt;br&gt;• Put target creature on top of its owner's library.&lt;br&gt;• Jeskai Charm deals 4 damage to target opponent.&lt;br&gt;• Creatures you control get +1/+1 and gain lifelink until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mathias Kollros</artist>
+      <num>181</num>
+      <text>Choose one-&lt;br&gt;• Put target creature on top of its owner's library.&lt;br&gt;• Jeskai Charm deals 4 damage to target opponent.&lt;br&gt;• Creatures you control get +1/+1 and gain lifelink until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386574</id>
+      <name>Jeskai Elder</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Monk</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Craig J Spearing</artist>
+      <num>43</num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card.</text>
+    </mc>
+    <mc>
+      <id>386575</id>
+      <name>Jeskai Student</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Monk</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>David Gaillet</artist>
+      <num>14</num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386576</id>
+      <name>Jeskai Windscout</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Bird Scout</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Johann Bodin</artist>
+      <num>44</num>
+      <text>Flying&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386577</id>
+      <name>Jungle Hollow</name>
+      <type>Land</type>
+      <oracleText>Jungle Hollow enters the battlefield tapped.&lt;br&gt;When Jungle Hollow enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>235</num>
+      <text>Jungle Hollow enters the battlefield tapped.&lt;br&gt;When Jungle Hollow enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386578</id>
+      <name>Kheru Bloodsucker</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever a creature you control with toughness 4 or greater dies, each opponent loses 2 life and you gain 2 life.&lt;br&gt;{2}{B}, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>75</num>
+      <text>Whenever a creature you control with toughness 4 or greater dies, each opponent loses 2 life and you gain 2 life.&lt;br&gt;{2}{B}, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker.</text>
+    </mc>
+    <mc>
+      <id>386579</id>
+      <name>Kheru Dreadmaw</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Zombie Crocodile</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Defender&lt;br&gt;{1}{G}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Yee</artist>
+      <num>76</num>
+      <text>Defender&lt;br&gt;{1}{G}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.</text>
+    </mc>
+    <mc>
+      <id>386580</id>
+      <name>Kheru Lich Lord</name>
+      <cost>{3}{B}{G}{U}</cost>
+      <type>Creature - Zombie Wizard</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>At the beginning of your upkeep, you may pay {2}{B}. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>182</num>
+      <text>At the beginning of your upkeep, you may pay {2}{B}. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else.</text>
+    </mc>
+    <mc>
+      <id>386581</id>
+      <name>Kheru Spellsnatcher</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Naga Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Morph {4}{U}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Kheru Spellsnatcher is turned face up, counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may cast that card without paying its mana cost for as long as it remains exiled.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Clint Cearley</artist>
+      <num>45</num>
+      <text>Morph {4}{U}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Kheru Spellsnatcher is turned face up, counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may cast that card without paying its mana cost for as long as it remains exiled.</text>
+    </mc>
+    <mc>
+      <id>386582</id>
+      <name>Kill Shot</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target attacking creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Michael C. Hayes</artist>
+      <num>15</num>
+      <text>Destroy target attacking creature.</text>
+    </mc>
+    <mc>
+      <id>386583</id>
+      <name>Kin-Tree Invocation</name>
+      <cost>{B}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put an X/X black and green Spirit Warrior creature token onto the battlefield, where X is the greatest toughness among creatures you control.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>183</num>
+      <text>Put an X/X black and green Spirit Warrior creature token onto the battlefield, where X is the greatest toughness among creatures you control.</text>
+    </mc>
+    <mc>
+      <id>386584</id>
+      <name>Kin-Tree Warden</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{2}: Regenerate Kin-Tree Warden.&lt;br&gt;Morph {G} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Volkan Baga</artist>
+      <num>139</num>
+      <text>{2}: Regenerate Kin-Tree Warden.&lt;br&gt;Morph {G} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386585</id>
+      <name>Krumar Bond-Kin</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <oracleText>Morph {4}{B} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>77</num>
+      <text>Morph {4}{B} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386586</id>
+      <name>Leaping Master</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Monk</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>{2}{W}: Leaping Master gains flying until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Anastasia Ovchinnikova</artist>
+      <num>114</num>
+      <text>{2}{W}: Leaping Master gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386587</id>
+      <name>Lens of Clarity</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <oracleText>You may look at the top card of your library and at face-down creatures you don't control. &lt;i&gt;(You may do this at any time.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>223</num>
+      <text>You may look at the top card of your library and at face-down creatures you don't control. &lt;i&gt;(You may do this at any time.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386588</id>
+      <name>Longshot Squad</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Hound Archer</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Outlast {1}{G} &lt;i&gt;({1}{G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has reach. &lt;i&gt;(A creature with reach can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Wesley Burt</artist>
+      <num>140</num>
+      <text>Outlast {1}{G} &lt;i&gt;({1}{G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has reach. &lt;i&gt;(A creature with reach can block creatures with flying.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386589</id>
+      <name>Mantis Rider</name>
+      <cost>{U}{R}{W}</cost>
+      <type>Creature - Human Monk</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying, vigilance, haste</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Johann Bodin</artist>
+      <num>184</num>
+      <text>Flying, vigilance, haste</text>
+    </mc>
+    <mc>
+      <id>386590</id>
+      <name>Mardu Ascendancy</name>
+      <cost>{R}{W}{B}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever a nontoken creature you control attacks, put a 1/1 red Goblin creature token onto the battlefield tapped and attacking.&lt;br&gt;Sacrifice Mardu Ascendancy: Creatures you control get +0/+3 until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Chan</artist>
+      <num>185</num>
+      <text>Whenever a nontoken creature you control attacks, put a 1/1 red Goblin creature token onto the battlefield tapped and attacking.&lt;br&gt;Sacrifice Mardu Ascendancy: Creatures you control get +0/+3 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386591</id>
+      <name>Mardu Banner</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <oracleText>{T}: Add {R}, {W}, or {B} to your mana pool.&lt;br&gt;{R}{W}{B}, {T}, Sacrifice Mardu Banner: Draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>224</num>
+      <text>{T}: Add {R}, {W}, or {B} to your mana pool.&lt;br&gt;{R}{W}{B}, {T}, Sacrifice Mardu Banner: Draw a card.</text>
+    </mc>
+    <mc>
+      <id>386592</id>
+      <name>Mardu Blazebringer</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>When Mardu Blazebringer attacks or blocks, sacrifice it at end of combat.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Peter Mohrbacher</artist>
+      <num>115</num>
+      <text>When Mardu Blazebringer attacks or blocks, sacrifice it at end of combat.</text>
+    </mc>
+    <mc>
+      <id>386593</id>
+      <name>Mardu Charm</name>
+      <cost>{R}{W}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Choose one-&lt;br&gt;• Mardu Charm deals 4 damage to target creature.&lt;br&gt;• Put two 1/1 white Warrior creature tokens onto the battlefield. They gain first strike until end of turn.&lt;br&gt;• Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mathias Kollros</artist>
+      <num>186</num>
+      <text>Choose one-&lt;br&gt;• Mardu Charm deals 4 damage to target creature.&lt;br&gt;• Put two 1/1 white Warrior creature tokens onto the battlefield. They gain first strike until end of turn.&lt;br&gt;• Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+    </mc>
+    <mc>
+      <id>386594</id>
+      <name>Mardu Hateblade</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{B}: Mardu Hateblade gains deathtouch until end of turn. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>16</num>
+      <text>{B}: Mardu Hateblade gains deathtouch until end of turn. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386595</id>
+      <name>Mardu Heart-Piercer</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Archer</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Raid- When Mardu Heart-Piercer enters the battlefield, if you attacked with a creature this turn, Mardu Heart-Piercer deals 2 damage to target creature or player.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>116</num>
+      <text>Raid- When Mardu Heart-Piercer enters the battlefield, if you attacked with a creature this turn, Mardu Heart-Piercer deals 2 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>386596</id>
+      <name>Mardu Hordechief</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Raid- When Mardu Hordechief enters the battlefield, if you attacked with a creature this turn, put a 1/1 white Warrior creature token onto the battlefield.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Torstein Nordstrand</artist>
+      <num>17</num>
+      <text>Raid- When Mardu Hordechief enters the battlefield, if you attacked with a creature this turn, put a 1/1 white Warrior creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>386597</id>
+      <name>Mardu Roughrider</name>
+      <cost>{2}{R}{W}{B}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Whenever Mardu Roughrider attacks, target creature can't block this turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Kev Walker</artist>
+      <num>187</num>
+      <text>Whenever Mardu Roughrider attacks, target creature can't block this turn.</text>
+    </mc>
+    <mc>
+      <id>386598</id>
+      <name>Mardu Skullhunter</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Mardu Skullhunter enters the battlefield tapped.&lt;br&gt;Raid- When Mardu Skullhunter enters the battlefield, if you attacked with a creature this turn, target opponent discards a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Rainville</artist>
+      <num>78</num>
+      <text>Mardu Skullhunter enters the battlefield tapped.&lt;br&gt;Raid- When Mardu Skullhunter enters the battlefield, if you attacked with a creature this turn, target opponent discards a card.</text>
+    </mc>
+    <mc>
+      <id>386599</id>
+      <name>Mardu Warshrieker</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Orc Shaman</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Raid- When Mardu Warshrieker enters the battlefield, if you attacked with a creature this turn, add {R}{W}{B} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Yefim Kligerman</artist>
+      <num>117</num>
+      <text>Raid- When Mardu Warshrieker enters the battlefield, if you attacked with a creature this turn, add {R}{W}{B} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386600</id>
+      <name>Master of Pearls</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Monk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Morph {3}{W}{W} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Master of Pearls is turned face up, creatures you control get +2/+2 until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>David Gaillet</artist>
+      <num>18</num>
+      <text>Morph {3}{W}{W} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Master of Pearls is turned face up, creatures you control get +2/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386601</id>
+      <name>Master the Way</name>
+      <cost>{3}{U}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Draw a card. Master the Way deals damage to target creature or player equal to the number of cards in your hand.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Howard Lyon</artist>
+      <num>188</num>
+      <text>Draw a card. Master the Way deals damage to target creature or player equal to the number of cards in your hand.</text>
+    </mc>
+    <mc>
+      <id>386602</id>
+      <name>Meandering Towershell</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Turtle</type>
+      <power>5</power>
+      <toughness>9</toughness>
+      <oracleText>Islandwalk &lt;i&gt;(This creature can't be blocked as long as defending player controls an Island.)&lt;/i&gt;&lt;br&gt;Whenever Meandering Towershell attacks, exile it. Return it to the battlefield under your control tapped and attacking at the beginning of the declare attackers step on your next turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>YW Tang</artist>
+      <num>141</num>
+      <text>Islandwalk &lt;i&gt;(This creature can't be blocked as long as defending player controls an Island.)&lt;/i&gt;&lt;br&gt;Whenever Meandering Towershell attacks, exile it. Return it to the battlefield under your control tapped and attacking at the beginning of the declare attackers step on your next turn.</text>
+    </mc>
+    <mc>
+      <id>386603</id>
+      <name>Mer-Ek Nightblade</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Orc Assassin</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Outlast {B} &lt;i&gt;({B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has deathtouch.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Lucas Graciano</artist>
+      <num>79</num>
+      <text>Outlast {B} &lt;i&gt;({B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has deathtouch.</text>
+    </mc>
+    <mc>
+      <id>386604</id>
+      <name>Mindswipe</name>
+      <cost>{X}{U}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell unless its controller pays {X}. Mindswipe deals X damage to that spell's controller.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>189</num>
+      <text>Counter target spell unless its controller pays {X}. Mindswipe deals X damage to that spell's controller.</text>
+    </mc>
+    <mc>
+      <id>386605</id>
+      <name>Mistfire Weaver</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Djinn Wizard</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;Morph {2}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Mistfire Weaver is turned face up, target creature you control gains hexproof until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Chris Rahn</artist>
+      <num>46</num>
+      <text>Flying&lt;br&gt;Morph {2}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Mistfire Weaver is turned face up, target creature you control gains hexproof until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386606</id>
+      <name>Molting Snakeskin</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has "{2}{B}: Regenerate this creature."</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>YW Tang</artist>
+      <num>80</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has "{2}{B}: Regenerate this creature."</text>
+    </mc>
+    <mc>
+      <id>386607</id>
+      <name>Monastery Flock</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <oracleText>Defender, flying&lt;br&gt;Morph {U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>John Avon</artist>
+      <num>47</num>
+      <text>Defender, flying&lt;br&gt;Morph {U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386608</id>
+      <name>Monastery Swiftspear</name>
+      <cost>{R}</cost>
+      <type>Creature - Human Monk</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Haste&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steve Argyle</artist>
+      <num>118</num>
+      <text>Haste&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386613</id>
+      <name>Murderous Cut</name>
+      <cost>{4}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Destroy target creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Yohann Schepacz</artist>
+      <num>81</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Destroy target creature.</text>
+    </mc>
+    <mc>
+      <id>386614</id>
+      <name>Mystic Monastery</name>
+      <type>Land</type>
+      <oracleText>Mystic Monastery enters the battlefield tapped.&lt;br&gt;{T}: Add {U}, {R}, or {W} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Florian de Gesincourt</artist>
+      <num>236</num>
+      <text>Mystic Monastery enters the battlefield tapped.&lt;br&gt;{T}: Add {U}, {R}, or {W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386615</id>
+      <name>Mystic of the Hidden Way</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Human Monk</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Mystic of the Hidden Way can't be blocked.&lt;br&gt;Morph {2}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>48</num>
+      <text>Mystic of the Hidden Way can't be blocked.&lt;br&gt;Morph {2}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386616</id>
+      <name>Narset, Enlightened Master</name>
+      <cost>{3}{U}{R}{W}</cost>
+      <type>Legendary Creature - Human Monk</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>First strike, hexproof&lt;br&gt;Whenever Narset, Enlightened Master attacks, exile the top four cards of your library. Until end of turn, you may cast noncreature cards exiled with Narset this turn without paying their mana costs.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Magali Villeneuve</artist>
+      <num>190</num>
+      <text>First strike, hexproof&lt;br&gt;Whenever Narset, Enlightened Master attacks, exile the top four cards of your library. Until end of turn, you may cast noncreature cards exiled with Narset this turn without paying their mana costs.</text>
+    </mc>
+    <mc>
+      <id>386617</id>
+      <name>Naturalize</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target artifact or enchantment.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>James Paick</artist>
+      <num>142</num>
+      <text>Destroy target artifact or enchantment.</text>
+    </mc>
+    <mc>
+      <id>386618</id>
+      <name>Necropolis Fiend</name>
+      <cost>{7}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Seb McKinnon</artist>
+      <num>82</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386619</id>
+      <name>Nomad Outpost</name>
+      <type>Land</type>
+      <oracleText>Nomad Outpost enters the battlefield tapped.&lt;br&gt;{T}: Add {R}, {W}, or {B} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Noah Bradley</artist>
+      <num>237</num>
+      <text>Nomad Outpost enters the battlefield tapped.&lt;br&gt;{T}: Add {R}, {W}, or {B} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386620</id>
+      <name>Opulent Palace</name>
+      <type>Land</type>
+      <oracleText>Opulent Palace enters the battlefield tapped.&lt;br&gt;{T}: Add {B}, {G}, or {U} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Adam Paquette</artist>
+      <num>238</num>
+      <text>Opulent Palace enters the battlefield tapped.&lt;br&gt;{T}: Add {B}, {G}, or {U} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386621</id>
+      <name>Pearl Lake Ancient</name>
+      <cost>{5}{U}{U}</cost>
+      <type>Creature - Leviathan</type>
+      <power>6</power>
+      <toughness>7</toughness>
+      <oracleText>Flash&lt;br&gt;Pearl Lake Ancient can't be countered.&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Return three lands you control to their owner's hand: Return Pearl Lake Ancient to its owner's hand.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Richard Wright</artist>
+      <num>49</num>
+      <text>Flash&lt;br&gt;Pearl Lake Ancient can't be countered.&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Return three lands you control to their owner's hand: Return Pearl Lake Ancient to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>386622</id>
+      <name>Pine Walker</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Morph {4}{G} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;Whenever Pine Walker or another creature you control is turned face up, untap that creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dave Kendall</artist>
+      <num>143</num>
+      <text>Morph {4}{G} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;Whenever Pine Walker or another creature you control is turned face up, untap that creature.</text>
+    </mc>
+    <mc>
+      <id>386627</id>
+      <name>Polluted Delta</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Vincent Proce</artist>
+      <num>239</num>
+      <text>{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>386628</id>
+      <name>Ponyback Brigade</name>
+      <cost>{3}{R}{W}{B}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Ponyback Brigade enters the battlefield or is turned face up, put three 1/1 red Goblin creature tokens onto the battlefield.&lt;br&gt;Morph {2}{R}{W}{B} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Mark Zug</artist>
+      <num>191</num>
+      <text>When Ponyback Brigade enters the battlefield or is turned face up, put three 1/1 red Goblin creature tokens onto the battlefield.&lt;br&gt;Morph {2}{R}{W}{B} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386629</id>
+      <name>Quiet Contemplation</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever you cast a noncreature spell, you may pay {1}. If you do, tap target creature an opponent controls and it doesn't untap during its controller's next untap step.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Magali Villeneuve</artist>
+      <num>50</num>
+      <text>Whenever you cast a noncreature spell, you may pay {1}. If you do, tap target creature an opponent controls and it doesn't untap during its controller's next untap step.</text>
+    </mc>
+    <mc>
+      <id>386630</id>
+      <name>Raiders' Spoils</name>
+      <cost>{3}{B}</cost>
+      <type>Enchantment</type>
+      <oracleText>Creatures you control get +1/+0.&lt;br&gt;Whenever a Warrior you control deals combat damage to a player, you may pay 1 life. If you do, draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>83</num>
+      <text>Creatures you control get +1/+0.&lt;br&gt;Whenever a Warrior you control deals combat damage to a player, you may pay 1 life. If you do, draw a card.</text>
+    </mc>
+    <mc>
+      <id>386631</id>
+      <name>Rakshasa Deathdealer</name>
+      <cost>{B}{G}</cost>
+      <type>Creature - Cat Demon</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{B}{G}: Rakshasa Deathdealer gets +2/+2 until end of turn.&lt;br&gt;{B}{G}: Regenerate Rakshasa Deathdealer.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>John Severin Brassell</artist>
+      <num>192</num>
+      <text>{B}{G}: Rakshasa Deathdealer gets +2/+2 until end of turn.&lt;br&gt;{B}{G}: Regenerate Rakshasa Deathdealer.</text>
+    </mc>
+    <mc>
+      <id>386632</id>
+      <name>Rakshasa Vizier</name>
+      <cost>{2}{B}{G}{U}</cost>
+      <type>Creature - Cat Demon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Whenever one or more cards are put into exile from your graveyard, put that many +1/+1 counters on Rakshasa Vizier.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Nils Hamm</artist>
+      <num>193</num>
+      <text>Whenever one or more cards are put into exile from your graveyard, put that many +1/+1 counters on Rakshasa Vizier.</text>
+    </mc>
+    <mc>
+      <id>386633</id>
+      <name>Rakshasa's Secret</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target opponent discards two cards. Put the top two cards of your library into your graveyard.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Magali Villeneuve</artist>
+      <num>84</num>
+      <text>Target opponent discards two cards. Put the top two cards of your library into your graveyard.</text>
+    </mc>
+    <mc>
+      <id>386634</id>
+      <name>Rattleclaw Mystic</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Add {G}, {U}, or {R} to your mana pool.&lt;br&gt;Morph {2} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Rattleclaw Mystic is turned face up, add {G}{U}{R} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>144</num>
+      <text>{T}: Add {G}, {U}, or {R} to your mana pool.&lt;br&gt;Morph {2} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Rattleclaw Mystic is turned face up, add {G}{U}{R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386635</id>
+      <name>Retribution of the Ancients</name>
+      <cost>{B}</cost>
+      <type>Enchantment</type>
+      <oracleText>{B}, Remove X +1/+1 counters from among creatures you control: Target creature gets -X/-X until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>85</num>
+      <text>{B}, Remove X +1/+1 counters from among creatures you control: Target creature gets -X/-X until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386636</id>
+      <name>Ride Down</name>
+      <cost>{R}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daarken</artist>
+      <num>194</num>
+      <text>Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386637</id>
+      <name>Rite of the Serpent</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy target creature. If that creature had a +1/+1 counter on it, put a 1/1 green Snake creature token onto the battlefield.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Seb McKinnon</artist>
+      <num>86</num>
+      <text>Destroy target creature. If that creature had a +1/+1 counter on it, put a 1/1 green Snake creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>386638</id>
+      <name>Riverwheel Aerialists</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Djinn Monk</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Flying&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jack Wang</artist>
+      <num>51</num>
+      <text>Flying&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386639</id>
+      <name>Roar of Challenge</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>All creatures able to block target creature this turn do so.&lt;br&gt;Ferocious- That creature gains indestructible until end of turn if you control a creature with power 4 or greater.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Viktor Titov</artist>
+      <num>145</num>
+      <text>All creatures able to block target creature this turn do so.&lt;br&gt;Ferocious- That creature gains indestructible until end of turn if you control a creature with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>386640</id>
+      <name>Rotting Mastodon</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Zombie Elephant</type>
+      <power>2</power>
+      <toughness>8</toughness>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Nils Hamm</artist>
+      <num>87</num>
+    </mc>
+    <mc>
+      <id>386641</id>
+      <name>Rugged Highlands</name>
+      <type>Land</type>
+      <oracleText>Rugged Highlands enters the battlefield tapped.&lt;br&gt;When Rugged Highlands enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>240</num>
+      <text>Rugged Highlands enters the battlefield tapped.&lt;br&gt;When Rugged Highlands enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386642</id>
+      <name>Rush of Battle</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Creatures you control get +2/+1 until end of turn. Warrior creatures you control gain lifelink until end of turn. &lt;i&gt;(Damage dealt by those Warriors also causes their controller to gain that much life.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Dan Scott</artist>
+      <num>19</num>
+      <text>Creatures you control get +2/+1 until end of turn. Warrior creatures you control gain lifelink until end of turn. &lt;i&gt;(Damage dealt by those Warriors also causes their controller to gain that much life.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386643</id>
+      <name>Ruthless Ripper</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Assassin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Deathtouch&lt;br&gt;Morph—Reveal a black card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Ruthless Ripper is turned face up, target player loses 2 life.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Clint Cearley</artist>
+      <num>88</num>
+      <text>Deathtouch&lt;br&gt;Morph—Reveal a black card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Ruthless Ripper is turned face up, target player loses 2 life.</text>
+    </mc>
+    <mc>
+      <id>386644</id>
+      <name>Sage of the Inward Eye</name>
+      <cost>{2}{U}{R}{W}</cost>
+      <type>Creature - Djinn Wizard</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever you cast a noncreature spell, creatures you control gain lifelink until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Chase Stone</artist>
+      <num>195</num>
+      <text>Flying&lt;br&gt;Whenever you cast a noncreature spell, creatures you control gain lifelink until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386645</id>
+      <name>Sage-Eye Harrier</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Bird Warrior</type>
+      <power>1</power>
+      <toughness>5</toughness>
+      <oracleText>Flying&lt;br&gt;Morph {3}{W} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Chase Stone</artist>
+      <num>20</num>
+      <text>Flying&lt;br&gt;Morph {3}{W} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386646</id>
+      <name>Sagu Archer</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Naga Archer</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Morph {4}{G} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Steven Belledin</artist>
+      <num>146</num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Morph {4}{G} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386647</id>
+      <name>Sagu Mauler</name>
+      <cost>{4}{G}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Trample, hexproof&lt;br&gt;Morph {3}{G}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>196</num>
+      <text>Trample, hexproof&lt;br&gt;Morph {3}{G}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386648</id>
+      <name>Salt Road Patrol</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Scout</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <oracleText>Outlast {1}{W} &lt;i&gt;({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Scott Murphy</artist>
+      <num>21</num>
+      <text>Outlast {1}{W} &lt;i&gt;({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386649</id>
+      <name>Sandsteppe Citadel</name>
+      <type>Land</type>
+      <oracleText>Sandsteppe Citadel enters the battlefield tapped.&lt;br&gt;{T}: Add {W}, {B}, or {G} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Sam Burley</artist>
+      <num>241</num>
+      <text>Sandsteppe Citadel enters the battlefield tapped.&lt;br&gt;{T}: Add {W}, {B}, or {G} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386650</id>
+      <name>Sarkhan, the Dragonspeaker</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Planeswalker - Sarkhan</type>
+      <toughness>4</toughness>
+      <oracleText>+1: Until end of turn, Sarkhan, the Dragonspeaker becomes a legendary 4/4 red Dragon creature with flying, indestructible, and haste. &lt;i&gt;(He doesn't lose loyalty while he's not a planeswalker.)&lt;/i&gt;&lt;br&gt;−3: Sarkhan, the Dragonspeaker deals 4 damage to target creature.&lt;br&gt;−6: You get an emblem with "At the beginning of your draw step, draw two additional cards" and "At the beginning of your end step, discard your hand."</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Daarken</artist>
+      <num>119</num>
+      <text>+1: Until end of turn, Sarkhan, the Dragonspeaker becomes a legendary 4/4 red Dragon creature with flying, indestructible, and haste. &lt;i&gt;(He doesn't lose loyalty while he's not a planeswalker.)&lt;/i&gt;&lt;br&gt;−3: Sarkhan, the Dragonspeaker deals 4 damage to target creature.&lt;br&gt;−6: You get an emblem with "At the beginning of your draw step, draw two additional cards" and "At the beginning of your end step, discard your hand."</text>
+    </mc>
+    <mc>
+      <id>386651</id>
+      <name>Savage Knuckleblade</name>
+      <cost>{G}{U}{R}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>{2}{G}: Savage Knuckleblade gets +2/+2 until end of turn. Activate this ability only once each turn.&lt;br&gt;{2}{U}: Return Savage Knuckleblade to its owner's hand.&lt;br&gt;{R}: Savage Knuckleblade gains haste until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Chris Rahn</artist>
+      <num>197</num>
+      <text>{2}{G}: Savage Knuckleblade gets +2/+2 until end of turn. Activate this ability only once each turn.&lt;br&gt;{2}{U}: Return Savage Knuckleblade to its owner's hand.&lt;br&gt;{R}: Savage Knuckleblade gains haste until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386652</id>
+      <name>Savage Punch</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target creature you control fights target creature you don't control.&lt;br&gt;Ferocious- The creature you control gets +2/+2 until end of turn before it fights if you control a creature with power 4 or greater.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Wesley Burt</artist>
+      <num>147</num>
+      <text>Target creature you control fights target creature you don't control.&lt;br&gt;Ferocious- The creature you control gets +2/+2 until end of turn before it fights if you control a creature with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>386653</id>
+      <name>Scaldkin</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;{2}{R}, Sacrifice Scaldkin: Scaldkin deals 2 damage to target creature or player.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Cliff Childs</artist>
+      <num>52</num>
+      <text>Flying&lt;br&gt;{2}{R}, Sacrifice Scaldkin: Scaldkin deals 2 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>386654</id>
+      <name>Scion of Glaciers</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <oracleText>{U}: Scion of Glaciers gets +1/-1 until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Titus Lunter</artist>
+      <num>53</num>
+      <text>{U}: Scion of Glaciers gets +1/-1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386655</id>
+      <name>Scoured Barrens</name>
+      <type>Land</type>
+      <oracleText>Scoured Barrens enters the battlefield tapped.&lt;br&gt;When Scoured Barrens enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>242</num>
+      <text>Scoured Barrens enters the battlefield tapped.&lt;br&gt;When Scoured Barrens enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386656</id>
+      <name>Scout the Borders</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>James Paick</artist>
+      <num>148</num>
+      <text>Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.</text>
+    </mc>
+    <mc>
+      <id>386657</id>
+      <name>Secret Plans</name>
+      <cost>{G}{U}</cost>
+      <type>Enchantment</type>
+      <oracleText>Face-down creatures you control get +0/+1.&lt;br&gt;Whenever a permanent you control is turned face up, draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daarken</artist>
+      <num>198</num>
+      <text>Face-down creatures you control get +0/+1.&lt;br&gt;Whenever a permanent you control is turned face up, draw a card.</text>
+    </mc>
+    <mc>
+      <id>386658</id>
+      <name>See the Unwritten</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Reveal the top eight cards of your library. You may put a creature card from among them onto the battlefield. Put the rest into your graveyard.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, you may put two creature cards onto the battlefield instead of one.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Barger</artist>
+      <num>149</num>
+      <text>Reveal the top eight cards of your library. You may put a creature card from among them onto the battlefield. Put the rest into your graveyard.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, you may put two creature cards onto the battlefield instead of one.</text>
+    </mc>
+    <mc>
+      <id>386659</id>
+      <name>Seek the Horizon</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Min Yum</artist>
+      <num>150</num>
+      <text>Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>386660</id>
+      <name>Seeker of the Way</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Craig J Spearing</artist>
+      <num>22</num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386661</id>
+      <name>Set Adrift</name>
+      <cost>{5}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Put target nonland permanent on top of its owner's library.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>54</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Put target nonland permanent on top of its owner's library.</text>
+    </mc>
+    <mc>
+      <id>386662</id>
+      <name>Shambling Attendants</name>
+      <cost>{7}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Daarken</artist>
+      <num>89</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386663</id>
+      <name>Shatter</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target artifact.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Zoltan Boros</artist>
+      <num>120</num>
+      <text>Destroy target artifact.</text>
+    </mc>
+    <mc>
+      <id>386664</id>
+      <name>Sidisi, Brood Tyrant</name>
+      <cost>{1}{B}{G}{U}</cost>
+      <type>Legendary Creature - Naga Shaman</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Whenever Sidisi, Brood Tyrant enters the battlefield or attacks, put the top three cards of your library into your graveyard.&lt;br&gt;Whenever one or more creature cards are put into your graveyard from your library, put a 2/2 black Zombie creature token onto the battlefield.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>199</num>
+      <text>Whenever Sidisi, Brood Tyrant enters the battlefield or attacks, put the top three cards of your library into your graveyard.&lt;br&gt;Whenever one or more creature cards are put into your graveyard from your library, put a 2/2 black Zombie creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>386665</id>
+      <name>Sidisi's Pet</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie Ape</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <oracleText>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Morph {1}{B} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Evan Shipard</artist>
+      <num>90</num>
+      <text>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Morph {1}{B} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386666</id>
+      <name>Siege Rhino</name>
+      <cost>{1}{W}{B}{G}</cost>
+      <type>Creature - Rhino</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Trample&lt;br&gt;When Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Volkan Baga</artist>
+      <num>200</num>
+      <text>Trample&lt;br&gt;When Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.</text>
+    </mc>
+    <mc>
+      <id>386667</id>
+      <name>Siegecraft</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+4.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Viktor Titov</artist>
+      <num>23</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+4.</text>
+    </mc>
+    <mc>
+      <id>386668</id>
+      <name>Singing Bell Strike</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;When Singing Bell Strike enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.&lt;br&gt;Enchanted creature has "{6}: Untap this creature."</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Chase Stone</artist>
+      <num>55</num>
+      <text>Enchant creature&lt;br&gt;When Singing Bell Strike enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.&lt;br&gt;Enchanted creature has "{6}: Untap this creature."</text>
+    </mc>
+    <mc>
+      <id>386669</id>
+      <name>Smite the Monstrous</name>
+      <cost>{3}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target creature with power 4 or greater.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Greg Staples</artist>
+      <num>24</num>
+      <text>Destroy target creature with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>386670</id>
+      <name>Smoke Teller</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{1}{U}: Look at target face-down creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Min Yum</artist>
+      <num>151</num>
+      <text>{1}{U}: Look at target face-down creature.</text>
+    </mc>
+    <mc>
+      <id>386671</id>
+      <name>Snowhorn Rider</name>
+      <cost>{3}{G}{U}{R}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Trample&lt;br&gt;Morph {2}{G}{U}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Tomasz Jedruszek</artist>
+      <num>201</num>
+      <text>Trample&lt;br&gt;Morph {2}{G}{U}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386672</id>
+      <name>Sorin, Solemn Visitor</name>
+      <cost>{2}{W}{B}</cost>
+      <type>Planeswalker - Sorin</type>
+      <toughness>4</toughness>
+      <oracleText>+1: Until your next turn, creatures you control get +1/+0 and gain lifelink.&lt;br&gt;−2: Put a 2/2 black Vampire creature token with flying onto the battlefield.&lt;br&gt;−6: You get an emblem with "At the beginning of each opponent's upkeep, that player sacrifices a creature."</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Cynthia Sheppard</artist>
+      <num>202</num>
+      <text>+1: Until your next turn, creatures you control get +1/+0 and gain lifelink.&lt;br&gt;−2: Put a 2/2 black Vampire creature token with flying onto the battlefield.&lt;br&gt;−6: You get an emblem with "At the beginning of each opponent's upkeep, that player sacrifices a creature."</text>
+    </mc>
+    <mc>
+      <id>386673</id>
+      <name>Stubborn Denial</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target noncreature spell unless its controller pays {1}.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, counter that spell instead.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>James Ryman</artist>
+      <num>56</num>
+      <text>Counter target noncreature spell unless its controller pays {1}.&lt;br&gt;Ferocious- If you control a creature with power 4 or greater, counter that spell instead.</text>
+    </mc>
+    <mc>
+      <id>386674</id>
+      <name>Sultai Ascendancy</name>
+      <cost>{B}{G}{U}</cost>
+      <type>Enchantment</type>
+      <oracleText>At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>203</num>
+      <text>At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.</text>
+    </mc>
+    <mc>
+      <id>386675</id>
+      <name>Sultai Banner</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <oracleText>{T}: Add {B}, {G}, or {U} to your mana pool.&lt;br&gt;{B}{G}{U}, {T}, Sacrifice Sultai Banner: Draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>225</num>
+      <text>{T}: Add {B}, {G}, or {U} to your mana pool.&lt;br&gt;{B}{G}{U}, {T}, Sacrifice Sultai Banner: Draw a card.</text>
+    </mc>
+    <mc>
+      <id>386676</id>
+      <name>Sultai Charm</name>
+      <cost>{B}{G}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Choose one-&lt;br&gt;• Destroy target monocolored creature.&lt;br&gt;• Destroy target artifact or enchantment.&lt;br&gt;• Draw two cards, then discard a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mathias Kollros</artist>
+      <num>204</num>
+      <text>Choose one-&lt;br&gt;• Destroy target monocolored creature.&lt;br&gt;• Destroy target artifact or enchantment.&lt;br&gt;• Draw two cards, then discard a card.</text>
+    </mc>
+    <mc>
+      <id>386677</id>
+      <name>Sultai Flayer</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Naga Shaman</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Whenever a creature you control with toughness 4 or greater dies, you gain 4 life.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Izzy</artist>
+      <num>152</num>
+      <text>Whenever a creature you control with toughness 4 or greater dies, you gain 4 life.</text>
+    </mc>
+    <mc>
+      <id>386678</id>
+      <name>Sultai Scavenger</name>
+      <cost>{5}{B}</cost>
+      <type>Creature - Bird Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Flying</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Anthony Palumbo</artist>
+      <num>91</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Flying</text>
+    </mc>
+    <mc>
+      <id>386679</id>
+      <name>Sultai Soothsayer</name>
+      <cost>{2}{B}{G}{U}</cost>
+      <type>Creature - Naga Shaman</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <oracleText>When Sultai Soothsayer enters the battlefield, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Cynthia Sheppard</artist>
+      <num>205</num>
+      <text>When Sultai Soothsayer enters the battlefield, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.</text>
+    </mc>
+    <mc>
+      <id>386680</id>
+      <name>Summit Prowler</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Yeti</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Filip Burburan</artist>
+      <num>121</num>
+    </mc>
+    <mc>
+      <id>386681</id>
+      <name>Surrak Dragonclaw</name>
+      <cost>{2}{G}{U}{R}</cost>
+      <type>Legendary Creature - Human Warrior</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Flash&lt;br&gt;Surrak Dragonclaw can't be countered.&lt;br&gt;Creature spells you control can't be countered.&lt;br&gt;Other creatures you control have trample.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jaime Jones</artist>
+      <num>206</num>
+      <text>Flash&lt;br&gt;Surrak Dragonclaw can't be countered.&lt;br&gt;Creature spells you control can't be countered.&lt;br&gt;Other creatures you control have trample.</text>
+    </mc>
+    <mc>
+      <id>386682</id>
+      <name>Suspension Field</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>When Suspension Field enters the battlefield, you may exile target creature with toughness 3 or greater until Suspension Field leaves the battlefield. &lt;i&gt;(That creature returns under its owner's control.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Seb McKinnon</artist>
+      <num>25</num>
+      <text>When Suspension Field enters the battlefield, you may exile target creature with toughness 3 or greater until Suspension Field leaves the battlefield. &lt;i&gt;(That creature returns under its owner's control.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386687</id>
+      <name>Swarm of Bloodflies</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Insect</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Flying&lt;br&gt;Swarm of Bloodflies enters the battlefield with two +1/+1 counters on it.&lt;br&gt;Whenever another creature dies, put a +1/+1 counter on Swarm of Bloodflies.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Marco Nelor</artist>
+      <num>92</num>
+      <text>Flying&lt;br&gt;Swarm of Bloodflies enters the battlefield with two +1/+1 counters on it.&lt;br&gt;Whenever another creature dies, put a +1/+1 counter on Swarm of Bloodflies.</text>
+    </mc>
+    <mc>
+      <id>386688</id>
+      <name>Swift Kick</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature you control gets +1/+0 until end of turn. It fights target creature you don't control.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Mathias Kollros</artist>
+      <num>122</num>
+      <text>Target creature you control gets +1/+0 until end of turn. It fights target creature you don't control.</text>
+    </mc>
+    <mc>
+      <id>386689</id>
+      <name>Swiftwater Cliffs</name>
+      <type>Land</type>
+      <oracleText>Swiftwater Cliffs enters the battlefield tapped.&lt;br&gt;When Swiftwater Cliffs enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {R} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>243</num>
+      <text>Swiftwater Cliffs enters the battlefield tapped.&lt;br&gt;When Swiftwater Cliffs enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386690</id>
+      <name>Taigam's Scheming</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Look at the top five cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>57</num>
+      <text>Look at the top five cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.</text>
+    </mc>
+    <mc>
+      <id>386691</id>
+      <name>Take Up Arms</name>
+      <cost>{4}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Put three 1/1 white Warrior creature tokens onto the battlefield.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Craig J Spearing</artist>
+      <num>26</num>
+      <text>Put three 1/1 white Warrior creature tokens onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>386692</id>
+      <name>Temur Ascendancy</name>
+      <cost>{G}{U}{R}</cost>
+      <type>Enchantment</type>
+      <oracleText>Creatures you control have haste.&lt;br&gt;Whenever a creature with power 4 or greater enters the battlefield under your control, you may draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Jaime Jones</artist>
+      <num>207</num>
+      <text>Creatures you control have haste.&lt;br&gt;Whenever a creature with power 4 or greater enters the battlefield under your control, you may draw a card.</text>
+    </mc>
+    <mc>
+      <id>386693</id>
+      <name>Temur Banner</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <oracleText>{T}: Add {G}, {U}, or {R} to your mana pool.&lt;br&gt;{G}{U}{R}, {T}, Sacrifice Temur Banner: Draw a card.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>226</num>
+      <text>{T}: Add {G}, {U}, or {R} to your mana pool.&lt;br&gt;{G}{U}{R}, {T}, Sacrifice Temur Banner: Draw a card.</text>
+    </mc>
+    <mc>
+      <id>386694</id>
+      <name>Temur Charger</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Horse</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Morph—Reveal a green card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Temur Charger is turned face up, target creature gains trample until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mark Zug</artist>
+      <num>153</num>
+      <text>Morph—Reveal a green card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Temur Charger is turned face up, target creature gains trample until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386695</id>
+      <name>Temur Charm</name>
+      <cost>{G}{U}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Choose one-&lt;br&gt;• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.&lt;br&gt;• Counter target spell unless its controller pays {3}.&lt;br&gt;• Creatures with power 3 or less can't block this turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mathias Kollros</artist>
+      <num>208</num>
+      <text>Choose one-&lt;br&gt;• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.&lt;br&gt;• Counter target spell unless its controller pays {3}.&lt;br&gt;• Creatures with power 3 or less can't block this turn.</text>
+    </mc>
+    <mc>
+      <id>386696</id>
+      <name>Thornwood Falls</name>
+      <type>Land</type>
+      <oracleText>Thornwood Falls enters the battlefield tapped.&lt;br&gt;When Thornwood Falls enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {U} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>244</num>
+      <text>Thornwood Falls enters the battlefield tapped.&lt;br&gt;When Thornwood Falls enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {U} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386697</id>
+      <name>Thousand Winds</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <oracleText>Flying&lt;br&gt;Morph {5}{U}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Thousand Winds is turned face up, return all other tapped creatures to their owners' hands.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>58</num>
+      <text>Flying&lt;br&gt;Morph {5}{U}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Thousand Winds is turned face up, return all other tapped creatures to their owners' hands.</text>
+    </mc>
+    <mc>
+      <id>386698</id>
+      <name>Throttle</name>
+      <cost>{4}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets -4/-4 until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>93</num>
+      <text>Target creature gets -4/-4 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386699</id>
+      <name>Timely Hordemate</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Raid- When Timely Hordemate enters the battlefield, if you attacked with a creature this turn, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steve Prescott</artist>
+      <num>27</num>
+      <text>Raid- When Timely Hordemate enters the battlefield, if you attacked with a creature this turn, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.</text>
+    </mc>
+    <mc>
+      <id>386700</id>
+      <name>Tomb of the Spirit Dragon</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}: You gain 1 life for each colorless creature you control.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Sam Burley</artist>
+      <num>245</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}: You gain 1 life for each colorless creature you control.</text>
+    </mc>
+    <mc>
+      <id>386701</id>
+      <name>Tormenting Voice</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>As an additional cost to cast Tormenting Voice, discard a card.&lt;br&gt;Draw two cards.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Volkan Baga</artist>
+      <num>123</num>
+      <text>As an additional cost to cast Tormenting Voice, discard a card.&lt;br&gt;Draw two cards.</text>
+    </mc>
+    <mc>
+      <id>386702</id>
+      <name>Trail of Mystery</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever a face-down creature enters the battlefield under your control, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.&lt;br&gt;Whenever a permanent you control is turned face up, if it's a creature, it gets +2/+2 until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>154</num>
+      <text>Whenever a face-down creature enters the battlefield under your control, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.&lt;br&gt;Whenever a permanent you control is turned face up, if it's a creature, it gets +2/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386703</id>
+      <name>Tranquil Cove</name>
+      <type>Land</type>
+      <oracleText>Tranquil Cove enters the battlefield tapped.&lt;br&gt;When Tranquil Cove enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>John Avon</artist>
+      <num>246</num>
+      <text>Tranquil Cove enters the battlefield tapped.&lt;br&gt;When Tranquil Cove enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386704</id>
+      <name>Trap Essence</name>
+      <cost>{G}{U}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target creature spell. Put two +1/+1 counters on up to one target creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>209</num>
+      <text>Counter target creature spell. Put two +1/+1 counters on up to one target creature.</text>
+    </mc>
+    <mc>
+      <id>386705</id>
+      <name>Treasure Cruise</name>
+      <cost>{7}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Draw three cards.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Cynthia Sheppard</artist>
+      <num>59</num>
+      <text>Delve &lt;i&gt;(Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;/i&gt;&lt;br&gt;Draw three cards.</text>
+    </mc>
+    <mc>
+      <id>386706</id>
+      <name>Trumpet Blast</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Attacking creatures get +2/+0 until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Prescott</artist>
+      <num>124</num>
+      <text>Attacking creatures get +2/+0 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386707</id>
+      <name>Tusked Colossodon</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Yeong-Hao Han</artist>
+      <num>155</num>
+    </mc>
+    <mc>
+      <id>386708</id>
+      <name>Tuskguard Captain</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Outlast {G} &lt;i&gt;({G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has trample.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Aaron Miller</artist>
+      <num>156</num>
+      <text>Outlast {G} &lt;i&gt;({G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)&lt;/i&gt;&lt;br&gt;Each creature you control with a +1/+1 counter on it has trample.</text>
+    </mc>
+    <mc>
+      <id>386709</id>
+      <name>Ugin's Nexus</name>
+      <cost>{5}</cost>
+      <type>Legendary Artifact</type>
+      <oracleText>If a player would begin an extra turn, that player skips that turn instead.&lt;br&gt;If Ugin's Nexus would be put into a graveyard from the battlefield, instead exile it and take an extra turn after this one.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Sam Burley</artist>
+      <num>227</num>
+      <text>If a player would begin an extra turn, that player skips that turn instead.&lt;br&gt;If Ugin's Nexus would be put into a graveyard from the battlefield, instead exile it and take an extra turn after this one.</text>
+    </mc>
+    <mc>
+      <id>386710</id>
+      <name>Unyielding Krumar</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>{1}{W}: Unyielding Krumar gains first strike until end of turn.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Viktor Titov</artist>
+      <num>94</num>
+      <text>{1}{W}: Unyielding Krumar gains first strike until end of turn.</text>
+    </mc>
+    <mc>
+      <id>386711</id>
+      <name>Utter End</name>
+      <cost>{2}{W}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Exile target nonland permanent.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Mark Winters</artist>
+      <num>210</num>
+      <text>Exile target nonland permanent.</text>
+    </mc>
+    <mc>
+      <id>386712</id>
+      <name>Valley Dasher</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Berserker</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Haste&lt;br&gt;Valley Dasher attacks each turn if able.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Stewart</artist>
+      <num>125</num>
+      <text>Haste&lt;br&gt;Valley Dasher attacks each turn if able.</text>
+    </mc>
+    <mc>
+      <id>386713</id>
+      <name>Venerable Lammasu</name>
+      <cost>{6}{W}</cost>
+      <type>Creature - Lammasu</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Flying</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>YW Tang</artist>
+      <num>28</num>
+      <text>Flying</text>
+    </mc>
+    <mc>
+      <id>386714</id>
+      <name>Villainous Wealth</name>
+      <cost>{X}{B}{G}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target opponent exiles the top X cards of his or her library. You may cast any number of nonland cards with converted mana cost X or less from among them without paying their mana costs.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Erica Yang</artist>
+      <num>211</num>
+      <text>Target opponent exiles the top X cards of his or her library. You may cast any number of nonland cards with converted mana cost X or less from among them without paying their mana costs.</text>
+    </mc>
+    <mc>
+      <id>386715</id>
+      <name>War Behemoth</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>6</toughness>
+      <oracleText>Morph {4}{W} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Zoltan Boros</artist>
+      <num>29</num>
+      <text>Morph {4}{W} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386716</id>
+      <name>Warden of the Eye</name>
+      <cost>{2}{U}{R}{W}</cost>
+      <type>Creature - Djinn Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>When Warden of the Eye enters the battlefield, return target noncreature, nonland card from your graveyard to your hand.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Howard Lyon</artist>
+      <num>212</num>
+      <text>When Warden of the Eye enters the battlefield, return target noncreature, nonland card from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>386717</id>
+      <name>War-Name Aspirant</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Raid- War-Name Aspirant enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn.&lt;br&gt;War-Name Aspirant can't be blocked by creatures with power 1 or less.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Gaillet</artist>
+      <num>126</num>
+      <text>Raid- War-Name Aspirant enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn.&lt;br&gt;War-Name Aspirant can't be blocked by creatures with power 1 or less.</text>
+    </mc>
+    <mc>
+      <id>386718</id>
+      <name>Watcher of the Roost</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;Morph—Reveal a white card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Watcher of the Roost is turned face up, you gain 2 life.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jack Wang</artist>
+      <num>30</num>
+      <text>Flying&lt;br&gt;Morph—Reveal a white card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Watcher of the Roost is turned face up, you gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>386719</id>
+      <name>Waterwhirl</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Return up to two target creatures to their owners' hands.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Clint Cearley</artist>
+      <num>60</num>
+      <text>Return up to two target creatures to their owners' hands.</text>
+    </mc>
+    <mc>
+      <id>386720</id>
+      <name>Weave Fate</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Draw two cards.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Zack Stella</artist>
+      <num>61</num>
+      <text>Draw two cards.</text>
+    </mc>
+    <mc>
+      <id>386721</id>
+      <name>Wetland Sambar</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Elk</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>James Zapata</artist>
+      <num>62</num>
+    </mc>
+    <mc>
+      <id>386722</id>
+      <name>Whirlwind Adept</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Djinn Monk</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Argyle</artist>
+      <num>63</num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386723</id>
+      <name>Wind-Scarred Crag</name>
+      <type>Land</type>
+      <oracleText>Wind-Scarred Crag enters the battlefield tapped.&lt;br&gt;When Wind-Scarred Crag enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>247</num>
+      <text>Wind-Scarred Crag enters the battlefield tapped.&lt;br&gt;When Wind-Scarred Crag enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>386724</id>
+      <name>Windstorm</name>
+      <cost>{X}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Windstorm deals X damage to each creature with flying.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jonas De Ro</artist>
+      <num>157</num>
+      <text>Windstorm deals X damage to each creature with flying.</text>
+    </mc>
+    <mc>
+      <id>386725</id>
+      <name>Windswept Heath</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Yeong-Hao Han</artist>
+      <num>248</num>
+      <text>{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>386726</id>
+      <name>Wingmate Roc</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Raid- When Wingmate Roc enters the battlefield, if you attacked with a creature this turn, put a 3/4 white Bird creature token with flying onto the battlefield.&lt;br&gt;Whenever Wingmate Roc attacks, you gain 1 life for each attacking creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Mark Zug</artist>
+      <num>31</num>
+      <text>Flying&lt;br&gt;Raid- When Wingmate Roc enters the battlefield, if you attacked with a creature this turn, put a 3/4 white Bird creature token with flying onto the battlefield.&lt;br&gt;Whenever Wingmate Roc attacks, you gain 1 life for each attacking creature.</text>
+    </mc>
+    <mc>
+      <id>386727</id>
+      <name>Winterflame</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Choose one or both-&lt;br&gt;• Tap target creature.&lt;br&gt;• Winterflame deals 2 damage to target creature.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Richard Wright</artist>
+      <num>213</num>
+      <text>Choose one or both-&lt;br&gt;• Tap target creature.&lt;br&gt;• Winterflame deals 2 damage to target creature.</text>
+    </mc>
+    <mc>
+      <id>386728</id>
+      <name>Witness of the Ages</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Morph {5} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Izzy</artist>
+      <num>228</num>
+      <text>Morph {5} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386729</id>
+      <name>Wooded Foothills</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Rare</rarity>
+      <artist>Jonas De Ro</artist>
+      <num>249</num>
+      <text>{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>386730</id>
+      <name>Woolly Loxodon</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Elephant Warrior</type>
+      <power>6</power>
+      <toughness>7</toughness>
+      <oracleText>Morph {5}{G} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Common</rarity>
+      <artist>Karla Ortiz</artist>
+      <num>158</num>
+      <text>Morph {5}{G} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>386731</id>
+      <name>Zurgo Helmsmasher</name>
+      <cost>{2}{R}{W}{B}</cost>
+      <type>Legendary Creature - Orc Warrior</type>
+      <power>7</power>
+      <toughness>2</toughness>
+      <oracleText>Haste&lt;br&gt;Zurgo Helmsmasher attacks each combat if able.&lt;br&gt;Zurgo Helmsmasher has indestructible as long as it's your turn.&lt;br&gt;Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Aleksi Briclot</artist>
+      <num>214</num>
+      <text>Haste&lt;br&gt;Zurgo Helmsmasher attacks each combat if able.&lt;br&gt;Zurgo Helmsmasher has indestructible as long as it's your turn.&lt;br&gt;Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.</text>
+    </mc>
+    <mc>
+      <id>386541</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Titus Lunter</artist>
+      <num>268</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>386567</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Titus Lunter</artist>
+      <num>256</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>386609</id>
+      <name>Mountain</name>
+      <type>Basic Land - Mountain</type>
+      <oracleText>R</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Florian de Gesincourt</artist>
+      <num>264</num>
+      <text>R</text>
+    </mc>
+    <mc>
+      <id>386623</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Sam Burley</artist>
+      <num>252</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>386683</id>
+      <name>Swamp</name>
+      <type>Basic Land - Swamp</type>
+      <oracleText>B</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Adam Paquette</artist>
+      <num>260</num>
+      <text>B</text>
+    </mc>
+    <mc>
+      <id>386542</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Sam Burley</artist>
+      <num>266</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>386543</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Adam Paquette</artist>
+      <num>269</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>386565</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Florian de Gesincourt</artist>
+      <num>254</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>386568</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Adam Paquette</artist>
+      <num>257</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>386612</id>
+      <name>Mountain</name>
+      <type>Basic Land - Mountain</type>
+      <oracleText>R</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Noah Bradley</artist>
+      <num>262</num>
+      <text>R</text>
+    </mc>
+    <mc>
+      <id>386610</id>
+      <name>Mountain</name>
+      <type>Basic Land - Mountain</type>
+      <oracleText>R</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Titus Lunter</artist>
+      <num>265</num>
+      <text>R</text>
+    </mc>
+    <mc>
+      <id>386624</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Noah Bradley</artist>
+      <num>250</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>386626</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Florian de Gesincourt</artist>
+      <num>253</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>386685</id>
+      <name>Swamp</name>
+      <type>Basic Land - Swamp</type>
+      <oracleText>B</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Noah Bradley</artist>
+      <num>258</num>
+      <text>B</text>
+    </mc>
+    <mc>
+      <id>386684</id>
+      <name>Swamp</name>
+      <type>Basic Land - Swamp</type>
+      <oracleText>B</oracleText>
+      <edition>Khans of Tarkir</edition>
+      <rarity>Land</rarity>
+      <artist>Adam Paquette</artist>
+      <num>261</num>
+      <text>B</text>
+    </mc>
+  </list>
+</cards>

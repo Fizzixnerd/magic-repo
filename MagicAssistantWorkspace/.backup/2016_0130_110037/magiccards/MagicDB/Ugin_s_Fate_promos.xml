@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Ugin_s_Fate_promos</name>
+  <key>Ugin_s_Fate_promos</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>394065</id>
+      <name>Ainok Tracker</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Hound Scout</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>First strike&lt;br&gt;Morph {4}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Common</rarity>
+      <artist>Evan Shipard</artist>
+      <num>96</num>
+      <text>First strike&lt;br&gt;Morph {4}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394066</id>
+      <name>Altar of the Brood</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <oracleText>Whenever another permanent enters the battlefield under your control, each opponent puts the top card of his or her library into his or her graveyard.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Rare</rarity>
+      <artist>Erica Yang</artist>
+      <num>216</num>
+      <text>Whenever another permanent enters the battlefield under your control, each opponent puts the top card of his or her library into his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>394067</id>
+      <name>Arashin War Beast</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>123</num>
+      <text>Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394068</id>
+      <name>Arc Lightning</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Seb McKinnon</artist>
+      <num>97</num>
+      <text>Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</text>
+    </mc>
+    <mc>
+      <id>394069</id>
+      <name>Briber's Purse</name>
+      <cost>{X}</cost>
+      <type>Artifact</type>
+      <oracleText>Briber's Purse enters the battlefield with X gem counters on it.&lt;br&gt;{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Steve Argyle</artist>
+      <num>217</num>
+      <text>Briber's Purse enters the battlefield with X gem counters on it.&lt;br&gt;{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn.</text>
+    </mc>
+    <mc>
+      <id>394070</id>
+      <name>Debilitating Injury</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -2/-2.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Common</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>68</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -2/-2.</text>
+    </mc>
+    <mc>
+      <id>394071</id>
+      <name>Dragonscale Boon</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Put two +1/+1 counters on target creature and untap it.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Common</rarity>
+      <artist>Mark Winters</artist>
+      <num>131</num>
+      <text>Put two +1/+1 counters on target creature and untap it.</text>
+    </mc>
+    <mc>
+      <id>394072</id>
+      <name>Fierce Invocation</name>
+      <cost>{4}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Manifest the top card of your library, then put two +1/+1 counters on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Common</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>98</num>
+      <text>Manifest the top card of your library, then put two +1/+1 counters on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394073</id>
+      <name>Formless Nurturing</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Manifest the top card of your library, then put a +1/+1 counter on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Common</rarity>
+      <artist>Cliff Childs</artist>
+      <num>129</num>
+      <text>Manifest the top card of your library, then put a +1/+1 counter on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394074</id>
+      <name>Ghostfire Blade</name>
+      <cost>{1}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +2/+2.&lt;br&gt;Equip {3}&lt;br&gt;Ghostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Rare</rarity>
+      <artist>Cyril Van Der Haegen</artist>
+      <num>220</num>
+      <text>Equipped creature gets +2/+2.&lt;br&gt;Equip {3}&lt;br&gt;Ghostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.</text>
+    </mc>
+    <mc>
+      <id>394075</id>
+      <name>Grim Haruspex</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Morph {B} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;Whenever another nontoken creature you control dies, draw a card.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Rare</rarity>
+      <artist>Seb McKinnon</artist>
+      <num>73</num>
+      <text>Morph {B} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;Whenever another nontoken creature you control dies, draw a card.</text>
+    </mc>
+    <mc>
+      <id>394076</id>
+      <name>Hewed Stone Retainers</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Cast Hewed Stone Retainers only if you've cast another spell this turn.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Seguin</artist>
+      <num>161</num>
+      <text>Cast Hewed Stone Retainers only if you've cast another spell this turn.</text>
+    </mc>
+    <mc>
+      <id>394077</id>
+      <name>Jeering Instigator</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Morph {2}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Rare</rarity>
+      <artist>Willian Murai</artist>
+      <num>113</num>
+      <text>Morph {2}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+    </mc>
+    <mc>
+      <id>394078</id>
+      <name>Jeskai Infiltrator</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Monk</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Jeskai Infiltrator can't be blocked as long as you control no other creatures.&lt;br&gt;When Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Rare</rarity>
+      <artist>Cynthia Sheppard</artist>
+      <num>36</num>
+      <text>Jeskai Infiltrator can't be blocked as long as you control no other creatures.&lt;br&gt;When Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394079</id>
+      <name>Mastery of the Unseen</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.&lt;br&gt;{3}{W}: Manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Rare</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>19</num>
+      <text>Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.&lt;br&gt;{3}{W}: Manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394080</id>
+      <name>Mystic of the Hidden Way</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Human Monk</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Mystic of the Hidden Way can't be blocked.&lt;br&gt;Morph {2}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>48</num>
+      <text>Mystic of the Hidden Way can't be blocked.&lt;br&gt;Morph {2}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394081</id>
+      <name>Reality Shift</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Exile target creature. Its controller manifests the top card of his or her library. &lt;i&gt;(That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Howard Lyon</artist>
+      <num>46</num>
+      <text>Exile target creature. Its controller manifests the top card of his or her library. &lt;i&gt;(That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394082</id>
+      <name>Ruthless Ripper</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Assassin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Deathtouch&lt;br&gt;Morph—Reveal a black card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Ruthless Ripper is turned face up, target player loses 2 life.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Clint Cearley</artist>
+      <num>88</num>
+      <text>Deathtouch&lt;br&gt;Morph—Reveal a black card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Ruthless Ripper is turned face up, target player loses 2 life.</text>
+    </mc>
+    <mc>
+      <id>394083</id>
+      <name>Smite the Monstrous</name>
+      <cost>{3}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target creature with power 4 or greater.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Common</rarity>
+      <artist>Greg Staples</artist>
+      <num>24</num>
+      <text>Destroy target creature with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>394084</id>
+      <name>Soul Summons</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Common</rarity>
+      <artist>Johann Bodin</artist>
+      <num>26</num>
+      <text>Manifest the top card of your library. &lt;i&gt;(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394085</id>
+      <name>Sultai Emissary</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>When Sultai Emissary dies, manifest the top card of your library. &lt;i&gt;(Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Common</rarity>
+      <artist>Mathias Kollros</artist>
+      <num>85</num>
+      <text>When Sultai Emissary dies, manifest the top card of your library. &lt;i&gt;(Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394086</id>
+      <name>Ugin, the Spirit Dragon</name>
+      <cost>{8}</cost>
+      <type>Planeswalker - Ugin</type>
+      <toughness>7</toughness>
+      <oracleText>+2: Ugin, the Spirit Dragon deals 3 damage to target creature or player.&lt;br&gt;−X: Exile each permanent with converted mana cost X or less that's one or more colors.&lt;br&gt;−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Chris Rahn</artist>
+      <num>1</num>
+      <text>+2: Ugin, the Spirit Dragon deals 3 damage to target creature or player.&lt;br&gt;−X: Exile each permanent with converted mana cost X or less that's one or more colors.&lt;br&gt;−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>394087</id>
+      <name>Ugin's Construct</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Peter Mohrbacher</artist>
+      <num>164</num>
+      <text>When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors.</text>
+    </mc>
+    <mc>
+      <id>394088</id>
+      <name>Watcher of the Roost</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;Morph—Reveal a white card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Watcher of the Roost is turned face up, you gain 2 life.</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jack Wang</artist>
+      <num>30</num>
+      <text>Flying&lt;br&gt;Morph—Reveal a white card in your hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Watcher of the Roost is turned face up, you gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>394089</id>
+      <name>Wildcall</name>
+      <cost>{X}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Manifest the top card of your library, then put X +1/+1 counters on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Rare</rarity>
+      <artist>Adam Paquette</artist>
+      <num>146</num>
+      <text>Manifest the top card of your library, then put X +1/+1 counters on it. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>394090</id>
+      <name>Write into Being</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</oracleText>
+      <edition>Ugin's Fate promos</edition>
+      <rarity>Common</rarity>
+      <artist>Yeong-Hao Han</artist>
+      <num>59</num>
+      <text>Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. &lt;i&gt;(To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)&lt;/i&gt;</text>
+    </mc>
+  </list>
+</cards>

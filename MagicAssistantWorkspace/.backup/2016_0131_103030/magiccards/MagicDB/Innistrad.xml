@@ -1,0 +1,3892 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Innistrad</name>
+  <key>Innistrad</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>222911</id>
+      <name>Abattoir Ghoul</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>First strike&lt;br&gt;Whenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Volkan Baga</artist>
+      <num>85</num>
+      <text>First strike&lt;br&gt;Whenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.</text>
+    </mc>
+    <mc>
+      <id>235595</id>
+      <name>Abbey Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying, vigilance</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Jaime Jones</artist>
+      <num>1</num>
+      <text>Flying, vigilance</text>
+    </mc>
+    <mc>
+      <id>226890</id>
+      <name>Altar's Reap</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <oracleText>As an additional cost to cast Altar's Reap, sacrifice a creature.&lt;br&gt;Draw two cards.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Donato Giancola</artist>
+      <num>86</num>
+      <text>As an additional cost to cast Altar's Reap, sacrifice a creature.&lt;br&gt;Draw two cards.</text>
+    </mc>
+    <mc>
+      <id>220644</id>
+      <name>Ambush Viper</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Alan Pollack</artist>
+      <num>169</num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>235600</id>
+      <name>Ancient Grudge</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target artifact.&lt;br&gt;Flashback {G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Yee</artist>
+      <num>127</num>
+      <text>Destroy target artifact.&lt;br&gt;Flashback {G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>230620</id>
+      <name>Angel of Flight Alabaster</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, return target Spirit card from your graveyard to your hand.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Howard Lyon</artist>
+      <num>2</num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, return target Spirit card from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>220370</id>
+      <name>Angelic Overseer</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;As long as you control a Human, Angelic Overseer has hexproof and indestructible.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jason Chan</artist>
+      <num>3</num>
+      <text>Flying&lt;br&gt;As long as you control a Human, Angelic Overseer has hexproof and indestructible.</text>
+    </mc>
+    <mc>
+      <id>244685</id>
+      <name>Armored Skaab</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Zombie Warrior</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <oracleText>When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Volkan Baga</artist>
+      <num>43</num>
+      <text>When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard.</text>
+    </mc>
+    <mc>
+      <id>229968</id>
+      <name>Army of the Damned</name>
+      <cost>{5}{B}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped.&lt;br&gt;Flashback {7}{B}{B}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>87</num>
+      <text>Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped.&lt;br&gt;Flashback {7}{B}{B}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>233255</id>
+      <name>Ashmouth Hound</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Elemental Hound</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Daarken</artist>
+      <num>128</num>
+      <text>Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.</text>
+    </mc>
+    <mc>
+      <id>220380</id>
+      <name>Avacynian Priest</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>{1}, {T}: Tap target non-Human creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Greg Staples</artist>
+      <num>4</num>
+      <text>{1}, {T}: Tap target non-Human creature.</text>
+    </mc>
+    <mc>
+      <id>243212</id>
+      <name>Avacyn's Pilgrim</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Monk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Add {W} to your mana pool.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Jana Schirmer &amp; Johannes Voss</artist>
+      <num>170</num>
+      <text>{T}: Add {W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>249663</id>
+      <name>Back from the Brink</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Enchantment</type>
+      <oracleText>Exile a creature card from your graveyard and pay its mana cost: Put a token onto the battlefield that's a copy of that card. Activate this ability only any time you could cast a sorcery.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Anthony Palumbo</artist>
+      <num>44</num>
+      <text>Exile a creature card from your graveyard and pay its mana cost: Put a token onto the battlefield that's a copy of that card. Activate this ability only any time you could cast a sorcery.</text>
+    </mc>
+    <mc>
+      <id>230774</id>
+      <name>Balefire Dragon</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Balefire Dragon deals combat damage to a player, it deals that much damage to each creature that player controls.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>129</num>
+      <text>Flying&lt;br&gt;Whenever Balefire Dragon deals combat damage to a player, it deals that much damage to each creature that player controls.</text>
+    </mc>
+    <mc>
+      <id>244687</id>
+      <name>Bane of Hanweir</name>
+      <type>Creature - Werewolf</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Bane of Hanweir attacks each turn if able.&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Bane of Hanweir.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>145</num>
+      <text>Bane of Hanweir attacks each turn if able.&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Bane of Hanweir.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>244683</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>237355</id>
+      <name>Battleground Geist</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;Other Spirit creatures you control get +1/+0.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Clint Cearley</artist>
+      <num>45</num>
+      <text>Flying&lt;br&gt;Other Spirit creatures you control get +1/+0.</text>
+    </mc>
+    <mc>
+      <id>222205</id>
+      <name>Bitterheart Witch</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Deathtouch&lt;br&gt;When Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>88</num>
+      <text>Deathtouch&lt;br&gt;When Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>222206</id>
+      <name>Blasphemous Act</name>
+      <cost>{8}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Blasphemous Act costs {1} less to cast for each creature on the battlefield.&lt;br&gt;Blasphemous Act deals 13 damage to each creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Daarken</artist>
+      <num>130</num>
+      <text>Blasphemous Act costs {1} less to cast for each creature on the battlefield.&lt;br&gt;Blasphemous Act deals 13 damage to each creature.</text>
+    </mc>
+    <mc>
+      <id>221284</id>
+      <name>Blazing Torch</name>
+      <cost>{1}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature can't be blocked by Vampires or Zombies.&lt;br&gt;Equipped creature has "{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player."&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Scott Chou</artist>
+      <num>216</num>
+      <text>Equipped creature can't be blocked by Vampires or Zombies.&lt;br&gt;Equipped creature has "{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player."&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>220373</id>
+      <name>Bloodcrazed Neonate</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Vampire</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Bloodcrazed Neonate attacks each turn if able.&lt;br&gt;Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Cynthia Sheppard</artist>
+      <num>131</num>
+      <text>Bloodcrazed Neonate attacks each turn if able.&lt;br&gt;Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.</text>
+    </mc>
+    <mc>
+      <id>226885</id>
+      <name>Bloodgift Demon</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, target player draws a card and loses 1 life.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Peter Mohrbacher</artist>
+      <num>89</num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, target player draws a card and loses 1 life.</text>
+    </mc>
+    <mc>
+      <id>227061</id>
+      <name>Bloodline Keeper</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.&lt;br&gt;{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Chan</artist>
+      <num>90</num>
+      <text>Flying&lt;br&gt;{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.&lt;br&gt;{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>227072</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>221216</id>
+      <name>Bonds of Faith</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Argyle</artist>
+      <num>5</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.</text>
+    </mc>
+    <mc>
+      <id>220050</id>
+      <name>Boneyard Wurm</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <oracleText>Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jaime Jones</artist>
+      <num>171</num>
+      <text>Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.</text>
+    </mc>
+    <mc>
+      <id>235596</id>
+      <name>Brain Weevil</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Anthony Jones</artist>
+      <num>91</num>
+      <text>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.</text>
+    </mc>
+    <mc>
+      <id>227095</id>
+      <name>Bramblecrush</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy target noncreature permanent.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Drew Baker</artist>
+      <num>172</num>
+      <text>Destroy target noncreature permanent.</text>
+    </mc>
+    <mc>
+      <id>233253</id>
+      <name>Brimstone Volley</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Brimstone Volley deals 3 damage to target creature or player.&lt;br&gt;Morbid- Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Eytan Zana</artist>
+      <num>132</num>
+      <text>Brimstone Volley deals 3 damage to target creature or player.&lt;br&gt;Morbid- Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn.</text>
+    </mc>
+    <mc>
+      <id>222203</id>
+      <name>Bump in the Night</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target opponent loses 3 life.&lt;br&gt;Flashback {5}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>92</num>
+      <text>Target opponent loses 3 life.&lt;br&gt;Flashback {5}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>243211</id>
+      <name>Burning Vengeance</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever you cast a spell from your graveyard, Burning Vengeance deals 2 damage to target creature or player.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>133</num>
+      <text>Whenever you cast a spell from your graveyard, Burning Vengeance deals 2 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>220049</id>
+      <name>Butcher's Cleaver</name>
+      <cost>{3}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +3/+0.&lt;br&gt;As long as equipped creature is a Human, it has lifelink.&lt;br&gt;Equip {3}</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Felix</artist>
+      <num>217</num>
+      <text>Equipped creature gets +3/+0.&lt;br&gt;As long as equipped creature is a Human, it has lifelink.&lt;br&gt;Equip {3}</text>
+    </mc>
+    <mc>
+      <id>245195</id>
+      <name>Cackling Counterpart</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Put a token onto the battlefield that's a copy of target creature you control.&lt;br&gt;Flashback {5}{U}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>David Rapoza</artist>
+      <num>46</num>
+      <text>Put a token onto the battlefield that's a copy of target creature you control.&lt;br&gt;Flashback {5}{U}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>234444</id>
+      <name>Caravan Vigil</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.&lt;br&gt;Morbid- You may put that card onto the battlefield instead of putting it into your hand if a creature died this turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Drew Baker</artist>
+      <num>173</num>
+      <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.&lt;br&gt;Morbid- You may put that card onto the battlefield instead of putting it into your hand if a creature died this turn.</text>
+    </mc>
+    <mc>
+      <id>220390</id>
+      <name>Cellar Door</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <oracleText>{3}, {T}: Target player puts the bottom card of his or her library into his or her graveyard. If it's a creature card, you put a 2/2 black Zombie creature token onto the battlefield.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Rob Alexander</artist>
+      <num>218</num>
+      <text>{3}, {T}: Target player puts the bottom card of his or her library into his or her graveyard. If it's a creature card, you put a 2/2 black Zombie creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>262861</id>
+      <name>Champion of the Parish</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Champion of the Parish.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>6</num>
+      <text>Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Champion of the Parish.</text>
+    </mc>
+    <mc>
+      <id>230622</id>
+      <name>Chapel Geist</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Flying</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Peter Mohrbacher</artist>
+      <num>7</num>
+      <text>Flying</text>
+    </mc>
+    <mc>
+      <id>227668</id>
+      <name>Charmbreaker Devils</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Devil</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.&lt;br&gt;Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Dan Scott</artist>
+      <num>134</num>
+      <text>At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.&lt;br&gt;Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>221209</id>
+      <name>Civilized Scholar</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Michael C. Hayes</artist>
+      <num>47</num>
+      <text>{T}: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>221185</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>235601</id>
+      <name>Claustrophobia</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;When Claustrophobia enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>48</num>
+      <text>Enchant creature&lt;br&gt;When Claustrophobia enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.</text>
+    </mc>
+    <mc>
+      <id>241980</id>
+      <name>Clifftop Retreat</name>
+      <type>Land</type>
+      <oracleText>Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>John Avon</artist>
+      <num>238</num>
+      <text>Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>221212</id>
+      <name>Cloistered Youth</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>At the beginning of your upkeep, you may transform Cloistered Youth.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>8</num>
+      <text>At the beginning of your upkeep, you may transform Cloistered Youth.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>221222</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>220649</id>
+      <name>Cobbled Wings</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature has flying.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Stewart</artist>
+      <num>219</num>
+      <text>Equipped creature has flying.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>244680</id>
+      <name>Corpse Lunge</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <oracleText>As an additional cost to cast Corpse Lunge, exile a creature card from your graveyard.&lt;br&gt;Corpse Lunge deals damage equal to the exiled card's power to target creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>93</num>
+      <text>As an additional cost to cast Corpse Lunge, exile a creature card from your graveyard.&lt;br&gt;Corpse Lunge deals damage equal to the exiled card's power to target creature.</text>
+    </mc>
+    <mc>
+      <id>245198</id>
+      <name>Creeping Renaissance</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand.&lt;br&gt;Flashback {5}{G}{G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Tomasz Jedruszek</artist>
+      <num>174</num>
+      <text>Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand.&lt;br&gt;Flashback {5}{G}{G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>220378</id>
+      <name>Creepy Doll</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Indestructible&lt;br&gt;Whenever Creepy Doll deals combat damage to a creature, flip a coin. If you win the flip, destroy that creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Matt Stewart</artist>
+      <num>220</num>
+      <text>Indestructible&lt;br&gt;Whenever Creepy Doll deals combat damage to a creature, flip a coin. If you win the flip, destroy that creature.</text>
+    </mc>
+    <mc>
+      <id>230779</id>
+      <name>Crossway Vampire</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Vampire</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>When Crossway Vampire enters the battlefield, target creature can't block this turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Mark Evans</artist>
+      <num>135</num>
+      <text>When Crossway Vampire enters the battlefield, target creature can't block this turn.</text>
+    </mc>
+    <mc>
+      <id>230767</id>
+      <name>Curiosity</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature deals damage to an opponent, you may draw a card.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>49</num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature deals damage to an opponent, you may draw a card.</text>
+    </mc>
+    <mc>
+      <id>227075</id>
+      <name>Curse of Death's Hold</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Enchantment - Aura Curse</type>
+      <oracleText>Enchant player&lt;br&gt;Creatures enchanted player controls get -1/-1.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Clint Cearley</artist>
+      <num>94</num>
+      <text>Enchant player&lt;br&gt;Creatures enchanted player controls get -1/-1.</text>
+    </mc>
+    <mc>
+      <id>237020</id>
+      <name>Curse of Oblivion</name>
+      <cost>{3}{B}</cost>
+      <type>Enchantment - Aura Curse</type>
+      <oracleText>Enchant player&lt;br&gt;At the beginning of enchanted player's upkeep, that player exiles two cards from his or her graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Jana Schirmer &amp; Johannes Voss</artist>
+      <num>95</num>
+      <text>Enchant player&lt;br&gt;At the beginning of enchanted player's upkeep, that player exiles two cards from his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>226889</id>
+      <name>Curse of Stalked Prey</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura Curse</type>
+      <oracleText>Enchant player&lt;br&gt;Whenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>136</num>
+      <text>Enchant player&lt;br&gt;Whenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature.</text>
+    </mc>
+    <mc>
+      <id>230627</id>
+      <name>Curse of the Bloody Tome</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura Curse</type>
+      <oracleText>Enchant player&lt;br&gt;At the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Jaime Jones</artist>
+      <num>50</num>
+      <text>Enchant player&lt;br&gt;At the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>226881</id>
+      <name>Curse of the Nightly Hunt</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura Curse</type>
+      <oracleText>Enchant player&lt;br&gt;Creatures enchanted player controls attack each turn if able.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daarken</artist>
+      <num>137</num>
+      <text>Enchant player&lt;br&gt;Creatures enchanted player controls attack each turn if able.</text>
+    </mc>
+    <mc>
+      <id>227071</id>
+      <name>Curse of the Pierced Heart</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura Curse</type>
+      <oracleText>Enchant player&lt;br&gt;At the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>E. M. Gist</artist>
+      <num>138</num>
+      <text>Enchant player&lt;br&gt;At the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player.</text>
+    </mc>
+    <mc>
+      <id>241986</id>
+      <name>Darkthicket Wolf</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Wolf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{2}{G}: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne England</artist>
+      <num>175</num>
+      <text>{2}{G}: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.</text>
+    </mc>
+    <mc>
+      <id>222118</id>
+      <name>Daybreak Ranger</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Archer Werewolf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{T}: Daybreak Ranger deals 2 damage to target creature with flying.&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Daybreak Ranger.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Steve Prescott</artist>
+      <num>176</num>
+      <text>{T}: Daybreak Ranger deals 2 damage to target creature with flying.&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Daybreak Ranger.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222114</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>220393</id>
+      <name>Dead Weight</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -2/-2.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Randy Gallegos</artist>
+      <num>96</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -2/-2.</text>
+    </mc>
+    <mc>
+      <id>222194</id>
+      <name>Dearly Departed</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Flying&lt;br&gt;As long as Dearly Departed is in your graveyard, each Human creature you control enters the battlefield with an additional +1/+1 counter on it.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>9</num>
+      <text>Flying&lt;br&gt;As long as Dearly Departed is in your graveyard, each Human creature you control enters the battlefield with an additional +1/+1 counter on it.</text>
+    </mc>
+    <mc>
+      <id>226749</id>
+      <name>Delver of Secrets</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Nils Hamm</artist>
+      <num>51</num>
+      <text>At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>226755</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>227291</id>
+      <name>Demonmail Hauberk</name>
+      <cost>{4}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +4/+2.&lt;br&gt;Equip—Sacrifice a creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason Felix</artist>
+      <num>221</num>
+      <text>Equipped creature gets +4/+2.&lt;br&gt;Equip—Sacrifice a creature.</text>
+    </mc>
+    <mc>
+      <id>221171</id>
+      <name>Deranged Assistant</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{T}, Put the top card of your library into your graveyard: Add {1} to your mana pool.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Nils Hamm</artist>
+      <num>52</num>
+      <text>{T}, Put the top card of your library into your graveyard: Add {1} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>237359</id>
+      <name>Desperate Ravings</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Draw two cards, then discard a card at random.&lt;br&gt;Flashback {2}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Stanko</artist>
+      <num>139</num>
+      <text>Draw two cards, then discard a card at random.&lt;br&gt;Flashback {2}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>247419</id>
+      <name>Devil's Play</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Devil's Play deals X damage to target creature or player.&lt;br&gt;Flashback {X}{R}{R}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Austin Hsu</artist>
+      <num>140</num>
+      <text>Devil's Play deals X damage to target creature or player.&lt;br&gt;Flashback {X}{R}{R}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>226747</id>
+      <name>Diregraf Ghoul</name>
+      <cost>{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Diregraf Ghoul enters the battlefield tapped.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dave Kendall</artist>
+      <num>97</num>
+      <text>Diregraf Ghoul enters the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>244679</id>
+      <name>Disciple of Griselbrand</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{1}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Clint Cearley</artist>
+      <num>98</num>
+      <text>{1}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.</text>
+    </mc>
+    <mc>
+      <id>241985</id>
+      <name>Dissipate</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Tomasz Jedruszek</artist>
+      <num>53</num>
+      <text>Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.</text>
+    </mc>
+    <mc>
+      <id>245196</id>
+      <name>Divine Reckoning</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Each player chooses a creature he or she controls. Destroy the rest.&lt;br&gt;Flashback {5}{W}{W} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Greg Staples</artist>
+      <num>10</num>
+      <text>Each player chooses a creature he or she controls. Destroy the rest.&lt;br&gt;Flashback {5}{W}{W} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>237364</id>
+      <name>Doomed Traveler</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Lars Grant-West</artist>
+      <num>11</num>
+      <text>When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>243213</id>
+      <name>Dream Twist</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <oracleText>Target player puts the top three cards of his or her library into his or her graveyard.&lt;br&gt;Flashback {1}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Dan Scott</artist>
+      <num>54</num>
+      <text>Target player puts the top three cards of his or her library into his or her graveyard.&lt;br&gt;Flashback {1}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>222910</id>
+      <name>Elder Cathar</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rahn</artist>
+      <num>12</num>
+      <text>When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead.</text>
+    </mc>
+    <mc>
+      <id>247418</id>
+      <name>Elder of Laurels</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>{3}{G}: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>177</num>
+      <text>{3}{G}: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.</text>
+    </mc>
+    <mc>
+      <id>246949</id>
+      <name>Elite Inquisitor</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>First strike, vigilance&lt;br&gt;Protection from Vampires, from Werewolves, and from Zombies</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Jana Schirmer &amp; Johannes Voss</artist>
+      <num>13</num>
+      <text>First strike, vigilance&lt;br&gt;Protection from Vampires, from Werewolves, and from Zombies</text>
+    </mc>
+    <mc>
+      <id>234430</id>
+      <name>Endless Ranks of the Dead</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment</type>
+      <oracleText>At the beginning of your upkeep, put X 2/2 black Zombie creature tokens onto the battlefield, where X is half the number of Zombies you control, rounded down.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Ryan Yee</artist>
+      <num>99</num>
+      <text>At the beginning of your upkeep, put X 2/2 black Zombie creature tokens onto the battlefield, where X is half the number of Zombies you control, rounded down.</text>
+    </mc>
+    <mc>
+      <id>254133</id>
+      <name>Essence of the Wild</name>
+      <cost>{3}{G}{G}{G}</cost>
+      <type>Creature - Avatar</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Creatures you control enter the battlefield as a copy of Essence of the Wild.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>178</num>
+      <text>Creatures you control enter the battlefield as a copy of Essence of the Wild.</text>
+    </mc>
+    <mc>
+      <id>229965</id>
+      <name>Evil Twin</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield except it gains "{U}{B}, {T}: Destroy target creature with the same name as this creature."</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Greg Staples</artist>
+      <num>212</num>
+      <text>You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield except it gains "{U}{B}, {T}: Destroy target creature with the same name as this creature."</text>
+    </mc>
+    <mc>
+      <id>246954</id>
+      <name>Falkenrath Marauders</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Vampire Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying, haste&lt;br&gt;Whenever Falkenrath Marauders deals combat damage to a player, put two +1/+1 counters on it.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>James Ryman</artist>
+      <num>141</num>
+      <text>Flying, haste&lt;br&gt;Whenever Falkenrath Marauders deals combat damage to a player, put two +1/+1 counters on it.</text>
+    </mc>
+    <mc>
+      <id>226751</id>
+      <name>Falkenrath Noble</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>100</num>
+      <text>Flying&lt;br&gt;Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life.</text>
+    </mc>
+    <mc>
+      <id>237360</id>
+      <name>Feeling of Dread</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Tap up to two target creatures.&lt;br&gt;Flashback {1}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>John Stanko</artist>
+      <num>14</num>
+      <text>Tap up to two target creatures.&lt;br&gt;Flashback {1}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>220022</id>
+      <name>Feral Ridgewolf</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Wolf</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Trample&lt;br&gt;{1}{R}: Feral Ridgewolf gets +2/+0 until end of turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Martina Pilcerova</artist>
+      <num>142</num>
+      <text>Trample&lt;br&gt;{1}{R}: Feral Ridgewolf gets +2/+0 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>233250</id>
+      <name>Festerhide Boar</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Boar</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Trample&lt;br&gt;Morbid- Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Nils Hamm</artist>
+      <num>179</num>
+      <text>Trample&lt;br&gt;Morbid- Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.</text>
+    </mc>
+    <mc>
+      <id>222007</id>
+      <name>Fiend Hunter</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>When Fiend Hunter enters the battlefield, you may exile another target creature.&lt;br&gt;When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>15</num>
+      <text>When Fiend Hunter enters the battlefield, you may exile another target creature.&lt;br&gt;When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.</text>
+    </mc>
+    <mc>
+      <id>226758</id>
+      <name>Forbidden Alchemy</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.&lt;br&gt;Flashback {6}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>David Rapoza</artist>
+      <num>55</num>
+      <text>Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.&lt;br&gt;Flashback {6}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>245247</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>James Paick</artist>
+      <num>262</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>234429</id>
+      <name>Fortress Crab</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Crab</type>
+      <power>1</power>
+      <toughness>6</toughness>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Vincent Proce</artist>
+      <num>56</num>
+    </mc>
+    <mc>
+      <id>220031</id>
+      <name>Frightful Delusion</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell unless its controller pays {1}. That player discards a card.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Anthony Palumbo</artist>
+      <num>57</num>
+      <text>Counter target spell unless its controller pays {1}. That player discards a card.</text>
+    </mc>
+    <mc>
+      <id>241981</id>
+      <name>Full Moon's Rise</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>Werewolf creatures you control get +1/+0 and have trample.&lt;br&gt;Sacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>180</num>
+      <text>Werewolf creatures you control get +1/+0 and have trample.&lt;br&gt;Sacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control.</text>
+    </mc>
+    <mc>
+      <id>234431</id>
+      <name>Furor of the Bitten</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and attacks each turn if able.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Randy Gallegos</artist>
+      <num>143</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and attacks each turn if able.</text>
+    </mc>
+    <mc>
+      <id>233248</id>
+      <name>Gallows Warden</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;Other Spirit creatures you control get +0/+1.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dan Scott</artist>
+      <num>16</num>
+      <text>Flying&lt;br&gt;Other Spirit creatures you control get +0/+1.</text>
+    </mc>
+    <mc>
+      <id>230772</id>
+      <name>Galvanic Juggernaut</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Juggernaut</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Galvanic Juggernaut attacks each turn if able.&lt;br&gt;Galvanic Juggernaut doesn't untap during your untap step.&lt;br&gt;Whenever another creature dies, untap Galvanic Juggernaut.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Lucas Graciano</artist>
+      <num>222</num>
+      <text>Galvanic Juggernaut attacks each turn if able.&lt;br&gt;Galvanic Juggernaut doesn't untap during your untap step.&lt;br&gt;Whenever another creature dies, untap Galvanic Juggernaut.</text>
+    </mc>
+    <mc>
+      <id>245250</id>
+      <name>Garruk Relentless</name>
+      <cost>{3}{G}</cost>
+      <type>Planeswalker - Garruk</type>
+      <toughness>3</toughness>
+      <oracleText>When Garruk Relentless has two or fewer loyalty counters on him, transform him.&lt;br&gt;0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.&lt;br&gt;0: Put a 2/2 green Wolf creature token onto the battlefield.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>181</num>
+      <text>When Garruk Relentless has two or fewer loyalty counters on him, transform him.&lt;br&gt;0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.&lt;br&gt;0: Put a 2/2 green Wolf creature token onto the battlefield.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>245251</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>245251</id>
+      <name>Garruk, the Veil-Cursed</name>
+      <type>Planeswalker - Garruk</type>
+      <oracleText>+1: Put a 1/1 black Wolf creature token with deathtouch onto the battlefield.&lt;br&gt;-1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.&lt;br&gt;-3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>181</num>
+      <text>+1: Put a 1/1 black Wolf creature token with deathtouch onto the battlefield.&lt;br&gt;-1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.&lt;br&gt;-3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>245250</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>227290</id>
+      <name>Gatstaf Howler</name>
+      <type>Creature - Werewolf</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Howler.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mark Evans</artist>
+      <num>182</num>
+      <text>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Howler.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>227409</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>227409</id>
+      <name>Gatstaf Shepherd</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Werewolf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Shepherd.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mark Evans</artist>
+      <num>182</num>
+      <text>At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Shepherd.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>227290</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>233242</id>
+      <name>Gavony Township</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}{G}{W}, {T}: Put a +1/+1 counter on each creature you control.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Peter Mohrbacher</artist>
+      <num>239</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{2}{G}{W}, {T}: Put a +1/+1 counter on each creature you control.</text>
+    </mc>
+    <mc>
+      <id>247236</id>
+      <name>Geist of Saint Traft</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Legendary Creature - Spirit Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Whenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at end of combat.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>213</num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Whenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at end of combat.</text>
+    </mc>
+    <mc>
+      <id>234445</id>
+      <name>Geistcatcher's Rig</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>When Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Vincent Proce</artist>
+      <num>223</num>
+      <text>When Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying.</text>
+    </mc>
+    <mc>
+      <id>247427</id>
+      <name>Geistflame</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <oracleText>Geistflame deals 1 damage to target creature or player.&lt;br&gt;Flashback {3}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Scott Chou</artist>
+      <num>144</num>
+      <text>Geistflame deals 1 damage to target creature or player.&lt;br&gt;Flashback {3}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>230787</id>
+      <name>Geist-Honored Monk</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Human Monk</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <oracleText>Vigilance&lt;br&gt;Geist-Honored Monk's power and toughness are each equal to the number of creatures you control.&lt;br&gt;When Geist-Honored Monk enters the battlefield, put two 1/1 white Spirit creature tokens with flying onto the battlefield.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Clint Cearley</artist>
+      <num>17</num>
+      <text>Vigilance&lt;br&gt;Geist-Honored Monk's power and toughness are each equal to the number of creatures you control.&lt;br&gt;When Geist-Honored Monk enters the battlefield, put two 1/1 white Spirit creature tokens with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>220371</id>
+      <name>Ghost Quarter</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Peter Mohrbacher</artist>
+      <num>240</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.</text>
+    </mc>
+    <mc>
+      <id>220052</id>
+      <name>Ghostly Possession</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has flying.&lt;br&gt;Prevent all combat damage that would be dealt to and dealt by enchanted creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Howard Lyon</artist>
+      <num>18</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has flying.&lt;br&gt;Prevent all combat damage that would be dealt to and dealt by enchanted creature.</text>
+    </mc>
+    <mc>
+      <id>237362</id>
+      <name>Ghoulcaller's Bell</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <oracleText>{T}: Each player puts the top card of his or her library into his or her graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Lars Grant-West</artist>
+      <num>224</num>
+      <text>{T}: Each player puts the top card of his or her library into his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>220021</id>
+      <name>Ghoulcaller's Chant</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Choose one- Return target creature card from your graveyard to your hand; or return two target Zombie cards from your graveyard to your hand.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Randy Gallegos</artist>
+      <num>101</num>
+      <text>Choose one- Return target creature card from your graveyard to your hand; or return two target Zombie cards from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>220019</id>
+      <name>Ghoulraiser</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Prescott</artist>
+      <num>102</num>
+      <text>When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>247420</id>
+      <name>Gnaw to the Bone</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <oracleText>You gain 2 life for each creature card in your graveyard.&lt;br&gt;Flashback {2}{G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Scott Chou</artist>
+      <num>183</num>
+      <text>You gain 2 life for each creature card in your graveyard.&lt;br&gt;Flashback {2}{G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>243208</id>
+      <name>Grasp of Phantoms</name>
+      <cost>{3}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put target creature on top of its owner's library.&lt;br&gt;Flashback {7}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Izzy</artist>
+      <num>58</num>
+      <text>Put target creature on top of its owner's library.&lt;br&gt;Flashback {7}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>229964</id>
+      <name>Grave Bramble</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Plant</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Defender, protection from Zombies</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Anthony Jones</artist>
+      <num>184</num>
+      <text>Defender, protection from Zombies</text>
+    </mc>
+    <mc>
+      <id>221288</id>
+      <name>Graveyard Shovel</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <oracleText>{2}, {T}: Target player exiles a card from his or her graveyard. If it's a creature card, you gain 2 life.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Martina Pilcerova</artist>
+      <num>225</num>
+      <text>{2}, {T}: Target player exiles a card from his or her graveyard. If it's a creature card, you gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>247237</id>
+      <name>Grimgrin, Corpse-Born</name>
+      <cost>{3}{U}{B}</cost>
+      <type>Legendary Creature - Zombie Warrior</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.&lt;br&gt;Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.&lt;br&gt;Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Peter Mohrbacher</artist>
+      <num>214</num>
+      <text>Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.&lt;br&gt;Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.&lt;br&gt;Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.</text>
+    </mc>
+    <mc>
+      <id>230792</id>
+      <name>Grimoire of the Dead</name>
+      <cost>{4}</cost>
+      <type>Legendary Artifact</type>
+      <oracleText>{1}, {T}, Discard a card: Put a study counter on Grimoire of the Dead.&lt;br&gt;{T}, Remove three study counters from Grimoire of the Dead and sacrifice it: Put all creature cards from all graveyards onto the battlefield under your control. They're black Zombies in addition to their other colors and types.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Steven Belledin</artist>
+      <num>226</num>
+      <text>{1}, {T}, Discard a card: Put a study counter on Grimoire of the Dead.&lt;br&gt;{T}, Remove three study counters from Grimoire of the Dead and sacrifice it: Put all creature cards from all graveyards onto the battlefield under your control. They're black Zombies in addition to their other colors and types.</text>
+    </mc>
+    <mc>
+      <id>222124</id>
+      <name>Grizzled Outcasts</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Human Werewolf</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>At the beginning of each upkeep, if no spells were cast last turn, transform Grizzled Outcasts.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Randy Gallegos</artist>
+      <num>185</num>
+      <text>At the beginning of each upkeep, if no spells were cast last turn, transform Grizzled Outcasts.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222123</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>246945</id>
+      <name>Gruesome Deformity</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has intimidate. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Stewart</artist>
+      <num>103</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has intimidate. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>234849</id>
+      <name>Gutter Grime</name>
+      <cost>{4}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze creature token onto the battlefield with "This creature's power and toughness are each equal to the number of slime counters on Gutter Grime."</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Erica Yang</artist>
+      <num>186</num>
+      <text>Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze creature token onto the battlefield with "This creature's power and toughness are each equal to the number of slime counters on Gutter Grime."</text>
+    </mc>
+    <mc>
+      <id>234446</id>
+      <name>Hamlet Captain</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever Hamlet Captain attacks or blocks, other Human creatures you control get +1/+1 until end of turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>187</num>
+      <text>Whenever Hamlet Captain attacks or blocks, other Human creatures you control get +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>244683</id>
+      <name>Hanweir Watchkeep</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Warrior Werewolf</type>
+      <power>1</power>
+      <toughness>5</toughness>
+      <oracleText>Defender&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Hanweir Watchkeep.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>145</num>
+      <text>Defender&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Hanweir Watchkeep.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>244687</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>220010</id>
+      <name>Harvest Pyre</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>As an additional cost to cast Harvest Pyre, exile X cards from your graveyard.&lt;br&gt;Harvest Pyre deals X damage to target creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Yee</artist>
+      <num>146</num>
+      <text>As an additional cost to cast Harvest Pyre, exile X cards from your graveyard.&lt;br&gt;Harvest Pyre deals X damage to target creature.</text>
+    </mc>
+    <mc>
+      <id>244678</id>
+      <name>Heartless Summoning</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment</type>
+      <oracleText>Creature spells you cast cost {2} less to cast.&lt;br&gt;Creatures you control get -1/-1.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Anthony Palumbo</artist>
+      <num>104</num>
+      <text>Creature spells you cast cost {2} less to cast.&lt;br&gt;Creatures you control get -1/-1.</text>
+    </mc>
+    <mc>
+      <id>249974</id>
+      <name>Heretic's Punishment</name>
+      <cost>{4}{R}</cost>
+      <type>Enchantment</type>
+      <oracleText>{3}{R}: Choose target creature or player, then put the top three cards of your library into your graveyard.  Heretic's Punishment deals damage to that creature or player equal to the highest converted mana cost among those cards.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Vincent Proce</artist>
+      <num>147</num>
+      <text>{3}{R}: Choose target creature or player, then put the top three cards of your library into your graveyard.  Heretic's Punishment deals damage to that creature or player equal to the highest converted mana cost among those cards.</text>
+    </mc>
+    <mc>
+      <id>241988</id>
+      <name>Hinterland Harbor</name>
+      <type>Land</type>
+      <oracleText>Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.&lt;br&gt;{T}: Add {G} or {U} to your mana pool.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>241</num>
+      <text>Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.&lt;br&gt;{T}: Add {G} or {U} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>226883</id>
+      <name>Hollowhenge Scavenger</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Morbid- When Hollowhenge Scavenger enters the battlefield, if a creature died this turn, you gain 5 life.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>188</num>
+      <text>Morbid- When Hollowhenge Scavenger enters the battlefield, if a creature died this turn, you gain 5 life.</text>
+    </mc>
+    <mc>
+      <id>221185</id>
+      <name>Homicidal Brute</name>
+      <type>Creature - Human Mutant</type>
+      <power>5</power>
+      <toughness>1</toughness>
+      <oracleText>At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Michael C. Hayes</artist>
+      <num>47</num>
+      <text>At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>221209</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>222183</id>
+      <name>Howlpack Alpha</name>
+      <type>Creature - Werewolf</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Each other creature you control that's a Werewolf or a Wolf gets +1/+1.&lt;br&gt;At the beginning of your end step, put a 2/2 green Wolf creature token onto the battlefield.&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>193</num>
+      <text>Each other creature you control that's a Werewolf or a Wolf gets +1/+1.&lt;br&gt;At the beginning of your end step, put a 2/2 green Wolf creature token onto the battlefield.&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222189</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>222906</id>
+      <name>Howlpack of Estwald</name>
+      <type>Creature - Werewolf</type>
+      <power>4</power>
+      <toughness>6</toughness>
+      <oracleText>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack of Estwald.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>209</num>
+      <text>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack of Estwald.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222915</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>234433</id>
+      <name>Hysterical Blindness</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Creatures your opponents control get -4/-0 until end of turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne England</artist>
+      <num>59</num>
+      <text>Creatures your opponents control get -4/-0 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>235603</id>
+      <name>Infernal Plunge</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>As an additional cost to cast Infernal Plunge, sacrifice a creature.&lt;br&gt;Add {R}{R}{R} to your mana pool.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Daarken</artist>
+      <num>148</num>
+      <text>As an additional cost to cast Infernal Plunge, sacrifice a creature.&lt;br&gt;Add {R}{R}{R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>222196</id>
+      <name>Inquisitor's Flail</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>If equipped creature would deal combat damage, it deals double that damage instead.&lt;br&gt;If another creature would deal combat damage to equipped creature, it deals double that damage to equipped creature instead.&lt;br&gt;Equip {2}</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Rob Alexander</artist>
+      <num>227</num>
+      <text>If equipped creature would deal combat damage, it deals double that damage instead.&lt;br&gt;If another creature would deal combat damage to equipped creature, it deals double that damage to equipped creature instead.&lt;br&gt;Equip {2}</text>
+    </mc>
+    <mc>
+      <id>226755</id>
+      <name>Insectile Aberration</name>
+      <type>Creature - Human Insect</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Flying</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Nils Hamm</artist>
+      <num>51</num>
+      <text>Flying</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>226749</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>227415</id>
+      <name>Instigator Gang</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Werewolf</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Attacking creatures you control get +1/+0.&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Instigator Gang.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Greg Staples</artist>
+      <num>149</num>
+      <text>Attacking creatures you control get +1/+0.&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Instigator Gang.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>227419</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>243217</id>
+      <name>Intangible Virtue</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>Creature tokens you control get +1/+1 and have vigilance.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Clint Cearley</artist>
+      <num>19</num>
+      <text>Creature tokens you control get +1/+1 and have vigilance.</text>
+    </mc>
+    <mc>
+      <id>220035</id>
+      <name>Into the Maw of Hell</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy target land. Into the Maw of Hell deals 13 damage to target creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>150</num>
+      <text>Destroy target land. Into the Maw of Hell deals 13 damage to target creature.</text>
+    </mc>
+    <mc>
+      <id>220041</id>
+      <name>Invisible Stalker</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Invisible Stalker can't be blocked.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Bud Cook</artist>
+      <num>60</num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Invisible Stalker can't be blocked.</text>
+    </mc>
+    <mc>
+      <id>222107</id>
+      <name>Ironfang</name>
+      <type>Creature - Werewolf</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>First strike&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>168</num>
+      <text>First strike&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222112</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>245235</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>James Paick</artist>
+      <num>253</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>241979</id>
+      <name>Isolated Chapel</name>
+      <type>Land</type>
+      <oracleText>Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Cliff Childs</artist>
+      <num>242</num>
+      <text>Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>249868</id>
+      <name>Kessig Cagebreakers</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Whenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Wayne England</artist>
+      <num>189</num>
+      <text>Whenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.</text>
+    </mc>
+    <mc>
+      <id>220040</id>
+      <name>Kessig Wolf</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Wolf</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>{1}{R}: Kessig Wolf gains first strike until end of turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Wayne England</artist>
+      <num>151</num>
+      <text>{1}{R}: Kessig Wolf gains first strike until end of turn.</text>
+    </mc>
+    <mc>
+      <id>233256</id>
+      <name>Kessig Wolf Run</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Eytan Zana</artist>
+      <num>243</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.</text>
+    </mc>
+    <mc>
+      <id>227088</id>
+      <name>Kindercatch</name>
+      <cost>{3}{G}{G}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>190</num>
+    </mc>
+    <mc>
+      <id>222123</id>
+      <name>Krallenhorde Wantons</name>
+      <type>Creature - Werewolf</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <oracleText>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Randy Gallegos</artist>
+      <num>185</num>
+      <text>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222124</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>227084</id>
+      <name>Kruin Outlaw</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Human Rogue Werewolf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>First strike&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>David Rapoza</artist>
+      <num>152</num>
+      <text>First strike&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>227090</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>230788</id>
+      <name>Laboratory Maniac</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>If you would draw a card while your library has no cards in it, you win the game instead.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Felix</artist>
+      <num>61</num>
+      <text>If you would draw a card while your library has no cards in it, you win the game instead.</text>
+    </mc>
+    <mc>
+      <id>241984</id>
+      <name>Lantern Spirit</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;{U}: Return Lantern Spirit to its owner's hand.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Johann Bodin</artist>
+      <num>62</num>
+      <text>Flying&lt;br&gt;{U}: Return Lantern Spirit to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>235597</id>
+      <name>Liliana of the Veil</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Planeswalker - Liliana</type>
+      <toughness>3</toughness>
+      <oracleText>+1: Each player discards a card.&lt;br&gt;-2: Target player sacrifices a creature.&lt;br&gt;-6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of his or her choice.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Steve Argyle</artist>
+      <num>105</num>
+      <text>+1: Each player discards a card.&lt;br&gt;-2: Target player sacrifices a creature.&lt;br&gt;-6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of his or her choice.</text>
+    </mc>
+    <mc>
+      <id>227072</id>
+      <name>Lord of Lineage</name>
+      <type>Creature - Vampire</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Flying&lt;br&gt;Other Vampire creatures you control get +2/+2.&lt;br&gt;{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason Chan</artist>
+      <num>90</num>
+      <text>Flying&lt;br&gt;Other Vampire creatures you control get +2/+2.&lt;br&gt;{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>227061</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>241982</id>
+      <name>Lost in the Mist</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell. Return target permanent to its owner's hand.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>David Palumbo</artist>
+      <num>63</num>
+      <text>Counter target spell. Return target permanent to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>221173</id>
+      <name>Ludevic's Abomination</name>
+      <type>Creature - Lizard Horror</type>
+      <power>13</power>
+      <toughness>13</toughness>
+      <oracleText>Trample</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Nils Hamm</artist>
+      <num>64</num>
+      <text>Trample</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>221179</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>221179</id>
+      <name>Ludevic's Test Subject</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Lizard</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <oracleText>Defender&lt;br&gt;{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Nils Hamm</artist>
+      <num>64</num>
+      <text>Defender&lt;br&gt;{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>221173</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>230624</id>
+      <name>Lumberknot</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Whenever a creature dies, put a +1/+1 counter on Lumberknot.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason A. Engle</artist>
+      <num>191</num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Whenever a creature dies, put a +1/+1 counter on Lumberknot.</text>
+    </mc>
+    <mc>
+      <id>222193</id>
+      <name>Make a Wish</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Return two cards at random from your graveyard to your hand.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Howard Lyon</artist>
+      <num>192</num>
+      <text>Return two cards at random from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>222916</id>
+      <name>Makeshift Mauler</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Zombie Horror</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>James Ryman</artist>
+      <num>65</num>
+      <text>As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard.</text>
+    </mc>
+    <mc>
+      <id>227083</id>
+      <name>Manor Gargoyle</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Gargoyle</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Defender&lt;br&gt;Manor Gargoyle has indestructible as long as it has defender.&lt;br&gt;{1}: Until end of turn, Manor Gargoyle loses defender and gains flying.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Matt Stewart</artist>
+      <num>228</num>
+      <text>Defender&lt;br&gt;Manor Gargoyle has indestructible as long as it has defender.&lt;br&gt;{1}: Until end of turn, Manor Gargoyle loses defender and gains flying.</text>
+    </mc>
+    <mc>
+      <id>249976</id>
+      <name>Manor Skeleton</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Skeleton</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Haste&lt;br&gt;{1}{B}: Regenerate Manor Skeleton.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>106</num>
+      <text>Haste&lt;br&gt;{1}{B}: Regenerate Manor Skeleton.</text>
+    </mc>
+    <mc>
+      <id>226754</id>
+      <name>Markov Patrician</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Jana Schirmer &amp; Johannes Voss</artist>
+      <num>107</num>
+      <text>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>221193</id>
+      <name>Mask of Avacyn</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +1/+2 and has hexproof. &lt;i&gt;(It can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Equip {3}</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>James Paick</artist>
+      <num>229</num>
+      <text>Equipped creature gets +1/+2 and has hexproof. &lt;i&gt;(It can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Equip {3}</text>
+    </mc>
+    <mc>
+      <id>237356</id>
+      <name>Mausoleum Guard</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Scout</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>David Palumbo</artist>
+      <num>20</num>
+      <text>When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>246952</id>
+      <name>Maw of the Mire</name>
+      <cost>{4}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy target land. You gain 4 life.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Vincent Proce</artist>
+      <num>108</num>
+      <text>Destroy target land. You gain 4 life.</text>
+    </mc>
+    <mc>
+      <id>222189</id>
+      <name>Mayor of Avabruck</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Advisor Werewolf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Other Human creatures you control get +1/+1.&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>193</num>
+      <text>Other Human creatures you control get +1/+1.&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222183</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>254134</id>
+      <name>Memory's Journey</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Target player shuffles up to three target cards from his or her graveyard into his or her library.&lt;br&gt;Flashback {G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>66</num>
+      <text>Target player shuffles up to three target cards from his or her graveyard into his or her library.&lt;br&gt;Flashback {G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>244682</id>
+      <name>Mentor of the Meek</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever another creature with power 2 or less enters the battlefield under your control, you may pay {1}. If you do, draw a card.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Jana Schirmer &amp; Johannes Voss</artist>
+      <num>21</num>
+      <text>Whenever another creature with power 2 or less enters the battlefield under your control, you may pay {1}. If you do, draw a card.</text>
+    </mc>
+    <mc>
+      <id>222115</id>
+      <name>Merciless Predator</name>
+      <type>Creature - Werewolf</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Michael C. Hayes</artist>
+      <num>159</num>
+      <text>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222111</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>221214</id>
+      <name>Midnight Haunting</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Put two 1/1 white Spirit creature tokens with flying onto the battlefield.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Matt Stewart</artist>
+      <num>22</num>
+      <text>Put two 1/1 white Spirit creature tokens with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>247234</id>
+      <name>Mikaeus, the Lunarch</name>
+      <cost>{X}{W}</cost>
+      <type>Legendary Creature - Human Cleric</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{T}: Put a +1/+1 counter on Mikaeus.&lt;br&gt;{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Steven Belledin</artist>
+      <num>23</num>
+      <text>Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{T}: Put a +1/+1 counter on Mikaeus.&lt;br&gt;{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.</text>
+    </mc>
+    <mc>
+      <id>229960</id>
+      <name>Mindshrieker</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Spirit Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;{2}: Target player puts the top card of his or her library into his or her graveyard. Mindshrieker gets +X/+X until end of turn, where X is that card's converted mana cost.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Dave Kendall</artist>
+      <num>67</num>
+      <text>Flying&lt;br&gt;{2}: Target player puts the top card of his or her library into his or her graveyard. Mindshrieker gets +X/+X until end of turn, where X is that card's converted mana cost.</text>
+    </mc>
+    <mc>
+      <id>227297</id>
+      <name>Mirror-Mad Phantasm</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>5</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;{1}{U}: Mirror-Mad Phantasm's owner shuffles it into his or her library. If that player does, he or she reveals cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Howard Lyon</artist>
+      <num>68</num>
+      <text>Flying&lt;br&gt;{1}{U}: Mirror-Mad Phantasm's owner shuffles it into his or her library. If that player does, he or she reveals cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>227286</id>
+      <name>Moan of the Unhallowed</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put two 2/2 black Zombie creature tokens onto the battlefield.&lt;br&gt;Flashback {5}{B}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Nils Hamm</artist>
+      <num>109</num>
+      <text>Put two 2/2 black Zombie creature tokens onto the battlefield.&lt;br&gt;Flashback {5}{B}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>249664</id>
+      <name>Moldgraf Monstrosity</name>
+      <cost>{4}{G}{G}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <oracleText>Trample&lt;br&gt;When Moldgraf Monstrosity dies, exile it, then return two creature cards at random from your graveyard to the battlefield.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Tomasz Jedruszek</artist>
+      <num>194</num>
+      <text>Trample&lt;br&gt;When Moldgraf Monstrosity dies, exile it, then return two creature cards at random from your graveyard to the battlefield.</text>
+    </mc>
+    <mc>
+      <id>226882</id>
+      <name>Moment of Heroism</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gets +2/+2 and gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>24</num>
+      <text>Target creature gets +2/+2 and gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>221187</id>
+      <name>Moon Heron</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Spirit Bird</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Flying</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Charles Urbach</artist>
+      <num>69</num>
+      <text>Flying</text>
+    </mc>
+    <mc>
+      <id>222933</id>
+      <name>Moonmist</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Transform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. &lt;i&gt;(Only double-faced cards can be transformed.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Yee</artist>
+      <num>195</num>
+      <text>Transform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. &lt;i&gt;(Only double-faced cards can be transformed.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>233239</id>
+      <name>Moorland Haunt</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{W}{U}, {T}, Exile a creature card from your graveyard: Put a 1/1 white Spirit creature token with flying onto the battlefield.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>James Paick</artist>
+      <num>244</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{W}{U}, {T}, Exile a creature card from your graveyard: Put a 1/1 white Spirit creature token with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>230777</id>
+      <name>Morkrut Banshee</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Morbid- When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>110</num>
+      <text>Morbid- When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>245242</id>
+      <name>Mountain</name>
+      <type>Basic Land - Mountain</type>
+      <oracleText>R</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>James Paick</artist>
+      <num>259</num>
+      <text>R</text>
+    </mc>
+    <mc>
+      <id>237012</id>
+      <name>Mulch</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>196</num>
+      <text>Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.</text>
+    </mc>
+    <mc>
+      <id>230616</id>
+      <name>Murder of Crows</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever another creature dies, you may draw a card. If you do, discard a card.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Drew Baker</artist>
+      <num>70</num>
+      <text>Flying&lt;br&gt;Whenever another creature dies, you may draw a card. If you do, discard a card.</text>
+    </mc>
+    <mc>
+      <id>237015</id>
+      <name>Naturalize</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target artifact or enchantment.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Scott Chou</artist>
+      <num>197</num>
+      <text>Destroy target artifact or enchantment.</text>
+    </mc>
+    <mc>
+      <id>230789</id>
+      <name>Nephalia Drownyard</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{U}{B}, {T}: Target player puts the top three cards of his or her library into his or her graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Cliff Childs</artist>
+      <num>245</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{U}{B}, {T}: Target player puts the top three cards of his or her library into his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>226878</id>
+      <name>Nevermore</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>As Nevermore enters the battlefield, name a nonland card.&lt;br&gt;The named card can't be cast.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason A. Engle</artist>
+      <num>25</num>
+      <text>As Nevermore enters the battlefield, name a nonland card.&lt;br&gt;The named card can't be cast.</text>
+    </mc>
+    <mc>
+      <id>226879</id>
+      <name>Night Revelers</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Vampire</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Night Revelers has haste as long as an opponent controls a Human.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Argyle</artist>
+      <num>153</num>
+      <text>Night Revelers has haste as long as an opponent controls a Human.</text>
+    </mc>
+    <mc>
+      <id>246947</id>
+      <name>Night Terrors</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target player reveals his or her hand. You choose a nonland card from it. Exile that card.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>111</num>
+      <text>Target player reveals his or her hand. You choose a nonland card from it. Exile that card.</text>
+    </mc>
+    <mc>
+      <id>220386</id>
+      <name>Nightbird's Clutches</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Up to two target creatures can't block this turn.&lt;br&gt;Flashback {3}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Jason A. Engle</artist>
+      <num>154</num>
+      <text>Up to two target creatures can't block this turn.&lt;br&gt;Flashback {3}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>222114</id>
+      <name>Nightfall Predator</name>
+      <type>Creature - Werewolf</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>{R}, {T}: Nightfall Predator fights target creature. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Nightfall Predator.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Steve Prescott</artist>
+      <num>176</num>
+      <text>{R}, {T}: Nightfall Predator fights target creature. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Nightfall Predator.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222118</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>247235</id>
+      <name>Olivia Voldaren</name>
+      <cost>{2}{B}{R}</cost>
+      <type>Legendary Creature - Vampire</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;{1}{R}: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren.&lt;br&gt;{3}{B}{B}: Gain control of target Vampire for as long as you control Olivia Voldaren.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>215</num>
+      <text>Flying&lt;br&gt;{1}{R}: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren.&lt;br&gt;{3}{B}{B}: Gain control of target Vampire for as long as you control Olivia Voldaren.</text>
+    </mc>
+    <mc>
+      <id>220045</id>
+      <name>One-Eyed Scarecrow</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Scarecrow</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Defender&lt;br&gt;Creatures with flying your opponents control get -1/-0.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Dave Kendall</artist>
+      <num>230</num>
+      <text>Defender&lt;br&gt;Creatures with flying your opponents control get -1/-0.</text>
+    </mc>
+    <mc>
+      <id>234855</id>
+      <name>Orchard Spirit</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Orchard Spirit can't be blocked except by creatures with flying or reach.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Howard Lyon</artist>
+      <num>198</num>
+      <text>Orchard Spirit can't be blocked except by creatures with flying or reach.</text>
+    </mc>
+    <mc>
+      <id>249662</id>
+      <name>Parallel Lives</name>
+      <cost>{3}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Steve Prescott</artist>
+      <num>199</num>
+      <text>If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.</text>
+    </mc>
+    <mc>
+      <id>249975</id>
+      <name>Paraselene</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy all enchantments. You gain 1 life for each enchantment destroyed this way.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Ryan Yee</artist>
+      <num>26</num>
+      <text>Destroy all enchantments. You gain 1 life for each enchantment destroyed this way.</text>
+    </mc>
+    <mc>
+      <id>245197</id>
+      <name>Past in Flames</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.&lt;br&gt;Flashback {4}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Anthony Jones</artist>
+      <num>155</num>
+      <text>Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.&lt;br&gt;Flashback {4}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>222904</id>
+      <name>Pitchburn Devils</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Devil</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>When Pitchburn Devils dies, it deals 3 damage to target creature or player.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Johann Bodin</artist>
+      <num>156</num>
+      <text>When Pitchburn Devils dies, it deals 3 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>245230</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>Adam Paquette</artist>
+      <num>250</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>220383</id>
+      <name>Prey Upon</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target creature you control fights target creature you don't control. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Dave Kendall</artist>
+      <num>200</num>
+      <text>Target creature you control fights target creature you don't control. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>226884</id>
+      <name>Purify the Grave</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <oracleText>Exile target card from a graveyard.&lt;br&gt;Flashback {W} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Drew Baker</artist>
+      <num>27</num>
+      <text>Exile target card from a graveyard.&lt;br&gt;Flashback {W} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>222921</id>
+      <name>Rage Thrower</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever another creature dies, Rage Thrower deals 2 damage to target player.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Peter Mohrbacher</artist>
+      <num>157</num>
+      <text>Whenever another creature dies, Rage Thrower deals 2 damage to target player.</text>
+    </mc>
+    <mc>
+      <id>234441</id>
+      <name>Rakish Heir</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Vampire</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Winona Nelson</artist>
+      <num>158</num>
+      <text>Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it.</text>
+    </mc>
+    <mc>
+      <id>237361</id>
+      <name>Rally the Peasants</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Creatures you control get +2/+0 until end of turn.&lt;br&gt;Flashback {2}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jaime Jones</artist>
+      <num>28</num>
+      <text>Creatures you control get +2/+0 until end of turn.&lt;br&gt;Flashback {2}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>222117</id>
+      <name>Rampaging Werewolf</name>
+      <type>Creature - Werewolf</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <oracleText>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Rampaging Werewolf.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Bud Cook</artist>
+      <num>165</num>
+      <text>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Rampaging Werewolf.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222186</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>249973</id>
+      <name>Ranger's Guile</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature you control gets +1/+1 and gains hexproof until end of turn. &lt;i&gt;(It can't be the target of spells or abilities your opponents control.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Prescott</artist>
+      <num>201</num>
+      <text>Target creature you control gets +1/+1 and gains hexproof until end of turn. &lt;i&gt;(It can't be the target of spells or abilities your opponents control.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>230768</id>
+      <name>Reaper from the Abyss</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Flying&lt;br&gt;Morbid- At the beginning of each end step, if a creature died this turn, destroy target non-Demon creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Matt Stewart</artist>
+      <num>112</num>
+      <text>Flying&lt;br&gt;Morbid- At the beginning of each end step, if a creature died this turn, destroy target non-Demon creature.</text>
+    </mc>
+    <mc>
+      <id>247423</id>
+      <name>Rebuke</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target attacking creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>29</num>
+      <text>Destroy target attacking creature.</text>
+    </mc>
+    <mc>
+      <id>222111</id>
+      <name>Reckless Waif</name>
+      <cost>{R}</cost>
+      <type>Creature - Human Rogue Werewolf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Michael C. Hayes</artist>
+      <num>159</num>
+      <text>At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222115</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>220648</id>
+      <name>Riot Devils</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Devil</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>160</num>
+    </mc>
+    <mc>
+      <id>249660</id>
+      <name>Rolling Temblor</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Rolling Temblor deals 2 damage to each creature without flying.&lt;br&gt;Flashback {4}{R}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Cliff Childs</artist>
+      <num>161</num>
+      <text>Rolling Temblor deals 2 damage to each creature without flying.&lt;br&gt;Flashback {4}{R}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>227287</id>
+      <name>Rooftop Storm</name>
+      <cost>{5}{U}</cost>
+      <type>Enchantment</type>
+      <oracleText>You may pay {0} rather than pay the mana cost for Zombie creature spells you cast.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>John Stanko</artist>
+      <num>71</num>
+      <text>You may pay {0} rather than pay the mana cost for Zombie creature spells you cast.</text>
+    </mc>
+    <mc>
+      <id>237011</id>
+      <name>Rotting Fensnake</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie Snake</type>
+      <power>5</power>
+      <toughness>1</toughness>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Tomasz Jedruszek</artist>
+      <num>113</num>
+    </mc>
+    <mc>
+      <id>244681</id>
+      <name>Runechanter's Pike</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.&lt;br&gt;Equip {2}</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>John Avon</artist>
+      <num>231</num>
+      <text>Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.&lt;br&gt;Equip {2}</text>
+    </mc>
+    <mc>
+      <id>227298</id>
+      <name>Runic Repetition</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Return target exiled card with flashback you own to your hand.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>72</num>
+      <text>Return target exiled card with flashback you own to your hand.</text>
+    </mc>
+    <mc>
+      <id>227077</id>
+      <name>Scourge of Geier Reach</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Scourge of Geier Reach gets +1/+1 for each creature your opponents control.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jung Park</artist>
+      <num>162</num>
+      <text>Scourge of Geier Reach gets +1/+1 for each creature your opponents control.</text>
+    </mc>
+    <mc>
+      <id>221211</id>
+      <name>Screeching Bat</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Bat</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Screeching Bat.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>114</num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Screeching Bat.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>221215</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>221219</id>
+      <name>Selfless Cathar</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{1}{W}, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>30</num>
+      <text>{1}{W}, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>233254</id>
+      <name>Selhoff Occultist</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Whenever Selhoff Occultist or another creature dies, target player puts the top card of his or her library into his or her graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>73</num>
+      <text>Whenever Selhoff Occultist or another creature dies, target player puts the top card of his or her library into his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>222014</id>
+      <name>Sensory Deprivation</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -3/-0.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Steven Belledin</artist>
+      <num>74</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -3/-0.</text>
+    </mc>
+    <mc>
+      <id>245194</id>
+      <name>Sever the Bloodline</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Exile target creature and all other creatures with the same name as that creature.&lt;br&gt;Flashback {5}{B}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Clint Cearley</artist>
+      <num>115</num>
+      <text>Exile target creature and all other creatures with the same name as that creature.&lt;br&gt;Flashback {5}{B}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>220642</id>
+      <name>Sharpened Pitchfork</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature has first strike.&lt;br&gt;As long as equipped creature is a Human, it gets +1/+1.&lt;br&gt;Equip {1}</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Winona Nelson</artist>
+      <num>232</num>
+      <text>Equipped creature has first strike.&lt;br&gt;As long as equipped creature is a Human, it gets +1/+1.&lt;br&gt;Equip {1}</text>
+    </mc>
+    <mc>
+      <id>243216</id>
+      <name>Shimmering Grotto</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Cliff Childs</artist>
+      <num>246</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>220047</id>
+      <name>Silent Departure</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Return target creature to its owner's hand.&lt;br&gt;Flashback {4}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>John Avon</artist>
+      <num>75</num>
+      <text>Return target creature to its owner's hand.&lt;br&gt;Flashback {4}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>234848</id>
+      <name>Silverchase Fox</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Fox</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Howard Lyon</artist>
+      <num>31</num>
+      <text>{1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.</text>
+    </mc>
+    <mc>
+      <id>222190</id>
+      <name>Silver-Inlaid Dagger</name>
+      <cost>{1}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +2/+0.&lt;br&gt;As long as equipped creature is a Human, it gets an additional +1/+0.&lt;br&gt;Equip {2}</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Austin Hsu</artist>
+      <num>233</num>
+      <text>Equipped creature gets +2/+0.&lt;br&gt;As long as equipped creature is a Human, it gets an additional +1/+0.&lt;br&gt;Equip {2}</text>
+    </mc>
+    <mc>
+      <id>222913</id>
+      <name>Skaab Goliath</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Zombie Giant</type>
+      <power>6</power>
+      <toughness>9</toughness>
+      <oracleText>As an additional cost to cast Skaab Goliath, exile two creature cards from your graveyard.&lt;br&gt;Trample</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Volkan Baga</artist>
+      <num>76</num>
+      <text>As an additional cost to cast Skaab Goliath, exile two creature cards from your graveyard.&lt;br&gt;Trample</text>
+    </mc>
+    <mc>
+      <id>230780</id>
+      <name>Skaab Ruinator</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Zombie Horror</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <oracleText>As an additional cost to cast Skaab Ruinator, exile three creature cards from your graveyard.&lt;br&gt;Flying&lt;br&gt;You may cast Skaab Ruinator from your graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Chris Rahn</artist>
+      <num>77</num>
+      <text>As an additional cost to cast Skaab Ruinator, exile three creature cards from your graveyard.&lt;br&gt;Flying&lt;br&gt;You may cast Skaab Ruinator from your graveyard.</text>
+    </mc>
+    <mc>
+      <id>220387</id>
+      <name>Skeletal Grimace</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has "{B}: Regenerate this creature."</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>116</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has "{B}: Regenerate this creature."</text>
+    </mc>
+    <mc>
+      <id>220638</id>
+      <name>Skirsdag Cultist</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{R}, {T}, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>163</num>
+      <text>{R}, {T}, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>230794</id>
+      <name>Skirsdag High Priest</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Morbid- {T}, Tap two untapped creatures you control: Put a 5/5 black Demon creature token with flying onto the battlefield. Activate this ability only if a creature died this turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Jason A. Engle</artist>
+      <num>117</num>
+      <text>Morbid- {T}, Tap two untapped creatures you control: Put a 5/5 black Demon creature token with flying onto the battlefield. Activate this ability only if a creature died this turn.</text>
+    </mc>
+    <mc>
+      <id>220062</id>
+      <name>Slayer of the Wicked</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Anthony Palumbo</artist>
+      <num>32</num>
+      <text>When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie.</text>
+    </mc>
+    <mc>
+      <id>220377</id>
+      <name>Smite the Monstrous</name>
+      <cost>{3}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target creature with power 4 or greater.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Felix</artist>
+      <num>33</num>
+      <text>Destroy target creature with power 4 or greater.</text>
+    </mc>
+    <mc>
+      <id>227676</id>
+      <name>Snapcaster Mage</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Flash&lt;br&gt;When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. &lt;i&gt;(You may cast that card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Volkan Baga</artist>
+      <num>78</num>
+      <text>Flash&lt;br&gt;When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. &lt;i&gt;(You may cast that card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>237013</id>
+      <name>Somberwald Spider</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Morbid- Somberwald Spider enters the battlefield with two +1/+1 counters on it if a creature died this turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Volkan Baga</artist>
+      <num>202</num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Morbid- Somberwald Spider enters the battlefield with two +1/+1 counters on it if a creature died this turn.</text>
+    </mc>
+    <mc>
+      <id>230618</id>
+      <name>Spare from Evil</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Creatures you control gain protection from non-Human creatures until end of turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Felix</artist>
+      <num>34</num>
+      <text>Creatures you control gain protection from non-Human creatures until end of turn.</text>
+    </mc>
+    <mc>
+      <id>230775</id>
+      <name>Spectral Flight</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Johann Bodin</artist>
+      <num>79</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.</text>
+    </mc>
+    <mc>
+      <id>220372</id>
+      <name>Spectral Rider</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Spirit Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>35</num>
+      <text>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>222175</id>
+      <name>Spider Spawning</name>
+      <cost>{4}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put a 1/2 green Spider creature token with reach onto the battlefield for each creature card in your graveyard.&lt;br&gt;Flashback {6}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>203</num>
+      <text>Put a 1/2 green Spider creature token with reach onto the battlefield for each creature card in your graveyard.&lt;br&gt;Flashback {6}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>244686</id>
+      <name>Spidery Grasp</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Untap target creature. It gets +2/+4 and gains reach until end of turn. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>James Ryman</artist>
+      <num>204</num>
+      <text>Untap target creature. It gets +2/+4 and gains reach until end of turn. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>227301</id>
+      <name>Splinterfright</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <oracleText>Trample&lt;br&gt;Splinterfright's power and toughness are each equal to the number of creature cards in your graveyard.&lt;br&gt;At the beginning of your upkeep, put the top two cards of your library into your graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Eric Deschamps</artist>
+      <num>205</num>
+      <text>Trample&lt;br&gt;Splinterfright's power and toughness are each equal to the number of creature cards in your graveyard.&lt;br&gt;At the beginning of your upkeep, put the top two cards of your library into your graveyard.</text>
+    </mc>
+    <mc>
+      <id>221215</id>
+      <name>Stalking Vampire</name>
+      <type>Creature - Vampire</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Stalking Vampire.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>114</num>
+      <text>At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Stalking Vampire.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>221211</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>233244</id>
+      <name>Stensia Bloodhall</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{3}{B}{R}, {T}: Stensia Bloodhall deals 2 damage to target player.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>John Avon</artist>
+      <num>247</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{3}{B}{R}, {T}: Stensia Bloodhall deals 2 damage to target player.</text>
+    </mc>
+    <mc>
+      <id>220652</id>
+      <name>Stitched Drake</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Zombie Drake</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>As an additional cost to cast Stitched Drake, exile a creature card from your graveyard.&lt;br&gt;Flying</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Chris Rahn</artist>
+      <num>80</num>
+      <text>As an additional cost to cast Stitched Drake, exile a creature card from your graveyard.&lt;br&gt;Flying</text>
+    </mc>
+    <mc>
+      <id>220631</id>
+      <name>Stitcher's Apprentice</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Homunculus</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>{1}{U}, {T}: Put a 2/2 blue Homunculus creature token onto the battlefield, then sacrifice a creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Johann Bodin</artist>
+      <num>81</num>
+      <text>{1}{U}, {T}: Put a 2/2 blue Homunculus creature token onto the battlefield, then sacrifice a creature.</text>
+    </mc>
+    <mc>
+      <id>247425</id>
+      <name>Stony Silence</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>Activated abilities of artifacts can't be activated.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Wayne England</artist>
+      <num>36</num>
+      <text>Activated abilities of artifacts can't be activated.</text>
+    </mc>
+    <mc>
+      <id>230783</id>
+      <name>Stromkirk Noble</name>
+      <cost>{R}</cost>
+      <type>Creature - Vampire</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Stromkirk Noble can't be blocked by Humans.&lt;br&gt;Whenever Stromkirk Noble deals combat damage to a player, put a +1/+1 counter on it.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>James Ryman</artist>
+      <num>164</num>
+      <text>Stromkirk Noble can't be blocked by Humans.&lt;br&gt;Whenever Stromkirk Noble deals combat damage to a player, put a +1/+1 counter on it.</text>
+    </mc>
+    <mc>
+      <id>226876</id>
+      <name>Stromkirk Patrol</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Vampire Soldier</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <oracleText>Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 counter on it.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Karl Kopinski</artist>
+      <num>118</num>
+      <text>Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 counter on it.</text>
+    </mc>
+    <mc>
+      <id>246950</id>
+      <name>Sturmgeist</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <oracleText>Flying&lt;br&gt;Sturmgeist's power and toughness are each equal to the number of cards in your hand.&lt;br&gt;Whenever Sturmgeist deals combat damage to a player, draw a card.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>82</num>
+      <text>Flying&lt;br&gt;Sturmgeist's power and toughness are each equal to the number of cards in your hand.&lt;br&gt;Whenever Sturmgeist deals combat damage to a player, draw a card.</text>
+    </mc>
+    <mc>
+      <id>241987</id>
+      <name>Sulfur Falls</name>
+      <type>Land</type>
+      <oracleText>Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.&lt;br&gt;{T}: Add {U} or {R} to your mana pool.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Cliff Childs</artist>
+      <num>248</num>
+      <text>Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.&lt;br&gt;{T}: Add {U} or {R} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>245240</id>
+      <name>Swamp</name>
+      <type>Basic Land - Swamp</type>
+      <oracleText>B</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>James Paick</artist>
+      <num>256</num>
+      <text>B</text>
+    </mc>
+    <mc>
+      <id>227090</id>
+      <name>Terror of Kruin Pass</name>
+      <type>Creature - Werewolf</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Double strike&lt;br&gt;Each Werewolf you control can't be blocked except by two or more creatures.&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>David Rapoza</artist>
+      <num>152</num>
+      <text>Double strike&lt;br&gt;Each Werewolf you control can't be blocked except by two or more creatures.&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>227084</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>230626</id>
+      <name>Think Twice</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Draw a card.&lt;br&gt;Flashback {2}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Anthony Francisco</artist>
+      <num>83</num>
+      <text>Draw a card.&lt;br&gt;Flashback {2}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>221190</id>
+      <name>Thraben Militia</name>
+      <type>Creature - Human Soldier</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Trample</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>David Rapoza</artist>
+      <num>38</num>
+      <text>Trample</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222016</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>230625</id>
+      <name>Thraben Purebloods</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Hound</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Martina Pilcerova</artist>
+      <num>37</num>
+    </mc>
+    <mc>
+      <id>222016</id>
+      <name>Thraben Sentry</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Vigilance&lt;br&gt;Whenever another creature you control dies, you may transform Thraben Sentry.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>David Rapoza</artist>
+      <num>38</num>
+      <text>Vigilance&lt;br&gt;Whenever another creature you control dies, you may transform Thraben Sentry.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>221190</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>222186</id>
+      <name>Tormented Pariah</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Warrior Werewolf</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Bud Cook</artist>
+      <num>165</num>
+      <text>At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222117</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>234438</id>
+      <name>Traitorous Blood</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Raymond Swanland</artist>
+      <num>166</num>
+      <text>Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn.</text>
+    </mc>
+    <mc>
+      <id>220026</id>
+      <name>Travel Preparations</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put a +1/+1 counter on each of up to two target creatures.&lt;br&gt;Flashback {1}{W} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Vincent Proce</artist>
+      <num>206</num>
+      <text>Put a +1/+1 counter on each of up to two target creatures.&lt;br&gt;Flashback {1}{W} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>237357</id>
+      <name>Traveler's Amulet</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <oracleText>{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Alan Pollack</artist>
+      <num>234</num>
+      <text>{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>247421</id>
+      <name>Tree of Redemption</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Plant</type>
+      <power>0</power>
+      <toughness>13</toughness>
+      <oracleText>Defender&lt;br&gt;{T}: Exchange your life total with Tree of Redemption's toughness.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Vincent Proce</artist>
+      <num>207</num>
+      <text>Defender&lt;br&gt;{T}: Exchange your life total with Tree of Redemption's toughness.</text>
+    </mc>
+    <mc>
+      <id>221186</id>
+      <name>Trepanation Blade</name>
+      <cost>{3}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Whenever equipped creature attacks, defending player reveals cards from the top of his or her library until he or she reveals a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into his or her graveyard.&lt;br&gt;Equip {2}</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daniel Ljunggren</artist>
+      <num>235</num>
+      <text>Whenever equipped creature attacks, defending player reveals cards from the top of his or her library until he or she reveals a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into his or her graveyard.&lt;br&gt;Equip {2}</text>
+    </mc>
+    <mc>
+      <id>227064</id>
+      <name>Tribute to Hunger</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Target opponent sacrifices a creature. You gain life equal to that creature's toughness.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dave Kendall</artist>
+      <num>119</num>
+      <text>Target opponent sacrifices a creature. You gain life equal to that creature's toughness.</text>
+    </mc>
+    <mc>
+      <id>220634</id>
+      <name>Typhoid Rats</name>
+      <cost>{B}</cost>
+      <type>Creature - Rat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>120</num>
+      <text>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>222105</id>
+      <name>Ulvenwald Mystics</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Human Shaman Werewolf</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dan Scott</artist>
+      <num>208</num>
+      <text>At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222108</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>222108</id>
+      <name>Ulvenwald Primordials</name>
+      <type>Creature - Werewolf</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>{G}: Regenerate Ulvenwald Primordials.&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dan Scott</artist>
+      <num>208</num>
+      <text>{G}: Regenerate Ulvenwald Primordials.&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222105</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>230786</id>
+      <name>Unbreathing Horde</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each other Zombie you control and each Zombie card in your graveyard.&lt;br&gt;If Unbreathing Horde would be dealt damage, prevent that damage and remove a +1/+1 counter from it.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Dave Kendall</artist>
+      <num>121</num>
+      <text>Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each other Zombie you control and each Zombie card in your graveyard.&lt;br&gt;If Unbreathing Horde would be dealt damage, prevent that damage and remove a +1/+1 counter from it.</text>
+    </mc>
+    <mc>
+      <id>227087</id>
+      <name>Unburial Rites</name>
+      <cost>{4}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Return target creature card from your graveyard to the battlefield.&lt;br&gt;Flashback {3}{W} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>122</num>
+      <text>Return target creature card from your graveyard to the battlefield.&lt;br&gt;Flashback {3}{W} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>244684</id>
+      <name>Undead Alchemist</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Zombie</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <oracleText>If a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the top of his or her library into his or her graveyard.&lt;br&gt;Whenever a creature card is put into an opponent's graveyard from his or her library, exile that card and put a 2/2 black Zombie creature token onto the battlefield.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Michael C. Hayes</artist>
+      <num>84</num>
+      <text>If a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the top of his or her library into his or her graveyard.&lt;br&gt;Whenever a creature card is put into an opponent's graveyard from his or her library, exile that card and put a 2/2 black Zombie creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>221222</id>
+      <name>Unholy Fiend</name>
+      <type>Creature - Horror</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>At the beginning of your end step, you lose 1 life.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>8</num>
+      <text>At the beginning of your end step, you lose 1 life.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>221212</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>220389</id>
+      <name>Unruly Mob</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Ryan Pancoast</artist>
+      <num>39</num>
+      <text>Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.</text>
+    </mc>
+    <mc>
+      <id>227066</id>
+      <name>Urgent Exorcism</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target Spirit or enchantment.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Svetlin Velinov</artist>
+      <num>40</num>
+      <text>Destroy target Spirit or enchantment.</text>
+    </mc>
+    <mc>
+      <id>226748</id>
+      <name>Vampire Interloper</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Vampire Scout</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;Vampire Interloper can't block.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>James Ryman</artist>
+      <num>123</num>
+      <text>Flying&lt;br&gt;Vampire Interloper can't block.</text>
+    </mc>
+    <mc>
+      <id>247424</id>
+      <name>Vampiric Fury</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Vampire creatures you control get +2/+0 and gain first strike until end of turn.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Matt Stewart</artist>
+      <num>167</num>
+      <text>Vampire creatures you control get +2/+0 and gain first strike until end of turn.</text>
+    </mc>
+    <mc>
+      <id>220023</id>
+      <name>Victim of Night</name>
+      <cost>{B}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target non-Vampire, non-Werewolf, non-Zombie creature.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Winona Nelson</artist>
+      <num>124</num>
+      <text>Destroy target non-Vampire, non-Werewolf, non-Zombie creature.</text>
+    </mc>
+    <mc>
+      <id>222923</id>
+      <name>Village Bell-Ringer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Scout</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Village Bell-Ringer enters the battlefield, untap all creatures you control.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>David Palumbo</artist>
+      <num>41</num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Village Bell-Ringer enters the battlefield, untap all creatures you control.</text>
+    </mc>
+    <mc>
+      <id>222903</id>
+      <name>Village Cannibals</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever another Human creature dies, put a +1/+1 counter on Village Cannibals.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Bud Cook</artist>
+      <num>125</num>
+      <text>Whenever another Human creature dies, put a +1/+1 counter on Village Cannibals.</text>
+    </mc>
+    <mc>
+      <id>222112</id>
+      <name>Village Ironsmith</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Werewolf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>First strike&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Moeller</artist>
+      <num>168</num>
+      <text>First strike&lt;br&gt;At the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222107</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>222915</id>
+      <name>Villagers of Estwald</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Werewolf</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>At the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>209</num>
+      <text>At the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>222906</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>243215</id>
+      <name>Voiceless Spirit</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Flying, first strike</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Daarken</artist>
+      <num>42</num>
+      <text>Flying, first strike</text>
+    </mc>
+    <mc>
+      <id>243210</id>
+      <name>Walking Corpse</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Igor Kieryluk</artist>
+      <num>126</num>
+    </mc>
+    <mc>
+      <id>227419</id>
+      <name>Wildblood Pack</name>
+      <type>Creature - Werewolf</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Trample&lt;br&gt;Attacking creatures you control get +3/+0.&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Wildblood Pack.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Greg Staples</artist>
+      <num>149</num>
+      <text>Trample&lt;br&gt;Attacking creatures you control get +3/+0.&lt;br&gt;At the beginning of each upkeep, if a player cast two or more spells last turn, transform Wildblood Pack.</text>
+      <properties>
+        <entry>
+          <string>FLIPID</string>
+          <string>227415</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>233240</id>
+      <name>Witchbane Orb</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <oracleText>When Witchbane Orb enters the battlefield, destroy all Curses attached to you.&lt;br&gt;You have hexproof. &lt;i&gt;(You can't be the target of spells or abilities your opponents control, including Aura spells.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>John Avon</artist>
+      <num>236</num>
+      <text>When Witchbane Orb enters the battlefield, destroy all Curses attached to you.&lt;br&gt;You have hexproof. &lt;i&gt;(You can't be the target of spells or abilities your opponents control, including Aura spells.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>226880</id>
+      <name>Wooden Stake</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <oracleText>Equipped creature gets +1/+0.&lt;br&gt;Whenever equipped creature blocks or becomes blocked by a Vampire, destroy that creature. It can't be regenerated.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>David Palumbo</artist>
+      <num>237</num>
+      <text>Equipped creature gets +1/+0.&lt;br&gt;Whenever equipped creature blocks or becomes blocked by a Vampire, destroy that creature. It can't be regenerated.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>241983</id>
+      <name>Woodland Cemetery</name>
+      <type>Land</type>
+      <oracleText>Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Rare</rarity>
+      <artist>Lars Grant-West</artist>
+      <num>249</num>
+      <text>Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>220654</id>
+      <name>Woodland Sleuth</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Human Scout</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Morbid- When Woodland Sleuth enters the battlefield, if a creature died this turn, return a creature card at random from your graveyard to your hand.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Common</rarity>
+      <artist>Tomasz Jedruszek</artist>
+      <num>210</num>
+      <text>Morbid- When Woodland Sleuth enters the battlefield, if a creature died this turn, return a creature card at random from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>237017</id>
+      <name>Wreath of Geists</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +X/+X, where X is the number of creature cards in your graveyard.</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jason A. Engle</artist>
+      <num>211</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +X/+X, where X is the number of creature cards in your graveyard.</text>
+    </mc>
+    <mc>
+      <id>245248</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>Jung Park</artist>
+      <num>263</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>245246</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>Eytan Zana</artist>
+      <num>264</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>245237</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>Adam Paquette</artist>
+      <num>254</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>245236</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>Jung Park</artist>
+      <num>255</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>245245</id>
+      <name>Mountain</name>
+      <type>Basic Land - Mountain</type>
+      <oracleText>R</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>Adam Paquette</artist>
+      <num>260</num>
+      <text>R</text>
+    </mc>
+    <mc>
+      <id>245243</id>
+      <name>Mountain</name>
+      <type>Basic Land - Mountain</type>
+      <oracleText>R</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>Eytan Zana</artist>
+      <num>261</num>
+      <text>R</text>
+    </mc>
+    <mc>
+      <id>245233</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>Jung Park</artist>
+      <num>251</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>245231</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>Eytan Zana</artist>
+      <num>252</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>245239</id>
+      <name>Swamp</name>
+      <type>Basic Land - Swamp</type>
+      <oracleText>B</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>Adam Paquette</artist>
+      <num>257</num>
+      <text>B</text>
+    </mc>
+    <mc>
+      <id>245241</id>
+      <name>Swamp</name>
+      <type>Basic Land - Swamp</type>
+      <oracleText>B</oracleText>
+      <edition>Innistrad</edition>
+      <rarity>Land</rarity>
+      <artist>Jung Park</artist>
+      <num>258</num>
+      <text>B</text>
+    </mc>
+  </list>
+</cards>

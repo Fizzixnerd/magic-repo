@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>RB Aggro (Net)</name>
+  <key>Decks/RB Aggro (Net)</key>
+  <comment></comment>
+  <type></type>
+  <properties>
+    <property name="readonly" value="false"/>
+    <property name="virtual" value="true"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>253591</id>
+        <name>Rakdos Shred-Freak</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:45:27 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>253596</id>
+        <name>Rakdos Cackler</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:46:09 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>245184</id>
+        <name>Shock</name>
+        <edition>Magic 2012</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:46:54 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386365</id>
+        <name>Shock</name>
+        <edition>Duel Decks: Speed vs. Cunning</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:47:03 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373698</id>
+        <name>Minotaur Skullcleaver</name>
+        <edition>Theros</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:47:32 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>366377</id>
+        <name>Madcap Skills</name>
+        <edition>Gatecrash</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:48:32 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373651</id>
+        <name>Lightning Strike</name>
+        <edition>Theros</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:49:30 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373565</id>
+        <name>Mogis's Marauder</name>
+        <edition>Theros</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:49:43 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>380424</id>
+        <name>Gnarled Scarhide</name>
+        <edition>Journey into Nyx</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:50:02 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368972</id>
+        <name>Spike Jester</name>
+        <edition>Dragon's Maze</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:50:18 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373541</id>
+        <name>Tormented Hero</name>
+        <edition>Theros</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:50:34 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>227521</id>
+        <name>Swamp</name>
+        <edition>New Phyrexia</edition>
+      </card>
+      <count>9</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:18:39 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>230064</id>
+        <name>Mountain</name>
+        <edition>New Phyrexia</edition>
+      </card>
+      <count>11</count>
+      <location>Decks/RB Aggro (Net)</location>
+      <date>Sat Jan 30 10:18:36 EST 2016</date>
+    </mcp>
+  </list>
+</cards>

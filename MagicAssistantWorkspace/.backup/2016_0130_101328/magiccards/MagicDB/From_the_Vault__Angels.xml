@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>From_the_Vault__Angels</name>
+  <key>From_the_Vault__Angels</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>401628</id>
+      <name>Akroma, Angel of Fury</name>
+      <cost>{5}{R}{R}{R}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Akroma, Angel of Fury can't be countered.&lt;br&gt;Flying, trample, protection from white and from blue&lt;br&gt;{R}: Akroma, Angel of Fury gets +1/+0 until end of turn.&lt;br&gt;Morph {3}{R}{R}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>1</num>
+      <text>Akroma, Angel of Fury can't be countered.&lt;br&gt;Flying, trample, protection from white and from blue&lt;br&gt;{R}: Akroma, Angel of Fury gets +1/+0 until end of turn.&lt;br&gt;Morph {3}{R}{R}{R} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>401629</id>
+      <name>Akroma, Angel of Wrath</name>
+      <cost>{5}{W}{W}{W}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Flying, first strike, vigilance, trample, haste, protection from black and from red</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>2</num>
+      <text>Flying, first strike, vigilance, trample, haste, protection from black and from red</text>
+    </mc>
+    <mc>
+      <id>401630</id>
+      <name>Archangel of Strife</name>
+      <cost>{5}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Flying&lt;br&gt;As Archangel of Strife enters the battlefield, each player chooses war or peace.&lt;br&gt;Creatures controlled by players who chose war get +3/+0.&lt;br&gt;Creatures controlled by players who chose peace get +0/+3.</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Greg Staples</artist>
+      <num>3</num>
+      <text>Flying&lt;br&gt;As Archangel of Strife enters the battlefield, each player chooses war or peace.&lt;br&gt;Creatures controlled by players who chose war get +3/+0.&lt;br&gt;Creatures controlled by players who chose peace get +0/+3.</text>
+    </mc>
+    <mc>
+      <id>401631</id>
+      <name>Aurelia, the Warleader</name>
+      <cost>{2}{R}{R}{W}{W}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Flying, vigilance, haste&lt;br&gt;Whenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Slawomir Maniak</artist>
+      <num>4</num>
+      <text>Flying, vigilance, haste&lt;br&gt;Whenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.</text>
+    </mc>
+    <mc>
+      <id>401632</id>
+      <name>Avacyn, Angel of Hope</name>
+      <cost>{5}{W}{W}{W}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <oracleText>Flying, vigilance, indestructible&lt;br&gt;Other permanents you control have indestructible.</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jason Chan</artist>
+      <num>5</num>
+      <text>Flying, vigilance, indestructible&lt;br&gt;Other permanents you control have indestructible.</text>
+    </mc>
+    <mc>
+      <id>401633</id>
+      <name>Baneslayer Angel</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Flying, first strike, lifelink, protection from Demons and from Dragons</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Greg Staples</artist>
+      <num>6</num>
+      <text>Flying, first strike, lifelink, protection from Demons and from Dragons</text>
+    </mc>
+    <mc>
+      <id>401634</id>
+      <name>Entreat the Angels</name>
+      <cost>{X}{X}{W}{W}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put X 4/4 white Angel creature tokens with flying onto the battlefield.&lt;br&gt;Miracle {X}{W}{W} &lt;i&gt;(You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)&lt;/i&gt;</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Todd Lockwood</artist>
+      <num>7</num>
+      <text>Put X 4/4 white Angel creature tokens with flying onto the battlefield.&lt;br&gt;Miracle {X}{W}{W} &lt;i&gt;(You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>401635</id>
+      <name>Exalted Angel</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Exalted Angel deals damage, you gain that much life.&lt;br&gt;Morph {2}{W}{W} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Tyler Jacobson</artist>
+      <num>8</num>
+      <text>Flying&lt;br&gt;Whenever Exalted Angel deals damage, you gain that much life.&lt;br&gt;Morph {2}{W}{W} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>401636</id>
+      <name>Iona, Shield of Emeria</name>
+      <cost>{6}{W}{W}{W}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <oracleText>Flying&lt;br&gt;As Iona, Shield of Emeria enters the battlefield, choose a color.&lt;br&gt;Your opponents can't cast spells of the chosen color.</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jason Chan</artist>
+      <num>9</num>
+      <text>Flying&lt;br&gt;As Iona, Shield of Emeria enters the battlefield, choose a color.&lt;br&gt;Your opponents can't cast spells of the chosen color.</text>
+    </mc>
+    <mc>
+      <id>401637</id>
+      <name>Iridescent Angel</name>
+      <cost>{5}{W}{U}</cost>
+      <type>Creature - Angel</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying, protection from all colors</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Alexander Lee</artist>
+      <num>10</num>
+      <text>Flying, protection from all colors</text>
+    </mc>
+    <mc>
+      <id>401638</id>
+      <name>Jenara, Asura of War</name>
+      <cost>{G}{W}{U}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Chris Rahn</artist>
+      <num>11</num>
+      <text>Flying&lt;br&gt;{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.</text>
+    </mc>
+    <mc>
+      <id>401639</id>
+      <name>Lightning Angel</name>
+      <cost>{1}{R}{W}{U}</cost>
+      <type>Creature - Angel</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>Flying, vigilance, haste</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>rk post</artist>
+      <num>12</num>
+      <text>Flying, vigilance, haste</text>
+    </mc>
+    <mc>
+      <id>401640</id>
+      <name>Platinum Angel</name>
+      <cost>{7}</cost>
+      <type>Artifact Creature - Angel</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;You can't lose the game and your opponents can't win the game.</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Brom</artist>
+      <num>13</num>
+      <text>Flying&lt;br&gt;You can't lose the game and your opponents can't win the game.</text>
+    </mc>
+    <mc>
+      <id>401641</id>
+      <name>Serra Angel</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Rebecca Guay</artist>
+      <num>14</num>
+      <text>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>401642</id>
+      <name>Tariel, Reckoner of Souls</name>
+      <cost>{4}{W}{B}{R}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>4</power>
+      <toughness>7</toughness>
+      <oracleText>Flying, vigilance&lt;br&gt;{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.</oracleText>
+      <edition>From the Vault: Angels</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Wayne Reynolds</artist>
+      <num>15</num>
+      <text>Flying, vigilance&lt;br&gt;{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.</text>
+    </mc>
+  </list>
+</cards>
