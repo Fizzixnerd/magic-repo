@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>RB Aggro (Net)-sideboard</name>
+  <key>Decks/RB Aggro (Net)-sideboard</key>
+  <comment></comment>
+  <type></type>
+  <properties>
+    <property name="virtual" value="true"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>373504</id>
+        <name>Dark Betrayal</name>
+        <edition>Theros</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/RB Aggro (Net)-sideboard</location>
+      <date>Sat Jan 30 10:54:50 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>378483</id>
+        <name>Searing Blood</name>
+        <edition>Born of the Gods</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/RB Aggro (Net)-sideboard</location>
+      <date>Sat Jan 30 10:55:16 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>253538</id>
+        <name>Ultimate Price</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/RB Aggro (Net)-sideboard</location>
+      <date>Sat Jan 30 10:55:48 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>370577</id>
+        <name>Duress</name>
+        <edition>Magic 2014 Core Set</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/RB Aggro (Net)-sideboard</location>
+      <date>Sat Jan 30 10:56:17 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>370609</id>
+        <name>Doom Blade</name>
+        <edition>Magic 2014 Core Set</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/RB Aggro (Net)-sideboard</location>
+      <date>Sat Jan 30 10:56:35 EST 2016</date>
+    </mcp>
+  </list>
+</cards>

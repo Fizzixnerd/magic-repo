@@ -1,0 +1,3289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Tempest_Remastered</name>
+  <key>Tempest_Remastered</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>397517</id>
+      <name>Forest</name>
+      <type>Basic Land - Forest</type>
+      <oracleText>G</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Land</rarity>
+      <artist>Douglas Shuler</artist>
+      <num>269</num>
+      <text>G</text>
+    </mc>
+    <mc>
+      <id>397654</id>
+      <name>Island</name>
+      <type>Basic Land - Island</type>
+      <oracleText>U</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Land</rarity>
+      <artist>Randy Gallegos</artist>
+      <num>257</num>
+      <text>U</text>
+    </mc>
+    <mc>
+      <id>397597</id>
+      <name>Mountain</name>
+      <type>Basic Land - Mountain</type>
+      <oracleText>R</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Land</rarity>
+      <artist>Mark Poole</artist>
+      <num>265</num>
+      <text>R</text>
+    </mc>
+    <mc>
+      <id>397433</id>
+      <name>Plains</name>
+      <type>Basic Land - Plains</type>
+      <oracleText>W</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Land</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>253</num>
+      <text>W</text>
+    </mc>
+    <mc>
+      <id>397467</id>
+      <name>Swamp</name>
+      <type>Basic Land - Swamp</type>
+      <oracleText>B</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Land</rarity>
+      <artist>Brom</artist>
+      <num>261</num>
+      <text>B</text>
+    </mc>
+    <mc>
+      <id>397564</id>
+      <name>Acidic Sliver</name>
+      <cost>{B}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>All Slivers have "{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player."</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jeff Miracola</artist>
+      <num>206</num>
+      <text>All Slivers have "{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player."</text>
+    </mc>
+    <mc>
+      <id>397641</id>
+      <name>Aftershock</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy target artifact, creature, or land. Aftershock deals 3 damage to you.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Hannibal King</artist>
+      <num>124</num>
+      <text>Destroy target artifact, creature, or land. Aftershock deals 3 damage to you.</text>
+    </mc>
+    <mc>
+      <id>397389</id>
+      <name>Aluren</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>Any player may play creature cards with converted mana cost 3 or less without paying their mana cost and as though they had flash.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>April Lee</artist>
+      <num>165</num>
+      <text>Any player may play creature cards with converted mana cost 3 or less without paying their mana cost and as though they had flash.</text>
+    </mc>
+    <mc>
+      <id>397533</id>
+      <name>Anarchist</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Brom</artist>
+      <num>125</num>
+      <text>When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>397647</id>
+      <name>Angelic Blessing</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target creature gets +3/+3 and gains flying until end of turn. &lt;i&gt;(It can't be blocked except by creatures with flying or reach.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Mark Zug</artist>
+      <num>1</num>
+      <text>Target creature gets +3/+3 and gains flying until end of turn. &lt;i&gt;(It can't be blocked except by creatures with flying or reach.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397598</id>
+      <name>Angelic Protector</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>DiTerlizzi</artist>
+      <num>2</num>
+      <text>Flying&lt;br&gt;Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397397</id>
+      <name>Anoint</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Prevent the next 3 damage that would be dealt to target creature this turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Eric David Anderson</artist>
+      <num>3</num>
+      <text>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Prevent the next 3 damage that would be dealt to target creature this turn.</text>
+    </mc>
+    <mc>
+      <id>397515</id>
+      <name>Armor Sliver</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>All Sliver creatures have "{2}: This creature gets +0/+1 until end of turn."</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Scott Kirschner</artist>
+      <num>4</num>
+      <text>All Sliver creatures have "{2}: This creature gets +0/+1 until end of turn."</text>
+    </mc>
+    <mc>
+      <id>397411</id>
+      <name>Armored Pegasus</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Pegasus</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>Flying</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Una Fricker</artist>
+      <num>5</num>
+      <text>Flying</text>
+    </mc>
+    <mc>
+      <id>397621</id>
+      <name>Avenging Angel</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;When Avenging Angel dies, you may put it on top of its owner's library.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Matthew D. Wilson</artist>
+      <num>6</num>
+      <text>Flying&lt;br&gt;When Avenging Angel dies, you may put it on top of its owner's library.</text>
+    </mc>
+    <mc>
+      <id>397620</id>
+      <name>Bandage</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <oracleText>Prevent the next 1 damage that would be dealt to target creature or player this turn.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Rebecca Guay</artist>
+      <num>7</num>
+      <text>Prevent the next 1 damage that would be dealt to target creature or player this turn.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397524</id>
+      <name>Barbed Sliver</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>All Sliver creatures have "{2}: This creature gets +1/+0 until end of turn."</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Scott Kirschner</artist>
+      <num>126</num>
+      <text>All Sliver creatures have "{2}: This creature gets +1/+0 until end of turn."</text>
+    </mc>
+    <mc>
+      <id>397557</id>
+      <name>Bottle Gnomes</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Gnome</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>Sacrifice Bottle Gnomes: You gain 3 life.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Kaja Foglio</artist>
+      <num>217</num>
+      <text>Sacrifice Bottle Gnomes: You gain 3 life.</text>
+    </mc>
+    <mc>
+      <id>397490</id>
+      <name>Caldera Lake</name>
+      <type>Land</type>
+      <oracleText>Caldera Lake enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {U} or {R} to your mana pool. Caldera Lake deals 1 damage to you.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Allen Williams</artist>
+      <num>235</num>
+      <text>Caldera Lake enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {U} or {R} to your mana pool. Caldera Lake deals 1 damage to you.</text>
+    </mc>
+    <mc>
+      <id>397631</id>
+      <name>Cannibalize</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Choose two target creatures controlled by the same player. Exile one of those creatures and put two +1/+1 counters on the other.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Robert Bliss</artist>
+      <num>83</num>
+      <text>Choose two target creatures controlled by the same player. Exile one of those creatures and put two +1/+1 counters on the other.</text>
+    </mc>
+    <mc>
+      <id>397437</id>
+      <name>Canopy Spider</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Rush</artist>
+      <num>166</num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397566</id>
+      <name>Canyon Wildcat</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Mountainwalk</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Gary Leach</artist>
+      <num>127</num>
+      <text>Mountainwalk</text>
+    </mc>
+    <mc>
+      <id>397492</id>
+      <name>Capsize</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Return target permanent to its owner's hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Tom Wänerstrand</artist>
+      <num>42</num>
+      <text>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Return target permanent to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>397506</id>
+      <name>Carnassid</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <oracleText>Trample&lt;br&gt;{1}{G}: Regenerate Carnassid.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Brom</artist>
+      <num>167</num>
+      <text>Trample&lt;br&gt;{1}{G}: Regenerate Carnassid.</text>
+    </mc>
+    <mc>
+      <id>397570</id>
+      <name>Carnophage</name>
+      <cost>{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>At the beginning of your upkeep, tap Carnophage unless you pay 1 life.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Pete Venters</artist>
+      <num>84</num>
+      <text>At the beginning of your upkeep, tap Carnophage unless you pay 1 life.</text>
+    </mc>
+    <mc>
+      <id>397399</id>
+      <name>Cataclysm</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Each player chooses from among the permanents he or she controls an artifact, a creature, an enchantment, and a land, then sacrifices the rest.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jim Nelson</artist>
+      <num>8</num>
+      <text>Each player chooses from among the permanents he or she controls an artifact, a creature, an enchantment, and a land, then sacrifices the rest.</text>
+    </mc>
+    <mc>
+      <id>397634</id>
+      <name>Charging Paladin</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Ciruelo</artist>
+      <num>9</num>
+      <text>Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397547</id>
+      <name>Cinder Marsh</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn't untap during your next untap step.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Matson</artist>
+      <num>236</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn't untap during your next untap step.</text>
+    </mc>
+    <mc>
+      <id>397543</id>
+      <name>City of Traitors</name>
+      <type>Land</type>
+      <oracleText>When you play another land, sacrifice City of Traitors.&lt;br&gt;{T}: Add {2} to your mana pool.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Kev Walker</artist>
+      <num>237</num>
+      <text>When you play another land, sacrifice City of Traitors.&lt;br&gt;{T}: Add {2} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397636</id>
+      <name>Clot Sliver</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>All Slivers have "{2}: Regenerate this permanent."</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Jeff Laubenstein</artist>
+      <num>85</num>
+      <text>All Slivers have "{2}: Regenerate this permanent."</text>
+    </mc>
+    <mc>
+      <id>397422</id>
+      <name>Coat of Arms</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <oracleText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. &lt;i&gt;(For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Scott M. Fischer</artist>
+      <num>218</num>
+      <text>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. &lt;i&gt;(For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397509</id>
+      <name>Coercion</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target opponent reveals his or her hand. You choose a card from it. That player discards that card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Pete Venters</artist>
+      <num>86</num>
+      <text>Target opponent reveals his or her hand. You choose a card from it. That player discards that card.</text>
+    </mc>
+    <mc>
+      <id>397562</id>
+      <name>Coffin Queen</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>You may choose not to untap Coffin Queen during your untap step.&lt;br&gt;{2}{B}, {T}: Put target creature card from a graveyard onto the battlefield under your control. When Coffin Queen becomes untapped or you lose control of Coffin Queen, exile that creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Kaja Foglio</artist>
+      <num>87</num>
+      <text>You may choose not to untap Coffin Queen during your untap step.&lt;br&gt;{2}{B}, {T}: Put target creature card from a graveyard onto the battlefield under your control. When Coffin Queen becomes untapped or you lose control of Coffin Queen, exile that creature.</text>
+    </mc>
+    <mc>
+      <id>397396</id>
+      <name>Coiled Tinviper</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Snake</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>First strike</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>John Matson</artist>
+      <num>219</num>
+      <text>First strike</text>
+    </mc>
+    <mc>
+      <id>397539</id>
+      <name>Commander Greven il-Vec</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Legendary Creature - Human Warrior</type>
+      <power>7</power>
+      <toughness>5</toughness>
+      <oracleText>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;When Commander Greven il-Vec enters the battlefield, sacrifice a creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Kev Walker</artist>
+      <num>88</num>
+      <text>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;When Commander Greven il-Vec enters the battlefield, sacrifice a creature.</text>
+    </mc>
+    <mc>
+      <id>397603</id>
+      <name>Conviction</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+3.&lt;br&gt;{W}: Return Conviction to its owner's hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Parente</artist>
+      <num>10</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+3.&lt;br&gt;{W}: Return Conviction to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>397625</id>
+      <name>Corpse Dance</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Buyback {2} &lt;i&gt;(You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Return the top creature card of your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Brian Snoddy</artist>
+      <num>89</num>
+      <text>Buyback {2} &lt;i&gt;(You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Return the top creature card of your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.</text>
+    </mc>
+    <mc>
+      <id>397612</id>
+      <name>Counterspell</name>
+      <cost>{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Stephen Daniele</artist>
+      <num>43</num>
+      <text>Counter target spell.</text>
+    </mc>
+    <mc>
+      <id>397512</id>
+      <name>Crashing Boars</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Boar</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Whenever Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Ron Spencer</artist>
+      <num>168</num>
+      <text>Whenever Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able.</text>
+    </mc>
+    <mc>
+      <id>397583</id>
+      <name>Craven Giant</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <oracleText>Craven Giant can't block.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Brian Snoddy</artist>
+      <num>128</num>
+      <text>Craven Giant can't block.</text>
+    </mc>
+    <mc>
+      <id>397613</id>
+      <name>Crovax the Cursed</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Legendary Creature - Vampire</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Crovax the Cursed enters the battlefield with four +1/+1 counters on it.&lt;br&gt;At the beginning of your upkeep, you may sacrifice a creature. If you do, put a +1/+1 counter on Crovax. If you don't, remove a +1/+1 counter from Crovax.&lt;br&gt;{B}: Crovax gains flying until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Pete Venters</artist>
+      <num>90</num>
+      <text>Crovax the Cursed enters the battlefield with four +1/+1 counters on it.&lt;br&gt;At the beginning of your upkeep, you may sacrifice a creature. If you do, put a +1/+1 counter on Crovax. If you don't, remove a +1/+1 counter from Crovax.&lt;br&gt;{B}: Crovax gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397513</id>
+      <name>Crystalline Sliver</name>
+      <cost>{W}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>All Slivers have shroud. &lt;i&gt;(They can't be the targets of spells or abilities.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Allen Williams</artist>
+      <num>207</num>
+      <text>All Slivers have shroud. &lt;i&gt;(They can't be the targets of spells or abilities.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397447</id>
+      <name>Curiosity</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature deals damage to an opponent, you may draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Val Mayerik</artist>
+      <num>44</num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature deals damage to an opponent, you may draw a card.</text>
+    </mc>
+    <mc>
+      <id>397412</id>
+      <name>Cursed Flesh</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -1/-1 and has fear. &lt;i&gt;(It can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Ron Spencer</artist>
+      <num>91</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -1/-1 and has fear. &lt;i&gt;(It can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397653</id>
+      <name>Cursed Scroll</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <oracleText>{3}, {T}: Name a card. Reveal a card at random from your hand. If it's the named card, Cursed Scroll deals 2 damage to target creature or player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>D. Alexander Gregory</artist>
+      <num>220</num>
+      <text>{3}, {T}: Name a card. Reveal a card at random from your hand. If it's the named card, Cursed Scroll deals 2 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397458</id>
+      <name>Dark Banishing</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target nonblack creature. It can't be regenerated.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>John Matson</artist>
+      <num>92</num>
+      <text>Destroy target nonblack creature. It can't be regenerated.</text>
+    </mc>
+    <mc>
+      <id>397401</id>
+      <name>Dark Ritual</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <oracleText>Add {B}{B}{B} to your mana pool.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Ken Meyer Jr.</artist>
+      <num>93</num>
+      <text>Add {B}{B}{B} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397594</id>
+      <name>Dauthi Horror</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Dauthi Horror</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Dauthi Horror can't be blocked by white creatures.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Jeff Laubenstein</artist>
+      <num>94</num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Dauthi Horror can't be blocked by white creatures.</text>
+    </mc>
+    <mc>
+      <id>397473</id>
+      <name>Dauthi Jackal</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Dauthi Hound</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;{B}{B}, Sacrifice Dauthi Jackal: Destroy target blocking creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Adam Rex</artist>
+      <num>95</num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;{B}{B}, Sacrifice Dauthi Jackal: Destroy target blocking creature.</text>
+    </mc>
+    <mc>
+      <id>397395</id>
+      <name>Dauthi Marauder</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Dauthi Minion</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Andrew Robinson</artist>
+      <num>96</num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397417</id>
+      <name>Dauthi Slayer</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Dauthi Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Dauthi Slayer attacks each turn if able.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Dermot Power</artist>
+      <num>97</num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Dauthi Slayer attacks each turn if able.</text>
+    </mc>
+    <mc>
+      <id>397508</id>
+      <name>Dauthi Warlord</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Dauthi Soldier</type>
+      <power>*</power>
+      <toughness>1</toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Dauthi Warlord's power is equal to the number of creatures with shadow on the battlefield.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Kev Walker</artist>
+      <num>98</num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Dauthi Warlord's power is equal to the number of creatures with shadow on the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397549</id>
+      <name>Deadshot</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Tap target creature. It deals damage equal to its power to another target creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Heather Hudson</artist>
+      <num>129</num>
+      <text>Tap target creature. It deals damage equal to its power to another target creature.</text>
+    </mc>
+    <mc>
+      <id>397493</id>
+      <name>Death Pits of Rath</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever a creature is dealt damage, destroy it. It can't be regenerated.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Joel Biske</artist>
+      <num>99</num>
+      <text>Whenever a creature is dealt damage, destroy it. It can't be regenerated.</text>
+    </mc>
+    <mc>
+      <id>397559</id>
+      <name>Death Stroke</name>
+      <cost>{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy target tapped creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Colin MacNeil</artist>
+      <num>100</num>
+      <text>Destroy target tapped creature.</text>
+    </mc>
+    <mc>
+      <id>397632</id>
+      <name>Death's Duet</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Return two target creature cards from your graveyard to your hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Keith Parkinson</artist>
+      <num>101</num>
+      <text>Return two target creature cards from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>397522</id>
+      <name>Diabolic Edict</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Target player sacrifices a creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Ron Spencer</artist>
+      <num>102</num>
+      <text>Target player sacrifices a creature.</text>
+    </mc>
+    <mc>
+      <id>397544</id>
+      <name>Disenchant</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target artifact or enchantment.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Allen Williams</artist>
+      <num>11</num>
+      <text>Destroy target artifact or enchantment.</text>
+    </mc>
+    <mc>
+      <id>397545</id>
+      <name>Dismiss</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Donato Giancola</artist>
+      <num>45</num>
+      <text>Counter target spell.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397485</id>
+      <name>Dracoplasm</name>
+      <cost>{U}{R}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Flying&lt;br&gt;As Dracoplasm enters the battlefield, sacrifice any number of creatures. Dracoplasm's power becomes the total power of those creatures and its toughness becomes their total toughness.&lt;br&gt;{R}: Dracoplasm gets +1/+0 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Andrew Robinson</artist>
+      <num>208</num>
+      <text>Flying&lt;br&gt;As Dracoplasm enters the battlefield, sacrifice any number of creatures. Dracoplasm's power becomes the total power of those creatures and its toughness becomes their total toughness.&lt;br&gt;{R}: Dracoplasm gets +1/+0 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397553</id>
+      <name>Dream Halls</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <oracleText>Rather than pay the mana cost for a spell, its controller may discard a card that shares a color with that spell.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Matthew D. Wilson</artist>
+      <num>46</num>
+      <text>Rather than pay the mana cost for a spell, its controller may discard a card that shares a color with that spell.</text>
+    </mc>
+    <mc>
+      <id>397558</id>
+      <name>Dream Prowler</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>1</power>
+      <toughness>5</toughness>
+      <oracleText>Dream Prowler can't be blocked as long as it's attacking alone.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Richard Kane Ferguson</artist>
+      <num>47</num>
+      <text>Dream Prowler can't be blocked as long as it's attacking alone.</text>
+    </mc>
+    <mc>
+      <id>397500</id>
+      <name>Dungeon Shade</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Shade Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;{B}: Dungeon Shade gets +1/+1 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Alexander Behnke</artist>
+      <num>103</num>
+      <text>Flying&lt;br&gt;{B}: Dungeon Shade gets +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397428</id>
+      <name>Elven Rite</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Distribute two +1/+1 counters among one or two target creatures.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Jeff Miracola</artist>
+      <num>169</num>
+      <text>Distribute two +1/+1 counters among one or two target creatures.</text>
+    </mc>
+    <mc>
+      <id>397622</id>
+      <name>Elvish Fury</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <oracleText>Buyback {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Target creature gets +2/+2 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Quinton Hoover</artist>
+      <num>170</num>
+      <text>Buyback {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Target creature gets +2/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397542</id>
+      <name>Emmessi Tome</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <oracleText>{5}, {T}: Draw two cards, then discard a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Tom Wänerstrand</artist>
+      <num>221</num>
+      <text>{5}, {T}: Draw two cards, then discard a card.</text>
+    </mc>
+    <mc>
+      <id>397407</id>
+      <name>Endangered Armodon</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>When you control a creature with toughness 2 or less, sacrifice Endangered Armodon.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>171</num>
+      <text>When you control a creature with toughness 2 or less, sacrifice Endangered Armodon.</text>
+    </mc>
+    <mc>
+      <id>397565</id>
+      <name>Ephemeron</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;Discard a card: Return Ephemeron to its owner's hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Keith Parkinson</artist>
+      <num>48</num>
+      <text>Flying&lt;br&gt;Discard a card: Return Ephemeron to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>397649</id>
+      <name>Erratic Portal</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <oracleText>{1}, {T}: Return target creature to its owner's hand unless its controller pays {1}.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>John Matson</artist>
+      <num>222</num>
+      <text>{1}, {T}: Return target creature to its owner's hand unless its controller pays {1}.</text>
+    </mc>
+    <mc>
+      <id>397615</id>
+      <name>Evincar's Justice</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Evincar's Justice deals 2 damage to each creature and each player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Hannibal King</artist>
+      <num>104</num>
+      <text>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Evincar's Justice deals 2 damage to each creature and each player.</text>
+    </mc>
+    <mc>
+      <id>397601</id>
+      <name>Exalted Dragon</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Dragon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Flying&lt;br&gt;Exalted Dragon can't attack unless you sacrifice a land. &lt;i&gt;(This cost is paid as attackers are declared.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Matthew D. Wilson</artist>
+      <num>12</num>
+      <text>Flying&lt;br&gt;Exalted Dragon can't attack unless you sacrifice a land. &lt;i&gt;(This cost is paid as attackers are declared.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397555</id>
+      <name>Fanning the Flames</name>
+      <cost>{X}{R}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Fanning the Flames deals X damage to target creature or player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Ron Spencer</artist>
+      <num>130</num>
+      <text>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Fanning the Flames deals X damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397645</id>
+      <name>Field of Souls</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever a nontoken creature is put into your graveyard from the battlefield, put a 1/1 white Spirit creature token with flying onto the battlefield.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Richard Kane Ferguson</artist>
+      <num>13</num>
+      <text>Whenever a nontoken creature is put into your graveyard from the battlefield, put a 1/1 white Spirit creature token with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397491</id>
+      <name>Fighting Drake</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <oracleText>Flying</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>DiTerlizzi</artist>
+      <num>49</num>
+      <text>Flying</text>
+    </mc>
+    <mc>
+      <id>397629</id>
+      <name>Flame Wave</name>
+      <cost>{3}{R}{R}{R}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Flame Wave deals 4 damage to target player and each creature he or she controls.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Donato Giancola</artist>
+      <num>131</num>
+      <text>Flame Wave deals 4 damage to target player and each creature he or she controls.</text>
+    </mc>
+    <mc>
+      <id>397494</id>
+      <name>Flowstone Blade</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;{R}: Enchanted creature gets +1/-1 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Allen Williams</artist>
+      <num>132</num>
+      <text>Enchant creature&lt;br&gt;{R}: Enchanted creature gets +1/-1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397617</id>
+      <name>Flowstone Mauler</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <oracleText>Trample&lt;br&gt;{R}: Flowstone Mauler gets +1/-1 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Parente</artist>
+      <num>133</num>
+      <text>Trample&lt;br&gt;{R}: Flowstone Mauler gets +1/-1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397581</id>
+      <name>Flowstone Wyvern</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Drake</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;{R}: Flowstone Wyvern gets +2/-2 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Stephen Daniele</artist>
+      <num>134</num>
+      <text>Flying&lt;br&gt;{R}: Flowstone Wyvern gets +2/-2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397532</id>
+      <name>Forbid</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Buyback—Discard two cards. &lt;i&gt;(You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Counter target spell.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Scott Kirschner</artist>
+      <num>50</num>
+      <text>Buyback—Discard two cards. &lt;i&gt;(You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Counter target spell.</text>
+    </mc>
+    <mc>
+      <id>397502</id>
+      <name>Fugue</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target player discards three cards.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Randy Gallegos</artist>
+      <num>105</num>
+      <text>Target player discards three cards.</text>
+    </mc>
+    <mc>
+      <id>397436</id>
+      <name>Furnace Brood</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>{R}: Target creature can't be regenerated this turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Jeff Miracola</artist>
+      <num>135</num>
+      <text>{R}: Target creature can't be regenerated this turn.</text>
+    </mc>
+    <mc>
+      <id>397554</id>
+      <name>Gallantry</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <oracleText>Target blocking creature gets +4/+4 until end of turn.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Douglas Shuler</artist>
+      <num>14</num>
+      <text>Target blocking creature gets +4/+4 until end of turn.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397497</id>
+      <name>Gaseous Form</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Prevent all combat damage that would be dealt to and dealt by enchanted creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Roger Raupp</artist>
+      <num>51</num>
+      <text>Enchant creature&lt;br&gt;Prevent all combat damage that would be dealt to and dealt by enchanted creature.</text>
+    </mc>
+    <mc>
+      <id>397481</id>
+      <name>Gerrard's Battle Cry</name>
+      <cost>{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>{2}{W}: Creatures you control get +1/+1 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Val Mayerik</artist>
+      <num>15</num>
+      <text>{2}{W}: Creatures you control get +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397584</id>
+      <name>Goblin Bombardment</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <oracleText>Sacrifice a creature: Goblin Bombardment deals 1 damage to target creature or player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Brian Snoddy</artist>
+      <num>136</num>
+      <text>Sacrifice a creature: Goblin Bombardment deals 1 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397518</id>
+      <name>Gravedigger</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Dermot Power</artist>
+      <num>106</num>
+      <text>When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>397443</id>
+      <name>Grindstone</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <oracleText>{3}, {T}: Target player puts the top two cards of his or her library into his or her graveyard. If both cards share a color, repeat this process.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Greg Simanson</artist>
+      <num>223</num>
+      <text>{3}, {T}: Target player puts the top two cards of his or her library into his or her graveyard. If both cards share a color, repeat this process.</text>
+    </mc>
+    <mc>
+      <id>397472</id>
+      <name>Hammerhead Shark</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Fish</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Hammerhead Shark can't attack unless defending player controls an Island.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Stephen Daniele</artist>
+      <num>52</num>
+      <text>Hammerhead Shark can't attack unless defending player controls an Island.</text>
+    </mc>
+    <mc>
+      <id>397415</id>
+      <name>Harrow</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <oracleText>As an additional cost to cast Harrow, sacrifice a land.&lt;br&gt;Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Eric David Anderson</artist>
+      <num>172</num>
+      <text>As an additional cost to cast Harrow, sacrifice a land.&lt;br&gt;Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>397488</id>
+      <name>Heartwood Dryad</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Heartwood Dryad can block creatures with shadow as though Heartwood Dryad had shadow.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Rebecca Guay</artist>
+      <num>173</num>
+      <text>Heartwood Dryad can block creatures with shadow as though Heartwood Dryad had shadow.</text>
+    </mc>
+    <mc>
+      <id>397440</id>
+      <name>Heartwood Giant</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Giant</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>{T}, Sacrifice a Forest: Heartwood Giant deals 2 damage to target player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Randy Elliott</artist>
+      <num>174</num>
+      <text>{T}, Sacrifice a Forest: Heartwood Giant deals 2 damage to target player.</text>
+    </mc>
+    <mc>
+      <id>397556</id>
+      <name>Hermit Druid</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{G}, {T}: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Heather Hudson</artist>
+      <num>175</num>
+      <text>{G}, {T}: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard.</text>
+    </mc>
+    <mc>
+      <id>397495</id>
+      <name>Hibernation Sliver</name>
+      <cost>{U}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>All Slivers have "Pay 2 life: Return this permanent to its owner's hand."</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Scott Kirschner</artist>
+      <num>209</num>
+      <text>All Slivers have "Pay 2 life: Return this permanent to its owner's hand."</text>
+    </mc>
+    <mc>
+      <id>397390</id>
+      <name>Horned Sliver</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>All Sliver creatures have trample.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Allen Williams</artist>
+      <num>176</num>
+      <text>All Sliver creatures have trample.</text>
+    </mc>
+    <mc>
+      <id>397526</id>
+      <name>Horned Turtle</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Turtle</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>DiTerlizzi</artist>
+      <num>53</num>
+    </mc>
+    <mc>
+      <id>397614</id>
+      <name>Humility</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>All creatures lose all abilities and have base power and toughness 1/1.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Phil Foglio</artist>
+      <num>16</num>
+      <text>All creatures lose all abilities and have base power and toughness 1/1.</text>
+    </mc>
+    <mc>
+      <id>397633</id>
+      <name>Intuition</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>April Lee</artist>
+      <num>54</num>
+      <text>Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>397505</id>
+      <name>Jinxed Idol</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <oracleText>At the beginning of your upkeep, Jinxed Idol deals 2 damage to you.&lt;br&gt;Sacrifice a creature: Target opponent gains control of Jinxed Idol.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>John Matson</artist>
+      <num>224</num>
+      <text>At the beginning of your upkeep, Jinxed Idol deals 2 damage to you.&lt;br&gt;Sacrifice a creature: Target opponent gains control of Jinxed Idol.</text>
+    </mc>
+    <mc>
+      <id>397470</id>
+      <name>Kezzerdrix</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Rabbit Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <oracleText>First strike&lt;br&gt;At the beginning of your upkeep, if your opponents control no creatures, Kezzerdrix deals 4 damage to you.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Matthew D. Wilson</artist>
+      <num>107</num>
+      <text>First strike&lt;br&gt;At the beginning of your upkeep, if your opponents control no creatures, Kezzerdrix deals 4 damage to you.</text>
+    </mc>
+    <mc>
+      <id>397618</id>
+      <name>Killer Whale</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Whale</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <oracleText>{U}: Killer Whale gains flying until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Stephen Daniele</artist>
+      <num>55</num>
+      <text>{U}: Killer Whale gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397431</id>
+      <name>Kindle</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Kindle deals X damage to target creature or player, where X is 2 plus the number of cards named Kindle in all graveyards.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Donato Giancola</artist>
+      <num>137</num>
+      <text>Kindle deals X damage to target creature or player, where X is 2 plus the number of cards named Kindle in all graveyards.</text>
+    </mc>
+    <mc>
+      <id>397541</id>
+      <name>Kor Chant</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <oracleText>All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Matson</artist>
+      <num>17</num>
+      <text>All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.</text>
+    </mc>
+    <mc>
+      <id>397521</id>
+      <name>Krakilin</name>
+      <cost>{X}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Krakilin enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{1}{G}: Regenerate Krakilin.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Richard Kane Ferguson</artist>
+      <num>177</num>
+      <text>Krakilin enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{1}{G}: Regenerate Krakilin.</text>
+    </mc>
+    <mc>
+      <id>397640</id>
+      <name>Lab Rats</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Buyback {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Put a 1/1 black Rat creature token onto the battlefield.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>DiTerlizzi</artist>
+      <num>108</num>
+      <text>Buyback {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Put a 1/1 black Rat creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397409</id>
+      <name>Legacy's Allure</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment</type>
+      <oracleText>At the beginning of your upkeep, you may put a treasure counter on Legacy's Allure.&lt;br&gt;Sacrifice Legacy's Allure: Gain control of target creature with power less than or equal to the number of treasure counters on Legacy's Allure. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Daren Bader</artist>
+      <num>56</num>
+      <text>At the beginning of your upkeep, you may put a treasure counter on Legacy's Allure.&lt;br&gt;Sacrifice Legacy's Allure: Gain control of target creature with power less than or equal to the number of treasure counters on Legacy's Allure. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397503</id>
+      <name>Legerdemain</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Exchange control of target artifact or creature and another target permanent that shares one of those types with it. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daren Bader</artist>
+      <num>57</num>
+      <text>Exchange control of target artifact or creature and another target permanent that shares one of those types with it. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397444</id>
+      <name>Lightning Blast</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Lightning Blast deals 4 damage to target creature or player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Richard Thomas</artist>
+      <num>138</num>
+      <text>Lightning Blast deals 4 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397523</id>
+      <name>Living Death</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Charles Gillespie</artist>
+      <num>109</num>
+      <text>Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397468</id>
+      <name>Lotus Petal</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <oracleText>{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>April Lee</artist>
+      <num>225</num>
+      <text>{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397398</id>
+      <name>Lowland Basilisk</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Basilisk</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>Whenever Lowland Basilisk deals damage to a creature, destroy that creature at end of combat.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Randy Gallegos</artist>
+      <num>178</num>
+      <text>Whenever Lowland Basilisk deals damage to a creature, destroy that creature at end of combat.</text>
+    </mc>
+    <mc>
+      <id>397572</id>
+      <name>Lowland Giant</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Parente</artist>
+      <num>139</num>
+    </mc>
+    <mc>
+      <id>397599</id>
+      <name>Mage il-Vec</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{T}, Discard a card at random: Mage il-Vec deals 1 damage to target creature or player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Matson</artist>
+      <num>140</num>
+      <text>{T}, Discard a card at random: Mage il-Vec deals 1 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397434</id>
+      <name>Magmasaur</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Elemental Lizard</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Magmasaur enters the battlefield with five +1/+1 counters on it.&lt;br&gt;At the beginning of your upkeep, you may remove a +1/+1 counter from Magmasaur. If you don't, sacrifice Magmasaur and it deals damage equal to the number of +1/+1 counters on it to each creature without flying and each player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Daniel Gelon</artist>
+      <num>141</num>
+      <text>Magmasaur enters the battlefield with five +1/+1 counters on it.&lt;br&gt;At the beginning of your upkeep, you may remove a +1/+1 counter from Magmasaur. If you don't, sacrifice Magmasaur and it deals damage equal to the number of +1/+1 counters on it to each creature without flying and each player.</text>
+    </mc>
+    <mc>
+      <id>397471</id>
+      <name>Mana Leak</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell unless its controller pays {3}.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Christopher Rush</artist>
+      <num>58</num>
+      <text>Counter target spell unless its controller pays {3}.</text>
+    </mc>
+    <mc>
+      <id>397461</id>
+      <name>Manabond</name>
+      <cost>{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>At the beginning of your end step, you may reveal your hand and put all land cards from it onto the battlefield. If you do, discard your hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Stephen Daniele</artist>
+      <num>179</num>
+      <text>At the beginning of your end step, you may reveal your hand and put all land cards from it onto the battlefield. If you do, discard your hand.</text>
+    </mc>
+    <mc>
+      <id>397568</id>
+      <name>Maniacal Rage</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and can't block.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Pete Venters</artist>
+      <num>142</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and can't block.</text>
+    </mc>
+    <mc>
+      <id>397588</id>
+      <name>Master Decoy</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>{W}, {T}: Tap target creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Phil Foglio</artist>
+      <num>18</num>
+      <text>{W}, {T}: Tap target creature.</text>
+    </mc>
+    <mc>
+      <id>397511</id>
+      <name>Mawcor</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Mawcor deals 1 damage to target creature or player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>John Matson</artist>
+      <num>59</num>
+      <text>Flying&lt;br&gt;{T}: Mawcor deals 1 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397445</id>
+      <name>Maze of Shadows</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Untap target attacking creature with shadow. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>D. Alexander Gregory</artist>
+      <num>238</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Untap target attacking creature with shadow. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</text>
+    </mc>
+    <mc>
+      <id>397394</id>
+      <name>Meditate</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Draw four cards. You skip your next turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Susan Van Camp</artist>
+      <num>60</num>
+      <text>Draw four cards. You skip your next turn.</text>
+    </mc>
+    <mc>
+      <id>397427</id>
+      <name>Merfolk Looter</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Draw a card, then discard a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Ron Spencer</artist>
+      <num>61</num>
+      <text>{T}: Draw a card, then discard a card.</text>
+    </mc>
+    <mc>
+      <id>397569</id>
+      <name>Metallic Sliver</name>
+      <cost>{1}</cost>
+      <type>Artifact Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Allen Williams</artist>
+      <num>226</num>
+    </mc>
+    <mc>
+      <id>397449</id>
+      <name>Mindless Automaton</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Mindless Automaton enters the battlefield with two +1/+1 counters on it.&lt;br&gt;{1}, Discard a card: Put a +1/+1 counter on Mindless Automaton.&lt;br&gt;Remove two +1/+1 counters from Mindless Automaton: Draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Brian Snoddy</artist>
+      <num>227</num>
+      <text>Mindless Automaton enters the battlefield with two +1/+1 counters on it.&lt;br&gt;{1}, Discard a card: Put a +1/+1 counter on Mindless Automaton.&lt;br&gt;Remove two +1/+1 counters from Mindless Automaton: Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397392</id>
+      <name>Mirri, Cat Warrior</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Legendary Creature - Cat Warrior</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>First strike, forestwalk, vigilance &lt;i&gt;(This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Daren Bader</artist>
+      <num>180</num>
+      <text>First strike, forestwalk, vigilance &lt;i&gt;(This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397643</id>
+      <name>Mnemonic Sliver</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>All Slivers have "{2}, Sacrifice this permanent: Draw a card."</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Randy Gallegos</artist>
+      <num>62</num>
+      <text>All Slivers have "{2}, Sacrifice this permanent: Draw a card."</text>
+    </mc>
+    <mc>
+      <id>397404</id>
+      <name>Mogg Conscripts</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Mogg Conscripts can't attack unless you've cast a creature spell this turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Pete Venters</artist>
+      <num>143</num>
+      <text>Mogg Conscripts can't attack unless you've cast a creature spell this turn.</text>
+    </mc>
+    <mc>
+      <id>397498</id>
+      <name>Mogg Fanatic</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Brom</artist>
+      <num>144</num>
+      <text>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397534</id>
+      <name>Mogg Flunkies</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Mogg Flunkies can't attack or block alone.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Brom</artist>
+      <num>145</num>
+      <text>Mogg Flunkies can't attack or block alone.</text>
+    </mc>
+    <mc>
+      <id>397459</id>
+      <name>Mogg Hollows</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jeff Laubenstein</artist>
+      <num>239</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.</text>
+    </mc>
+    <mc>
+      <id>397418</id>
+      <name>Mogg Infestation</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy all creatures target player controls. For each creature that died this way, put two 1/1 red Goblin creature tokens onto the battlefield under that player's control.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Pete Venters</artist>
+      <num>146</num>
+      <text>Destroy all creatures target player controls. For each creature that died this way, put two 1/1 red Goblin creature tokens onto the battlefield under that player's control.</text>
+    </mc>
+    <mc>
+      <id>397480</id>
+      <name>Mogg Maniac</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Whenever Mogg Maniac is dealt damage, it deals that much damage to target opponent.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Brian Snoddy</artist>
+      <num>147</num>
+      <text>Whenever Mogg Maniac is dealt damage, it deals that much damage to target opponent.</text>
+    </mc>
+    <mc>
+      <id>397510</id>
+      <name>Mounted Archers</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier Archer</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;{W}: Mounted Archers can block an additional creature this turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>19</num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;{W}: Mounted Archers can block an additional creature this turn.</text>
+    </mc>
+    <mc>
+      <id>397482</id>
+      <name>Mox Diamond</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <oracleText>If Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Dan Frazier</artist>
+      <num>228</num>
+      <text>If Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397563</id>
+      <name>Mulch</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Rebecca Guay</artist>
+      <num>181</num>
+      <text>Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.</text>
+    </mc>
+    <mc>
+      <id>397442</id>
+      <name>Muscle Sliver</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>All Sliver creatures get +1/+1.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Richard Kane Ferguson</artist>
+      <num>182</num>
+      <text>All Sliver creatures get +1/+1.</text>
+    </mc>
+    <mc>
+      <id>397595</id>
+      <name>Necrologia</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Instant</type>
+      <oracleText>Cast Necrologia only during your end step.&lt;br&gt;As an additional cost to cast Necrologia, pay X life.&lt;br&gt;Draw X cards.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Brom</artist>
+      <num>110</num>
+      <text>Cast Necrologia only during your end step.&lt;br&gt;As an additional cost to cast Necrologia, pay X life.&lt;br&gt;Draw X cards.</text>
+    </mc>
+    <mc>
+      <id>397499</id>
+      <name>Needle Storm</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Needle Storm deals 4 damage to each creature with flying.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Val Mayerik</artist>
+      <num>183</num>
+      <text>Needle Storm deals 4 damage to each creature with flying.</text>
+    </mc>
+    <mc>
+      <id>397520</id>
+      <name>Nomads en-Kor</name>
+      <cost>{W}</cost>
+      <type>Creature - Kor Nomad Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{0}: The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Val Mayerik</artist>
+      <num>20</num>
+      <text>{0}: The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.</text>
+    </mc>
+    <mc>
+      <id>397400</id>
+      <name>Oath of Druids</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>At the beginning of each player's upkeep, that player chooses target player who controls more creatures than he or she does and is his or her opponent. The first player may reveal cards from the top of his or her library until he or she reveals a creature card. If he or she does, that player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Daren Bader</artist>
+      <num>184</num>
+      <text>At the beginning of each player's upkeep, that player chooses target player who controls more creatures than he or she does and is his or her opponent. The first player may reveal cards from the top of his or her library until he or she reveals a creature card. If he or she does, that player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.</text>
+    </mc>
+    <mc>
+      <id>397465</id>
+      <name>Ogre Shaman</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Ogre Shaman</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>{2}, Discard a card at random: Ogre Shaman deals 2 damage to target creature or player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Parente</artist>
+      <num>148</num>
+      <text>{2}, Discard a card at random: Ogre Shaman deals 2 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397460</id>
+      <name>Orim, Samite Healer</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Legendary Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>{T}: Prevent the next 3 damage that would be dealt to target creature or player this turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Kaja Foglio</artist>
+      <num>21</num>
+      <text>{T}: Prevent the next 3 damage that would be dealt to target creature or player this turn.</text>
+    </mc>
+    <mc>
+      <id>397574</id>
+      <name>Overrun</name>
+      <cost>{2}{G}{G}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Creatures you control get +3/+3 and gain trample until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jeff Miracola</artist>
+      <num>185</num>
+      <text>Creatures you control get +3/+3 and gain trample until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397528</id>
+      <name>Pacifism</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Adam Rex</artist>
+      <num>22</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.</text>
+    </mc>
+    <mc>
+      <id>397600</id>
+      <name>Paladin en-Vec</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>First strike, protection from black and from red &lt;i&gt;(This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Randy Elliott</artist>
+      <num>23</num>
+      <text>First strike, protection from black and from red &lt;i&gt;(This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397575</id>
+      <name>Pandemonium</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever a creature enters the battlefield, that creature's controller may have it deal damage equal to its power to target creature or player of his or her choice.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Pete Venters</artist>
+      <num>149</num>
+      <text>Whenever a creature enters the battlefield, that creature's controller may have it deal damage equal to its power to target creature or player of his or her choice.</text>
+    </mc>
+    <mc>
+      <id>397408</id>
+      <name>Patchwork Gnomes</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Gnome</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Discard a card: Regenerate Patchwork Gnomes.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Mike Raabe</artist>
+      <num>229</num>
+      <text>Discard a card: Regenerate Patchwork Gnomes.</text>
+    </mc>
+    <mc>
+      <id>397430</id>
+      <name>Pegasus Stampede</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Buyback—Sacrifice a land. &lt;i&gt;(You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Put a 1/1 white Pegasus creature token with flying onto the battlefield.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Mark Zug</artist>
+      <num>24</num>
+      <text>Buyback—Sacrifice a land. &lt;i&gt;(You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Put a 1/1 white Pegasus creature token with flying onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397571</id>
+      <name>Phyrexian Hulk</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Matthew D. Wilson</artist>
+      <num>230</num>
+    </mc>
+    <mc>
+      <id>397425</id>
+      <name>Pine Barrens</name>
+      <type>Land</type>
+      <oracleText>Pine Barrens enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {G} to your mana pool. Pine Barrens deals 1 damage to you.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Rebecca Guay</artist>
+      <num>240</num>
+      <text>Pine Barrens enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {G} to your mana pool. Pine Barrens deals 1 damage to you.</text>
+    </mc>
+    <mc>
+      <id>397604</id>
+      <name>Provoke</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Untap target creature you don't control. That creature blocks this turn if able.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>186</num>
+      <text>Untap target creature you don't control. That creature blocks this turn if able.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397623</id>
+      <name>Rampant Growth</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Tom Kyffin</artist>
+      <num>187</num>
+      <text>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>397602</id>
+      <name>Rathi Dragon</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <oracleText>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice two Mountains.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Christopher Rush</artist>
+      <num>150</num>
+      <text>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice two Mountains.</text>
+    </mc>
+    <mc>
+      <id>397611</id>
+      <name>Rats of Rath</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Rat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>{B}: Destroy target artifact, creature, or land you control.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>John Matson</artist>
+      <num>111</num>
+      <text>{B}: Destroy target artifact, creature, or land you control.</text>
+    </mc>
+    <mc>
+      <id>397421</id>
+      <name>Reality Anchor</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature loses shadow until end of turn.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Randy Gallegos</artist>
+      <num>188</num>
+      <text>Target creature loses shadow until end of turn.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397423</id>
+      <name>Reanimate</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Robert Bliss</artist>
+      <num>112</num>
+      <text>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.</text>
+    </mc>
+    <mc>
+      <id>397441</id>
+      <name>Recurring Nightmare</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <oracleText>Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Jeff Laubenstein</artist>
+      <num>113</num>
+      <text>Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.</text>
+    </mc>
+    <mc>
+      <id>397573</id>
+      <name>Recycle</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>Skip your draw step.&lt;br&gt;Whenever you play a card, draw a card.&lt;br&gt;Your maximum hand size is two.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Phil Foglio</artist>
+      <num>189</num>
+      <text>Skip your draw step.&lt;br&gt;Whenever you play a card, draw a card.&lt;br&gt;Your maximum hand size is two.</text>
+    </mc>
+    <mc>
+      <id>397463</id>
+      <name>Renegade Warlord</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>First strike&lt;br&gt;Whenever Renegade Warlord attacks, each other attacking creature gets +1/+0 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Ron Spencer</artist>
+      <num>151</num>
+      <text>First strike&lt;br&gt;Whenever Renegade Warlord attacks, each other attacking creature gets +1/+0 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397644</id>
+      <name>Repentance</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target creature deals damage to itself equal to its power.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Ron Spencer</artist>
+      <num>25</num>
+      <text>Target creature deals damage to itself equal to its power.</text>
+    </mc>
+    <mc>
+      <id>397475</id>
+      <name>Revenant</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <oracleText>Flying&lt;br&gt;Revenant's power and toughness are each equal to the number of creature cards in your graveyard.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>114</num>
+      <text>Flying&lt;br&gt;Revenant's power and toughness are each equal to the number of creature cards in your graveyard.</text>
+    </mc>
+    <mc>
+      <id>397419</id>
+      <name>Rolling Thunder</name>
+      <cost>{X}{R}{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Richard Thomas</artist>
+      <num>152</num>
+      <text>Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.</text>
+    </mc>
+    <mc>
+      <id>397567</id>
+      <name>Rootbreaker Wurm</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Trample &lt;i&gt;(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Richard Kane Ferguson</artist>
+      <num>190</num>
+      <text>Trample &lt;i&gt;(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397580</id>
+      <name>Rootwalla</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Lizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Roger Raupp</artist>
+      <num>191</num>
+      <text>{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.</text>
+    </mc>
+    <mc>
+      <id>397536</id>
+      <name>Rootwater Depths</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {U} or {B} to your mana pool. Rootwater Depths doesn't untap during your next untap step.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Roger Raupp</artist>
+      <num>241</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {U} or {B} to your mana pool. Rootwater Depths doesn't untap during your next untap step.</text>
+    </mc>
+    <mc>
+      <id>397607</id>
+      <name>Rootwater Hunter</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Rootwater Hunter deals 1 damage to target creature or player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Brom</artist>
+      <num>63</num>
+      <text>{T}: Rootwater Hunter deals 1 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397628</id>
+      <name>Sabertooth Wyvern</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Drake</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Flying, first strike</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Keith Parkinson</artist>
+      <num>153</num>
+      <text>Flying, first strike</text>
+    </mc>
+    <mc>
+      <id>397590</id>
+      <name>Salt Flats</name>
+      <type>Land</type>
+      <oracleText>Salt Flats enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {B} to your mana pool. Salt Flats deals 1 damage to you.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Scott Kirschner</artist>
+      <num>242</num>
+      <text>Salt Flats enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {B} to your mana pool. Salt Flats deals 1 damage to you.</text>
+    </mc>
+    <mc>
+      <id>397464</id>
+      <name>Sandstone Warrior</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Human Soldier Warrior</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <oracleText>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;{R}: Sandstone Warrior gets +1/+0 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Stephen Daniele</artist>
+      <num>154</num>
+      <text>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;{R}: Sandstone Warrior gets +1/+0 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397586</id>
+      <name>Sarcomancy</name>
+      <cost>{B}</cost>
+      <type>Enchantment</type>
+      <oracleText>When Sarcomancy enters the battlefield, put a 2/2 black Zombie creature token onto the battlefield.&lt;br&gt;At the beginning of your upkeep, if there are no Zombies on the battlefield, Sarcomancy deals 1 damage to you.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daren Bader</artist>
+      <num>115</num>
+      <text>When Sarcomancy enters the battlefield, put a 2/2 black Zombie creature token onto the battlefield.&lt;br&gt;At the beginning of your upkeep, if there are no Zombies on the battlefield, Sarcomancy deals 1 damage to you.</text>
+    </mc>
+    <mc>
+      <id>397438</id>
+      <name>Scabland</name>
+      <type>Land</type>
+      <oracleText>Scabland enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {R} or {W} to your mana pool. Scabland deals 1 damage to you.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Andrew Robinson</artist>
+      <num>243</num>
+      <text>Scabland enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {R} or {W} to your mana pool. Scabland deals 1 damage to you.</text>
+    </mc>
+    <mc>
+      <id>397507</id>
+      <name>Screeching Harpy</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Harpy Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;{1}{B}: Regenerate Screeching Harpy.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Una Fricker</artist>
+      <num>116</num>
+      <text>Flying&lt;br&gt;{1}{B}: Regenerate Screeching Harpy.</text>
+    </mc>
+    <mc>
+      <id>397587</id>
+      <name>Scrivener</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Heather Hudson</artist>
+      <num>64</num>
+      <text>When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand.</text>
+    </mc>
+    <mc>
+      <id>397516</id>
+      <name>Sea Monster</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Serpent</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <oracleText>Sea Monster can't attack unless defending player controls an Island.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Daniel Gelon</artist>
+      <num>65</num>
+      <text>Sea Monster can't attack unless defending player controls an Island.</text>
+    </mc>
+    <mc>
+      <id>397530</id>
+      <name>Searing Touch</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <oracleText>Buyback {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Searing Touch deals 1 damage to target creature or player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>D. Alexander Gregory</artist>
+      <num>155</num>
+      <text>Buyback {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Searing Touch deals 1 damage to target creature or player.</text>
+    </mc>
+    <mc>
+      <id>397651</id>
+      <name>Seething Anger</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Target creature gets +3/+0 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Val Mayerik</artist>
+      <num>156</num>
+      <text>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Target creature gets +3/+0 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397639</id>
+      <name>Selenia, Dark Angel</name>
+      <cost>{3}{W}{B}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;Pay 2 life: Return Selenia, Dark Angel to its owner's hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Matthew D. Wilson</artist>
+      <num>210</num>
+      <text>Flying&lt;br&gt;Pay 2 life: Return Selenia, Dark Angel to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>397652</id>
+      <name>Serpent Warrior</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Snake Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>When Serpent Warrior enters the battlefield, you lose 3 life.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Ron Spencer</artist>
+      <num>117</num>
+      <text>When Serpent Warrior enters the battlefield, you lose 3 life.</text>
+    </mc>
+    <mc>
+      <id>397403</id>
+      <name>Shackles</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.&lt;br&gt;{W}: Return Shackles to its owner's hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Heather Hudson</artist>
+      <num>26</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.&lt;br&gt;{W}: Return Shackles to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>397405</id>
+      <name>Shadow Rift</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature gains shadow until end of turn. &lt;i&gt;(It can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Adam Rex</artist>
+      <num>66</num>
+      <text>Target creature gains shadow until end of turn. &lt;i&gt;(It can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397537</id>
+      <name>Shadowstorm</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <oracleText>Shadowstorm deals 2 damage to each creature with shadow.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Adam Rex</artist>
+      <num>157</num>
+      <text>Shadowstorm deals 2 damage to each creature with shadow.</text>
+    </mc>
+    <mc>
+      <id>397648</id>
+      <name>Shaman en-Kor</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kor Cleric Shaman</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <oracleText>{0}: The next 1 damage that would be dealt to Shaman en-Kor this turn is dealt to target creature you control instead.&lt;br&gt;{1}{W}: The next time a source of your choice would deal damage to target creature this turn, that damage is dealt to Shaman en-Kor instead.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Jeff Miracola</artist>
+      <num>27</num>
+      <text>{0}: The next 1 damage that would be dealt to Shaman en-Kor this turn is dealt to target creature you control instead.&lt;br&gt;{1}{W}: The next time a source of your choice would deal damage to target creature this turn, that damage is dealt to Shaman en-Kor instead.</text>
+    </mc>
+    <mc>
+      <id>397414</id>
+      <name>Shard Phoenix</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Phoenix</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;Sacrifice Shard Phoenix: Shard Phoenix deals 2 damage to each creature without flying.&lt;br&gt;{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Parente</artist>
+      <num>158</num>
+      <text>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;Sacrifice Shard Phoenix: Shard Phoenix deals 2 damage to each creature without flying.&lt;br&gt;{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.</text>
+    </mc>
+    <mc>
+      <id>397429</id>
+      <name>Shatter</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target artifact.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Jason Alexander Behnke</artist>
+      <num>159</num>
+      <text>Destroy target artifact.</text>
+    </mc>
+    <mc>
+      <id>397514</id>
+      <name>Sift</name>
+      <cost>{3}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Draw three cards, then discard a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Pete Venters</artist>
+      <num>67</num>
+      <text>Draw three cards, then discard a card.</text>
+    </mc>
+    <mc>
+      <id>397484</id>
+      <name>Silver Wyvern</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;{U}: Change the target of target spell or ability that targets only Silver Wyvern. The new target must be a creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Colin MacNeil</artist>
+      <num>68</num>
+      <text>Flying&lt;br&gt;{U}: Change the target of target spell or ability that targets only Silver Wyvern. The new target must be a creature.</text>
+    </mc>
+    <mc>
+      <id>397424</id>
+      <name>Skyshaper</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <oracleText>Sacrifice Skyshaper: Creatures you control gain flying until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Donato Giancola</artist>
+      <num>231</num>
+      <text>Sacrifice Skyshaper: Creatures you control gain flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397435</id>
+      <name>Skyshroud Elf</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Add {G} to your mana pool.&lt;br&gt;{1}: Add {R} or {W} to your mana pool.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Jeff Miracola</artist>
+      <num>192</num>
+      <text>{T}: Add {G} to your mana pool.&lt;br&gt;{1}: Add {R} or {W} to your mana pool.</text>
+    </mc>
+    <mc>
+      <id>397616</id>
+      <name>Skyshroud Forest</name>
+      <type>Land</type>
+      <oracleText>Skyshroud Forest enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {G} or {U} to your mana pool. Skyshroud Forest deals 1 damage to you.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Roger Raupp</artist>
+      <num>244</num>
+      <text>Skyshroud Forest enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {G} or {U} to your mana pool. Skyshroud Forest deals 1 damage to you.</text>
+    </mc>
+    <mc>
+      <id>397589</id>
+      <name>Skyshroud Troll</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Troll Giant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>{1}{G}: Regenerate Skyshroud Troll.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Matthew D. Wilson</artist>
+      <num>193</num>
+      <text>{1}{G}: Regenerate Skyshroud Troll.</text>
+    </mc>
+    <mc>
+      <id>397655</id>
+      <name>Skyshroud Vampire</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Flying&lt;br&gt;Discard a creature card: Skyshroud Vampire gets +2/+2 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Gary Leach</artist>
+      <num>118</num>
+      <text>Flying&lt;br&gt;Discard a creature card: Skyshroud Vampire gets +2/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397585</id>
+      <name>Sliver Queen</name>
+      <cost>{W}{U}{B}{R}{G}</cost>
+      <type>Legendary Creature - Sliver</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <oracleText>{2}: Put a 1/1 colorless Sliver creature token onto the battlefield.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ron Spencer</artist>
+      <num>211</num>
+      <text>{2}: Put a 1/1 colorless Sliver creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397527</id>
+      <name>Smite</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target blocked creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Daren Bader</artist>
+      <num>28</num>
+      <text>Destroy target blocked creature.</text>
+    </mc>
+    <mc>
+      <id>397487</id>
+      <name>Soltari Champion</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Soltari Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Whenever Soltari Champion attacks, other creatures you control get +1/+1 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Adam Rex</artist>
+      <num>29</num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Whenever Soltari Champion attacks, other creatures you control get +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397650</id>
+      <name>Soltari Guerrillas</name>
+      <cost>{2}{R}{W}</cost>
+      <type>Creature - Soltari Soldier</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;{0}: The next time Soltari Guerrillas would deal combat damage to an opponent this turn, it deals that damage to target creature instead.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Val Mayerik</artist>
+      <num>212</num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;{0}: The next time Soltari Guerrillas would deal combat damage to an opponent this turn, it deals that damage to target creature instead.</text>
+    </mc>
+    <mc>
+      <id>397483</id>
+      <name>Soltari Lancer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Soltari Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Soltari Lancer has first strike as long as it's attacking.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Matthew D. Wilson</artist>
+      <num>30</num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Soltari Lancer has first strike as long as it's attacking.</text>
+    </mc>
+    <mc>
+      <id>397592</id>
+      <name>Soltari Monk</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Soltari Monk Cleric</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Protection from black&lt;br&gt;Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Janet Aulisio</artist>
+      <num>31</num>
+      <text>Protection from black&lt;br&gt;Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397657</id>
+      <name>Soltari Priest</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Soltari Cleric</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Protection from red&lt;br&gt;Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Janet Aulisio</artist>
+      <num>32</num>
+      <text>Protection from red&lt;br&gt;Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397452</id>
+      <name>Soltari Trooper</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Soltari Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Whenever Soltari Trooper attacks, it gets +1/+1 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>33</num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Whenever Soltari Trooper attacks, it gets +1/+1 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397501</id>
+      <name>Spell Blast</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <oracleText>Counter target spell with converted mana cost X. &lt;i&gt;(For example, if that spell's mana cost is {3}{U}{U}, X is 5.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Steve Luke</artist>
+      <num>69</num>
+      <text>Counter target spell with converted mana cost X. &lt;i&gt;(For example, if that spell's mana cost is {3}{U}{U}, X is 5.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397489</id>
+      <name>Spellshock</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <oracleText>Whenever a player casts a spell, Spellshock deals 2 damage to that player.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Thomas M. Baxa</artist>
+      <num>160</num>
+      <text>Whenever a player casts a spell, Spellshock deals 2 damage to that player.</text>
+    </mc>
+    <mc>
+      <id>397406</id>
+      <name>Spike Breeder</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Spike</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Spike Breeder enters the battlefield with three +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Breeder: Put a +1/+1 counter on target creature.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Breeder: Put a 1/1 green Spike creature token onto the battlefield.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Adam Rex</artist>
+      <num>194</num>
+      <text>Spike Breeder enters the battlefield with three +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Breeder: Put a +1/+1 counter on target creature.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Breeder: Put a 1/1 green Spike creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397457</id>
+      <name>Spike Colony</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Spike</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Spike Colony enters the battlefield with four +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Douglas Shuler</artist>
+      <num>195</num>
+      <text>Spike Colony enters the battlefield with four +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.</text>
+    </mc>
+    <mc>
+      <id>397486</id>
+      <name>Spike Feeder</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Spike</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Spike Feeder enters the battlefield with two +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.&lt;br&gt;Remove a +1/+1 counter from Spike Feeder: You gain 2 life.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Heather Hudson</artist>
+      <num>196</num>
+      <text>Spike Feeder enters the battlefield with two +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.&lt;br&gt;Remove a +1/+1 counter from Spike Feeder: You gain 2 life.</text>
+    </mc>
+    <mc>
+      <id>397591</id>
+      <name>Spike Hatcher</name>
+      <cost>{6}{G}</cost>
+      <type>Creature - Spike</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Spike Hatcher enters the battlefield with six +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on target creature.&lt;br&gt;{1}, Remove a +1/+1 counter from Spike Hatcher: Regenerate Spike Hatcher.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Stephen Daniele</artist>
+      <num>197</num>
+      <text>Spike Hatcher enters the battlefield with six +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on target creature.&lt;br&gt;{1}, Remove a +1/+1 counter from Spike Hatcher: Regenerate Spike Hatcher.</text>
+    </mc>
+    <mc>
+      <id>397609</id>
+      <name>Spinal Graft</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;When enchanted creature becomes the target of a spell or ability, destroy that creature. It can't be regenerated.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Ron Spencer</artist>
+      <num>119</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;When enchanted creature becomes the target of a spell or ability, destroy that creature. It can't be regenerated.</text>
+    </mc>
+    <mc>
+      <id>397578</id>
+      <name>Spined Sliver</name>
+      <cost>{R}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Ron Spencer</artist>
+      <num>213</num>
+      <text>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.</text>
+    </mc>
+    <mc>
+      <id>397454</id>
+      <name>Spined Wurm</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Keith Parkinson</artist>
+      <num>198</num>
+    </mc>
+    <mc>
+      <id>397638</id>
+      <name>Spirit en-Kor</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Kor Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;{0}: The next 1 damage that would be dealt to Spirit en-Kor this turn is dealt to target creature you control instead.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>John Matson</artist>
+      <num>34</num>
+      <text>Flying&lt;br&gt;{0}: The next 1 damage that would be dealt to Spirit en-Kor this turn is dealt to target creature you control instead.</text>
+    </mc>
+    <mc>
+      <id>397646</id>
+      <name>Spirit Mirror</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <oracleText>At the beginning of your upkeep, if there are no Reflection tokens on the battlefield, put a 2/2 white Reflection creature token onto the battlefield.&lt;br&gt;{0}: Destroy target Reflection.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>D. Alexander Gregory</artist>
+      <num>35</num>
+      <text>At the beginning of your upkeep, if there are no Reflection tokens on the battlefield, put a 2/2 white Reflection creature token onto the battlefield.&lt;br&gt;{0}: Destroy target Reflection.</text>
+    </mc>
+    <mc>
+      <id>397642</id>
+      <name>Spitting Hydra</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Hydra</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Spitting Hydra enters the battlefield with four +1/+1 counters on it.&lt;br&gt;{1}{R}, Remove a +1/+1 counter from Spitting Hydra: Spitting Hydra deals 1 damage to target creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Daren Bader</artist>
+      <num>161</num>
+      <text>Spitting Hydra enters the battlefield with four +1/+1 counters on it.&lt;br&gt;{1}{R}, Remove a +1/+1 counter from Spitting Hydra: Spitting Hydra deals 1 damage to target creature.</text>
+    </mc>
+    <mc>
+      <id>397410</id>
+      <name>Stalking Stones</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that's still a land. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Stephen Daniele</artist>
+      <num>245</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that's still a land. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397627</id>
+      <name>Standing Troops</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <oracleText>Vigilance</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Daren Bader</artist>
+      <num>36</num>
+      <text>Vigilance</text>
+    </mc>
+    <mc>
+      <id>397432</id>
+      <name>Starke of Rath</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Legendary Creature - Human Rogue</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{T}: Destroy target artifact or creature. That permanent's controller gains control of Starke of Rath. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Dan Frazier</artist>
+      <num>162</num>
+      <text>{T}: Destroy target artifact or creature. That permanent's controller gains control of Starke of Rath. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397552</id>
+      <name>Staunch Defenders</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <oracleText>When Staunch Defenders enters the battlefield, you gain 4 life.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Mark Poole</artist>
+      <num>37</num>
+      <text>When Staunch Defenders enters the battlefield, you gain 4 life.</text>
+    </mc>
+    <mc>
+      <id>397450</id>
+      <name>Stronghold Assassin</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Zombie Assassin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>{T}, Sacrifice a creature: Destroy target nonblack creature.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Matthew D. Wilson</artist>
+      <num>120</num>
+      <text>{T}, Sacrifice a creature: Destroy target nonblack creature.</text>
+    </mc>
+    <mc>
+      <id>397466</id>
+      <name>Stun</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <oracleText>Target creature can't block this turn.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>163</num>
+      <text>Target creature can't block this turn.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397535</id>
+      <name>Survival of the Fittest</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <oracleText>{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Pete Venters</artist>
+      <num>199</num>
+      <text>{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>397462</id>
+      <name>Telethopter</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Thopter</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <oracleText>Tap an untapped creature you control: Telethopter gains flying until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Thomas M. Baxa</artist>
+      <num>232</num>
+      <text>Tap an untapped creature you control: Telethopter gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397630</id>
+      <name>Thalakos Drifters</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Thalakos</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>Discard a card: Thalakos Drifters gains shadow until end of turn. &lt;i&gt;(It can block or be blocked by only creatures with shadow.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Andrew Robinson</artist>
+      <num>70</num>
+      <text>Discard a card: Thalakos Drifters gains shadow until end of turn. &lt;i&gt;(It can block or be blocked by only creatures with shadow.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397446</id>
+      <name>Thalakos Lowlands</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap step.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Jeff A. Menges</artist>
+      <num>246</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap step.</text>
+    </mc>
+    <mc>
+      <id>397474</id>
+      <name>Thalakos Scout</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Thalakos Soldier Scout</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Discard a card: Return Thalakos Scout to its owner's hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Daren Bader</artist>
+      <num>71</num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;Discard a card: Return Thalakos Scout to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>397525</id>
+      <name>Thalakos Seer</name>
+      <cost>{U}{U}</cost>
+      <type>Creature - Thalakos Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;When Thalakos Seer leaves the battlefield, draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Ron Spencer</artist>
+      <num>72</num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;&lt;br&gt;When Thalakos Seer leaves the battlefield, draw a card.</text>
+    </mc>
+    <mc>
+      <id>397624</id>
+      <name>Thopter Squadron</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Thopter</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <oracleText>Flying&lt;br&gt;Thopter Squadron enters the battlefield with three +1/+1 counters on it.&lt;br&gt;{1}, Remove a +1/+1 counter from Thopter Squadron: Put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. Activate this ability only any time you could cast a sorcery.&lt;br&gt;{1}, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate this ability only any time you could cast a sorcery.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Doug Chaffee</artist>
+      <num>233</num>
+      <text>Flying&lt;br&gt;Thopter Squadron enters the battlefield with three +1/+1 counters on it.&lt;br&gt;{1}, Remove a +1/+1 counter from Thopter Squadron: Put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. Activate this ability only any time you could cast a sorcery.&lt;br&gt;{1}, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate this ability only any time you could cast a sorcery.</text>
+    </mc>
+    <mc>
+      <id>397393</id>
+      <name>Thrull Surgeon</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Thrull</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>rk post</artist>
+      <num>121</num>
+      <text>{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.</text>
+    </mc>
+    <mc>
+      <id>397608</id>
+      <name>Time Ebb</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Put target creature on top of its owner's library.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Thomas M. Baxa</artist>
+      <num>73</num>
+      <text>Put target creature on top of its owner's library.</text>
+    </mc>
+    <mc>
+      <id>397391</id>
+      <name>Time Warp</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Sorcery</type>
+      <oracleText>Target player takes an extra turn after this one.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Pete Venters</artist>
+      <num>74</num>
+      <text>Target player takes an extra turn after this one.</text>
+    </mc>
+    <mc>
+      <id>397576</id>
+      <name>Tradewind Rider</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <oracleText>Flying&lt;br&gt;{T}, Tap two untapped creatures you control: Return target permanent to its owner's hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>John Matson</artist>
+      <num>75</num>
+      <text>Flying&lt;br&gt;{T}, Tap two untapped creatures you control: Return target permanent to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>397448</id>
+      <name>Trained Armodon</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Gary Leach</artist>
+      <num>200</num>
+    </mc>
+    <mc>
+      <id>397519</id>
+      <name>Tranquility</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy all enchantments.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Margaret Organ-Kean</artist>
+      <num>201</num>
+      <text>Destroy all enchantments.</text>
+    </mc>
+    <mc>
+      <id>397420</id>
+      <name>Twitch</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <oracleText>You may tap or untap target artifact, creature, or land.&lt;br&gt;Draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>DiTerlizzi</artist>
+      <num>76</num>
+      <text>You may tap or untap target artifact, creature, or land.&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397477</id>
+      <name>Vampire Hounds</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Vampire Hound</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Discard a creature card: Vampire Hounds gets +2/+2 until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Kev Walker</artist>
+      <num>122</num>
+      <text>Discard a creature card: Vampire Hounds gets +2/+2 until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397451</id>
+      <name>Vec Townships</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {G} or {W} to your mana pool. Vec Townships doesn't untap during your next untap step.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Eric David Anderson</artist>
+      <num>247</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {G} or {W} to your mana pool. Vec Townships doesn't untap during your next untap step.</text>
+    </mc>
+    <mc>
+      <id>397577</id>
+      <name>Verdant Force</name>
+      <cost>{5}{G}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <oracleText>At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>DiTerlizzi</artist>
+      <num>202</num>
+      <text>At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397496</id>
+      <name>Verdant Touch</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Target land becomes a 2/2 creature that's still a land. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>M. W. Kaluta &amp; DiTerlizzi</artist>
+      <num>203</num>
+      <text>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Target land becomes a 2/2 creature that's still a land. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;</text>
+    </mc>
+    <mc>
+      <id>397538</id>
+      <name>Verdigris</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <oracleText>Destroy target artifact.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Zina Saunders</artist>
+      <num>204</num>
+      <text>Destroy target artifact.</text>
+    </mc>
+    <mc>
+      <id>397504</id>
+      <name>Vhati il-Dal</name>
+      <cost>{2}{B}{G}</cost>
+      <type>Legendary Creature - Human Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <oracleText>{T}: Until end of turn, target creature has base power 1 or base toughness 1.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Ron Spencer</artist>
+      <num>214</num>
+      <text>{T}: Until end of turn, target creature has base power 1 or base toughness 1.</text>
+    </mc>
+    <mc>
+      <id>397416</id>
+      <name>Victual Sliver</name>
+      <cost>{G}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>All Slivers have "{2}, Sacrifice this permanent: You gain 4 life."</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Terese Nielsen</artist>
+      <num>215</num>
+      <text>All Slivers have "{2}, Sacrifice this permanent: You gain 4 life."</text>
+    </mc>
+    <mc>
+      <id>397637</id>
+      <name>Volrath's Curse</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block, and its activated abilities can't be activated. That creature's controller may sacrifice a permanent for that player to ignore this effect until end of turn.&lt;br&gt;{1}{U}: Return Volrath's Curse to its owner's hand.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Daren Bader</artist>
+      <num>77</num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block, and its activated abilities can't be activated. That creature's controller may sacrifice a permanent for that player to ignore this effect until end of turn.&lt;br&gt;{1}{U}: Return Volrath's Curse to its owner's hand.</text>
+    </mc>
+    <mc>
+      <id>397656</id>
+      <name>Volrath's Laboratory</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <oracleText>As Volrath's Laboratory enters the battlefield, choose a color and a creature type.&lt;br&gt;{5}, {T}: Put a 2/2 creature token of the chosen color and type onto the battlefield.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Brom</artist>
+      <num>234</num>
+      <text>As Volrath's Laboratory enters the battlefield, choose a color and a creature type.&lt;br&gt;{5}, {T}: Put a 2/2 creature token of the chosen color and type onto the battlefield.</text>
+    </mc>
+    <mc>
+      <id>397619</id>
+      <name>Volrath's Stronghold</name>
+      <type>Legendary Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{B}, {T}: Put target creature card from your graveyard on top of your library.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Kev Walker</artist>
+      <num>248</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{B}, {T}: Put target creature card from your graveyard on top of your library.</text>
+    </mc>
+    <mc>
+      <id>397479</id>
+      <name>Wall of Blossoms</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Plant Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <oracleText>Defender&lt;br&gt;When Wall of Blossoms enters the battlefield, draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Heather Hudson</artist>
+      <num>205</num>
+      <text>Defender&lt;br&gt;When Wall of Blossoms enters the battlefield, draw a card.</text>
+    </mc>
+    <mc>
+      <id>397560</id>
+      <name>Wall of Diffusion</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Wall of Diffusion can block creatures with shadow as though Wall of Diffusion had shadow.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>DiTerlizzi</artist>
+      <num>164</num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Wall of Diffusion can block creatures with shadow as though Wall of Diffusion had shadow.</text>
+    </mc>
+    <mc>
+      <id>397439</id>
+      <name>Wall of Essence</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Whenever Wall of Essence is dealt combat damage, you gain that much life.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Adam Rex</artist>
+      <num>38</num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Whenever Wall of Essence is dealt combat damage, you gain that much life.</text>
+    </mc>
+    <mc>
+      <id>397551</id>
+      <name>Wall of Souls</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Whenever Wall of Souls is dealt combat damage, it deals that much damage to target opponent.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>John Matson</artist>
+      <num>123</num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Whenever Wall of Souls is dealt combat damage, it deals that much damage to target opponent.</text>
+    </mc>
+    <mc>
+      <id>397402</id>
+      <name>Warrior en-Kor</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Kor Warrior Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Stephen Daniele</artist>
+      <num>39</num>
+      <text>{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.</text>
+    </mc>
+    <mc>
+      <id>397531</id>
+      <name>Wasteland</name>
+      <type>Land</type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}, Sacrifice Wasteland: Destroy target nonbasic land.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Una Fricker</artist>
+      <num>249</num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}, Sacrifice Wasteland: Destroy target nonbasic land.</text>
+    </mc>
+    <mc>
+      <id>397593</id>
+      <name>Wayward Soul</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <oracleText>Flying&lt;br&gt;{U}: Put Wayward Soul on top of its owner's library.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>M. W. Kaluta &amp; DiTerlizzi</artist>
+      <num>78</num>
+      <text>Flying&lt;br&gt;{U}: Put Wayward Soul on top of its owner's library.</text>
+    </mc>
+    <mc>
+      <id>397548</id>
+      <name>Whispers of the Muse</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <oracleText>Buyback {5} &lt;i&gt;(You may pay an additional {5} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Draw a card.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Quinton Hoover</artist>
+      <num>79</num>
+      <text>Buyback {5} &lt;i&gt;(You may pay an additional {5} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt;&lt;br&gt;Draw a card.</text>
+    </mc>
+    <mc>
+      <id>397478</id>
+      <name>Wind Dancer</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Faerie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Target creature gains flying until end of turn.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Uncommon</rarity>
+      <artist>Susan Van Camp</artist>
+      <num>80</num>
+      <text>Flying&lt;br&gt;{T}: Target creature gains flying until end of turn.</text>
+    </mc>
+    <mc>
+      <id>397626</id>
+      <name>Wind Drake</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <oracleText>Flying</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Greg Simanson</artist>
+      <num>81</num>
+      <text>Flying</text>
+    </mc>
+    <mc>
+      <id>397606</id>
+      <name>Winds of Rath</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Sorcery</type>
+      <oracleText>Destroy all creatures that aren't enchanted. They can't be regenerated.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Drew Tucker</artist>
+      <num>40</num>
+      <text>Destroy all creatures that aren't enchanted. They can't be regenerated.</text>
+    </mc>
+    <mc>
+      <id>397579</id>
+      <name>Winged Sliver</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>All Sliver creatures have flying.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Anthony S. Waters</artist>
+      <num>82</num>
+      <text>All Sliver creatures have flying.</text>
+    </mc>
+    <mc>
+      <id>397455</id>
+      <name>Wood Sage</name>
+      <cost>{G}{U}</cost>
+      <type>Creature - Human Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <oracleText>{T}: Name a creature card. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Rare</rarity>
+      <artist>Parente</artist>
+      <num>216</num>
+      <text>{T}: Name a creature card. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.</text>
+    </mc>
+    <mc>
+      <id>397413</id>
+      <name>Youthful Knight</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <oracleText>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;</oracleText>
+      <edition>Tempest Remastered</edition>
+      <rarity>Common</rarity>
+      <artist>Rebecca Guay</artist>
+      <num>41</num>
+      <text>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;</text>
+    </mc>
+  </list>
+</cards>

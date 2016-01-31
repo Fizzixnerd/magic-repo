@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Sliver Wall 1</name>
+  <key>Decks/Sliver Wall 1</key>
+  <comment></comment>
+  <type></type>
+  <properties>
+    <property name="virtual" value="true"/>
+  </properties>
+  <list>
+  </list>
+</cards>
