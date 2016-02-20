@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Sliver Control 1-sideboard</name>
+  <key>Decks/Sliver Control 1-sideboard</key>
+  <comment></comment>
+  <type></type>
+  <properties>
+    <property name="virtual" value="true"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>109706</id>
+        <name>Harmonic Sliver</name>
+        <edition>Time Spiral</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/Sliver Control 1-sideboard</location>
+      <date>Mon Feb 01 10:44:46 EST 2016</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>111085</id>
+        <name>Telekinetic Sliver</name>
+        <edition>Time Spiral</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/Sliver Control 1-sideboard</location>
+      <date>Mon Feb 01 10:45:33 EST 2016</date>
+    </mcp>
+  </list>
+</cards>

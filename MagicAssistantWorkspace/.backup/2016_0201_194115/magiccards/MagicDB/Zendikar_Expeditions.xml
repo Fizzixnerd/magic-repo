@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Zendikar_Expeditions</name>
+  <key>Zendikar_Expeditions</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>405092</id>
+      <name>Arid Mesa</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Yee</artist>
+      <num>24</num>
+      <text>{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>405093</id>
+      <name>Blood Crypt</name>
+      <type>Land - Swamp Mountain</type>
+      <oracleText>&lt;i&gt;({T}: Add {B} or {R} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Min Yum</artist>
+      <num>8</num>
+      <text>&lt;i&gt;({T}: Add {B} or {R} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>405094</id>
+      <name>Bloodstained Mire</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Véronique Meignaud</artist>
+      <num>18</num>
+      <text>{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>405095</id>
+      <name>Breeding Pool</name>
+      <type>Land - Forest Island</type>
+      <oracleText>&lt;i&gt;({T}: Add {G} or {U} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Noah Bradley</artist>
+      <num>15</num>
+      <text>&lt;i&gt;({T}: Add {G} or {U} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>405096</id>
+      <name>Canopy Vista</name>
+      <type>Land - Forest Plains</type>
+      <oracleText>&lt;i&gt;({T}: Add {G} or {W} to your mana pool.)&lt;/i&gt;&lt;br&gt;Canopy Vista enters the battlefield tapped unless you control two or more basic lands.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Titus Lunter</artist>
+      <num>5</num>
+      <text>&lt;i&gt;({T}: Add {G} or {W} to your mana pool.)&lt;/i&gt;&lt;br&gt;Canopy Vista enters the battlefield tapped unless you control two or more basic lands.</text>
+    </mc>
+    <mc>
+      <id>405097</id>
+      <name>Cinder Glade</name>
+      <type>Land - Mountain Forest</type>
+      <oracleText>&lt;i&gt;({T}: Add {R} or {G} to your mana pool.)&lt;/i&gt;&lt;br&gt;Cinder Glade enters the battlefield tapped unless you control two or more basic lands.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Titus Lunter</artist>
+      <num>4</num>
+      <text>&lt;i&gt;({T}: Add {R} or {G} to your mana pool.)&lt;/i&gt;&lt;br&gt;Cinder Glade enters the battlefield tapped unless you control two or more basic lands.</text>
+    </mc>
+    <mc>
+      <id>405098</id>
+      <name>Flooded Strand</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Véronique Meignaud</artist>
+      <num>16</num>
+      <text>{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>405099</id>
+      <name>Godless Shrine</name>
+      <type>Land - Plains Swamp</type>
+      <oracleText>&lt;i&gt;({T}: Add {W} or {B} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Noah Bradley</artist>
+      <num>11</num>
+      <text>&lt;i&gt;({T}: Add {W} or {B} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>405100</id>
+      <name>Hallowed Fountain</name>
+      <type>Land - Plains Island</type>
+      <oracleText>&lt;i&gt;({T}: Add {W} or {U} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, Hallowed Fountain enters the battlefield tapped.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Min Yum</artist>
+      <num>6</num>
+      <text>&lt;i&gt;({T}: Add {W} or {U} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, Hallowed Fountain enters the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>405101</id>
+      <name>Marsh Flats</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Yee</artist>
+      <num>21</num>
+      <text>{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>405102</id>
+      <name>Misty Rainforest</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Yee</artist>
+      <num>25</num>
+      <text>{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>405103</id>
+      <name>Overgrown Tomb</name>
+      <type>Land - Swamp Forest</type>
+      <oracleText>&lt;i&gt;({T}: Add {B} or {G} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Noah Bradley</artist>
+      <num>13</num>
+      <text>&lt;i&gt;({T}: Add {B} or {G} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>405104</id>
+      <name>Polluted Delta</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Véronique Meignaud</artist>
+      <num>17</num>
+      <text>{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>405105</id>
+      <name>Prairie Stream</name>
+      <type>Land - Plains Island</type>
+      <oracleText>&lt;i&gt;({T}: Add {W} or {U} to your mana pool.)&lt;/i&gt;&lt;br&gt;Prairie Stream enters the battlefield tapped unless you control two or more basic lands.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Titus Lunter</artist>
+      <num>1</num>
+      <text>&lt;i&gt;({T}: Add {W} or {U} to your mana pool.)&lt;/i&gt;&lt;br&gt;Prairie Stream enters the battlefield tapped unless you control two or more basic lands.</text>
+    </mc>
+    <mc>
+      <id>405106</id>
+      <name>Sacred Foundry</name>
+      <type>Land - Mountain Plains</type>
+      <oracleText>&lt;i&gt;({T}: Add {R} or {W} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Noah Bradley</artist>
+      <num>14</num>
+      <text>&lt;i&gt;({T}: Add {R} or {W} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>405107</id>
+      <name>Scalding Tarn</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Yee</artist>
+      <num>22</num>
+      <text>{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>405108</id>
+      <name>Smoldering Marsh</name>
+      <type>Land - Swamp Mountain</type>
+      <oracleText>&lt;i&gt;({T}: Add {B} or {R} to your mana pool.)&lt;/i&gt;&lt;br&gt;Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Titus Lunter</artist>
+      <num>3</num>
+      <text>&lt;i&gt;({T}: Add {B} or {R} to your mana pool.)&lt;/i&gt;&lt;br&gt;Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.</text>
+    </mc>
+    <mc>
+      <id>405109</id>
+      <name>Steam Vents</name>
+      <type>Land - Island Mountain</type>
+      <oracleText>&lt;i&gt;({T}: Add {U} or {R} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Noah Bradley</artist>
+      <num>12</num>
+      <text>&lt;i&gt;({T}: Add {U} or {R} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>405110</id>
+      <name>Stomping Ground</name>
+      <type>Land - Mountain Forest</type>
+      <oracleText>&lt;i&gt;({T}: Add {R} or {G} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Min Yum</artist>
+      <num>9</num>
+      <text>&lt;i&gt;({T}: Add {R} or {G} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>405111</id>
+      <name>Sunken Hollow</name>
+      <type>Land - Island Swamp</type>
+      <oracleText>&lt;i&gt;({T}: Add {U} or {B} to your mana pool.)&lt;/i&gt;&lt;br&gt;Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Titus Lunter</artist>
+      <num>2</num>
+      <text>&lt;i&gt;({T}: Add {U} or {B} to your mana pool.)&lt;/i&gt;&lt;br&gt;Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.</text>
+    </mc>
+    <mc>
+      <id>405112</id>
+      <name>Temple Garden</name>
+      <type>Land - Forest Plains</type>
+      <oracleText>&lt;i&gt;({T}: Add {G} or {W} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Min Yum</artist>
+      <num>10</num>
+      <text>&lt;i&gt;({T}: Add {G} or {W} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>405113</id>
+      <name>Verdant Catacombs</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Ryan Yee</artist>
+      <num>23</num>
+      <text>{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>405114</id>
+      <name>Watery Grave</name>
+      <type>Land - Island Swamp</type>
+      <oracleText>&lt;i&gt;({T}: Add {U} or {B} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Min Yum</artist>
+      <num>7</num>
+      <text>&lt;i&gt;({T}: Add {U} or {B} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.</text>
+    </mc>
+    <mc>
+      <id>405115</id>
+      <name>Windswept Heath</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Véronique Meignaud</artist>
+      <num>20</num>
+      <text>{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+    <mc>
+      <id>405116</id>
+      <name>Wooded Foothills</name>
+      <type>Land</type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.</oracleText>
+      <edition>Zendikar Expeditions</edition>
+      <rarity>Mythic Rare</rarity>
+      <artist>Véronique Meignaud</artist>
+      <num>19</num>
+      <text>{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.</text>
+    </mc>
+  </list>
+</cards>
